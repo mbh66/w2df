@@ -28,13 +28,13 @@ The site is a public register. You can look things up, add something you know ab
 
 **If you are looking in from outside.** Ward 2 covers six settlements and the farms around them, with two racial histories and a common future. Whether you are with the municipality, a provincial department, a funder, or a partner organisation, this site shows the ward as a whole.
 
-## The eight areas
+## The three spheres of life
 
-Everything on the site belongs to one of eight areas of valley life, in three groups:
+Everything on the site belongs to one of eight areas of valley life, grouped into three spheres:
 
-1. **Working the land and looking after it.** [[economic-life/farmers-land-water/index|Farmers, Land & Water]] · [[economic-life/business-tourism/index|Business & Tourism]]
-2. **Living together and looking after each other.** [[rights-state/governance/index|Governance]] · [[rights-state/residents-association/index|Residents Association]] · [[rights-state/community-care/index|Community Care]]
-3. **Learning what matters and passing it on.** [[spiritual-cultural-life/education/index|Education]] · [[spiritual-cultural-life/sport-heritage-arts-culture/index|Sport, Heritage, Arts & Culture]] · [[spiritual-cultural-life/faith-communities/index|Faith Communities]]
+1. **[[economic/index|Economic]]: working the land and looking after it.** [[economic/farmers-land-water/index|Farmers, Land & Water]] · [[economic/business-tourism/index|Business & Tourism]]
+2. **[[civic/index|Civic]]: living together and looking after each other.** [[civic/governance/index|Governance]] · [[civic/residents-association/index|Residents Association]] · [[civic/community-care/index|Community Care]]
+3. **[[cultural/index|Cultural]]: learning what matters and passing it on.** [[cultural/education/index|Education]] · [[cultural/sport-heritage-arts-culture/index|Sport, Heritage, Arts & Culture]] · [[cultural/faith-communities/index|Faith Communities]]
 
 Two themes run through every area: youth and environment. Look for the tags on each entry to see what is happening for young people and for the natural world, wherever it sits.
 
@@ -58,6 +58,6 @@ In 2038, Genadendal will mark 300 years since the first Moravian mission in Sout
 
 - **Add an entry.** See [[how-to-submit|How to Submit]].
 - **Ask a question.** [[contact|Contact the moderators]].
-- **Join the Forum.** The Ward 2 Development Forum meets every two months. Dates and minutes are on the [[rights-state/governance/minutes/index|Forum Minutes]] page.
+- **Join the Forum.** The Ward 2 Development Forum meets every two months. Dates and minutes are on the [[civic/governance/minutes/index|Forum Minutes]] page.
 
 *Ward 2 covers Genadendal, Greyton, Heuwelkroon, Bereaville, Voorstekraal, Boschmanskloof, and Farm 39, along with the surrounding farms in the Riviersonderend valley.*

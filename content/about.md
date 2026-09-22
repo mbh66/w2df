@@ -25,11 +25,11 @@ This site is a public register of what is happening in the ward. Each entry show
 
 ## How the site is organised
 
-Every entry belongs to one of eight categories. The categories sit in three groups, taken from Rudolf Steiner's idea of the threefold social order. Each group has its own guiding principle:
+Every entry belongs to one of eight categories. The categories are grouped into three spheres of life, and each sphere has its own guiding principle:
 
-- [[economic-life/index|Economic Life]] (cooperation): how the valley makes, grows, and trades what people need.
-- [[rights-state/index|Rights-State]] (equality): the rules the valley lives by, and what every person is owed.
-- [[spiritual-cultural-life/index|Spiritual-Cultural Life]] (freedom): how the valley learns, remembers, worships, and celebrates.
+- [[economic/index|Economic]] (cooperation): how the valley makes, grows, and trades what people need.
+- [[civic/index|Civic]] (equality): the rules the valley lives by, and what every person is owed.
+- [[cultural/index|Cultural]] (freedom): how the valley learns, remembers, worships, and celebrates.
 
 Two themes run through all eight categories: youth and environment. Tags on each entry let you follow these and other themes across the valley.
 

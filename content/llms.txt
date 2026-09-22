@@ -6,20 +6,20 @@ The site is built with Quartz from an Obsidian vault. Pages are written in plain
 
 ## How the site is organised
 
-Every initiative is an entry in exactly one of eight categories. The categories sit in three groups, called holons, taken from Rudolf Steiner's threefold social order. Each holon and category is a folder with an index page that lists its entries.
+Every initiative is an entry in exactly one of eight categories. The categories are grouped into three spheres of life: Economic, Civic, and Cultural. Each sphere and category is a folder with an index page that lists its entries.
 
-- Economic Life (`/economic-life/`): Farmers, Land & Water (`/economic-life/farmers-land-water/`); Business & Tourism (`/economic-life/business-tourism/`)
-- Rights-State (`/rights-state/`): Governance (`/rights-state/governance/`); Residents Association (`/rights-state/residents-association/`); Community Care (`/rights-state/community-care/`)
-- Spiritual-Cultural Life (`/spiritual-cultural-life/`): Education (`/spiritual-cultural-life/education/`); Sport, Heritage, Arts & Culture (`/spiritual-cultural-life/sport-heritage-arts-culture/`); Faith Communities (`/spiritual-cultural-life/faith-communities/`)
+- Economic (`/economic/`): Farmers, Land & Water (`/economic/farmers-land-water/`); Business & Tourism (`/economic/business-tourism/`)
+- Civic (`/civic/`): Governance (`/civic/governance/`); Residents Association (`/civic/residents-association/`); Community Care (`/civic/community-care/`)
+- Cultural (`/cultural/`): Education (`/cultural/education/`); Sport, Heritage, Arts & Culture (`/cultural/sport-heritage-arts-culture/`); Faith Communities (`/cultural/faith-communities/`)
 
-An entry's URL is its category folder plus its file name, for example `/economic-life/farmers-land-water/wild-restoration`.
+An entry's URL is its category folder plus its file name, for example `/economic/farmers-land-water/wild-restoration`.
 
 ## How an entry is structured
 
 Each entry page has frontmatter and a body in a fixed order.
 
-- Frontmatter: `title`, `description`, `holon`, `category`, `tags`, `status` (active, planned, dormant, or completed), `location` (a village name or "Whole valley", optionally followed by a street or landmark), `needs`, and optional fields such as `aliases`, `start_date`, `funding_status`, and `links`.
-- Tags use a closed vocabulary: one category tag (for example `economic-life/farmers-land-water`), theme tags (`theme/youth`, `theme/environment`, `theme/tourism`, `theme/heritage`, `theme/water`, `theme/2038`, `theme/trancraa`, `theme/women`), priority tags (`priority/...`), and one language tag (`lang/en`, `lang/af`, `lang/xh`, or `lang/multi`).
+- Frontmatter: `title`, `description`, `holon` (the sphere: Economic, Civic, or Cultural), `category`, `tags`, `status` (active, planned, dormant, or completed), `location` (a village name or "Whole valley", optionally followed by a street or landmark), `needs`, and optional fields such as `aliases`, `start_date`, `funding_status`, and `links`.
+- Tags use a closed vocabulary: one category tag (for example `economic/farmers-land-water`), theme tags (`theme/youth`, `theme/environment`, `theme/tourism`, `theme/heritage`, `theme/water`, `theme/2038`, `theme/trancraa`, `theme/women`), priority tags (`priority/...`), and one language tag (`lang/en`, `lang/af`, `lang/xh`, or `lang/multi`).
 - `needs` is a list drawn from: volunteers, skills, funding, equipment, premises, members, participants, customers, partners.
 - Body sections: an opening paragraph, then Needs, Offers, How to get involved, and Related.
 - Every factual claim in the body ends with a fact-status label: [IC] independently corroborated (two or more independent sources or an official record), [MS] mission-sourced (from the initiative's own statements), or [TBV] to be verified. Treat [MS] claims as the initiative's own account and [TBV] claims as unconfirmed.
@@ -27,17 +27,17 @@ Each entry page has frontmatter and a body in a fixed order.
 
 ## Overview pages
 
-- [The Register](https://df.valleyofgrace.co.za/register): every published entry in one table, with tabs by holon, by place, and for entries looking for help
+- [The Register](https://df.valleyofgrace.co.za/register): every published entry in one table, with tabs by sphere, by place, and for entries looking for help
 - [Villages](https://df.valleyofgrace.co.za/villages/): one page per village, each listing the entries located there and those that serve the whole valley
 - [Forum Priorities](https://df.valleyofgrace.co.za/priorities/): the Forum's five development priorities, each with a page listing the entries tagged with it
-- [Forum Minutes](https://df.valleyofgrace.co.za/rights-state/governance/minutes/): summaries of Forum meetings, with links to the official minutes
+- [Forum Minutes](https://df.valleyofgrace.co.za/civic/governance/minutes/): summaries of Forum meetings, with links to the official minutes
 
 ## About the Forum and the site
 
 - [Home](https://df.valleyofgrace.co.za/): introduction and navigation
 - [Getting Started](https://df.valleyofgrace.co.za/getting-started): what the site is for and how to use it
 - [About the Forum](https://df.valleyofgrace.co.za/about): who runs the Forum and the site, and how entries are checked
-- [Ward 2 Development Forum](https://df.valleyofgrace.co.za/rights-state/governance/ward-2-development-forum): the Forum's own entry
+- [Ward 2 Development Forum](https://df.valleyofgrace.co.za/civic/governance/ward-2-development-forum): the Forum's own entry
 - [How to Submit](https://df.valleyofgrace.co.za/how-to-submit): how to add or correct an entry
 - [Contact](https://df.valleyofgrace.co.za/contact): how to reach the moderators
 - [Data Policy](https://df.valleyofgrace.co.za/data-policy): how personal information is handled under POPIA

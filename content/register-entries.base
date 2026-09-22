@@ -1,0 +1,106 @@
+filters:
+  and:
+    - file.ext == "md"
+    - type == "entry"
+    - draft != true
+    - '!file.inFolder("templates")'
+    - '!file.inFolder("private")'
+formulas:
+  entry: file.asLink(title)
+properties:
+  formula.entry:
+    displayName: Initiative
+  holon:
+    displayName: Sphere
+  category:
+    displayName: Category
+  location:
+    displayName: Where
+  status:
+    displayName: Status
+  needs:
+    displayName: Needs
+views:
+  - type: table
+    name: All
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - formula.entry
+      - location
+      - needs
+      - status
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Economic
+    filters:
+      and:
+        - holon == "Economic"
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - formula.entry
+      - location
+      - needs
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Civic
+    filters:
+      and:
+        - holon == "Civic"
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - formula.entry
+      - location
+      - needs
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Cultural
+    filters:
+      and:
+        - holon == "Cultural"
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - formula.entry
+      - location
+      - needs
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By place
+    groupBy:
+      property: location
+      direction: ASC
+    order:
+      - formula.entry
+      - category
+      - needs
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Looking for help
+    filters:
+      and:
+        - '!needs.isEmpty()'
+    order:
+      - formula.entry
+      - needs
+      - location
+      - category
+    sort:
+      - property: title
+        direction: ASC

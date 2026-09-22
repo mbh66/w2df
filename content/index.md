@@ -9,29 +9,29 @@ This site lists the initiatives in Ward 2 of Theewaterskloof Municipality: Genad
 
 New here? Start with [[getting-started|Getting Started]].
 
-## Browse by area
+## The three spheres of life
 
-See every initiative in one table on [[register|The Register]], browse by [[villages/index|village]], or browse by area below.
+See every initiative in one table on [[register|The Register]], browse by [[villages/index|village]], or browse the three spheres of life below.
 
-### [[economic-life/index|Economic Life]]
+### [[economic/index|Economic]]
 How the valley makes, grows, and trades what people need.
 
-- [[economic-life/farmers-land-water/index|Farmers, Land & Water]]
-- [[economic-life/business-tourism/index|Business & Tourism]]
+- [[economic/farmers-land-water/index|Farmers, Land & Water]]
+- [[economic/business-tourism/index|Business & Tourism]]
 
-### [[rights-state/index|Rights-State]]
+### [[civic/index|Civic]]
 The rules the valley lives by, and what every person is owed.
 
-- [[rights-state/governance/index|Governance]]
-- [[rights-state/residents-association/index|Residents Association]]
-- [[rights-state/community-care/index|Community Care]]
+- [[civic/governance/index|Governance]]
+- [[civic/residents-association/index|Residents Association]]
+- [[civic/community-care/index|Community Care]]
 
-### [[spiritual-cultural-life/index|Spiritual-Cultural Life]]
+### [[cultural/index|Cultural]]
 How the valley learns, remembers, worships, and celebrates.
 
-- [[spiritual-cultural-life/education/index|Education]]
-- [[spiritual-cultural-life/sport-heritage-arts-culture/index|Sport, Heritage, Arts & Culture]]
-- [[spiritual-cultural-life/faith-communities/index|Faith Communities]]
+- [[cultural/education/index|Education]]
+- [[cultural/sport-heritage-arts-culture/index|Sport, Heritage, Arts & Culture]]
+- [[cultural/faith-communities/index|Faith Communities]]
 
 The Forum's five [[priorities/index|priorities]] will each have a champion, to be named at the November 2026 meeting.
 

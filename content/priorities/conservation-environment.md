@@ -17,7 +17,7 @@ A champion for this priority will be named at the Forum's November 2026 meeting.
 
 ## Initiatives working on this priority
 
-This list fills itself. Any initiative on the site that is tagged with this priority appears here. Initiatives come from [[economic-life/farmers-land-water/index|Farmers, Land & Water]], [[rights-state/residents-association/index|Residents Association]] and [[rights-state/governance/index|Governance]].
+This list fills itself. Any initiative on the site that is tagged with this priority appears here. Initiatives come from [[economic/farmers-land-water/index|Farmers, Land & Water]], [[civic/residents-association/index|Residents Association]] and [[civic/governance/index|Governance]].
 
 ![[conservation-environment.base]]
 
