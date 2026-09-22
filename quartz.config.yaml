@@ -231,7 +231,6 @@ plugins:
     options:
       links:
         Valley of Grace: https://valleyofgrace.co.za/
-        Discord Community: https://discord.gg/cRFFHYye7t
     layout:
       position: footer
       priority: 50
