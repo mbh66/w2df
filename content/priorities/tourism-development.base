@@ -1,0 +1,40 @@
+filters:
+  and:
+    - file.ext == "md"
+    - type == "entry"
+    - draft != true
+    - file.hasTag("priority/tourism-development")
+formulas:
+  entry: file.asLink(title)
+properties:
+  formula.entry:
+    displayName: Initiative
+  location:
+    displayName: Where
+  needs:
+    displayName: Needs
+views:
+  - type: table
+    name: Initiatives
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - formula.entry
+      - location
+      - needs
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Looking for help
+    filters:
+      and:
+        - '!needs.isEmpty()'
+    order:
+      - formula.entry
+      - needs
+      - location
+    sort:
+      - property: title
+        direction: ASC

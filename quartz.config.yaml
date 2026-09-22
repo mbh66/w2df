@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: en-GB
   baseUrl: df.valleyofgrace.co.za
   ignorePatterns:
     - private
@@ -231,6 +231,7 @@ plugins:
     options:
       links:
         Valley of Grace: https://valleyofgrace.co.za/
+        Send a WhatsApp: https://wa.link/oukixd
     layout:
       position: footer
       priority: 50

@@ -65,32 +65,36 @@ contact:
 aliases: []
 start_date: 
 funding_status: 
+needs: [] 
 links: []
 updated: 
 ---
 ```
 
-| Key | Required | Rule |
-| --- | --- | --- |
-| `title` | Yes | 60 characters maximum. What the entry is, in one line. |
-| `description` | Yes | 280 characters maximum. What a reader learns without opening the page. Quartz shows it in link previews. |
-| `type` | Yes | `entry` for initiatives. Site-structure pages use `holon`, `category`, `priority`, or `page`. |
-| `holon` | Yes | Exactly `Economic Life`, `Rights-State`, or `Spiritual-Cultural Life`. Must match the category tag. |
-| `category` | Yes | Exactly one of the eight category names below, spelled as shown. |
-| `tags` | Yes | See *Tagging rules*. |
-| `status` | Yes | `active`, `planned`, `dormant`, or `completed`. If unknown, use `active` and flag it. |
-| `location` | Yes | `Genadendal`, `Greyton`, `Bereaville`, `Voorstekraal`, `Boschmanskloof`, `Farm 39`, or `Whole valley`. A more specific place may follow a comma: `Genadendal, Church Square`. |
-| `date` | Yes | Today's date, `YYYY-MM-DD`. |
-| `draft` | Yes | Always `true` on pages you create. Only a moderator sets `false`. |
-| `right_of_reply` | Yes | `pending` if the page names or represents a party other than the submitter; `not-needed` if the submitter is the entry-owner; `done` only when told so. |
-| `komitee_review` | When relevant | `pending` for anything touching Farm 39, TRANCRAA, land tenure, or the mission settlement. Otherwise omit. |
-| `contact_consent` | Yes | `yes` only when the submission states the entry-owner agreed to public listing. Otherwise `no`. |
-| `contact` | Only if consent is `yes` | Name and one public channel. When consent is `no`, omit this key entirely. |
-| `aliases` | Optional | Other names, including the name in another language (for example `Boere, Grond en Water`). |
-| `start_date` | Optional | `YYYY` or `YYYY-MM-DD`. |
-| `funding_status` | Optional | `self-funded`, `grant-funded` (add the source in the body), or `seeking-funding`. |
-| `links` | Optional | External URLs. |
-| `updated` | Optional | Date of the last substantive edit. |
+| Key               | Required                 | Rule                                                                                                                                                                                                                                                                                                                      |
+| ----------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `title`           | Yes                      | 60 characters maximum. What the entry is, in one line.                                                                                                                                                                                                                                                                    |
+| `description`     | Yes                      | 280 characters maximum. What a reader learns without opening the page. Quartz shows it in link previews.                                                                                                                                                                                                                  |
+| `type`            | Yes                      | `entry` for initiatives. Site-structure pages use `holon`, `category`, `priority`, or `page`.                                                                                                                                                                                                                             |
+| `holon`           | Yes                      | Exactly `Economic Life`, `Rights-State`, or `Spiritual-Cultural Life`. Must match the category tag.                                                                                                                                                                                                                       |
+| `category`        | Yes                      | Exactly one of the eight category names below, spelled as shown.                                                                                                                                                                                                                                                          |
+| `tags`            | Yes                      | See *Tagging rules*.                                                                                                                                                                                                                                                                                                      |
+| `status`          | Yes                      | `active`, `planned`, `dormant`, or `completed`. If unknown, use `active` and flag it.                                                                                                                                                                                                                                     |
+| `location`        | Yes                      | `Genadendal`, `Greyton`, `Heuwelkroon`, `Bereaville`, `Voorstekraal`, `Boschmanskloof`, `Farm 39`, or `Whole valley`. A more specific place may follow a comma: `Genadendal, Church Square`. Use `Heuwelkroon` for initiatives there, not `Greyton`; the Greyton village page includes Heuwelkroon entries automatically. |
+| `date`            | Yes                      | Today's date, `YYYY-MM-DD`.                                                                                                                                                                                                                                                                                               |
+| `draft`           | Yes                      | Always `true` on pages you create. Only a moderator sets `false`.                                                                                                                                                                                                                                                         |
+| `right_of_reply`  | Yes                      | `pending` if the page names or represents a party other than the submitter; `not-needed` if the submitter is the entry-owner; `done` only when told so.                                                                                                                                                                   |
+| `komitee_review`  | When relevant            | `pending` for anything touching Farm 39, TRANCRAA, land tenure, or the mission settlement. Otherwise omit.                                                                                                                                                                                                                |
+| `contact_consent` | Yes                      | `yes` only when the submission states the entry-owner agreed to public listing. Otherwise `no`.                                                                                                                                                                                                                           |
+| `contact`         | Only if consent is `yes` | Name and one public channel. When consent is `no`, omit this key entirely.                                                                                                                                                                                                                                                |
+| `aliases`         | Optional                 | Other names, including the name in another language (for example `Boere, Grond en Water`).                                                                                                                                                                                                                                |
+| `start_date`      | Optional                 | `YYYY` or `YYYY-MM-DD`.                                                                                                                                                                                                                                                                                                   |
+| `funding_status`  | Optional                 | `self-funded`, `grant-funded` (add the source in the body), or `seeking-funding`.                                                                                                                                                                                                                                         |
+| `needs`           | Yes                      | What the entry is asking for, as a list of values from *Needs values* below. Use `[]` when the Needs section says "None stated yet."                                                                                                                                                                                      |
+| `links`           | Optional                 | External URLs.                                                                                                                                                                                                                                                                                                            |
+| `updated`         | Optional                 | Date of the last substantive edit.                                                                                                                                                                                                                                                                                        |
+
+Frontmatter must be valid YAML. Put double quotes around any value that contains a colon followed by a space, or starts with a quote or a special character: `description: "Guiding principle: cooperation."` In lists written with square brackets, quote any item that contains a comma: `aliases: ["Boere, Grond en Water"]`. An unquoted colon stops the site from building; an unquoted comma splits one alias into several.
 
 Add category-specific fields (lowercase, underscores) after `updated` when the submission supplies them:
 
@@ -199,6 +203,25 @@ The Forum's five priorities each have a champion and a page. Apply a priority ta
 
 Write the page in the language the entry-owner used. Do not translate unless asked. Keep proper names in their original form.
 
+
+### Needs values
+
+The `needs` field lets the site list entries by what they are asking for. The vocabulary is closed. Use only these values, in lowercase, in the order the needs appear in the page's Needs section. Every value must match at least one bullet in the Needs section, and every Needs bullet should map to a value.
+
+| Value | Use when the entry asks for |
+| --- | --- |
+| `volunteers` | People to give time: helpers, patrollers, event hands, champions |
+| `skills` | Specific expertise: mentors, trades, educators, professionals |
+| `funding` | Money: donations, grants, sponsorships, fundraising |
+| `equipment` | Goods or materials: tools, bikes, building materials, supplies, wish-list items |
+| `premises` | Land, a building, or a venue |
+| `members` | People or businesses to join as members or subscribers |
+| `participants` | People to take part in or benefit from the programme: learners, farmers, stallholders, makers |
+| `customers` | Buyers, visitors, bookings, or advertisers |
+| `partners` | Organisations to work with formally |
+
+If a need fits none of these, use the nearest value and suggest a new one in your reply for the convenors to decide.
+
 ## Page body
 
 After the frontmatter, use this order. Omit a section that has nothing in it, except Needs and Offers, which stay with "None stated yet." so moderators can see the gap.
@@ -213,13 +236,13 @@ What the initiative is asking the valley or partners for.
 What it gives the valley: services, products, places, knowledge, jobs.
 
 ## How to get involved
-How a resident or partner takes part. Point to the public contact if consented, otherwise to the moderators via [[how-to-submit]].
+How a resident or partner takes part. Point to the public contact if consented, otherwise to the moderators via [[how-to-submit|How to Submit]].
 
 ## Related
-- [[other-entry]]
+- [[other-entry|Other Entry Title]]
 ```
 
-Use Obsidian wikilinks (`[[file-name]]` or `[[file-name|Display text]]`) for links to other wiki pages. Link only to pages that exist, unless asked to create the target page too.
+Use Obsidian wikilinks for links to other wiki pages, and always include display text: `[[file-name|Page Title]]`. The site shows a bare link such as `[[file-name]]` as the raw file name, which residents should not have to read. Use the target page's `title` as the display text unless the sentence needs a shorter form. To link to a holon or category page, link to its index file: `[[economic-life/farmers-land-water/index|Farmers, Land & Water]]`. Link only to pages that exist, unless asked to create the target page too.
 
 ### Fact-status tags
 
@@ -263,6 +286,9 @@ Check each item:
 8. No private contact details unless `contact_consent: yes`.
 9. Title 60 characters or fewer; description 280 or fewer.
 10. Fact-status tag after every factual claim.
+11. `needs` is present, uses only values from the vocabulary, and matches the Needs section (`[]` if none stated).
+12. Every wikilink has display text (`[[file-name|Page Title]]`) and points to a page that exists.
+13. Frontmatter values with a colon, and list items with a comma, are quoted.
 
 Then reply with: the file path, a one-line account of the category and tags chosen, and anything the moderator needs to act on (right-of-reply contacts, Komitee review, missing information, a proposed new tag, a close category call).
 
@@ -304,10 +330,10 @@ funding_status: seeking-funding
 - Tuinmaaklesse vir leerders op Saterdae [MS]
 
 ## How to get involved
-Kontak die moderators via [[how-to-submit]].
+Kontak die moderators via [[how-to-submit|How to Submit]].
 
 ## Related
-- [[genadendal-soup-kitchen]]
+- [[genadendal-soup-kitchen|Genadendal Soup Kitchen]]
 ```
 
 Reply to moderator: "Filed at `economic-life/farmers-land-water/genadendal-gemeenskapstuin.md`. Farmers, Land & Water with environment, youth (lessons for learners), and the agriculture priority. Lessons for learners could also justify an Education page later. No public contact consent in the message; the coordinator's number belongs in the contact register."

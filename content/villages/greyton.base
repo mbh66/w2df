@@ -1,0 +1,44 @@
+filters:
+  and:
+    - file.ext == "md"
+    - type == "entry"
+    - draft != true
+formulas:
+  entry: file.asLink(title)
+properties:
+  formula.entry:
+    displayName: Initiative
+  category:
+    displayName: Category
+  needs:
+    displayName: Needs
+views:
+  - type: table
+    name: In Greyton
+    filters:
+      or:
+        - location.startsWith("Greyton")
+        - location.startsWith("Heuwelkroon")
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - formula.entry
+      - needs
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Whole valley
+    filters:
+      and:
+        - location == "Whole valley"
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - formula.entry
+      - needs
+    sort:
+      - property: title
+        direction: ASC

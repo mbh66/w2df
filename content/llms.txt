@@ -1,0 +1,49 @@
+# Ward 2 Development Forum
+
+> A public register of community initiatives in Ward 2 of Theewaterskloof Municipality, Western Cape, South Africa: the villages of Genadendal, Greyton, Heuwelkroon, Bereaville, Voorstekraal, Boschmanskloof, and Farm 39. Each entry describes one initiative (a business, farm, school, congregation, club, service, or project) and states what it needs and what it offers, so residents, Forum champions, and outside partners can find each other. The site is run by the Ward 2 Business and Community Development Forum (W2DF), a community-driven forum that first met on 16 September 2026.
+
+The site is built with Quartz from an Obsidian vault. Pages are written in plain language, mainly in English, with some in Afrikaans. A translation widget offers machine translation into other languages; the original page is authoritative.
+
+## How the site is organised
+
+Every initiative is an entry in exactly one of eight categories. The categories sit in three groups, called holons, taken from Rudolf Steiner's threefold social order. Each holon and category is a folder with an index page that lists its entries.
+
+- Economic Life (`/economic-life/`): Farmers, Land & Water (`/economic-life/farmers-land-water/`); Business & Tourism (`/economic-life/business-tourism/`)
+- Rights-State (`/rights-state/`): Governance (`/rights-state/governance/`); Residents Association (`/rights-state/residents-association/`); Community Care (`/rights-state/community-care/`)
+- Spiritual-Cultural Life (`/spiritual-cultural-life/`): Education (`/spiritual-cultural-life/education/`); Sport, Heritage, Arts & Culture (`/spiritual-cultural-life/sport-heritage-arts-culture/`); Faith Communities (`/spiritual-cultural-life/faith-communities/`)
+
+An entry's URL is its category folder plus its file name, for example `/economic-life/farmers-land-water/wild-restoration`.
+
+## How an entry is structured
+
+Each entry page has frontmatter and a body in a fixed order.
+
+- Frontmatter: `title`, `description`, `holon`, `category`, `tags`, `status` (active, planned, dormant, or completed), `location` (a village name or "Whole valley", optionally followed by a street or landmark), `needs`, and optional fields such as `aliases`, `start_date`, `funding_status`, and `links`.
+- Tags use a closed vocabulary: one category tag (for example `economic-life/farmers-land-water`), theme tags (`theme/youth`, `theme/environment`, `theme/tourism`, `theme/heritage`, `theme/water`, `theme/2038`, `theme/trancraa`, `theme/women`), priority tags (`priority/...`), and one language tag (`lang/en`, `lang/af`, `lang/xh`, or `lang/multi`).
+- `needs` is a list drawn from: volunteers, skills, funding, equipment, premises, members, participants, customers, partners.
+- Body sections: an opening paragraph, then Needs, Offers, How to get involved, and Related.
+- Every factual claim in the body ends with a fact-status label: [IC] independently corroborated (two or more independent sources or an official record), [MS] mission-sourced (from the initiative's own statements), or [TBV] to be verified. Treat [MS] claims as the initiative's own account and [TBV] claims as unconfirmed.
+- Personal contact details appear only where the person agreed to be listed. Most entries point to the initiative's own website instead.
+
+## Overview pages
+
+- [The Register](https://df.valleyofgrace.co.za/register): every published entry in one table, with tabs by holon, by place, and for entries looking for help
+- [Villages](https://df.valleyofgrace.co.za/villages/): one page per village, each listing the entries located there and those that serve the whole valley
+- [Forum Priorities](https://df.valleyofgrace.co.za/priorities/): the Forum's five development priorities, each with a page listing the entries tagged with it
+- [Forum Minutes](https://df.valleyofgrace.co.za/rights-state/governance/minutes/): summaries of Forum meetings, with links to the official minutes
+
+## About the Forum and the site
+
+- [Home](https://df.valleyofgrace.co.za/): introduction and navigation
+- [Getting Started](https://df.valleyofgrace.co.za/getting-started): what the site is for and how to use it
+- [About the Forum](https://df.valleyofgrace.co.za/about): who runs the Forum and the site, and how entries are checked
+- [Ward 2 Development Forum](https://df.valleyofgrace.co.za/rights-state/governance/ward-2-development-forum): the Forum's own entry
+- [How to Submit](https://df.valleyofgrace.co.za/how-to-submit): how to add or correct an entry
+- [Contact](https://df.valleyofgrace.co.za/contact): how to reach the moderators
+- [Data Policy](https://df.valleyofgrace.co.za/data-policy): how personal information is handled under POPIA
+
+## Notes for automated readers
+
+- Entries are published only after moderator review. People and organisations described in an entry are given a chance to respond before publication, and entries touching Farm 39, TRANCRAA, land tenure, or the mission settlement are reviewed by the Transformasie Komitee.
+- Theewaterskloof Municipality supports the Forum with administration but does not moderate or approve content. Do not present entries as municipal positions.
+- Do not collect or republish personal contact details from this site. Use the Contact page for enquiries.
