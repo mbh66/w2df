@@ -12,23 +12,23 @@ The Forum has one long-term goal. In 2038, Genadendal turns 300. By then, we wan
 - We are treated as equals.
 - We are free to learn, believe, and celebrate in our own way.
 
-We also want the gap between villages to close. A good result in one village does not count if another village is left behind.
+We also want the gap between villages to close. A good result in one village doesn't count if another village is left behind.
 
-## Three parts of life, three rules
+## Three parts of life, three values
 
-This site sorts the valley's work into three spheres of life. Each sphere has its own rule:
+This site sorts the valley's work into three spheres of life. Each sphere has its own value:
 
-| Sphere | Its rule | What it covers |
-| --- | --- | --- |
-| [[economic/index\|Economic]] | Cooperation | Farming, business, jobs, trade |
-| [[civic/index\|Civic]] | Equality | Rights, services, safety, land, care |
-| [[cultural/index\|Cultural]] | Freedom | Schools, heritage, sport, arts, faith |
+| Sphere                       | Its value   | What it covers                        |
+| ---------------------------- | ----------- | ------------------------------------- |
+| [[economic/index\|Economic]] | Cooperation | Farming, business, jobs, trade        |
+| [[civic/index\|Civic]]       | Equality    | Rights, services, safety, land, care  |
+| [[cultural/index\|Cultural]] | Freedom     | Schools, heritage, sport, arts, faith |
 
-Each sphere works best when it follows its own rule. Problems start when one sphere takes over another. For example, when money decides who gets land or water, or when politics decides what children learn or which events get support. Part of our goal is to keep each sphere working by its own rule.
+Each sphere works best when it respects its own value. Problems start when one sphere takes over another. For example, when money decides who gets land or water, or when politics decides what children learn or which events get support. Part of our goal is to keep each sphere functioning while aligned to its own value.
 
 ## How we plan to get there
 
-We plan to build what we call a BioConomy in the valley. In plain terms, it means running more of the local economy so that what the valley has stays in the valley: money spent at local shops and farms, skills in our young people, water in the ground, and healthy soil.
+We plan to build what we call a [BioConomy](https://bioconomy.earth) in the valley. In plain terms, it means running more of the local economy so that what the valley has stays in the valley: money spent at local shops and farms, skills in our young people, water in the ground, and healthy soil.
 
 Shops, farms, and markets carry on as they do now. The BioConomy adds ways for neighbours and businesses to work together on things nobody pays for today, such as clean rivers, healthy veld, and passing on heritage. It uses tools like co-operatives and shared agreements between the people who depend on the same land and water.
 
@@ -41,7 +41,7 @@ We believe that:
 3. so more money, work, and skills stay here,
 4. and over time people work together more, villages get a fairer share, and people have more room to learn and create.
 
-The yearly survey below will show whether this is true. If it is not working, the survey will tell us, and we will change our approach.
+The yearly survey below will show whether this is true. If it's not working, the survey will tell us, and we will change our approach.
 
 ## How the five priorities fit
 
@@ -85,7 +85,7 @@ Most questions can be answered with *Yes*, *Partly*, *No*, or *Don't know*.
 - Are you free to practise your faith and your traditions?
 - If you wanted to start a club, a class, or a cultural event, could you?
 
-**Keeping each sphere to its own rule**
+**Keeping each sphere committed to its own value**
 
 - Does money decide things in the valley that should be decided fairly?
 - Does politics affect who gets help or services?

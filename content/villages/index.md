@@ -7,12 +7,16 @@ date: 2026-09-22
 
 Ward 2 covers seven settlements and the farms around them. Each page below gives a short introduction to the place and lists the initiatives there, along with those that serve the whole valley.
 
-- [[villages/genadendal|Genadendal]]
-- [[villages/greyton|Greyton]]
-- [[villages/heuwelkroon|Heuwelkroon]]
-- Madiba Park (page to follow)
-- [[villages/bereaville|Bereaville]]
-- [[villages/voorstekraal|Voorstekraal]]
-- [[villages/boschmanskloof|Boschmanskloof]]
+- **[[villages/genadendal|Genadendal]]**
+	- [[villages/bereaville|Bereaville]]
+	- [[villages/voorstekraal|Voorstekraal]]
+	- [[villages/boschmanskloof|Boschmanskloof]]
+	- [[madiba-park|Madiba Park]] 
+- **[[villages/greyton|Greyton]]**
+	- [[villages/heuwelkroon|Heuwelkroon]]
+
+
+
+
 
 Farm 39 is the legal name for the land on which Genadendal, Bereaville, Voorstekraal, and Boschmanskloof stand. It is not a separate village. See [[register|The Register]] for every initiative in one table.

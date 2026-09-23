@@ -38,7 +38,7 @@ Two themes run through all eight categories: youth and environment. Tags on each
 A small team of moderators reads every submission before it goes live. They follow these rules:
 
 - **No proposal about a party without that party present.** If an entry describes an organisation or person, that party gets the chance to respond before the entry is published.
-- **Land and tenure.** Entries about Farm 39, TRANCRAA, land tenure, or the mission settlement go to the Transformasie Komitee for review. The Komitee is the community's mandated body for these matters.
+- **Land and tenure.** Entries about [[farm-39|Farm 39]], [[trancraa-process-farm-39|TRANCRAA]], land tenure, or the mission settlement go to the Transformasie Komitee for review. The Komitee is the community's mandated body for these matters.
 - **Private details stay private.** Phone numbers, email addresses, and home addresses appear only when the person has agreed to be listed.
 - **Facts are marked.** Each claim on an entry shows where it comes from: [IC] means confirmed by independent sources or an official record, [MS] means it comes from the initiative itself, and [TBV] means it still has to be checked.
 

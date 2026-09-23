@@ -43,7 +43,7 @@ The Transformation of Certain Rural Areas Act of 1998, known as TRANCRAA, is the
 ## In short
 
 - The land has been held in trust by the state since the early 1900s. TRANCRAA, passed in 1998, was meant to hand it to the residents' chosen entity [IC].
-- The Theewaterskloof Municipality ran the process from 2002, through consultants it appointed [IC]. The Transformasie Komitee (called the Genadendal Transformation Committee in court papers) was elected in 2004 to speak for residents [IC].
+- The Theewaterskloof Municipality ran the process from 2002, through consultants it appointed [IC]. The [[civic/governance/genadendal-transformasie-komitee|Transformasie Komitee]] (called the Genadendal Transformation Committee in court papers) was elected in 2004 to speak for residents [IC].
 - The two sides disagreed from the start about how much land the process covers, who decides, and whether the municipality should own the land [IC].
 - A 2008 High Court order settled one court case, but its terms were never carried out [IC].
 - The 18-month transitional period for Farm 39 ran out in January 2011 without a transfer, so the land stayed with the Minister [IC].
@@ -252,6 +252,7 @@ If you are a Farm 39 resident, or represent a body named here, and want to add o
 ## Related
 
 - [[villages/farm-39|Farm 39]]
+- [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]]
 - [[madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]]
 - [[villages/genadendal|Genadendal]]
 - [[villages/bereaville|Bereaville]]

@@ -1,3 +1,18 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Info and todo callouts, matched to the site palette
+.callout[data-callout="info"],
+.callout[data-callout="todo"] {
+  --color: #7d5f28;
+  --border: #7d5f2855;
+  --bg: #7d5f281a;
+}
+
+:root[saved-theme="dark"] .callout[data-callout="info"],
+:root[saved-theme="dark"] .callout[data-callout="todo"] {
+  --color: #c2a676;
+  --border: #c2a67655;
+  --bg: #c2a6761a;
+}
