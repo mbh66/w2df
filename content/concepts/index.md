@@ -9,7 +9,7 @@ draft: false
 
 This section holds big ideas for Ward 2. They show what the valley could build if we worked together.
 
-None of these ideas has been agreed. Nobody has signed up to them yet, and some of the people and organisations they mention have not yet been asked. Each idea will be tabled at a Forum meeting, where anyone can question it, change it, or reject it.
+None of these ideas have been agreed upon, but they distill much of the thinking and conversations going on in the zeitgeist. Nobody has signed up for them yet, and some of the people and organisations they mention **have not yet been asked**, so please don't share publicly. Each idea will be tabled at the next Forum meeting, where anyone can question it, change it, or reject it.
 
 ## How ideas are handled
 

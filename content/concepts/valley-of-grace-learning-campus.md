@@ -1,6 +1,6 @@
 ---
 title: Valley of Grace Learning Campus
-description: An idea for a learning campus that gives every young person in Ward 2 a path from school into study or work in the valley. Not yet agreed. To be tabled at the November 2026 Forum meeting.
+description: Detailed thinking for an internationally recognised learning campus that gives every young person in Ward 2 a path from school into study or work in the valley. Not yet agreed. To be tabled at the November 2026 Forum meeting.
 type: concept
 tags:
   - theme/youth
@@ -14,12 +14,14 @@ date: 2026-09-23
 draft: false
 right_of_reply: pending
 komitee_review: pending
-aliases: [Learning Campus, Leerkampus]
+aliases:
+  - Learning Campus
+  - Leerkampus
 links:
   - https://hs.valleyofgrace.co.za/options/long-term/learning-campus
 ---
 
-> **This is an idea, not a plan.** Nobody has agreed to it yet. It shows what the valley could build if we worked together. It will be tabled at the Forum's November 2026 meeting, and it will change as people respond.
+> **This is an idea, not a plan.** Nobody has agreed to it yet, and some of the stakeholders have not yet been invited to participate. Please do not share anything here publicly. This page exists to get the conversation started. It shows what the valley could build if we worked together. It will be tabled at the Forum's November 2026 meeting, and it will change as people respond.
 
 ## The goal
 
