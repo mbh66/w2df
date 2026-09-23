@@ -19,7 +19,7 @@ You do not need all of this. Send what you have, and a moderator will ask about 
 
 - **Name.** What is the initiative called? Does it have a name in another language?
 - **What it does.** One or two sentences in your own words.
-- **Where.** Genadendal, Greyton, Heuwelkroon, Bereaville, Voorstekraal, Boschmanskloof, Farm 39, or the whole valley. Add a street or landmark if it helps.
+- **Where.** Genadendal, Greyton, Heuwelkroon, Madiba Park, Bereaville, Voorstekraal, Boschmanskloof, or the whole valley. Add a street or landmark if it helps.
 - **Who runs it.** A person, a group, a business, or an organisation.
 - **Since when.** The year it started, or when it will start.
 - **Needs.** What are you asking the valley or partners for? Volunteers, equipment, land, funding, customers, advice.

@@ -7,7 +7,7 @@ date: 2026-09-22
 
 ## The Forum
 
-The Ward 2 Business and Community Development Forum (W2DF) brings together people working across Ward 2 of Theewaterskloof Municipality. The ward covers Genadendal, Greyton, Heuwelkroon, Bereaville, Voorstekraal, Boschmanskloof, and Farm 39.
+The Ward 2 Business and Community Development Forum (W2DF) brings together people working across Ward 2 of Theewaterskloof Municipality. The ward covers Genadendal, Greyton, Heuwelkroon, Madiba Park, Bereaville, Voorstekraal, and Boschmanskloof.
 
 The Forum is run by the community. Theewaterskloof Municipality supports it with administration. The Forum first met on 16 September 2026 at Hester Dorothea in Genadendal, and it meets every two months.
 

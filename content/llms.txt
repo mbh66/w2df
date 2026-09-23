@@ -1,6 +1,6 @@
 # Ward 2 Development Forum
 
-> A public register of community initiatives in Ward 2 of Theewaterskloof Municipality, Western Cape, South Africa: the villages of Genadendal, Greyton, Heuwelkroon, Bereaville, Voorstekraal, Boschmanskloof, and Farm 39. Each entry describes one initiative (a business, farm, school, congregation, club, service, or project) and states what it needs and what it offers, so residents, Forum champions, and outside partners can find each other. The site is run by the Ward 2 Business and Community Development Forum (W2DF), a community-driven forum that first met on 16 September 2026.
+> A public register of community initiatives in Ward 2 of Theewaterskloof Municipality, Western Cape, South Africa: the villages of Genadendal, Greyton, Heuwelkroon, Madiba Park, Bereaville, Voorstekraal, and Boschmanskloof. Each entry describes one initiative (a business, farm, school, congregation, club, service, or project) and states what it needs and what it offers, so residents, Forum champions, and outside partners can find each other. The site is run by the Ward 2 Business and Community Development Forum (W2DF), a community-driven forum that first met on 16 September 2026.
 
 The site is built with Quartz from an Obsidian vault. Pages are written in plain language, mainly in English, with some in Afrikaans. A translation widget offers machine translation into other languages; the original page is authoritative.
 

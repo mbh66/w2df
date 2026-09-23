@@ -60,4 +60,4 @@ In 2038, Genadendal will mark 300 years since the first Moravian mission in Sout
 - **Ask a question.** [[contact|Contact the moderators]].
 - **Join the Forum.** The Ward 2 Development Forum meets every two months. Dates and minutes are on the [[civic/governance/minutes/index|Forum Minutes]] page.
 
-*Ward 2 covers Genadendal, Greyton, Heuwelkroon, Bereaville, Voorstekraal, Boschmanskloof, and Farm 39, along with the surrounding farms in the Riviersonderend valley.*
+*Ward 2 covers Genadendal, Greyton, Heuwelkroon, Madiba Park, Bereaville, Voorstekraal, and Boschmanskloof, along with the surrounding farms in the Riviersonderend valley.*

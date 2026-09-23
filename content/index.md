@@ -5,7 +5,7 @@ type: page
 date: 2026-09-22
 ---
 
-This site lists the initiatives in Ward 2 of Theewaterskloof Municipality: Genadendal, Greyton, Heuwelkroon, Bereaville, Voorstekraal, Boschmanskloof, and Farm 39. Each entry shows what an initiative needs and what it offers, so residents, Forum champions, and outside partners can find each other.
+This site lists the initiatives in Ward 2 of Theewaterskloof Municipality: Genadendal, Greyton, Heuwelkroon, Madiba Park, Bereaville, Voorstekraal, and Boschmanskloof. Each entry shows what an initiative needs and what it offers, so residents, Forum champions, and outside partners can find each other.
 
 New here? Start with [[getting-started|Getting Started]].
 
@@ -37,7 +37,7 @@ The Forum's five [[priorities/index|priorities]] will each have a champion, to b
 
 ## Follow a theme
 
-Two themes run through every area: youth and environment. Other themes include water, heritage, tourism, women, Farm 39 and land tenure, and the 2038 tercentenary. Use the tags on any entry to see related work across the valley.
+Two themes run through every area: youth and environment. Other themes include water, heritage, tourism, women, land tenure (TRANCRAA), and the 2038 tercentenary. Use the tags on any entry to see related work across the valley.
 
 ## Take part
 
