@@ -1,0 +1,35 @@
+---
+title: Ideas for the Valley
+description: Big ideas the valley could work towards together. None of them is agreed yet. Each one is tabled at a Forum meeting so that everyone it affects can have a say.
+type: page
+aliases: [High-Level Concepts, Concepts]
+date: 2026-09-23
+draft: true
+---
+
+This section holds big ideas for Ward 2. They show what the valley could build if we worked together.
+
+None of these ideas has been agreed. Nobody has signed up to them yet, and some of the people and organisations they mention have not yet been asked. Each idea will be tabled at a Forum meeting, where anyone can question it, change it, or reject it.
+
+## How ideas are handled
+
+- **Tabled first.** Every idea on this page goes to a Forum meeting before anything is done about it.
+- **Everyone affected is asked.** The Forum agreed at its [[2026-09-16-inaugural-meeting|first meeting]] that affected communities should be involved from the start. Any organisation or person named in an idea gets the chance to respond, and their response is added to the page.
+- **Land and tenure go to the Komitee.** Ideas that touch Farm 39, TRANCRAA, land tenure, or the mission settlement go to the Transformasie Komitee first.
+- **Ideas can change.** Each page shows when it was last updated and what is still open.
+
+## The ideas
+
+### [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]
+A learning campus that gives every young person in the ward a path from school into study or work in the valley. To be tabled at the November 2026 meeting.
+
+### [[concepts/tourism-growth-fund-application|Valley of Grace Heritage Trail]]
+An application to the Western Cape Tourism Growth Fund for a heritage trail linking Greyton and the mission settlements, with trained community guides. Being shared with the Transformasie Komitee. To be tabled at the November 2026 meeting.
+
+## How these fit together
+
+Both ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
+
+## Have your say
+
+To comment on an idea, suggest a change, or put forward a new one, [[contact|contact the moderators]] or raise it at the next Forum meeting.
