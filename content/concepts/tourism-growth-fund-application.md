@@ -80,3 +80,10 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the Novem
 - [[long-term-goal|Our Long-Term Goal]]
 - [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]
 - [[concepts/index|Ideas for the Valley]]
+
+## References
+
+- Western Cape Government, Department of Economic Development and Tourism. [Tourism Growth Fund](https://www.westerncape.gov.za/edat/tourism-growth-fund). The fund this application is made to, and how it works.
+- SAnews. [Western Cape opens R7m Tourism Growth Fund for applications](https://www.sanews.gov.za/south-africa/western-cape-opens-r7m-tourism-growth-fund-applications) (19 September 2026). The 2026/27 call for applications.
+
+The project details, costs, and co-funding on this page come from the draft application, which is not published.

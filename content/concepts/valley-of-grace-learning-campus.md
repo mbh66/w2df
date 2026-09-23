@@ -160,3 +160,8 @@ Sources on the Bonnievale school, Jakes Gerwel Technical School:
 - [SA3: Jakes Gerwel Tegniese Hoërskool Bonnievale](https://sa3.co.za/social_projects/jakes-gerwel-tegniese-hoerskool-bonnievale/). Why the town needed the school, and how it combines academic subjects with technical training.
 - [ASLA Foundation: Skills Development and Training, Jakes Gerwel School of Skills](https://aslafoundation.org.za/skills-development-and-training-jakes-gerwel-school-of-skills-bonnievale/). A construction company's support for technical training at the school.
 - [ASLA Foundation: Kruispad Huise](https://aslafoundation.org.za/the-jakes-gerwel-school-of-skills-bonnievale-kruispad-huise/). Two homes renovated as safe places to live for vulnerable learners.
+
+Sources on the campus idea:
+
+- Valley of Grace High School Decision Tool. [Learning Campus](https://hs.valleyofgrace.co.za/options/long-term/learning-campus). The full working detail behind this page.
+- Valley of Grace High School Decision Tool. [Research on top schools](https://hs.valleyofgrace.co.za/research/top-schools). Boarding school fees used for comparison.

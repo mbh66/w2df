@@ -339,6 +339,7 @@ Then use these sections in this order, renamed to suit the idea. Omit any with n
 9. **What happens next.** Numbered steps, starting with the Forum meeting where it is tabled.
 10. **Have your say.** Point to [[how-to-submit|How to Submit]] and the meeting.
 11. **Related.** Always include `[[concepts/index|Ideas for the Valley]]`.
+12. **References.** Every external source the page draws on, one bullet each: the publisher, then a Markdown link with the document's title as link text, then a short note on what the page took from it or the date, if known. Example: `- Overberg District Municipality. [Overberg Regional Economic Development and Tourism Strategy (2018 to 2028)](https://odm.org.za/download_document/1764).` Omit this section only when the page uses no external sources.
 
 Fact-status tags on a concept page go on facts about the valley, other places, and what people have said or done. Proposals (sentences with "would", "could", or "should" about the idea itself) take no tag, as the key explains. Describe a party named in the idea only by what it has said or done; never say what it needs, wants, or would accept.
 
@@ -390,6 +391,7 @@ For a concept page, items 1, 9, and 12 do not apply. Check instead:
 16. The opening notice and the fact-status key are at the top of the body.
 17. The description states aims as aims.
 18. The page is listed on `concepts/index.md`.
+19. Every external source is listed under *References*, with a working link.
 
 Then reply with: the file path, a one-line account of the category and tags chosen, and anything the moderator needs to act on (right-of-reply contacts, Komitee review, missing information, a proposed new tag, a close category call).
 

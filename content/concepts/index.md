@@ -26,9 +26,12 @@ A learning campus that gives every young person in the ward a path from school i
 ### [[concepts/tourism-growth-fund-application|Valley of Grace Heritage Trail]]
 An application to the Western Cape Tourism Growth Fund for a heritage trail linking Greyton and the mission settlements, with trained community guides. Being shared with the Transformasie Komitee. To be tabled at the November 2026 meeting.
 
+### [[concepts/valley-of-grace-agri-heritage-co-operative|Valley of Grace Agri-Heritage Co-operative]]
+A primary co-operative of valley growers that would share one brand, a farm shop, and visitor experiences, and work with government through the Overberg district plan. To be tabled at the November 2026 meeting.
+
 ## How these fit together
 
-Both ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
+All three ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
 
 ## Have your say
 
