@@ -32,6 +32,7 @@ content/
     education/
     sport-heritage-arts-culture/
     faith-communities/
+  concepts/         (index plus one page per idea; see Concept pages)
   priorities/       (index plus one page and one .base file per priority)
   villages/         (index plus one page and one .base file per village)
   attachments/      (images and other files)
@@ -51,7 +52,7 @@ Lowercase, words joined by hyphens, no dates, no special characters, derived fro
 
 ## Frontmatter
 
-Every entry opens with this block. Keys appear in this order. Omit optional keys that have no value; never leave placeholder text in a published page.
+Every entry opens with this block. Concept pages use a shorter block (see *Concept pages*). Keys appear in this order. Omit optional keys that have no value; never leave placeholder text in a published page.
 
 ```yaml
 ---
@@ -83,7 +84,7 @@ updated:
 | ----------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `title`           | Yes                      | 60 characters maximum. What the entry is, in one line.                                                                                                                                                                                                                                                                    |
 | `description`     | Yes                      | 280 characters maximum. What a reader learns without opening the page. Quartz shows it in link previews.                                                                                                                                                                                                                  |
-| `type`            | Yes                      | `entry` for initiatives. Site-structure pages use `holon`, `category`, `priority`, or `page`.                                                                                                                                                                                                                             |
+| `type`            | Yes                      | `entry` for initiatives. `concept` for ideas in `concepts/` (see *Concept pages*). Site-structure pages use `holon`, `category`, `priority`, or `page`.                                                                                                                                                                                                                             |
 | `holon`           | Yes                      | The sphere: exactly `Economic`, `Civic`, or `Cultural`. Must match the category tag.                                                                                                                                                                                                                       |
 | `category`        | Yes                      | Exactly one of the eight category names below, spelled as shown.                                                                                                                                                                                                                                                          |
 | `tags`            | Yes                      | See *Tagging rules*.                                                                                                                                                                                                                                                                                                      |
@@ -266,6 +267,75 @@ Every factual claim in the body carries a fact-status tag in square brackets dir
 
 Most submissions are the initiative describing itself, so `[MS]` is the usual default. Use `[IC]` only when you can point to the independent sources. Anything you are unsure of is `[TBV]`. Never upgrade a claim's status without a source, and never state a TBV claim in the title or description.
 
+## Concept pages
+
+A concept is a big idea for the valley that the Forum has not agreed to yet: a proposed campus, a funding application, a new shared institution. It goes to a Forum meeting before anything is done about it. Concepts live in `content/concepts/`, one page per idea, with `type: concept`. A concept has no category and does not appear on the Register, priority, or village pages.
+
+A submission is a concept when it proposes something that does not exist yet and needs the Forum's agreement or several organisations working together. It is an entry when it describes something already running, or something one organisation plans to do on its own. If unsure, ask. When a concept is agreed and starts running, its parts become entries in their category folders, and the concept page links to them under Related.
+
+### Concept frontmatter
+
+```yaml
+---
+title: 
+description: 
+type: concept
+tags:
+  - 
+date: 
+draft: true
+right_of_reply: 
+komitee_review: 
+aliases: []
+links: []
+updated: 
+---
+```
+
+- Omit `holon`, `category`, `status`, `location`, `contact_consent`, `contact`, `start_date`, `funding_status`, and `needs`.
+- `tags`: theme tags that apply, then priority tags, then exactly one language tag. No category tag. A priority tag applies when the idea directly advances that priority; the source-category rule does not apply to concepts. `priority/conservation-environment` still requires `theme/environment`.
+- `right_of_reply`: usually `pending`, because concepts tend to name organisations that have not yet been asked. List them in your reply.
+- `komitee_review` and `theme/trancraa` follow the same rule as entries.
+- `description`: write aims as aims ("designed to", "would"). Never state an aspiration as if it were already true. Say that the idea is not yet agreed and when it will be tabled, if known.
+- `draft`: `true` on pages you create. A convenor may set `false` so the page can be shared before it is tabled; keep the opening notice in place when that happens.
+
+### Concept body
+
+Open every concept page with these two blocks, in this order:
+
+```markdown
+> **This idea is not yet agreed.** Say who has and has not been asked, and when it will be tabled.
+
+> [!info] What the letters in square brackets mean
+> Facts on this page are followed by a tag that shows where they come from.
+>
+> - **[IC] Independently Corroborated.** Confirmed by at least two sources that do not depend on each other, or by an official record.
+> - **[MS] Mission-Sourced.** Comes from the people putting this idea forward, in their own documents or statements. It has not been checked against other sources.
+> - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
+>
+> Statements without a tag are proposals. They describe what the idea could become.
+```
+
+Then use these sections in this order, renamed to suit the idea. Omit any with nothing in them, except *What is still open*, *Have your say*, and *Related*.
+
+1. **The goal.** One sentence, as a blockquote.
+2. **Why the valley needs it.** The problem, in facts, each with a fact-status tag.
+3. **The idea** (or **What it would deliver**). What would be built or done.
+4. **Who would benefit.**
+5. **Who would pay** (or **The money**). Say plainly if nothing has been costed.
+6. **Who would decide.** Ownership and governance.
+7. **How it fits the Forum's goal.** Links to [[long-term-goal|Our Long-Term Goal]] and the priorities.
+8. **What is still open.** Every undecided question, including each named party's view.
+9. **What happens next.** Numbered steps, starting with the Forum meeting where it is tabled.
+10. **Have your say.** Point to [[how-to-submit|How to Submit]] and the meeting.
+11. **Related.** Always include `[[concepts/index|Ideas for the Valley]]`.
+
+Fact-status tags on a concept page go on facts about the valley, other places, and what people have said or done. Proposals (sentences with "would", "could", or "should" about the idea itself) take no tag, as the key explains. Describe a party named in the idea only by what it has said or done; never say what it needs, wants, or would accept.
+
+### Listing a concept
+
+`concepts/index.md` has no Base; it is kept by hand. When you create a concept, add it under *The ideas* on that page: a level-three heading linking to the page with its title as display text, then one or two sentences on what it is and when it will be tabled.
+
 ## Privacy and standing protocols
 
 - The vault is published as a public website. Anything written in it may become public.
@@ -302,6 +372,13 @@ Check each item:
 12. `needs` is present, uses only values from the vocabulary, and matches the Needs section (`[]` if none stated).
 13. Every wikilink has display text (`[[file-name|Page Title]]`) and points to a page that exists.
 14. Frontmatter values with a colon, and list items with a comma, are quoted.
+
+For a concept page, items 1, 9, and 12 do not apply. Check instead:
+
+15. `type: concept`, the page is in `content/concepts/`, and it carries no category tag and no `holon`, `category`, `location`, or `needs`.
+16. The opening notice and the fact-status key are at the top of the body.
+17. The description states aims as aims.
+18. The page is listed on `concepts/index.md`.
 
 Then reply with: the file path, a one-line account of the category and tags chosen, and anything the moderator needs to act on (right-of-reply contacts, Komitee review, missing information, a proposed new tag, a close category call).
 

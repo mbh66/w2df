@@ -9,15 +9,18 @@ tags:
   - theme/environment
   - lang/en
 status: active
-location: Greyton
+location: Bereaville
 date: 2026-09-22
 draft: false
 right_of_reply: pending
 contact_consent: no
-aliases: [Wild Ways Learning Centre]
+aliases:
+  - Wild Ways Learning Centre
 start_date: 2020
 funding_status: seeking-funding
-needs: [funding, equipment]
+needs:
+  - funding
+  - equipment
 links:
   - https://www.facebook.com/groups/gracevalleywildliferescue/
   - https://gracevalleyhaven.co.za/

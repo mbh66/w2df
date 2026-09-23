@@ -5,7 +5,7 @@ type: page
 date: 2026-09-22
 ---
 
-This table lists every initiative on the site. Use the tabs to see one sphere of life at a time, to browse by place, or to find initiatives that are looking for help. Click a name to open its page.
+This table lists every initiative in the valley that's given approval to be listed on the site. Use the tabs to see one sphere of life at a time, to browse by place, or to find initiatives that are looking for help. Click a name to open its page.
 
 ![[register-entries.base]]
 
