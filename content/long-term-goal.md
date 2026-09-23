@@ -3,7 +3,7 @@ title: Our Long-Term Goal
 description: What the Forum is working towards by 2038, how we plan to get there, how the five priorities fit, and how a yearly survey will show whether life in the valley is changing.
 type: page
 date: 2026-09-23
-draft: true
+draft: false
 ---
 
 The Forum has one long-term goal. In 2038, Genadendal turns 300. By then, we want every village in Ward 2 to be able to say:

@@ -10,7 +10,7 @@ tags:
 status: active
 location: Greyton, Main Road
 date: 2026-09-22
-draft: true
+draft: false
 right_of_reply: pending
 contact_consent: no
 aliases: [Roman Catholic Church Greyton]

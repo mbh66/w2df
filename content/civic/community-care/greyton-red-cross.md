@@ -11,7 +11,7 @@ tags:
 status: active
 location: Greyton, Pointer Street
 date: 2026-09-22
-draft: true
+draft: false
 right_of_reply: pending
 contact_consent: no
 aliases: [Red Cross Greyton, "South African Red Cross Society, Greyton"]

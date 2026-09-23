@@ -12,7 +12,7 @@ tags:
 status: active
 location: Greyton, Krige Road
 date: 2026-09-22
-draft: true
+draft: false
 right_of_reply: pending
 contact_consent: no
 aliases: [GFAS, Tabularasa Farm]

@@ -7,7 +7,7 @@ tags:
   - theme/trancraa
   - lang/en
 date: 2026-09-22
-draft: true
+draft: false
 komitee_review: pending
 links:
   - https://drive.google.com/file/d/1tKMUdwSYZZpDZyhp8Cz-YWirFEVM5Fv3/view?usp=sharing

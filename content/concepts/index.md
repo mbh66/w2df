@@ -4,7 +4,7 @@ description: Big ideas the valley could work towards together. None of them is a
 type: page
 aliases: [High-Level Concepts, Concepts]
 date: 2026-09-23
-draft: true
+draft: false
 ---
 
 This section holds big ideas for Ward 2. They show what the valley could build if we worked together.

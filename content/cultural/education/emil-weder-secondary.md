@@ -12,7 +12,7 @@ tags:
 status: active
 location: Genadendal
 date: 2026-09-22
-draft: true
+draft: false
 right_of_reply: pending
 contact_consent: no
 aliases: [Emil Weder Sekondêr, Hoërskool Emil Weder]

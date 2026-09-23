@@ -13,7 +13,7 @@ tags:
 status: active
 location: Genadendal, Church Square
 date: 2026-09-22
-draft: true
+draft: false
 right_of_reply: pending
 komitee_review: pending
 contact_consent: no

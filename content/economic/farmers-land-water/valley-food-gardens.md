@@ -11,7 +11,7 @@ tags:
 status: active
 location: Whole valley
 date: 2026-09-22
-draft: true
+draft: false
 right_of_reply: pending
 contact_consent: no
 start_date: 2020
