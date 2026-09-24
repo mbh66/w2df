@@ -29,9 +29,12 @@ An application to the Western Cape Tourism Growth Fund for a heritage trail link
 ### [[concepts/valley-of-grace-agri-heritage-co-operative|Valley of Grace Agri-Heritage Co-operative]]
 A primary co-operative of valley growers that would share one brand, a farm shop, and visitor experiences, and work with government through the Overberg district plan. To be tabled at the November 2026 meeting.
 
+### [[concepts/starting-a-co-operative|Starting a Co-operative in the Valley: A Suggested Route]]
+A suggested route for any group in the valley that wants to form a co-operative: legal steps, training to national standards, skills funds and grants, B-BBEE, and joining other co-operatives for bigger contracts. To be tabled at the November 2026 meeting.
+
 ## How these fit together
 
-All three ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
+All four ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
 
 ## Have your say
 
