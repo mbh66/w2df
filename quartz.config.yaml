@@ -234,10 +234,11 @@ plugins:
     enabled: true
     options:
       links:
-        Valley of Grace: https://valleyofgrace.co.za/
-        Learning Campus: https://hs.valleyofgrace.co.za/
-        Machine-readable Page for AI: https://df.valleyofgrace.co.za/llms.txt
-        Send a WhatsApp: https://wa.link/oukixd
+        Valley of Grace: https://valleyofgrace.co.za
+        Learning Campus: https://hs.valleyofgrace.co.za
+        BioConomy: https://wiki.bioconomy.earth
+        AI Page: https://df.valleyofgrace.co.za/llms.txt
+        Contact via WhatsApp: https://wa.link/oukixd
     layout:
       position: footer
       priority: 50

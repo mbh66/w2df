@@ -64,7 +64,7 @@ Over the next 300 years the valley built a heritage that is known across South A
 - After slavery ended in 1838, the mission became a home for freed people as well as Khoekhoe families [IC].
 - In 1995 President Mandela named his Cape Town residence Genadendal [IC].
 
-Much of what the valley built was also taken away by power held elsewhere. A law of 1909 denied residents ownership of the land they lived on [IC]. In 1926 the government closed the teachers' college, arguing that coloured people were suited to farm work and did not need higher education [IC]. Under apartheid, coloured families were forced out of Greyton [IC]. The full story is on [[history-of-the-valley|History of the Valley]].
+Much of what the valley built was also taken away by power held elsewhere. A law of 1909 denied residents ownership of the land they lived on [IC]. In 1926 the government closed the teachers' college, arguing that coloured people were suited to farm work and did not need higher education [IC]. Under apartheid, coloured families were forced out of Greyton [IC]. The full story is on [[history/history-of-the-valley|History of the Valley]].
 
 ### The lesson
 
@@ -168,7 +168,9 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the Forum
 
 ## Related
 
-- [[history-of-the-valley|History of the Valley]]
+- [[history/history-of-the-valley|History of the Valley]]
+- [[history/people/georg-schmidt|Georg Schmidt]]
+- [[history/people/jan-amos-comenius|Jan Amos Comenius]]
 - [[long-term-goal|Our Long-Term Goal]]
 - [[concepts/index|Ideas for the Valley]]
 - [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]

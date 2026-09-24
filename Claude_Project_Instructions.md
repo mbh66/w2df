@@ -33,6 +33,11 @@ content/
     sport-heritage-arts-culture/
     faith-communities/
   concepts/         (index plus one page per idea; see Concept pages)
+  history/          (index, narrative history pages, and people/; see History pages)
+    people/         (one page per historical figure, or per small group; see History pages)
+    tribes/         (one page per people or nation, such as the San or the Chainoqua; the T of the TIME model)
+    institutions/   (one page per institution, such as the Dutch East India Company or the Moravian Church; the I of the TIME model)
+    markets/        (one page per trading function, such as the cattle trade or land as property; the M of the TIME model)
   priorities/       (index plus one page and one .base file per priority)
   villages/         (index, one page and one .base file per settlement, and farm-39.md; see Place names)
   attachments/      (images and other files)
@@ -93,7 +98,7 @@ updated:
 | ----------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `title`           | Yes                      | 60 characters maximum. What the entry is, in one line.                                                                                                                                                                                                                                                                    |
 | `description`     | Yes                      | 280 characters maximum. What a reader learns without opening the page. Quartz shows it in link previews.                                                                                                                                                                                                                  |
-| `type`            | Yes                      | `entry` for initiatives. `concept` for ideas in `concepts/` (see *Concept pages*). Site-structure pages use `holon`, `category`, `priority`, or `page`.                                                                                                                                                                                                                             |
+| `type`            | Yes                      | `entry` for initiatives. `concept` for ideas in `concepts/` (see *Concept pages*). `person` for historical figures in `history/people/` (see *History pages*). Site-structure pages use `holon`, `category`, `priority`, or `page`.                                                                                                                                                                                                                             |
 | `holon`           | Yes                      | The sphere: exactly `Economic`, `Civic`, or `Cultural`. Must match the category tag.                                                                                                                                                                                                                       |
 | `category`        | Yes                      | Exactly one of the eight category names below, spelled as shown.                                                                                                                                                                                                                                                          |
 | `tags`            | Yes                      | See *Tagging rules*.                                                                                                                                                                                                                                                                                                      |
@@ -347,6 +352,103 @@ Fact-status tags on a concept page go on facts about the valley, other places, a
 
 `concepts/index.md` has no Base; it is kept by hand. When you create a concept, add it under *The ideas* on that page: a level-three heading linking to the page with its title as display text, then one or two sentences on what it is and when it will be tabled.
 
+## History pages
+
+The `history/` folder holds the valley's history: narrative pages (such as `history/history-of-the-valley.md`) and, in `history/people/`, one page per historical figure. History pages have no category, and they do not appear on the Register, priority, or village pages. `history/index.md` is the section's page. It has no Base and is kept by hand.
+
+Narrative history pages use `type: page`. Pages about people use `type: person`.
+
+### Who gets a person page
+
+A person page is for someone who has died and whose life shaped the valley: Khoekhoe and San leaders, missionaries, converts, founders, teachers, and others. Give the Khoekhoe and San figures of the valley's story the same attention as the missionaries and settlers. Two or more people may share one page when they acted together and the records say too little to support a page for each (for example, `missionaries-of-1792.md` and `kupido-and-willem.md`). Title the page with their names or with what joins them, list each person's names in `aliases`, omit `born` and `died`, and give each person's dates in the *At a glance* table. Say in the opening paragraph why they share a page. If more is later found about one of them, give that person their own page and link the two. If the person died in living memory, ask the moderators first and set `right_of_reply: pending`, so their family can respond.
+
+**Living people.** A page about a living person may be published only with that person's written consent. Follow these steps:
+
+1. Draft the page in `content/private/` (not published, not in git), named `<name>-consent-draft.md`. Open it with a warning callout saying it is a consent draft, and list the questions to put to the person: whether they agree to a page, and any facts that need confirming.
+2. Use only facts from public sources or from the submission. Leave out private details (home address, contact details, date of birth, health, family matters) unless the person offers them. Mention family members only if they are asked too.
+3. Share the draft with the person through a moderator. Record their consent, and the date, in the contact register. Do not put the consent itself on the page.
+4. Once the person has agreed in writing and approved the text, move the page to `history/people/`, remove the warning callout, and keep `right_of_reply: pending` until a moderator confirms the approved text is the one published. Then set it to `done`.
+5. If the person declines or does not reply, the draft stays private. Do not publish it, and do not describe the person on other pages beyond their public role.
+
+### Person frontmatter
+
+```yaml
+---
+title: 
+description: 
+type: person
+tags:
+  - 
+date: 
+draft: true
+right_of_reply: 
+komitee_review: 
+aliases: []
+born: 
+died: 
+links: []
+updated: 
+---
+```
+
+- `title`: the name the person is best known by in the valley. Put other spellings and names in `aliases`, including baptismal and birth names (for example `aliases: ["Vehettge Tikkuie", "Moeder Lena"]` on a page titled Magdalena).
+- `description`: who they were, their dates, and their link to the valley, in 280 characters or fewer.
+- `tags`: theme tags that apply, then exactly one language tag. No category tag and no priority tag.
+- `born` and `died`: `YYYY-MM-DD` if the full date is known, otherwise `YYYY`. Omit a key if the date is unknown, and say so in the body.
+- `right_of_reply`: omit for people who died long ago. Use `pending` for someone who died in living memory, and for a living person until they have approved the text.
+- `komitee_review` and `theme/trancraa` follow the same rule as entries: use them only when the page deals with Farm 39 land, TRANCRAA, land tenure, or the mission settlement's land.
+- Omit `holon`, `category`, `status`, `location`, `contact_consent`, `contact`, `start_date`, `funding_status`, and `needs`.
+
+### Person body
+
+1. **Opening paragraph.** Who they were, when they lived, and why they matter to the valley.
+2. **The fact-status key.** The same callout as on concept pages, with [MS] explained as coming from Moravian Church histories and records (or, for a Greyton figure, from that community's own sources), which often agree because they share an origin.
+3. **At a glance.** A two-column table: Born, Died, and Known for, plus a row naming their link to the valley or to another figure.
+4. **Their life.** One or more sections, in the order events happened.
+5. **Links to other figures** (when there are any). How this person is connected to others who have pages. Give the same account on both pages, told from each side, and put any diagram on one page only, with a link from the other.
+6. **Their legacy in the valley.** What remains of their work today, linked to entries where they exist.
+7. **What is still open.** Unknown dates, disputed facts, and whose view of this person is missing.
+8. **Related.** Always include `[[history/index|Valley History]]`.
+9. **References.** As on concept pages.
+
+Every factual claim carries a fact-status tag. Where sources disagree on a date, give both and say which sources give which. Tell the hard parts of the story plainly, including unequal power, dispossession, and failures, and say when most of what is known comes from one side (for example, a missionary's own diary). Do not describe a person's inner life beyond what the sources record.
+
+### Tribes
+
+`history/tribes/` holds one page for each people or nation in the valley's story, named for the Tribes (T) form of the TIME model, in which people organise through kinship and belonging: the San, the Soaqua, the Khoekhoe, the Chainoqua, the Hessequa, and others as they are added. These are pages about peoples whose descendants live today, often in the valley itself, so write them with particular care.
+
+- Frontmatter: `type: page`, theme tags and one language tag, `draft: true`, and `right_of_reply: pending`. Omit `born` and `died`. Add `komitee_review: pending` and `theme/trancraa` only if the page deals with Farm 39 land or the mission settlement's land.
+- `title`: the name most used in current scholarship (for example "Khoekhoe", "Chainoqua"). Put other spellings and older names in `aliases`. The folder is called `tribes/` to follow the TIME model. In page text, call each group a people ("the Chainoqua, a Khoekhoe people"), because some readers hear "tribe" as a colonial word.
+- Body, in this order: an opening paragraph (who they were and their link to the valley); the fact-status key, with [MS] explained as records made by outsiders (company officials, travellers, missionaries); the *A living heritage* note saying that descendants live in the valley and that the page will be corrected by their own accounts; *At a glance* (Also called, Way of life or Land, In the valley, Language or Leaders); sections on the name, way of life, contact with the colony, their place in the valley's story, and today; *What is still open*; *Have your say*; *Related*; *References*.
+- Names: explain which names are considered offensive (such as "Hottentot" and, for many people, "Bushmen") and use them only when explaining them or quoting a source. Never use them as the page's own words.
+- Say plainly that the written record was made by outsiders, and where sources disagree (for example, on where the Hessequa lived), set out each account without choosing between them.
+- Describe violence and dispossession plainly, including violence between peoples, and attribute each claim to its source.
+- Rock art and burial sites: never give their locations on a public page. Ask residents to share them with the moderators privately.
+- Present-day organisations, claims, and leaders: name them only through their own public statements, attributed and tagged [MS], and set `right_of_reply: pending` for each. Land claims and occupations go to the Transformasie Komitee first.
+
+### Institutions
+
+`history/institutions/` holds one page for each institution that shaped the valley, named for the Institutions (I) form of the TIME model, in which people organise through written rules, authority, and fixed settlements. Examples are the Dutch East India Company, the churches, and the municipality. Institutions still active today (the churches, the municipality, the Transformasie Komitee) also belong in the Register as entries, one per congregation or body. An `institutions/` page covers their history in the valley, and must link to their entries.
+
+- Frontmatter: `type: page`, theme tags and one language tag, and `draft: true`. Use `right_of_reply: pending` if the organisation, or a body that succeeded it, still exists.
+- Body, in this order: an opening paragraph (what the organisation was and how it shaped the valley); the fact-status key; *At a glance* (Founded, In the valley, What it was, Ended); sections on what it did in general and then what it did in the valley, in date order; *What is still open*; *Related*; *References*.
+- Where an organisation's own records are the main written source on the people it ruled, traded with, or employed, say so on the page.
+
+### Markets
+
+`history/markets/` holds pages on how the valley exchanged goods, labour, money, and land, named for the Markets (M) form of the TIME model, in which people organise through exchange at a price. Each page covers one trading function (for example the cattle trade, land as property, money and banks, or the mission economy). `money-and-land.md` is the main story that ties them together. Link every new markets page from it.
+
+- Frontmatter: `type: page`, theme tags and one language tag, and `draft: true`. Add `right_of_reply: pending` if the page describes a people, community, or institution that still exists. Add `komitee_review: pending` and `theme/trancraa` if the page deals with Farm 39 land, the mission settlement's land, or land tenure in the valley.
+- Body, in this order: an opening paragraph (what the function was and how it shaped the valley); the fact-status key; *At a glance* (a short table of dates, or When, Who, What was traded, How it worked); sections in date order, first in general and then in the valley; *What is still open*; *Related* (always including `[[history/markets/money-and-land|Money and Land]]`); *References*.
+- Separate fact from reading. Tag the facts. Where the page compares market ways of holding land or exchanging goods with the ways of the San or Khoekhoe, or says what a change meant, say in a note near the top that these are the Forum's interpretation, and leave them untagged.
+- Evidence from elsewhere: practices recorded among other peoples (for example *hxaro* among the Kalahari San) may be described, but say where they were recorded, and tag any claim that they held in this valley [TBV].
+- Name who gained and who lost from each change, with sources, and say plainly when people were paid nothing.
+- Figures: give money amounts in the currency of the time (rixdollars, pounds, shillings), with the year. Do not convert them to rand unless a source does.
+
+### Listing a history page
+
+When you create a history page, add it to `history/index.md`: narrative pages under *The story of the valley*, tribes under *Tribes*, institutions under *Institutions*, markets under *Markets*, people under *People*, as a bullet linking to the page with its title as display text, the person's years in brackets, and one sentence on who they were. If the person was listed among the planned pages, remove them from that list.
+
 ## Privacy and standing protocols
 
 - The vault is published as a public website. Anything written in it may become public.
@@ -392,6 +494,23 @@ For a concept page, items 1, 9, and 12 do not apply. Check instead:
 17. The description states aims as aims.
 18. The page is listed on `concepts/index.md`.
 19. Every external source is listed under *References*, with a working link.
+
+For a person page, items 1, 9, and 12 do not apply. Check instead:
+
+20. `type: person`, the page is in `content/history/people/`, and it carries no category tag and no `holon`, `category`, `location`, or `needs`.
+21. The subject has died, or is living and has given written consent and approved the text (see *Living people*). A person who died in living memory has `right_of_reply: pending` and moderator approval.
+22. `born` and `died` use `YYYY-MM-DD` or `YYYY`, or are omitted and explained.
+23. The fact-status key is at the top of the body, and disagreements between sources are stated.
+24. The page is listed on `history/index.md`.
+25. Every external source is listed under *References*, with a working link.
+
+For a `tribes/`, `institutions/`, or `markets/` page, items 1, 9, and 12 do not apply. Check instead:
+
+26. The page is in the right folder, with `type: page`, no category tag, and no `holon`, `category`, `location`, or `needs`.
+27. A `tribes/` page has `right_of_reply: pending` and the *A living heritage* note, and gives no rock art or burial site locations.
+28. Offensive names appear only where they are explained or quoted.
+29. The page is listed on `history/index.md` under *Tribes*, *Institutions*, or *Markets*. A `markets/` page is also linked from `money-and-land.md`, and interpretation is marked as the Forum's.
+30. Every external source is listed under *References*, with a working link.
 
 Then reply with: the file path, a one-line account of the category and tags chosen, and anything the moderator needs to act on (right-of-reply contacts, Komitee review, missing information, a proposed new tag, a close category call).
 
