@@ -149,6 +149,7 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the Novem
 
 - [[long-term-goal|Our Long-Term Goal]]
 - [[emil-weder-secondary|Emil Weder Secondary School]]
+- [[concepts/restoring-the-river|Restoring the River: Water Skills at the Learning Campus]]
 - [[priorities/education-skills|Education and Skills]]
 - [[concepts/index|Ideas for the Valley]]
 

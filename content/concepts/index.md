@@ -23,6 +23,12 @@ None of these ideas have been agreed upon, but they distill much of the thinking
 ### [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]
 A learning campus that gives every young person in the ward a path from school into study or work in the valley. To be tabled at the November 2026 meeting.
 
+### [[concepts/restoring-the-river|Restoring the River: Water Skills at the Learning Campus]]
+A core theme for the Learning Campus: training young people to restore the Riviersonderend catchment and to be paid for the water it gives, once others have checked the results. To be tabled with the Learning Campus at the November 2026 meeting.
+
+### [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]]
+An idea to move the valley's water question from access to agency: regenerating the flow its land gives the Riviersonderend, being paid for it, and easing what Theewaterskloof Dam must send downstream. Kwaxala wants to help turn water rights into rights to regenerate flow. To be tabled at the November 2026 meeting.
+
 ### [[concepts/tourism-growth-fund-application|Valley of Grace Heritage Trail]]
 An application to the Western Cape Tourism Growth Fund for a heritage trail linking Greyton and the mission settlements, with trained community guides. Being shared with the Transformasie Komitee. To be tabled at the November 2026 meeting.
 
@@ -34,7 +40,7 @@ A suggested route for any group in the valley that wants to form a co-operative:
 
 ## How these fit together
 
-All four ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
+All six ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
 
 ## Have your say
 

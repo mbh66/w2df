@@ -33,6 +33,7 @@ content/
     sport-heritage-arts-culture/
     faith-communities/
   concepts/         (index plus one page per idea; see Concept pages)
+  contributors/     (index plus one page per living research contributor; see Research contributors)
   history/          (index, narrative history pages, and people/; see History pages)
     people/         (one page per historical figure, or per small group; see History pages)
     tribes/         (one page per people or nation, such as the San or the Chainoqua; the T of the TIME model)
@@ -98,7 +99,7 @@ updated:
 | ----------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `title`           | Yes                      | 60 characters maximum. What the entry is, in one line.                                                                                                                                                                                                                                                                    |
 | `description`     | Yes                      | 280 characters maximum. What a reader learns without opening the page. Quartz shows it in link previews.                                                                                                                                                                                                                  |
-| `type`            | Yes                      | `entry` for initiatives. `concept` for ideas in `concepts/` (see *Concept pages*). `person` for historical figures in `history/people/` (see *History pages*). Site-structure pages use `holon`, `category`, `priority`, or `page`.                                                                                                                                                                                                                             |
+| `type`            | Yes                      | `entry` for initiatives. `concept` for ideas in `concepts/` (see *Concept pages*). `person` for historical figures in `history/people/` (see *History pages*). `contributor` for living researchers in `contributors/` (see *Research contributors*). Site-structure pages use `holon`, `category`, `priority`, or `page`.                                                                                                                                                                                                                             |
 | `holon`           | Yes                      | The sphere: exactly `Economic`, `Civic`, or `Cultural`. Must match the category tag.                                                                                                                                                                                                                       |
 | `category`        | Yes                      | Exactly one of the eight category names below, spelled as shown.                                                                                                                                                                                                                                                          |
 | `tags`            | Yes                      | See *Tagging rules*.                                                                                                                                                                                                                                                                                                      |
@@ -362,7 +363,7 @@ Narrative history pages use `type: page`. Pages about people use `type: person`.
 
 A person page is for someone who has died and whose life shaped the valley: Khoekhoe and San leaders, missionaries, converts, founders, teachers, and others. Give the Khoekhoe and San figures of the valley's story the same attention as the missionaries and settlers. Two or more people may share one page when they acted together and the records say too little to support a page for each (for example, `missionaries-of-1792.md` and `kupido-and-willem.md`). Title the page with their names or with what joins them, list each person's names in `aliases`, omit `born` and `died`, and give each person's dates in the *At a glance* table. Say in the opening paragraph why they share a page. If more is later found about one of them, give that person their own page and link the two. If the person died in living memory, ask the moderators first and set `right_of_reply: pending`, so their family can respond.
 
-**Living people.** A page about a living person may be published only with that person's written consent. Follow these steps:
+**Living people.** A page about a living person may be published only with that person's written consent. A living researcher whose work informs the wiki gets a contributor page (see *Research contributors*), which follows the same steps. Follow these steps:
 
 1. Draft the page in `content/private/` (not published, not in git), named `<name>-consent-draft.md`. Open it with a warning callout saying it is a consent draft, and list the questions to put to the person: whether they agree to a page, and any facts that need confirming.
 2. Use only facts from public sources or from the submission. Leave out private details (home address, contact details, date of birth, health, family matters) unless the person offers them. Mention family members only if they are asked too.
@@ -449,6 +450,83 @@ Every factual claim carries a fact-status tag. Where sources disagree on a date,
 
 When you create a history page, add it to `history/index.md`: narrative pages under *The story of the valley*, tribes under *Tribes*, institutions under *Institutions*, markets under *Markets*, people under *People*, as a bullet linking to the page with its title as display text, the person's years in brackets, and one sentence on who they were. If the person was listed among the planned pages, remove them from that list.
 
+## Research contributors
+
+Living researchers, historians, archivists, and holders of local knowledge help write this wiki. The wiki recognises them in three ways. Each one needs more consent than the one before it.
+
+### Cited
+
+Anyone's published work may be cited under *References* without their consent, because it is public.
+
+- Describe the work only by what it says. Describe the author only by their public role ("archaeologist", "historian of Genadendal").
+- A published scholarly source (a book, thesis, journal article, or official report) counts as one independent source toward [IC].
+- Use the usual *References* format: the author, then a link with the title as link text, then what the page took from it.
+
+### Credited
+
+When a researcher reviews a page or supplies material for it, the page may name them. Do this only when they have agreed to be named and a moderator has recorded that agreement, with the date, in the contact register.
+
+- Add the optional key `contributors` after `links` in the frontmatter. It lists names spelled exactly as on the person's contributor page, or as they asked to be named: `contributors: ["Janette Deacon"]`.
+- Add a `## Contributors` section directly above *References*, one line per person, saying what they did, when, and their public role. Link the name to their contributor page if one is published: `- Reviewed by [[contributors/janette-deacon|Dr Janette Deacon]], archaeologist, October 2026.` Otherwise give the name as plain text.
+- A review does not change a fact's status by itself. A claim moves off [TBV] only when the reviewer points to a source, and that source is then listed under *References*.
+- Knowledge a contributor shares that is not published anywhere is attributed to them in the text ("Dr Deacon told the moderators that ...") and tagged [MS]. List it under *References* as a personal communication with its date: `- Deacon, J. Personal communication to the moderators, 12 October 2026.` On that page, add "or from a named contributor's own account" to the [MS] line of the fact-status key.
+- A credit says what the person did on that page. Never write that a contributor endorses a page, the Forum, or a proposal.
+
+### Contributor pages
+
+A researcher who wants a fuller presence may have a contributor page in `content/contributors/`, with `type: contributor`. Contributor pages are for living people. Someone who has died and whose life shaped the valley gets a person page in `history/people/` (see *History pages*).
+
+Follow the *Living people* steps. Draft the page in `content/private/` as `<name>-consent-draft.md`, share it through a moderator, record consent in the contact register, and publish only after the person has approved the text in writing. If the person declines, the wiki may still cite their published work, and may credit them on pages they helped with if they agree to that.
+
+#### Contributor frontmatter
+
+```yaml
+---
+title: 
+description: 
+type: contributor
+role: 
+tags:
+  - 
+date: 
+draft: true
+right_of_reply: pending
+contact_consent: no
+contact: 
+aliases: []
+links: []
+updated: 
+---
+```
+
+- `title`: the name the person wishes to be known by, without a title such as Dr. Put the form with the title, and other forms of the name, in `aliases` (for example `aliases: ["Dr Janette Deacon"]`).
+- `description`: their field and how their work bears on the valley, in 280 characters or fewer.
+- `role`: a short public role, used in credits: `Archaeologist`, `Historian of Genadendal`. Use the person's own wording once they have given it.
+- `tags`: theme tags that match their field (usually `theme/heritage`, `theme/environment`, or `theme/water`), then exactly one language tag. No category tag and no priority tag.
+- `right_of_reply`: `pending` until a moderator confirms that the published text is the approved one. Then `done`.
+- `contact_consent` and `contact`: as for entries. A university or work email counts as a private contact detail until the person agrees to list it.
+- Omit `holon`, `category`, `status`, `location`, `start_date`, `funding_status`, `needs`, `born`, and `died`.
+
+#### Contributor body
+
+1. **Opening paragraph.** Who they are, their field, and how their work bears on the valley.
+2. **The fact-status key.** The same callout as on concept pages, with [MS] explained as coming from the contributor's own account, profile, or publications.
+3. **At a glance.** A two-column table: Field, Known for, and Link to the valley.
+4. **Their work.** Posts held, fieldwork, and research, in the order they happened. Name the regions they worked in, so readers can see how near or far the work is from the valley.
+5. **Their publications.** Published work that bears on the valley or the region, one bullet each: the title in italics, the year, the publisher or journal, and one sentence on what it covers.
+6. **Work on this wiki.** The pages they have reviewed or supplied material for, each linked, with dates. Keep this list in step with the `## Contributors` sections on those pages.
+7. **How to reach them.** The public contact if `contact_consent: yes`. Otherwise the moderators via [[how-to-submit|How to Submit]].
+8. **Related.** Always include `[[contributors/index|Research Contributors]]`.
+9. **References.** As on concept pages.
+
+Describe the work and let readers judge it. Use no praise words ("renowned", "highly acclaimed", "leading"). Posts held and awards may be listed as facts, with sources. Leave out private details as the *Living people* rule requires (home address, date of birth, health, and family) unless the person offers them. Name a co-author only as a co-author.
+
+A contributor may know where rock art or burial sites are. Those locations go to the moderators privately, and never onto a public page, including the contributor's own (see *Tribes*).
+
+#### Listing a contributor
+
+`contributors/index.md` has no Base and is kept by hand. When a contributor page is published, add it under *Contributors*: a bullet linking to the page with its title as display text, then the person's role, then one sentence on how their work bears on the valley. Consent drafts are not listed.
+
 ## Privacy and standing protocols
 
 - The vault is published as a public website. Anything written in it may become public.
@@ -511,6 +589,19 @@ For a `tribes/`, `institutions/`, or `markets/` page, items 1, 9, and 12 do not 
 28. Offensive names appear only where they are explained or quoted.
 29. The page is listed on `history/index.md` under *Tribes*, *Institutions*, or *Markets*. A `markets/` page is also linked from `money-and-land.md`, and interpretation is marked as the Forum's.
 30. Every external source is listed under *References*, with a working link.
+
+For a contributor page, items 1, 9, and 12 do not apply. Check instead:
+
+31. `type: contributor`, the page is in `content/contributors/` (or in `content/private/` as a consent draft), and it carries no category tag and no `holon`, `category`, `location`, or `needs`.
+32. The person has given written consent and approved the text, or the page is still a consent draft in `private/` with the warning callout and the questions for them.
+33. No contact details, date of birth, home address, health, or family details unless the person offered them, and no rock art or burial site locations.
+34. Every page listed under *Work on this wiki* names the person in its `contributors` key and its `## Contributors` section.
+35. Once published, the page is listed on `contributors/index.md`.
+36. Every external source is listed under *References*, with a working link.
+
+On any page with a `contributors` key, also check:
+
+37. Every name in `contributors` has a line in the page's `## Contributors` section, and the person's agreement to be named is recorded in the contact register.
 
 Then reply with: the file path, a one-line account of the category and tags chosen, and anything the moderator needs to act on (right-of-reply contacts, Komitee review, missing information, a proposed new tag, a close category call).
 
