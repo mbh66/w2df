@@ -38,9 +38,12 @@ A primary co-operative of valley growers that would share one brand, a farm shop
 ### [[concepts/starting-a-co-operative|Starting a Co-operative in the Valley: A Suggested Route]]
 A suggested route for any group in the valley that wants to form a co-operative: legal steps, training to national standards, skills funds and grants, B-BBEE, and joining other co-operatives for bigger contracts. To be tabled at the November 2026 meeting.
 
+### [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]]
+A yearly household survey that would let the valley speak to government and investors with one voice, using its own numbers on what each village has to offer. To be tabled at the November 2026 meeting.
+
 ## How these fit together
 
-All six ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
+All seven ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
 
 ## Have your say
 

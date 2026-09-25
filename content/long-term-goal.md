@@ -59,7 +59,7 @@ Each of the Forum's five [[priorities/index|priorities]] moves the valley toward
 
 The Forum plans to run a short survey once a year, starting in 2027. Young people from each village will be trained and paid to visit homes and ask the questions on a phone. The survey will take about 15 minutes, in Afrikaans or English.
 
-We will ask the same questions every year, so we can see what changes. Results will be published on this site, village by village.
+We will ask the same questions every year, so we can see what changes. Results will be published on this site, village by village. The idea is set out in full on [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]]: why the survey helps the valley speak with one voice, and what it could measure.
 
 The survey is anonymous. We will not record names or addresses. Small hamlets will be grouped together in the results so that no household can be recognised. See the [[data-policy|Data Policy]].
 
@@ -100,3 +100,4 @@ Most questions can be answered with *Yes*, *Partly*, *No*, or *Don't know*.
 - [[priorities/index|Forum Priorities]]
 - [[register|The Register]]
 - [[data-policy|Data Policy]]
+- [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]]
