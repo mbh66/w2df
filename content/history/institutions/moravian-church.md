@@ -19,6 +19,7 @@ aliases:
 links:
   - https://www.moravianchurch.co.za/about-moravian-church/
   - https://www.oikoumene.org/member-churches/moravian-church-in-south-africa
+updated: 2026-09-25
 ---
 
 The Moravian Church founded Genadendal, the first mission in southern Africa, and ran it for almost two centuries [IC]. It built the valley's first school, its teachers' college, its printing press, and the church on Church Square, and it held the mission land in trust for residents [IC]. Its congregations in [[moravian-church-genadendal|Genadendal]], [[moravian-church-bereaville|Bereaville]], [[moravian-church-voorstekraal|Voorstekraal]], and [[moravian-church-greyton|Greyton]] are listed in the Register. This page tells the church's history in the valley.
@@ -66,11 +67,16 @@ In 1909 the Mission Stations and Communal Reserves Act placed mission land under
 
 Under apartheid, the division of the church into two provinces along lines of language and race became hard to defend [MS]. In 1991 the two synods resolved to form "one Moravian Church in South Africa", and the united province was established in 1998 [IC]. The church's offices, once at Genadendal, moved to Cape Town [MS].
 
+## Two views of the mission
+
+The mission's record is judged in more than one way. In the documentary series [[history/the-khoekhoe-saga|The Khoekhoe Saga]] (2023), critics of the missionaries say they came believing Khoisan faith was heathen and uncivilised, and that they may have helped destroy Khoekhoe culture without meaning to [MS]. One speaker says a person could not be baptised and keep a Khoi identity, so that baptism was a political act that stripped people of who they were [MS]. Others in the same series say the missions gave hope and a new way of life to people who had lost their land, and taught them to read and write [MS]. The church's own response to these views has not yet been added to this page.
+
 ## What is still open
 
 - When the church's South African headquarters moved from Genadendal to Cape Town.
 - When the Moravian congregations of Bereaville, Voorstekraal, and Greyton were founded.
 - How the church and residents see the history of the 1909 Act and the rift it caused, in their own words.
+- How the church responds to the view that baptism at the missions stripped Khoekhoe people of their identity.
 
 ## Related
 
@@ -82,6 +88,7 @@ Under apartheid, the division of the church into two provinces along lines of la
 - [[genadendal-mission-museum|Genadendal Mission Museum]]
 - [[history/history-of-the-valley|History of the Valley]]
 - [[history/music-of-the-valley|Music of the Valley]]
+- [[history/the-khoekhoe-saga|The Khoekhoe Saga]]
 
 ## References
 
@@ -91,3 +98,4 @@ Under apartheid, the division of the church into two provinces along lines of la
 - South African History Online. [Genadendal Historic Village and Museum](https://sahistory.org.za/place/genadendal-historic-village-museum). The college and its closure.
 - [[trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]], and the sources listed there. The 1858 grant, the 1909 Act, the secular board of 1924, and the Glebe Lands.
 - *Valley of Grace: Significant Dates* (2026). Forum research notes, held by the Forum. Langgezocht (1899) and the rift after 1909.
+- YouTube. [The Khoekhoe Saga](https://www.youtube.com/watch?v=z7oX-BBtwN8). The series trailer. The promotion for episode 4, on faith and the missions, is also on YouTube.

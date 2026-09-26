@@ -72,6 +72,10 @@ The three kept a diary of daily life at the mission. It records who came, what w
 
 - [[history/people/georg-schmidt|Georg Schmidt]] started the mission they reopened.
 - [[history/people/magdalena|Magdalena]] had kept it alive, and helped them in their first years.
+- [[history/people/hendrik-marsveld|Hendrik Marsveld]] now has a page of his own, covering his journeys to Cape Town to speak for the mission.
+- [[history/people/johann-christian-kuhnel|Johann Christian Kühnel]] now has a page of his own, covering the forge and the knives.
+- [[history/people/abraham-josias-sluysken|Abraham Josias Sluysken]], head of the Cape government from 1793 to 1795, let them stay at Baviaanskloof but forbade them to build, and ordered the Khoekhoe living with them to send their cattle away [MS].
+- [[history/people/bisani|Bisani]], a commandant of the Swellendam rebels, ordered them to leave Baviaanskloof in July 1795 [MS].
 
 ## What is still open
 
@@ -87,6 +91,9 @@ The three kept a diary of daily life at the mission. It records who came, what w
 - [[history/history-of-the-valley|History of the Valley]]
 - [[history/people/georg-schmidt|Georg Schmidt]]
 - [[history/people/magdalena|Magdalena]]
+- [[history/people/hendrik-marsveld|Hendrik Marsveld]]
+- [[history/people/johann-christian-kuhnel|Johann Christian Kühnel]]
+- [[history/people/abraham-josias-sluysken|Abraham Josias Sluysken]]
 - [[genadendal-mission-museum|Genadendal Mission Museum]]
 - [[moravian-church-genadendal|Moravian Church Genadendal]]
 - [[lr-schmidt-primary|L.R. Schmidt Primary School]]

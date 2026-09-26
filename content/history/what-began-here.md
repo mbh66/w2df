@@ -112,6 +112,7 @@ To add a first, correct a fact, or tell the story from your side, contact the mo
 
 ## Related
 
+- [[history/from-farm-to-classroom|From the Farm to the Classroom]]
 - [[history/index|Valley History]]
 - [[history/history-of-the-valley|History of the Valley]]
 - [[history/history-of-greyton|History of Greyton]]

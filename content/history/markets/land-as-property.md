@@ -51,7 +51,7 @@ The company did not recognise these rights as property [IC]. It gave out land as
 
 From 1657 the company granted colonists surveyed freehold farms in the south-western Cape [IC]. As colonists moved inland with their cattle, the company let them hold large "loan farms" from 1714 [IC]. A loan farm was never surveyed. The holder paid the company a yearly "recognition" fee in money, and had the right to graze, but the land remained the company's [IC].
 
-In 1813 the British governor, Sir John Cradock, turned loan farms into "perpetual quitrent" farms [IC]. They had to be surveyed, were limited to 3,000 morgen, and could be inherited and sold, in return for a higher yearly rent [IC]. Land became a registered, bounded thing with a price. Many poorer people, including Khoekhoe who had still lived on unsurveyed land, were pushed off [TBV]. From 1843, Crown land was sold as freehold at public auction [IC].
+In 1813 the British governor, [[history/people/john-cradock|Sir John Cradock]], turned loan farms into "perpetual quitrent" farms [IC]. They had to be surveyed, were limited to 3,000 morgen, and could be inherited and sold, in return for a higher yearly rent [IC]. Land became a registered, bounded thing with a price. Many poorer people, including Khoekhoe who had still lived on unsurveyed land, were pushed off [TBV]. From 1843, Crown land was sold as freehold at public auction [IC].
 
 ## Weltevreden and Greyton
 
@@ -75,6 +75,7 @@ Residents therefore had homes, gardens, and grazing, but no title deeds [IC]. Th
 
 - [[history/index|Valley History]]
 - [[history/markets/money-and-land|Money and Land]]
+- [[history/markets/loan-farms-and-quitrent|Loan Farms and Quitrent]]
 - [[history/markets/money-and-banks|Money and Banks]]
 - [[history/history-of-greyton|History of Greyton]]
 - [[trancraa-process-farm-39|TRANCRAA and Farm 39]]

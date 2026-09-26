@@ -43,7 +43,7 @@ Portuguese sailors described large Khoekhoe herds at the Cape in 1488 [IC]. From
 
 ## Land becomes property (1657 to 1854)
 
-The company never recognised Khoekhoe or San land as property [IC]. From 1657 it granted colonists freehold farms near Cape Town [IC]. In 1714 it began letting large "loan farms" in the interior, for a yearly fee paid in money [IC]. In 1813 Governor Cradock turned loan farms into surveyed farms held for ever on a yearly quitrent, which could be inherited and sold [IC]. Land that had been grazed by the valley's people for centuries became a numbered, mapped, saleable thing. See [[history/markets/land-as-property|Land as Property]].
+The company never recognised Khoekhoe or San land as property [IC]. From 1657 it granted colonists freehold farms near Cape Town [IC]. In 1714 it began letting large "loan farms" in the interior, for a yearly fee paid in money [IC]. In 1813 Governor [[history/people/john-cradock|Cradock]] turned loan farms into surveyed farms held for ever on a yearly quitrent, which could be inherited and sold [IC]. Land that had been grazed by the valley's people for centuries became a numbered, mapped, saleable thing. See [[history/markets/land-as-property|Land as Property]], and [[history/markets/loan-farms-and-quitrent|Loan Farms and Quitrent]] for the difference between the two systems.
 
 The farm Weltevreden, where Greyton now stands, went through this whole process: a loan farm in 1791, a grant in 1793, sold on in 1795, 1839, and 1846, and divided into freehold plots for sale in 1854 [IC].
 
@@ -109,6 +109,8 @@ The Forum's long-term goal proposes a BioConomy, in which more of what the valle
 - [[history/index|Valley History]]
 - [[history/markets/cattle-trade|The Cattle Trade]]
 - [[history/markets/land-as-property|Land as Property]]
+- [[history/markets/loan-farms-and-quitrent|Loan Farms and Quitrent]]
+- [[history/markets/caledon-code|The Caledon Code]]
 - [[history/markets/money-and-banks|Money and Banks]]
 - [[history/markets/mission-economy|The Mission Economy]]
 - [[trancraa-process-farm-39|TRANCRAA and Farm 39]]

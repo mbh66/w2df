@@ -302,6 +302,7 @@ This is one way of reading the history. Residents may read the same events diffe
 - [[history/institutions/municipality|The Municipality]]
 - [[history/markets/money-and-land|Money and Land]]
 - [[history/history-of-greyton|History of Greyton]]
+- [[history/laws-that-shaped-the-valley|The Laws That Shaped the Valley]]
 - [[history/what-began-here|What Began Here]]
 - [[history/music-of-the-valley|Music of the Valley]]
 - [[history/people/jan-amos-comenius|Jan Amos Comenius]]

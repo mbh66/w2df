@@ -14,6 +14,7 @@ aliases:
   - Hessekwa
 links:
   - https://en.wikipedia.org/wiki/Hessequa_Local_Municipality
+updated: 2026-09-25
 ---
 
 The Hessequa were a [[history/tribes/khoekhoe|Khoekhoe]] people of the southern Cape [IC]. Historians place their main grazing lands east of the Breede River, beyond the [[history/tribes/chainoqua|Chainoqua]] [IC]. The Hessequa Municipality around Riversdale, which stretches from the Breede River to the Gourits River, is named after them [IC]. Greyton's histories say the Hessequa grazed the valley of the Gobos River, where Greyton now stands, and the Moravian Church in South Africa says [[history/people/magdalena|Magdalena]] was Hessequa [MS]. How far west Hessequa families lived is one of the open questions of the valley's early history.
@@ -55,11 +56,14 @@ These accounts do not sit easily with the historians' map, which puts this valle
 
 The name lives on in the Hessequa Municipality [IC]. People of Hessequa descent have begun work to restore and revive Hessequa culture [MS].
 
+The documentary series [[history/the-khoekhoe-saga|The Khoekhoe Saga]] (2023) gives its second episode to the Hessequa [MS]. It films at the Hessequas River and the Hessequaskloof near Swellendam, and meets people of Hessequa descent [MS]. The presenter calls the Hessequa "the people of the trees", and says they lived in the area west of Swellendam [MS].
+
 ## What is still open
 
 - What "Hessequa" means, and how the name was said.
 - Whether Hessequa families lived in the Sonderend valley, and when.
 - Whether Koekson and Magdalena were Hessequa.
+- Where the Hessequas River and the Hessequaskloof shown in *The Khoekhoe Saga* lie, and what they add to the question of how far west the Hessequa lived.
 
 ## Have your say
 
@@ -73,6 +77,7 @@ If you are of Hessequa descent, or hold knowledge of this history, contact the m
 - [[history/people/stoffel-koekson|Stoffel Koekson]]
 - [[history/people/magdalena|Magdalena]]
 - [[history/history-of-greyton|History of Greyton]]
+- [[history/the-khoekhoe-saga|The Khoekhoe Saga]]
 
 ## References
 
@@ -83,3 +88,4 @@ If you are of Hessequa descent, or hold knowledge of this history, contact the m
 - Moravian Church in South Africa. [Women's Month and Pilgrimage of Grace](https://www.moravianchurch.co.za/womens-month-and-pilgrimage-of-grace/). Magdalena as Hessequa.
 - Wikipedia. [Dutch Cape Colony](https://en.wikipedia.org/wiki/Dutch_Cape_Colony). The Swellendam magistracy of 1745.
 - [Restoration and Rejuvenation of the Hessequa Culture](https://www.academia.edu/123613608/Restoration_and_Rejuvenation_of_the_Hessequa_Culture). A revival project document. Not yet read.
+- YouTube. [The Khoekhoe Saga](https://www.youtube.com/watch?v=z7oX-BBtwN8). The series trailer. The promotion for episode 2, on the Hessequa, is also on YouTube.

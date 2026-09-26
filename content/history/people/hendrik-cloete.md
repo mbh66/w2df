@@ -55,6 +55,7 @@ Cloete died four years later. Who held Weltevreden between his death in 1799 and
 - [[history/people/marthinus-theunissen|Marthinus Theunissen]] held Weltevreden before him.
 - [[history/people/john-malcolm-stewart|John Malcolm Stewart]] owned it after him, from 1839.
 - [[history/people/herbert-vigne|Herbert Vigne]] bought it in 1846 and founded Greyton on it.
+- [[history/people/abraham-josias-sluysken|Abraham Josias Sluysken]], head of the Cape government from 1793 to 1795, ordered the Khoekhoe living at the mission at Baviaanskloof to send their cattle away. In February 1795 the missionaries' diaries record a visit to the mission by "Mr Clüde, to whom Constantia belongs", who, with his companions, said the grazing was ample and that Sluysken "has not been told the truth" [MS]. In April 1795 the diaries record that a "Mr Claude", probably the same man, had put the Khoekhoe's case to the government and bought land near the mission [TBV]. That land was probably Weltevreden itself, held until then by [[history/people/baas-teunis|Baas Teunis]]'s son, who was probably [[history/people/marthinus-theunissen|Marthinus Theunissen]] [TBV]. In July 1796 a letter from the British Governor mentions complaints by Mr Clüde about the Khoekhoe's cattle [MS]. See [Genadendal Diaries, A363595, lines 14576 to 14712](https://github.com/mbh66/genadendal-diaries/blob/main/translations/en/A363595/31-february-1795.md) and [A363349, lines 16215 to 16238](https://github.com/mbh66/genadendal-diaries/blob/main/translations/en/A363349/65-july-1796.md).
 
 ## What is still open
 
@@ -69,6 +70,7 @@ Cloete died four years later. Who held Weltevreden between his death in 1799 and
 - [[history/people/marthinus-theunissen|Marthinus Theunissen]]
 - [[history/people/john-malcolm-stewart|John Malcolm Stewart]]
 - [[history/people/herbert-vigne|Herbert Vigne]]
+- [[history/people/abraham-josias-sluysken|Abraham Josias Sluysken]]
 
 ## References
 
@@ -77,3 +79,4 @@ Cloete died four years later. Who held Weltevreden between his death in 1799 and
 - Wikipedia. [Groot Constantia](https://en.wikipedia.org/wiki/Groot_Constantia). The Cloete family's ownership and the cellar of 1791.
 - Xplorio Greyton. [History of Greyton and Genadendal](https://xplorio.com/greyton/en/about/history/). Cloete's ownership of Weltevreden from 1795.
 - Greyton Transition Town. [About Greyton](https://greytontransition.co.za/about-greyton/). Cloete of Groot Constantia taking over Weltevreden in 1795.
+- Genadendal Diaries repository. [Genadendal Diaries](https://github.com/mbh66/genadendal-diaries). English translations of the missionaries' diaries, cited by file and line number. Unreviewed machine translations. The visit of February 1795 and the complaint of July 1796.

@@ -3,7 +3,7 @@ title: Farm 39
 description: "The legal name for the land on which Genadendal, Bereaville, Voorstekraal, and Boschmanskloof stand. It is used mainly in the TRANCRAA process and by the Transformasie Komitee."
 type: page
 date: 2026-09-23
-draft: true
+draft: false
 komitee_review: pending
 ---
 

@@ -71,6 +71,7 @@ The government closed the college in 1926, arguing that coloured people did not 
 
 ## Related
 
+- [[history/from-farm-to-classroom|From the Farm to the Classroom]]
 - [[history/index|Valley History]]
 - [[history/history-of-the-valley|History of the Valley]]
 - [[history/people/missionaries-of-1792|The Missionaries of 1792]]
