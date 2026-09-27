@@ -88,6 +88,7 @@ If you hold old title deeds, schedules, photographs, or memories of the leiwater
 
 - [[history/index|Valley History]]
 - [[history/history-of-greyton|History of Greyton]]
+- [[planned-towns-of-the-cape|Greyton and the Planned Towns of the Cape]]
 - [[history/what-began-here|What Began Here]]
 - [[history/markets/land-as-property|Land as Property]]
 - [[history/people/j-g-rietz|J.G. Rietz]]

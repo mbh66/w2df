@@ -149,6 +149,7 @@ If your family was moved from Greyton, or you hold photographs, deeds, or storie
 - [[history/index|Valley History]]
 - [[history/history-of-the-valley|History of the Valley]]
 - [[history/leiwater|Greyton's Leiwater]]
+- [[planned-towns-of-the-cape|Greyton and the Planned Towns of the Cape]]
 - [[villages/greyton|Greyton]]
 - [[villages/heuwelkroon|Heuwelkroon]]
 - [[villages/boschmanskloof|Boschmanskloof]]

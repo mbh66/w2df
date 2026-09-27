@@ -19,6 +19,7 @@ This section holds the history of the valley and the people who shaped it. It is
 - [[history/history-of-the-valley|History of the Valley]]. From the first stone tools to the Forum's first meeting in 2026, with a full timeline.
 - [[history/history-of-greyton|History of Greyton]]. Greyton's own story, from Weltevreden to the removals to Heuwelkroon and the nature reserve.
 - [[history/leiwater|Greyton's Leiwater]]. The furrows that have watered Greyton's gardens since 1854.
+- [[planned-towns-of-the-cape|Greyton and the Planned Towns of the Cape]]. Was Greyton one of the first planned towns? How it compares with the Cape towns and leiwater villages laid out before and beside it.
 - [[history/music-of-the-valley|Music of the Valley]]. Hymns, the organ, the brass band, composers, and the music archive.
 - [[history/what-began-here|What Began Here]]. What the valley started, what was taken, what carried it through, and how the plans for 2038 continue the story.
 - [[history/from-farm-to-classroom|From the Farm to the Classroom]]. How children's years from eight to eighteen moved from farm labour to school, from the 1790s to the teachers' college of 1838.
