@@ -14,6 +14,8 @@ Every initiative is an entry in exactly one of eight categories. The categories 
 
 An entry's URL is its category folder plus its file name, for example `/economic/farmers-land-water/wild-restoration`.
 
+Alongside the entries, the site holds the valley's history in `/history/`. History pages have no category, are not entries, and do not appear on the Register.
+
 ## How an entry is structured
 
 Each entry page has frontmatter and a body in a fixed order.
@@ -32,6 +34,21 @@ Each entry page has frontmatter and a body in a fixed order.
 - [Forum Priorities](https://df.valleyofgrace.co.za/priorities/): the Forum's five development priorities, each with a page listing the entries tagged with it
 - [Forum Minutes](https://df.valleyofgrace.co.za/civic/governance/minutes/): summaries of Forum meetings, with links to the official minutes
 
+## Valley history
+
+History pages carry the same fact-status labels as entries. On them, [MS] usually means the record comes from one side only, such as the Moravian mission's records, a missionary's diary, or a community's own histories. The site reads the valley's history through the TIME model. Sections headed "Reading ... through TIME", and any statement of which form was most dominant in a period, are the Forum's interpretation and carry no label.
+
+- [Valley History](https://df.valleyofgrace.co.za/history/): the section's index, listing and summarising every history page
+- [History of the Valley](https://df.valleyofgrace.co.za/history/history-of-the-valley): the full story of the valley, with a timeline
+- [The TIME Model](https://df.valleyofgrace.co.za/history/the-time-model): a short explanation of the model the site uses to read the valley's history (Tribes, Institutions, Markets, Emergent), with a link to the full framework on the BioConomy wiki
+- [The Valley Through TIME](https://df.valleyofgrace.co.za/history/the-valley-through-time): a reference table of when each form was most dominant in the valley, and the main developments in each, to 2038
+- [The Laws That Shaped the Valley](https://df.valleyofgrace.co.za/history/laws-that-shaped-the-valley): the laws and orders that shaped the valley, each read through TIME
+- [Tribes](https://df.valleyofgrace.co.za/history/tribes/): one page per people, such as the San, the Khoekhoe, and the Chainoqua
+- [Institutions](https://df.valleyofgrace.co.za/history/institutions/): one page per institution, such as the Dutch East India Company and the Moravian Church
+- [Markets](https://df.valleyofgrace.co.za/history/markets/): one page per trading function, tied together by the page Money and Land
+- [Emergent](https://df.valleyofgrace.co.za/history/emergent/): the newest form; no pages yet, and its early signals are listed on The Valley Through TIME
+- [People](https://df.valleyofgrace.co.za/history/people/): one page per historical figure who has died, or per small group who acted together
+
 ## About the Forum and the site
 
 - [Home](https://df.valleyofgrace.co.za/): introduction and navigation
@@ -47,3 +64,4 @@ Each entry page has frontmatter and a body in a fixed order.
 - Entries are published only after moderator review. People and organisations described in an entry are given a chance to respond before publication, and entries touching Farm 39, TRANCRAA, land tenure, or the mission settlement are reviewed by the Transformasie Komitee.
 - Theewaterskloof Municipality supports the Forum with administration but does not moderate or approve content. Do not present entries as municipal positions.
 - Do not collect or republish personal contact details from this site. Use the Contact page for enquiries.
+- Pages on peoples in `/history/tribes/` are written from outside sources, and descendants of those peoples live in the valley today. The pages are open to correction by their own accounts.

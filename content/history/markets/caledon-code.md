@@ -27,7 +27,7 @@ On 1 November 1809 the governor of the Cape, [[history/people/lord-caledon|Lord 
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 > [!note] Reading this page
-> The *Markets* pages follow the M of the TIME model: exchange at a price. The facts carry tags. The reading of what the code meant, in the section *Reading the code through TIME*, is the Forum's interpretation and carries no tag.
+> The *Markets* pages follow the M of the [[history/the-time-model|TIME model]]: exchange at a price. The facts carry tags. The reading of what the code meant, in the section *Reading the code through TIME*, is the Forum's interpretation and carries no tag.
 
 > [!note] About the name
 > In its own time the proclamation was called the "Hottentot Proclamation", and historians still call it the "Hottentot Code". "Hottentot" was the colonial name for the Khoekhoe, and it is now considered offensive. This wiki uses the name only here, to explain it, and otherwise calls the law the Caledon Code. See [[history/tribes/khoekhoe|Khoekhoe]].
@@ -94,7 +94,7 @@ Genadendal had more than 1,000 Khoekhoe residents by 1806 [MS]. Mission stations
 
 **A market fenced in by law.** The code treated Khoekhoe work as something exchanged for wages under contract: the Markets form. Yet the workers were not free to take their labour elsewhere. They needed a pass to look for another master, and without one they were vagrants. It was a labour market built and fenced by Institutions, in which the price and the place of work were largely set for the worker.
 
-**The state above the master.** Dooling reads the code another way as well. Before 1809 a farmer ruled his servants largely by his own authority. The code put a written law, officials, and courts between master and servant. Masters could be fined, taken to court, and in the end hanged. In the terms of the TIME model, the Institutions form reached past the farm gate for the first time. That same reach made the code a means of control and a means of protection at once.
+**The state above the master.** Dooling reads the code another way as well. Before 1809 a farmer ruled his servants largely by his own authority. The code put a written law, officials, and courts between master and servant. Masters could be fined, taken to court, and in the end hanged. In the terms of the [[history/the-time-model|TIME model]], the Institutions form reached past the farm gate for the first time. That same reach made the code a means of control and a means of protection at once.
 
 **Who gained and who lost.** Farmers gained a steady supply of labour, secured by law, at a time when they could no longer buy slaves [TBV]. Khoekhoe workers gained written contracts, a right to their wages, and courts to complain to, but lost the freedom to move and, after 1812, often the right to decide where their children would grow up [IC]. Their labour was not unpaid, but its price was set on terms they did not choose.
 

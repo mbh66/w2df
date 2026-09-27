@@ -21,7 +21,7 @@ links:
 
 For more than three hundred years, laws made far from the valley decided who could graze its land, who could live on it, who had to work for whom, and which children went to school. This page brings those laws together in one place. It includes the laws that reached the valley directly, and the national racial laws that shaped the whole country and so shaped the valley too. It also includes the orders the missionaries wrote down in their diaries between 1792 and 1805, because those orders show how the law actually arrived: spoken at the church door by the keeper of the company post, or carried up the kloof by a field cornet. A few rows are not laws at all. They are market signals large enough to change what the law and the valley may do next, and they are marked as such.
 
-Each law is read through the TIME model used on [[history/the-valley-through-time|The Valley Through TIME]]: which of the forms of organisation it built up, which it held back, and whether it carries any early sign of the Emergent form.
+Each law is read through the [[history/the-time-model|TIME model]] used on [[history/the-valley-through-time|The Valley Through TIME]]: which of the forms of organisation it built up, which it held back, and whether it carries any early sign of the Emergent form.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.

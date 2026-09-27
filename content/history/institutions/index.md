@@ -12,7 +12,7 @@ aliases:
   - Instellings
 ---
 
-This section holds one page for each institution that shaped the valley. It takes its name from the Institutions form of the TIME model, in which people organise through written rules and the authority of leaders, and live in fixed settlements. Each page tells the institution's history in the valley. Institutions still at work today, such as the churches and the municipality, also appear in [[register|The Register]] as entries, one for each congregation or body, and their history page links to those entries.
+This section holds one page for each institution that shaped the valley. It takes its name from the Institutions form of the [[history/the-time-model|TIME model]], in which people organise through written rules and the authority of leaders, and live in fixed settlements. Each page tells the institution's history in the valley. Institutions still at work today, such as the churches and the municipality, also appear in [[register|The Register]] as entries, one for each congregation or body, and their history page links to those entries.
 
 ## The institutions
 
@@ -26,7 +26,7 @@ Each page gives the sources for its facts. Where an institution's own records ar
 
 ## Institutions in the TIME model
 
-TIME reads the valley's history through four forms of organisation: Tribes, Institutions, Markets, and Emergent. Each new form is added to the ones before it, and none comes to a close. The general model has its home on the BioConomy wiki, at [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework).
+[[history/the-time-model|TIME]] reads the valley's history through four forms of organisation: Tribes, Institutions, Markets, and Emergent. Each new form is added to the ones before it, and none comes to a close. The general model has its home on the BioConomy wiki, at [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework).
 
 In the Forum's reading, Institutions was the most dominant form in the valley from about 1713 to about 1860. It is still at work today in the churches and schools and in the municipality. This reading carries no fact-status tag, and residents may read the history differently. [[history/the-valley-through-time|The Valley Through TIME]] explains the dates.
 
@@ -46,4 +46,4 @@ If you hold records, photographs, or family stories about any of these instituti
 ## References
 
 - BioConomy wiki. [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework). The general definition of the four forms.
-- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which the TIME model builds.
+- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which the [[history/the-time-model|TIME model]] builds.

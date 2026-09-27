@@ -96,7 +96,7 @@ This wording is the Forum's suggestion for residents and guides who want to keep
 
 ## Read through TIME
 
-In the terms of the TIME model used on [[history/the-valley-through-time|The Valley Through TIME]], Greyton's planned plots belong to the Markets form: land measured, given a title deed and a water right, and sold. See [[history/markets/land-as-property|Land as Property]]. The same plan also holds two things shared by the whole village: the leiwater, taken by turns, and the commonage, held in common. The Valley Through TIME asks whether these belong among the early signs of the Emergent form. The planned farming villages of the Cape carried both kinds of arrangement from the start. What is unusual about Greyton is that its water is still shared by turns today.
+In the terms of the [[history/the-time-model|TIME model]] used on [[history/the-valley-through-time|The Valley Through TIME]], Greyton's planned plots belong to the Markets form: land measured, given a title deed and a water right, and sold. See [[history/markets/land-as-property|Land as Property]]. The same plan also holds two things shared by the whole village: the leiwater, taken by turns, and the commonage, held in common. The Valley Through TIME asks whether these belong among the early signs of the Emergent form. The planned farming villages of the Cape carried both kinds of arrangement from the start. What is unusual about Greyton is that its water is still shared by turns today.
 
 ## What is still open
 

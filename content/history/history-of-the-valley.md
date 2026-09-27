@@ -191,7 +191,7 @@ If you can help, contact the moderators via [[how-to-submit|How to Submit]].
 
 ## Reading the history through TIME
 
-Some of the Forum's research reads the valley's past with a framework called TIME. It builds on the work of the American researcher David Ronfeldt, who called his version TIMN. TIME asks one question of each period: how did people organise themselves to share work, land, and what they produced? It names four forms. Each new form is added to the ones before it, and the older forms carry on alongside it.
+Some of the Forum's research reads the valley's past with a framework called [[history/the-time-model|TIME]]. It builds on the work of the American researcher David Ronfeldt, who called his version TIMN. [[history/the-time-model|TIME]] asks one question of each period: how did people organise themselves to share work, land, and what they produced? It names four forms. Each new form is added to the ones before it, and the older forms carry on alongside it.
 
 | Form | How people organise | In this valley |
 | --- | --- | --- |
@@ -360,4 +360,4 @@ Forum research:
 
 - BioConomy Wiki. [The Comenius-to-Schmidt Chain](https://wiki.bioconomy.earth/research/comenius-to-schmidt-chain/). The church's history from 1415 to 1738, and the case for a link between Comenius and Schmidt's teaching.
 - *Valley of Grace: Significant Dates* (2026). Forum research notes, held by the Forum. The timeline this page is built on.
-- Framer OS. *It's About TIME* (August 2026). The TIME framework.
+- Framer OS. *It's About TIME* (August 2026). The [[history/the-time-model|TIME framework]].

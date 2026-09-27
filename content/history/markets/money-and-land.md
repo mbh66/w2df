@@ -27,7 +27,7 @@ For most of the valley's human history there was no money here, and nobody owned
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 > [!note] Reading this page
-> The *Markets* pages follow the M of the TIME model: exchange at a price. The facts carry tags. The comparisons with San and Khoekhoe ways of holding land, and the reading of what the changes meant, are the Forum's interpretation.
+> The *Markets* pages follow the M of the [[history/the-time-model|TIME model]]: exchange at a price. The facts carry tags. The comparisons with San and Khoekhoe ways of holding land, and the reading of what the changes meant, are the Forum's interpretation.
 
 ## Before money
 

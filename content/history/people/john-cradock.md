@@ -20,7 +20,7 @@ links:
   - https://en.wikipedia.org/wiki/John_Cradock,_1st_Baron_Howden
 ---
 
-Sir John Cradock was the British governor of the Cape Colony from 1811 to 1814 [IC]. He governed in the years when the Cape passed from Dutch to British rule for good: the Netherlands formally gave up the colony by treaty in August 1814 [IC]. He never lived in the valley, and no record has yet been found of him visiting it. He matters to its story because of two laws. His quitrent proclamation of 1813 turned the loan farms around Genadendal and Greyton into surveyed property that could be sold and inherited [IC]. His apprenticeship proclamation of 1812 let farmers bind Khoekhoe children who had grown up on their farms to work for them without pay from the age of eight to eighteen [IC]. This page tells his story, and reads the change from Dutch to British rule through the TIME model.
+Sir John Cradock was the British governor of the Cape Colony from 1811 to 1814 [IC]. He governed in the years when the Cape passed from Dutch to British rule for good: the Netherlands formally gave up the colony by treaty in August 1814 [IC]. He never lived in the valley, and no record has yet been found of him visiting it. He matters to its story because of two laws. His quitrent proclamation of 1813 turned the loan farms around Genadendal and Greyton into surveyed property that could be sold and inherited [IC]. His apprenticeship proclamation of 1812 let farmers bind Khoekhoe children who had grown up on their farms to work for them without pay from the age of eight to eighteen [IC]. This page tells his story, and reads the change from Dutch to British rule through the [[history/the-time-model|TIME model]].
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -95,7 +95,7 @@ No record has been found of Cradock visiting Genadendal or Greyton. His laws rea
 
 *This section is the Forum's interpretation.*
 
-**The company's rule.** The VOC was a trading company that governed. In the TIME model it was an Institution built to serve a market: its first aim was profit for its shareholders. In the valley its rule was thin. A post-keeper such as [[history/people/baas-teunis|Baas Teunis]] carried its orders, the Landdrost was two days' ride away, and much depended on who a person knew. Land was lent, never sold, and the company kept the right to take it back.
+**The company's rule.** The VOC was a trading company that governed. In the [[history/the-time-model|TIME model]] it was an Institution built to serve a market: its first aim was profit for its shareholders. In the valley its rule was thin. A post-keeper such as [[history/people/baas-teunis|Baas Teunis]] carried its orders, the Landdrost was two days' ride away, and much depended on who a person knew. Land was lent, never sold, and the company kept the right to take it back.
 
 **The British state.** Under Caledon and Cradock the Cape was governed by a state, and the Institutions form grew thicker. Laws were written down and published. Judges travelled to the districts and heard cases in public. Surveyors measured land, and a land office issued title deeds. The rules reached further into daily life than the company's ever had.
 
@@ -103,7 +103,7 @@ No record has been found of Cradock visiting Genadendal or Greyton. His laws rea
 
 **Tribes pushed out.** Both changes pressed on the Tribes form. The frontier war drove the Xhosa, organised in chiefdoms and lineages, off the Zuurveld by force. Quitrent ignored Khoekhoe and San ways of holding land together. The apprenticeship law reached into Khoekhoe families themselves, and decided where their children would grow up.
 
-**One man, two directions.** Cradock's own words and laws point two ways. In April 1812 he wrote against "the nameless Tyranny of the strong over the defenceless". In the same year he gave farmers ten years of unpaid work from the children raised on their land, and his troops cleared the Zuurveld. The TIME model helps to see why: the same institutions that promised equal protection were building a market in land and labour on terms set by the colonists.
+**One man, two directions.** Cradock's own words and laws point two ways. In April 1812 he wrote against "the nameless Tyranny of the strong over the defenceless". In the same year he gave farmers ten years of unpaid work from the children raised on their land, and his troops cleared the Zuurveld. The [[history/the-time-model|TIME model]] helps to see why: the same institutions that promised equal protection were building a market in land and labour on terms set by the colonists.
 
 **The valley's counter-institution.** In this valley, the mission offered a different Institution: land held for a community, a school, and a church where Khoekhoe families could live together. Its land was never turned into quitrent farms. That difference between Genadendal and the farms around it, and later Greyton, is still part of the valley's life. See [[trancraa-process-farm-39|TRANCRAA and Farm 39]].
 

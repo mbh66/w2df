@@ -13,13 +13,11 @@ right_of_reply: pending
 komitee_review: pending
 aliases:
   - TIME reference table
-  - TIME model
-  - TIMN
 links:
   - https://github.com/mbh66/genadendal-diaries
 ---
 
-This page reads the history of the valley through the TIME model. It sets out the main developments in each of three forms of organisation: Tribes, Institutions, and Markets. It also shows when each form was most dominant, and the first signs of a fourth form, Emergent. It brings together what the other pages of [[history/index|Valley History]] say, and adds new entries from the English translations of the missionaries' diaries of 1792 to 1805. It runs to 2038, when Genadendal turns 300. The story doesn't stop there, and neither does the table.
+This page reads the history of the valley through the [[history/the-time-model|TIME model]]. It sets out the main developments in each of three forms of organisation: Tribes, Institutions, and Markets. It also shows when each form was most dominant, and the first signs of a fourth form, Emergent. It brings together what the other pages of [[history/index|Valley History]] say, and adds new entries from the English translations of the missionaries' diaries of 1792 to 1805. It runs to 2038, when Genadendal turns 300. The story doesn't stop there, and neither does the table.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -36,7 +34,7 @@ This page reads the history of the valley through the TIME model. It sets out th
 
 ## How the model works
 
-TIME builds on the work of the American researcher David Ronfeldt, who called his version [TIMN](https://wiki.bioconomy.earth/frameworks/timn-framework). It asks one question of each period: how did people organise themselves to share work, land, and what they produced? It names four forms:
+[[history/the-time-model|TIME]] builds on the work of the American researcher David Ronfeldt, who called his version [TIMN](https://wiki.bioconomy.earth/frameworks/timn-framework). It asks one question of each period: how did people organise themselves to share work, land, and what they produced? It names four forms:
 
 - **T: Tribes.** People organise through kinship and belonging. What you give and get depends on your family, your clan, and your people.
 - **I: Institutions.** People organise through written rules, leaders with authority, and fixed settlements.
@@ -219,7 +217,7 @@ To correct a fact, suggest an entry, or read an event differently, contact the m
 
 ## References
 
-- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which the TIME model builds.
+- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which the [[history/the-time-model|TIME model]] builds.
 - Garcés Pérez, J.L. and Lasch, A. (2025). [Multilingual working and reading versions of the "Genadendal Diaries" from the Utrecht Archives](https://doi.org/10.5281/zenodo.18095167). Zenodo, version 0.3. The transcriptions of the four diaries.
 - Genadendal Diaries repository. [Genadendal Diaries](https://github.com/mbh66/genadendal-diaries). The English translations, 1792 to 1805, cited here by file and line number. Unreviewed machine translations.
 - The other facts on this page come from the pages linked in each row, and from the sources listed on those pages.

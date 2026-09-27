@@ -23,8 +23,9 @@ This section holds the history of the valley and the people who shaped it. It is
 - [[history/music-of-the-valley|Music of the Valley]]. Hymns, the organ, the brass band, composers, and the music archive.
 - [[history/what-began-here|What Began Here]]. What the valley started, what was taken, what carried it through, and how the plans for 2038 continue the story.
 - [[history/from-farm-to-classroom|From the Farm to the Classroom]]. How children's years from eight to eighteen moved from farm labour to school, from the 1790s to the teachers' college of 1838.
-- [[history/the-valley-through-time|The Valley Through TIME]]. A reference table of the valley's history through the TIME model: when Tribes, Institutions, and Markets were each most dominant, their main developments to 2038, and the first signs of Emergent.
-- [[history/laws-that-shaped-the-valley|The Laws That Shaped the Valley]]. The laws and orders that shaped the valley, from Khoekhoe custom to TRANCRAA, including the racial laws and orders from the diaries, each read through TIME.
+- [[history/the-time-model|The TIME Model]]. A short explanation of the model this wiki uses to read the valley's history, with a link to the full framework.
+- [[history/the-valley-through-time|The Valley Through TIME]]. A reference table of the valley's history through the [[history/the-time-model|TIME model]]: when Tribes, Institutions, and Markets were each most dominant, their main developments to 2038, and the first signs of Emergent.
+- [[history/laws-that-shaped-the-valley|The Laws That Shaped the Valley]]. The laws and orders that shaped the valley, from Khoekhoe custom to TRANCRAA, including the racial laws and orders from the diaries, each read through [[history/the-time-model|TIME]].
 - [[future-of-the-valley|Future of the Valley]]. Why 2038 matters, and what the valley is working on now.
 - [[history/the-khoekhoe-saga|The Khoekhoe Saga]]. A documentary series on the Khoekhoe, first shown in 2023: what it says, and how this wiki uses it.
 - [[history/the-genadendal-diaries|The Genadendal Diaries]]. The missionaries' diaries from Baviaanskloof from 1792, the digital transcriptions of 2025, and how this wiki uses them.
@@ -50,7 +51,7 @@ This section holds the history of the valley and the people who shaped it. It is
 - [[history/markets/money-and-land|Money and Land]]. How money came to the valley, and how it became tied to owning land.
 - [[history/markets/cattle-trade|The Cattle Trade]]. The first market: Khoekhoe cattle bartered for metal, beads, tobacco, and brandy.
 - [[history/markets/land-as-property|Land as Property]]. From group land to loan farms, quitrent, freehold plots, and land held in trust.
-- [[history/markets/loan-farms-and-quitrent|Loan Farms and Quitrent]]. How a licence to graze became a farm that could be sold, read through TIME as an early form of the market.
+- [[history/markets/loan-farms-and-quitrent|Loan Farms and Quitrent]]. How a licence to graze became a farm that could be sold, read through [[history/the-time-model|TIME]] as an early form of the market.
 - [[history/markets/caledon-code|The Caledon Code]]. The law of 1809 that tied Khoekhoe workers to a fixed home, a pass, and a registered contract, until 1828.
 - [[history/markets/money-and-banks|Money and Banks]]. From company coins and paper rixdollars to sterling and the Overberg's banks.
 - [[history/markets/mission-economy|The Mission Economy]]. Supplies, crafts, wages, and land without title at Genadendal.
