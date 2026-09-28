@@ -14,6 +14,9 @@ aliases:
   - Josua
   - Jonas
   - Kybbodo
+  - Kibido
+  - Kubido
+updated: 2026-09-28
 links:
   - https://dacb.org/stories/southafrica/tikhuie-vmagdalena/
 ---
@@ -42,7 +45,15 @@ Both men were among the Khoekhoe who came to Schmidt's school, first near the So
 
 When Schmidt's authority to baptise arrived in 1742, Willem was the first he baptised, on 2 April 1742 [MS]. The historian Mansell Upham, working from Schmidt's records, describes Africo as Willem's brother-in-law [MS]. The sources give the baptismal names of the first five as Josua (Willem), Christian (Africo), Jonas (Kupido), [[history/people/christina|Christina]], and Magdalena (Vehettge) [MS]. On 4 September 1742 the VOC's Council of Policy banned Schmidt from baptising any more Khoekhoe [TBV]. Some sources give Kupido's name as Kybbodo. It is likely, but not certain, that these are the same man [TBV].
 
-Two years later Schmidt was forced to leave the Cape [IC]. What happened to Kupido and Willem after that is not recorded. By 1792 both had died [MS].
+[[history/genadendal-a-long-walk|Balie's history]], which spells the name Kibido or Kubido, gives the date of Kupido's baptism as Jonas as 12 April 1742 [MS]. In 1747 the Moravian painter Johann Valentin Haidt included him, in his leather cloak, among the 21 first converts of the Moravian missions in a painting called *The First Fruits*, now at Zeist in the Netherlands [MS].
+
+Two years after the baptisms, Schmidt was forced to leave the Cape [IC]. What happened to Kupido and Willem after that is not recorded. By 1792 both had died [MS].
+
+## Kupido's descendants
+
+Balie's history says Kupido's daughter Hanna stayed at Baviaanskloof after 1744, believing that if everyone left, no new teachers would be sent [MS]. When the mission reopened she cooked for the three missionaries, and she was the first person they baptised, with the name Anna Maria [MS]. The missionaries' diaries record the baptism of Anna Maria, a daughter of Kupido, on 19 July 1793 [MS]. She later married a man named Mauritz [MS].
+
+Using the mission's baptism, marriage, school, and death registers, the Mission Museum traced the old Genadendal families from 1744 to 1844 [MS]. Balie's history says every early Genadendal family can trace its roots to Anna Maria Mauritz, and so to Kupido [MS]. In 2005 the museum began a genealogy project on this, called "The Children of Jonas" [MS].
 
 ## Why they matter
 
@@ -57,7 +68,8 @@ The Dutch Reformed ministers at the Cape objected to Schmidt's baptisms, and thi
 
 - Their Khoekhoe names. "Kupido" and "Willem" are Dutch names, probably given by colonists [TBV].
 - Whether Kupido and Kybbodo are the same person.
-- What became of them after 1744, and whether families in the valley descend from them.
+- What became of them after 1744.
+- How the families who trace their line to Kupido tell that story themselves. The account above comes from the mission's registers and the museum's research.
 
 ## Related
 
@@ -68,6 +80,7 @@ The Dutch Reformed ministers at the Cape objected to Schmidt's baptisms, and thi
 - [[history/people/africo|Africo]]
 - [[history/people/magdalena|Magdalena]]
 - [[history/people/christina|Christina]]
+- [[history/genadendal-a-long-walk|Genadendal: A Long Walk]]
 
 ## References
 
@@ -76,4 +89,5 @@ The Dutch Reformed ministers at the Cape objected to Schmidt's baptisms, and thi
 - Moravian Church in America. [Coffee with Moravian Ancestors: Georg Schmidt](https://www.moravian.org/ccd/2021/02/20/coffee-with-moravian-ancestors-georg-schmidt/) (2021). The five baptisms and the names given.
 - Muatze (Mansell Upham). [Moravian missionary Georg Schmidt (1709 to 1785) prohibited (1742) from baptising Cape of Good Hope aborigines](https://mansellupham.wordpress.com/2022/04/03/moravian-missionary-georg-schmidt-1709-1785-prohibited-1742-from-baptising-cape-of-good-hope-aborigines/) (2022). Willem's baptism on 2 April 1742, Africo as his brother-in-law, the name Kibido or Cupido, and the Council of Policy ruling.
 - Place for Truth. [George Schmidt, Magdalena, and the Bible Beneath the Pear Tree](https://placefortruth.org/george-schmidt-magdalena-and-the-bible-beneath-the-pear-tree/). Kupido and Willem among the first converts, and their deaths before 1792.
-- Schmidt, G. and others (1981). *Das Tagebuch und die Briefe von Georg Schmidt, dem ersten Missionar in Südafrika (1737 to 1744).* Genadendal Printing Works. The primary source.
+- Schmidt, G. and others (1981). *Das Tagebuch und die Briefe von Georg Schmidt, dem ersten Missionar in Südafrika (1737 to 1744).* Bellville: Wes-Kaaplandse Instituut vir Historiese Navorsing (Western Cape Institute for Historical Research). See [[history/georg-schmidts-diary|Georg Schmidt's Diary]]. The primary source.
+- Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The spelling Kibido, the baptism date of 12 April 1742, Haidt's painting, Hanna (Anna Maria Mauritz), and the genealogy project. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].

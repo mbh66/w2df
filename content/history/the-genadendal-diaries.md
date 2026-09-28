@@ -16,10 +16,10 @@ links:
   - https://zenodo.org/records/18095167
   - https://archive.org/details/genadendaldiarie0000mars
   - https://github.com/mbh66/genadendal-diaries
-updated: 2026-09-26
+updated: 2026-09-28
 ---
 
-When the [[history/people/missionaries-of-1792|Missionaries of 1792]] reopened the mission at Baviaanskloof, they kept a diary of daily life at the mission and sent copies to their church leaders in Europe [IC]. These diaries are one of the fullest written records of the valley between 1792 and the early 1800s. Copies are held at Het Utrechts Archief (the Utrecht Archives) in the Netherlands [MS]. In December 2025 researchers at TU Dresden published digital transcriptions of four of the Utrecht copies, with translations, on the Zenodo research archive [MS]. This page describes those files, their limits, and how this wiki uses them.
+When the [[history/people/missionaries-of-1792|Missionaries of 1792]] reopened the mission at Baviaanskloof, they kept a diary of daily life at the mission and sent copies to their church leaders in Europe [IC]. These diaries are one of the fullest written records of the valley between 1792 and the early 1800s. Copies are held at Het Utrechts Archief (the Utrecht Archives) in the Netherlands [MS]. In December 2025 researchers at TU Dresden published digital transcriptions of four of the Utrecht copies, with translations, on the Zenodo research archive [MS]. This page describes those files, their limits, and how this wiki uses them. The earlier diary kept by Georg Schmidt, from 1737 to 1744, is a separate record, described on [[history/georg-schmidts-diary|Georg Schmidt's Diary]].
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -97,6 +97,7 @@ If you can read the old German or Dutch hand, know the diaries, or can help tran
 ## Related
 
 - [[history/index|Valley History]]
+- [[history/georg-schmidts-diary|Georg Schmidt's Diary]]
 - [[history/people/missionaries-of-1792|The Missionaries of 1792]]
 - [[history/people/magdalena|Magdalena]]
 - [[history/people/jan-paerl|Jan Paerl]]

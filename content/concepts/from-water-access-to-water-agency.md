@@ -23,7 +23,7 @@ links:
   - https://biohubs.bioconomy.earth/afrotropic/at12-vog/services/water-yield
   - https://wiki.bioconomy.earth/concepts/water-as-compound-asset
   - https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 > **This idea is not yet agreed.** Kwaxala has been approached and has said it wants to work with the valley (see below). The other organisations named on this page have not yet been asked. They include the Department of Water and Sanitation, the Breede-Olifants Catchment Management Agency, the Zonderend Water Users Association, the City of Cape Town, the Transformasie Komitee, and the Moravian Church. **Please do not share this page publicly yet.** The idea will be tabled at the Forum's November 2026 meeting, with the [[concepts/valley-of-grace-learning-campus|Learning Campus]] and [[concepts/restoring-the-river|Restoring the River]].
@@ -179,7 +179,7 @@ It serves three of the Forum's [[priorities/index|priorities]]: [[priorities/edu
 
 ## What happens next
 
-1. The Zonderend Water Users Association and the Transformasie Komitee are asked for their views.
+1. The Zonderend Water Users Association, the Transformasie Komitee, and the Moravian Church are asked for their views.
 2. The idea is tabled at the Forum's November 2026 meeting.
 3. If the Forum wants to go further, it works with Kwaxala to map the legal route, and asks the Department of Water and Sanitation and the Breede-Olifants Catchment Management Agency whether water added below the dam could be counted.
 4. The valley begins measuring its streams, so that it has its own record of how much water they carry.

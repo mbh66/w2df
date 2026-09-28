@@ -1,6 +1,6 @@
 ---
 title: Hendrik Marsveld
-description: Dutch Moravian missionary and tailor (born about 1744), one of the three who reopened the mission at Baviaanskloof in 1792. He was its voice to the Cape government, and was still at the mission in 1804.
+description: Dutch Moravian missionary and tailor (about 1745 to 1822), one of the three who reopened the mission at Baviaanskloof in 1792. He was its voice to the Cape government, ran its water mill, and served there until his death.
 type: person
 tags:
   - theme/heritage
@@ -13,7 +13,9 @@ aliases:
   - Henrik Marsveld
   - Hendrick Marsveld
   - Brother Marsveld
-born: "1744"
+born: "1745-11-09"
+died: "1822-09-08"
+updated: 2026-09-28
 links:
   - https://github.com/mbh66/genadendal-diaries
   - https://archive.org/details/genadendaldiarie0000mars
@@ -35,14 +37,14 @@ Hendrik Marsveld was one of the three Moravian missionaries who reopened the mis
 
 | | |
 | --- | --- |
-| Born | About 1744 [TBV]. A library record of the printed diaries gives 1744, and a Genadendal history says he was 47 in November 1792. Where he was born is not known. |
-| Died | Not known. He was still at Baviaanskloof in February 1804 [MS]. |
+| Born | 9 November 1745, at Gouda in the Netherlands, according to [[history/genadendal-a-long-walk|Balie's history]] [MS]. A library record of the printed diaries gives 1744 [TBV]. A Genadendal history says he was 47 in November 1792, which fits the date of 1745 [MS]. |
+| Died | 8 September 1822, at Genadendal [MS] |
 | Known for | Reopening the mission at Baviaanskloof in 1792, and speaking for it to the Cape government [MS] |
 | Link to the valley | One of the founders of the mission that became Genadendal |
 
 ## Before the Cape
 
-Marsveld was a tailor [MS]. He was Dutch, while Schwinn and Kühnel were German [MS]. In 1794 letters reached him at Baviaanskloof from his own brother in Gouda, in the Netherlands [MS]. On his first journey to Cape Town in March 1793 he recorded that when he joined the church, he had hoped only to be "the kind of brother who had nothing else to see to than just to earn his bread", and was amazed to have been called to such a task [MS].
+Marsveld was a tailor [MS]. He was Dutch, while Schwinn and Kühnel were German [MS]. Balie's history says he was born at Gouda, that his mother's words on her deathbed, that her family should not weep because they would meet again, led him to commit his life to Christ, and that he worked for a time at the Moravian settlement of Zeist [MS]. In 1794 letters reached him at Baviaanskloof from his own brother in Gouda, in the Netherlands [MS]. On his first journey to Cape Town in March 1793 he recorded that when he joined the church, he had hoped only to be "the kind of brother who had nothing else to see to than just to earn his bread", and was amazed to have been called to such a task [MS].
 
 Diaries: [A363595, lines 2441 to 2484](https://github.com/mbh66/genadendal-diaries/blob/main/translations/en/A363595/05-brother-marsvelds-journey-to-the-cape-march-1793.md); [A363595, lines 8251 to 8292](https://github.com/mbh66/genadendal-diaries/blob/main/translations/en/A363595/20-1-to-8-april-1794-and-the-journey-to-the-snake-river.md)
 
@@ -77,7 +79,11 @@ On 29 July 1795 an order from [[history/people/bisani|Commandant Bisani]], a lea
 
 ### Later years
 
-Marsveld was still at Baviaanskloof in February 1804, when he signed the mission's diary with Christian Ludwig Rose, Johann Philipp Kohrhammer, Schwinn, and Kühnel [MS]. By then more than 1,000 people lived at the mission [MS]. When and where he died has not yet been found.
+In 1800 Schwinn came back from Europe with two brides for Marsveld and Kühnel, chosen by the Moravian practice of drawing lots, and the couples were married in Cape Town [MS]. Marsveld's wife was Johanna Rachel Schäfer, born at Neuendorf near Herrnhut in 1757; she died at Genadendal in September 1825 [MS].
+
+Marsveld was still at Baviaanskloof in February 1804, when he signed the mission's diary with [[history/people/christian-ludwig-rose|Christian Ludwig Rose]], Johann Philipp Kohrhammer, Schwinn, and Kühnel [MS]. By then more than 1,000 people lived at the mission [MS]. The traveller Henry Lichtenstein wrote in 1803 that Marsveld was the miller, and had built a water mill that ground corn for the mission, its residents, and many neighbouring farmers [MS]. Balie's history says he became known as the tailor-miller [MS].
+
+He served at Genadendal until his death, on 8 September 1822, the last of the three missionaries of 1792 [MS]. Balie's history, quoting the mission's report, gives his age as 77, and says that when the news spread, many residents came to the missionaries' house in tears [MS]. His grave is in the old mission cemetery [MS].
 
 Diaries: [A363597, lines 1506 to 1510](https://github.com/mbh66/genadendal-diaries/blob/main/translations/en/A363597/09-february-1804-and-the-signatures.md)
 
@@ -99,8 +105,7 @@ The school that began on 4 March 1793 has run ever since, and is now [[lr-schmid
 
 ## What is still open
 
-- Where and when he was born, and when and where he died.
-- What became of him after 1804.
+- His year of birth. Balie's history gives 1745, and the library record gives 1744. His age of 77 at death, as reported, fits neither date exactly.
 - Whether the Dutch copies of the diaries in file A363349 were written or translated by him.
 - How the Khoekhoe residents of the mission remembered him.
 
@@ -114,9 +119,11 @@ The school that began on 4 March 1793 has run ever since, and is now [[lr-schmid
 - [[history/people/bisani|Bisani]]
 - [[history/the-genadendal-diaries|The Genadendal Diaries]]
 - [[history/institutions/moravian-church|Moravian Church]]
+- [[history/genadendal-a-long-walk|Genadendal: A Long Walk]]
 
 ## References
 
 - Marsveld, H., Schwinn, D. and Kühnel, J.C. (1992). [*The Genadendal Diaries: Diaries of the Herrnhut Missionaries, Volume I (1792 to 1794)*](https://archive.org/details/genadendaldiarie0000mars). Edited by H.C. Bredekamp and H.E.F. Plüddemann, translated by A. Flegg. University of the Western Cape Institute for Historical Research. The printed English edition, and his birth year in the library record.
 - Genadendal.info. [The Genadendal Mission Station](https://www.genadendal.info/genadendal-mission-station/). His trade, and his age of 47 in November 1792.
 - Genadendal Diaries repository. [Genadendal Diaries](https://github.com/mbh66/genadendal-diaries). English translations of the Utrecht copies of the diaries, cited here by file and line number. Unreviewed machine translations.
+- Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. His birth at Gouda, his conversion, his marriage, his work as miller, and his death in 1822. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].

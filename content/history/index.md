@@ -29,6 +29,8 @@ This section holds the history of the valley and the people who shaped it. It is
 - [[future-of-the-valley|Future of the Valley]]. Why 2038 matters, and what the valley is working on now.
 - [[history/the-khoekhoe-saga|The Khoekhoe Saga]]. A documentary series on the Khoekhoe, first shown in 2023: what it says, and how this wiki uses it.
 - [[history/the-genadendal-diaries|The Genadendal Diaries]]. The missionaries' diaries from Baviaanskloof from 1792, the digital transcriptions of 2025, and how this wiki uses them.
+- [[history/georg-schmidts-diary|Georg Schmidt's Diary]]. The diary and letters Schmidt wrote at the Cape from 1737 to 1744, their printed edition of 1981, and what they could settle.
+- [[history/genadendal-a-long-walk|Genadendal: A Long Walk]]. Isaac Balie's history of Genadendal (2020): a table of the major events it records, with page numbers, and where it differs from other sources.
 
 ## Tribes
 
@@ -68,25 +70,39 @@ This section holds the history of the valley and the people who shaped it. It is
 - [[history/people/africo|Africo]] (1730s and 1740s). The Khoekhoe clan leader who first hosted Schmidt, and one of the first people baptised in the valley.
 - [[history/people/magdalena|Magdalena]] (about 1700 to 1800). Vehettge Tikkuie, who kept the congregation alive for 48 years after Schmidt left.
 - [[history/people/janneke-tikkuie|Janneke Tikkuie]] (1730s and 1740s). Magdalena's husband, who hunted and fetched supplies for Schmidt's mission.
+- [[history/people/anna-maria-mauritz|Anna Maria Mauritz]] (1740s to 1790s). Hanna, Kupido's daughter, the first person baptised at the reopened mission in 1793, to whom the old Genadendal families trace their line.
 - [[history/people/jan-paerl|Jan Paerl]] (1761 to 1851). Khoekhoe prophet from the Swellendam district who led the cattle-killing movement of 1788.
 - [[history/people/missionaries-of-1792|The Missionaries of 1792]]. Hendrik Marsveld, Daniel Schwinn, and Johann Christian Kühnel, who reopened the mission.
-- [[history/people/hendrik-marsveld|Hendrik Marsveld]] (born about 1744). The Dutch tailor among the missionaries of 1792, who spoke for the mission to the Cape government.
-- [[history/people/johann-christian-kuhnel|Johann Christian Kühnel]] (born about 1762). The knife-maker among the missionaries of 1792, who founded the mission's forge in 1797.
+- [[history/people/hendrik-marsveld|Hendrik Marsveld]] (about 1745 to 1822). The Dutch tailor among the missionaries of 1792, who spoke for the mission to the Cape government.
+- [[history/people/johann-christian-kuhnel|Johann Christian Kühnel]] (1762 to 1813). The knife-maker among the missionaries of 1792, who founded the mission's forge in 1797.
 - [[history/people/gildenhuijs|Gildenhuijs]] (1790s). The farmer by the Sergeants River whose disputes with the mission's Khoekhoe residents were heard by the Landdrost in 1796.
 - [[history/people/bisani|Bisani]] (1790s). The Swellendam rebel commandant whose order drove the missionaries from Baviaanskloof in July 1795.
 - [[history/people/abraham-josias-sluysken|Abraham Josias Sluysken]] (1736 to 1799). The last head of the Cape government under the VOC, who decided what the reopened mission could do from 1793 to 1795.
 - [[history/people/baas-teunis|Baas Teunis]] (1790s). Keeper of the company post at Soetemelksvlei, who brought the missionaries to Baviaanskloof in 1792 and carried the government's orders to them.
 - [[history/people/marthinus-theunissen|Marthinus Theunissen]] (1790s). The first colonial owner of Weltevreden, where Greyton now stands.
 - [[history/people/hendrik-cloete|Hendrik Cloete]] (1725 to 1799). The Groot Constantia wine farmer who took over Weltevreden in 1795.
+- [[history/people/christlieb-booda|Christlieb Booda]] (died 1826). Khoekhoe captain at Genadendal in the Cape government's service, whose staff of office is in the museum.
+- [[history/people/christian-ludwig-rose|Christian Ludwig Rose]] (1746 to 1805). Superintendent at Baviaanskloof from 1800, who laid out the mission cemetery.
+- [[history/people/jan-willem-janssens|Jan Willem Janssens]] (1762 to 1838). Batavian governor of the Cape, who renamed Baviaanskloof Genadendal in 1806.
 - [[history/people/lord-caledon|Lord Caledon]] (1777 to 1839). First civil governor of the Cape under British rule, 1807 to 1811, whose code of 1809 tied Khoekhoe people to a fixed home and a pass. The town of Caledon is named after him.
 - [[history/people/john-cradock|Sir John Cradock]] (1759 to 1839). British governor of the Cape from 1811 to 1814, whose quitrent and apprenticeship laws reshaped land and labour around the valley.
+- [[history/people/christian-ignatius-latrobe|Christian Ignatius Latrobe]] (1758 to 1836). English Moravian clergyman and composer who visited in 1815 and 1816 and drew up the village's rules.
+- [[history/people/johann-daniel-beinbrecht|Johann Daniel Beinbrecht]] (1773 to 1824). Missionary coppersmith who led the building of the bridge over the Sonderend River in 1819 and 1820.
 - [[history/people/john-malcolm-stewart|John Malcolm Stewart]] (1830s and 1840s). The first British owner of Weltevreden.
 - [[history/people/hans-peter-hallbeck|Hans Peter Hallbeck]] (1784 to 1840). Head of the Moravian missions from 1817, who founded the teachers' training college in 1838.
+- [[history/people/edward-lees|Edward Lees]] (1806 to 1837). Genadendal's first qualified doctor, from 1832.
+- [[history/people/carl-jonas|Carl Jonas]] (1824 to 1906). The son of an enslaved man, and the first teacher to qualify at the Genadendal college, in 1842.
 - [[history/people/benno-marx|Benno Marx]] (1827 to 1917). The missionary who founded *De Bode van Genadendal* in 1859.
+- [[history/people/johannes-ruiter|Johannes Ruiter]] (1840s). The first Genadendal resident appointed as the village's policeman, replaced after farmers objected.
+- [[history/people/rudolph-roser|Rudolph Roser]] (at Genadendal 1849 to 1869). Missionary doctor through the epidemics of 1858 and 1865.
+- [[history/people/leefregt-ari-and-sebastian-hendrik|Leefregt Ari and Sebastian Hendrik]] (1850s). The last speakers of the Hessequa language at Genadendal, who spoke it before Governor Grey in 1855.
+- [[history/people/andreas-gustav-hettasch|Andreas Gustav Hettasch]] (at Genadendal 1859 to 1894). Missionary who tried new work for the village and built the church on Church Square.
 - [[history/people/herbert-vigne|Herbert Vigne]] (about 1821 to 1895). The founder of Greyton.
 - [[history/people/elizabeth-vigne|Elizabeth Vigne]] (about 1847 to 1895). Born Elizabeth Belshaw, the wife of Greyton's founder.
 - [[history/people/j-g-rietz|J.G. Rietz]] (1850s). The surveyor who laid out Greyton.
 - [[history/people/de-villiers-family|The De Villiers Family of Greyton]] (from 1860). Greyton's first traders.
+- [[history/people/louis-rudolph-schmidt|Louis Rudolph Schmidt]] (1872 to 1963). Missionary, surveyor, and healer at Genadendal for forty years, after whom the primary school is named.
+- [[history/people/emil-weder|Emil Weder]] (1881 to 1969). Manager of the Mission Store, after whom Emil Weder Secondary is named.
 - [[history/people/brian-rycroft|Brian Rycroft]] (1910 to 1990). Director of Kirstenbosch, who established the Greyton Nature Reserve in 1977.
 
 More pages can be added. If you know of someone whose story belongs here, see *Help write this history* below.

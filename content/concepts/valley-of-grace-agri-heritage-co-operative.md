@@ -22,9 +22,10 @@ aliases:
 links:
   - https://www.cipc.co.za/?page_id=2197
   - https://www.cogta.gov.za/ddm/
+updated: 2026-09-28
 ---
 
-> **This idea is not yet agreed.** Nobody has signed up to it. The growers, organisations, and government offices it mentions have not been asked about it yet. It will be tabled at the Forum's November 2026 meeting. **Please do not share this page publicly yet.**
+> **This idea is not yet agreed.** It comes from a group of growers in Genadendal [MS]. The other growers, organisations, and government offices it mentions have not been asked about it yet. It will be tabled at the Forum's November 2026 meeting. **Please do not share this page publicly yet.**
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -117,7 +118,7 @@ It serves four of the Forum's [[priorities/index|priorities]]: [[priorities/agri
 
 ## What is still open
 
-- Who the first members would be, and from which villages.
+- Who else would join the growers in Genadendal, and from which villages.
 - Which land members would farm, and on what terms. The land of Genadendal, Bereaville, Voorstekraal, Boschmanskloof, and Madiba Park is part of the unresolved TRANCRAA process [MS]. The [[genadendal-transformasie-komitee|Genadendal Transformasie Komitee]] has not been asked for its view.
 - Where members' water would come from.
 - Whether the Overberg's district plan is in place, and what it says about farming.
@@ -128,11 +129,12 @@ It serves four of the Forum's [[priorities/index|priorities]]: [[priorities/agri
 
 ## What happens next
 
-1. The idea is tabled at the Forum's November 2026 meeting.
-2. If the Forum wants to go further, the Transformasie Komitee is asked for its view on any use of land on the mission settlements.
-3. Growers and existing food projects in the valley are asked whether they want to take part.
-4. The municipality's Economic Development office is asked how the idea could be put forward for the district's planning.
-5. A working group with at least five founding members drafts a constitution and a business plan.
+1. The growers in Genadendal behind the idea review this page and decide how they want the idea described.
+2. The Transformasie Komitee is asked for its view on any use of land on the mission settlements.
+3. Other growers and existing food projects in the valley are asked whether they want to take part.
+4. The idea is tabled at the Forum's November 2026 meeting.
+5. The municipality's Economic Development office is asked how the idea could be put forward for the district's planning.
+6. A working group with at least five founding members drafts a constitution and a business plan.
 
 ## Have your say
 

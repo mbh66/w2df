@@ -13,6 +13,7 @@ aliases:
   - Georg Schmidt (missionary)
 born: 1709-09-30
 died: 1785-08-01
+updated: 2026-09-28
 links:
   - https://dacb.org/stories/southafrica/schmidt-georg/
   - https://sahistory.org.za/people/georg-schmidt
@@ -47,17 +48,17 @@ In 1726 he walked to Herrnhut in Saxony, the village where Moravian refugees wer
 
 In 1736 two ministers in the Netherlands asked Herrnhut for a missionary to the Khoekhoe at the Cape [IC]. Schmidt, then 27, went [MS]. He sailed from the Netherlands on 4 December 1736 and landed at Table Bay on 9 July 1737 [IC].
 
-Later in 1737 he began teaching Khoekhoe people in Dutch, first at a kraal near the Sonderend River where Africo was the clan leader [MS]. On 23 April 1738 he settled at Baviaanskloof [IC]. By the end of that year, 28 people were living and learning at the station [IC].
+Later in 1737 he began teaching Khoekhoe people in Dutch, first at a kraal near the Sonderend River where Africo was the clan leader [MS]. On 23 April 1738 he settled at Baviaanskloof [IC]. [[history/genadendal-a-long-walk|Balie's history]] gives the day as 25 April 1738, and says the Moravian practice of drawing lots decided the move [MS]. By the end of that year, 28 people were living and learning at the station [IC]. Balie's history says thirteen colonists' farms already lay near Baviaanskloof when he arrived [MS].
 
-He taught reading and writing under a pear tree [IC]. He dug a water furrow and planted vegetable gardens, and people worked in exchange for supplies [IC]. In 1739 he built a hartebeeshuis (a house of reeds and clay), a sheep kraal, and a threshing floor [IC]. He kept a diary of this work, which was published at Genadendal in 1981 [MS].
+He taught reading and writing under a pear tree [IC]. He dug a water furrow and planted vegetable gardens, and people worked in exchange for supplies [IC]. In 1739 he built a hartebeeshuis (a house of reeds and clay), a sheep kraal, and a threshing floor [IC]. His students also learned to sow and harvest wheat [MS]. He kept a diary of this work, which was published at Bellville in 1981 [IC]. See [[history/georg-schmidts-diary|Georg Schmidt's Diary]].
 
-In 1742 his authority to baptise arrived from Herrnhut [IC]. He baptised five people, among them Willem, Africo, and Vehettge Tikkuie, who took the name Magdalena [IC]. The Dutch Reformed ministers at the Cape said he had no right to baptise [IC]. Farmers were also unhappy to lose cheap Khoekhoe labour [IC]. Schmidt left the Cape in 1744 and was never allowed to return [IC]. Sources give different dates for his departure, 6 January or 5 March 1744 [IC].
+In 1742 his authority to baptise arrived from Herrnhut [IC]. He baptised five people, among them Willem, Africo, and Vehettge Tikkuie, who took the name Magdalena [IC]. The Dutch Reformed ministers at the Cape said he had no right to baptise [IC]. Farmers were also unhappy to lose cheap Khoekhoe labour [IC]. Schmidt left the Cape in 1744 and was never allowed to return [IC]. Sources give different dates for his departure, 6 January or 5 March 1744 [IC]. Balie's history gives four different years for his first baptisms on different pages: 1739, 1740, 1742, and 1743 [MS].
 
 The meeting at Baviaanskloof did not happen between equals. The Dutch East India Company ruled the Cape, and settlers had been taking Khoekhoe land for decades [IC]. What Schmidt started lasted because of the Khoekhoe who stayed. For 48 years after he left, Magdalena kept the small congregation together under the pear tree, reading from the Dutch New Testament he had given her [IC]. See [[history/history-of-the-valley|History of the Valley]].
 
 ## Later life
 
-Schmidt spent the rest of his life serving the Moravian Church in Germany, Bohemia, and Silesia [MS]. From 1752 he lived at Niesky, a Moravian settlement in Germany [TBV]. He died there on 1 August 1785 [IC]. He never learned that missionaries returned to Baviaanskloof in 1792 and found Magdalena still teaching [MS].
+Schmidt spent the rest of his life serving the Moravian Church in Germany, Bohemia, and Silesia [MS]. From 1752 he lived at Niesky, a Moravian settlement in Germany [TBV]. He died there on 1 August 1785 [IC]. Balie's history says he was found dead on his knees, at the hour he kept for praying for his African congregation [MS]. He never learned that missionaries returned to Baviaanskloof in 1792 and found Magdalena still teaching [MS].
 
 ## How he is linked to Comenius
 
@@ -80,6 +81,7 @@ Schmidt was born 39 years after Comenius died, so the two never met [IC]. The li
 ## What is still open
 
 - Whether Schmidt learned Comenius's teaching methods at Herrnhut.
+- The day he settled at Baviaanskloof. Most sources give 23 April 1738. Balie's history gives 25 April 1738, without a source. Schmidt's own diary, published in 1981, may settle it.
 - The exact date he left the Cape in 1744.
 - Whether Kunewalde is today's Kunín.
 - How the Khoekhoe who met him, such as Africo and Magdalena, saw him. Almost everything known about him comes from his own diary and from Moravian records.
@@ -97,6 +99,7 @@ Schmidt was born 39 years after Comenius died, so the two never met [IC]. The li
 - [[lr-schmidt-primary|L.R. Schmidt Primary School]]
 - [[moravian-church-genadendal|Moravian Church Genadendal]]
 - [[genadendal-mission-museum|Genadendal Mission Museum]]
+- [[history/genadendal-a-long-walk|Genadendal: A Long Walk]]
 
 ## References
 
@@ -107,4 +110,5 @@ Schmidt was born 39 years after Comenius died, so the two never met [IC]. The li
 - Genadendal Project. [History of Genadendal and Surrounds](https://genadendalproject.objectecologies.co.za/history-of-genadendal-and-surrounds/). His first months near Africo's kraal, and the buildings of 1739.
 - Hutton, J.E. (1909). *A History of the Moravian Church*, chapter 16, ["Comenius and the Hidden Seed, 1627 to 1672"](https://www.ccel.org/ccel/hutton/moravian.iv.xvi.html). The villages behind Comenius's catechism, and the line of bishops.
 - Wikipedia. [Daniel Ernst Jablonski](https://en.wikipedia.org/wiki/Daniel_Ernst_Jablonski) and [Nicolaus Zinzendorf](https://en.wikipedia.org/wiki/Nicolaus_Zinzendorf). The consecrations of 1735 and 1737.
-- Schmidt, G. and others (1981). *Das Tagebuch und die Briefe von Georg Schmidt, dem ersten Missionar in Südafrika (1737 to 1744).* Genadendal Printing Works. His own diary and letters.
+- Schmidt, G. and others (1981). *Das Tagebuch und die Briefe von Georg Schmidt, dem ersten Missionar in Südafrika (1737 to 1744).* Bellville: Wes-Kaaplandse Instituut vir Historiese Navorsing (Western Cape Institute for Historical Research). See [[history/georg-schmidts-diary|Georg Schmidt's Diary]]. His own diary and letters.
+- Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The date of 25 April 1738, the lot, the neighbouring farms, the wheat, the dates of the first baptisms, and the manner of his death. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].

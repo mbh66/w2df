@@ -19,6 +19,7 @@ links:
   - https://www.agriseta.co.za/discretionary-grant-funding/
   - https://regqs.saqa.org.za/
   - https://www.elsenburg.com/
+updated: 2026-09-28
 ---
 
 > **This idea is not yet agreed.** It is a suggested route for any group in the valley that is thinking of forming a co-operative. None of the government offices or training providers named here have been asked about it yet. It will be tabled at the Forum's November 2026 meeting. **Please do not share this page publicly yet.**
@@ -231,10 +232,10 @@ For each group:
 
 ## What happens next
 
-1. The route is tabled at the Forum's November 2026 meeting.
-2. The moderators ask AgriSETA, the Department of Agriculture's Overberg office, and the municipality's Economic Development office to check the information on this page.
-3. The group behind the Agri-Heritage Co-operative is invited to test the route first.
-4. Other groups are welcome to use it at any time and to tell the Forum what worked.
+1. The growers in Genadendal behind the Agri-Heritage Co-operative are asked to review this route, since they would be the first to use it.
+2. The route is tabled at the Forum's November 2026 meeting.
+3. The moderators ask AgriSETA, the Department of Agriculture's Overberg office, and the municipality's Economic Development office to check the information on this page.
+4. The growers' group is invited to test the route first. Other groups are welcome to use it at any time and to tell the Forum what worked.
 
 ## Have your say
 

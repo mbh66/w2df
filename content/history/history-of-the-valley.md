@@ -15,7 +15,7 @@ aliases:
   - Valley of Grace history
   - Geskiedenis van die Vallei
   - Significant dates
-updated: 2026-09-24
+updated: 2026-09-28
 links:
   - https://en.wikipedia.org/wiki/Genadendal
   - https://sahistory.org.za/place/genadendal-historic-village-museum
@@ -100,23 +100,23 @@ When new missionaries arrived in 1792, they found Magdalena, old and nearly blin
 
 [[history/people/missionaries-of-1792|Three Moravian missionaries]] arrived at Baviaanskloof on 24 December 1792 [IC]. Hendrik Marsveld was a tailor, Daniel Schwinn a shoemaker, and Johann Christian Kühnel a knife-maker [MS]. Eight kraals of Khoekhoe moved to the kloof, and formal lessons began on 4 March 1793 with 25 adults [MS]. The school has run ever since. It is now [[lr-schmidt-primary|L.R. Schmidt Primary School]] [MS].
 
-The VOC would not let the missionaries build a church. They could build only after the British took the Cape in 1795 [IC]. A chapel was consecrated in 1796 [IC]. In March 1797 the community built a forge, and a water mill at about the same time [IC]. The forge made Genadendal knives, which were sold across the Cape [MS]. A larger church was finished by 1800 [IC].
+The VOC would not let the missionaries build a church. They could build only after the British took the Cape in 1795 [IC]. A chapel was consecrated in 1796 [IC]. In March 1797 the community built a forge, and a water mill at about the same time [IC]. The forge made Genadendal knives, which were sold across the Cape [MS]. A larger church was finished by 1800 [IC]. [[history/genadendal-a-long-walk|Balie's history]] records its first service on 8 January 1800 [MS]. In 1797, on the advice of Lady Anne Barnard, the government gave 500 rixdollars to drain the wetland at the centre of the valley, and each household was given 2 to 4 morgen to garden [MS]. In 1813 a surveyor mapped the boundary between the mission and the neighbouring farms, but residents were given no proof that they owned their land [MS].
 
-In 1806 Governor Janssens visited and renamed the mission Genadendal, "valley of grace" [IC]. More than 1,000 Khoekhoe were living there by then [MS].
+In 1806 Governor Janssens visited and renamed the mission Genadendal, "valley of grace" [IC]. More than 1,000 Khoekhoe were living there by then [MS]. Balie's history says Genadendal was then the largest settlement in the colony after Cape Town [MS].
 
-The mission became a place of learning and trades. In 1819 and 1820 the missionary J.D. Beinbach and members of the congregation built a bridge over the Sonderend River. It is now a Provincial Heritage Site [IC]. In 1823 Genadendal opened a lending library, with books in English, Dutch, and German and a reading room [IC]. A printing press arrived in 1837, and it is now in the [[genadendal-mission-museum|Genadendal Mission Museum]] [IC]. The mission buildings around Church Square (die Werf) are a Provincial Heritage Site [IC].
+The mission became a place of learning and trades. A school building for children was consecrated on 15 July 1814, with 243 pupils [MS]. In 1819 and 1820 the missionary Johann Daniel Beinbrecht and members of the congregation built a bridge over the Sonderend River. It is now a Provincial Heritage Site [IC]. In 1823 Genadendal opened a lending library, with books in English, Dutch, and German and a reading room [IC]. Balie's history dates the library to 1825 [MS]. A tannery was started in 1828, and on 12 September 1831 South Africa's first kindergarten opened, for 144 children aged three to six [MS]. Balie's history says that from 1820 to 1860 half of Genadendal's residents earned their living in trades, among them tailoring, carpentry, masonry, knife-making, smithing, and tanning [MS]. A printing press arrived in 1837, and it is now in the [[genadendal-mission-museum|Genadendal Mission Museum]] [IC]. The mission buildings around Church Square (die Werf) are a Provincial Heritage Site [IC].
 
 Laws outside the mission shaped who came to it. The Caledon Code of 1809 forced Khoekhoe people to have a fixed home and to carry a pass [IC]. Mission stations became one of the few places where they could live without working for a farmer [TBV]. Ordinance 50 of 1828 gave free people of colour legal equality and ended the pass laws [IC].
 
 ## Emancipation and the busy years (1834 to 1860s)
 
-Slavery at the Cape ended in law on 1 December 1834. People who had been enslaved then had to work four more years as "apprentices" [IC]. They became fully free on 1 December 1838 [IC]. In the countryside, mission stations were among the few places where freed people could find land and a home, and many came to Genadendal [IC]. Mission records show its population growing from 1,446 in 1837 to 2,187 in 1840 [MS]. Newcomers were given a plot to build on and were taught a trade, as Khoekhoe families had been [MS].
+Slavery at the Cape ended in law on 1 December 1834. People who had been enslaved then had to work four more years as "apprentices" [IC]. They became fully free on 1 December 1838 [IC]. In the countryside, mission stations were among the few places where freed people could find land and a home, and many came to Genadendal [IC]. Mission records show its population growing from 1,446 in 1837 to 2,187 in 1840 [MS]. Newcomers were given a plot to build on and were taught a trade, as Khoekhoe families had been [MS]. By 1 January 1838 more than 600 people had applied to live there [MS].
 
-In 1838 South Africa's first teachers' training college opened at Genadendal [IC]. It was founded by [[history/people/hans-peter-hallbeck|Hans Peter Hallbeck]], who led the Moravian missions in South Africa from Genadendal from 1817 to 1840 [MS]. Mission sources give the date as 12 September 1838 [MS]. It trained teachers for almost ninety years [IC]. Music was part of its teaching, and brass playing began there. By Easter 1856 Genadendal had a brass band, which still plays today [MS]. See [[history/music-of-the-valley|Music of the Valley]].
+In 1838 South Africa's first teachers' training college opened at Genadendal [IC]. It was founded by [[history/people/hans-peter-hallbeck|Hans Peter Hallbeck]], who led the Moravian missions in South Africa from Genadendal from 1817 to 1840 [MS]. Mission sources give the date as 12 September 1838, when 11 students enrolled [MS]. It trained teachers for almost ninety years [IC], 236 in all [MS]. Its first qualified teacher, in 1842, was Carl Jonas, the son of a slave [MS]. Music was part of its teaching, and brass playing began there. By Easter 1856 Genadendal had a brass band, which still plays today [MS]. See [[history/music-of-the-valley|Music of the Valley]].
 
-From 1859 the mission press printed *De Bode van Genadendal*, a monthly journal founded by the missionary [[history/people/benno-marx|Benno Marx]] [IC]. It was written in the Dutch spoken at Genadendal, one of the roots of written Afrikaans, and it came out 17 years before *Die Afrikaanse Patriot* (1876) [IC]. From 1914 it appeared as *Die Huisvriend* [TBV].
+From 1859 the mission press printed *De Bode van Genadendal*, a monthly journal founded by the missionary [[history/people/benno-marx|Benno Marx]] [IC]. It was written in the Dutch spoken at Genadendal, one of the roots of written Afrikaans, and it came out 17 years before *Die Afrikaanse Patriot* (1876) [IC]. From 1914 it appeared as *Die Huisvriend* [TBV]. Genadendal knives won an honourable mention at the Great Exhibition in London in 1851 [MS]. When Governor Sir George Grey visited on 3 January 1855, only two older residents could still speak the Hessequa language [MS].
 
-In 1858 the mission land was granted to the Moravian Church "for the use of and in trust for such persons as may from time to time be lawfully resident at the institution of Genadendal" [MS]. This is the land now called Farm 39 [MS]. The trust for residents lies at the heart of the land questions the valley still faces. See [[trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]].
+In November 1857 the surveyor J. Kuys measured the mission land at 5,644 morgen and 289 square roods [MS]. In 1858 it was granted to the Moravian Church "for the use of and in trust for such persons as may from time to time be lawfully resident at the institution of Genadendal" [MS]. This is the land now called Farm 39 [MS]. Balie's history gives the date of the grant as 15 February 1858, and says many residents rejected it because no resident was made a trustee alongside the church's superintendent [MS]. The trust for residents lies at the heart of the land questions the valley still faces. See [[trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]].
 
 The mission's work reached nearby settlements. Moravian missionaries started a school at [[villages/bereaville|Bereaville]] in 1865, which is now [[berea-primary|Berea Primary School]] [MS]. Bereaville and [[villages/voorstekraal|Voorstekraal]] each have a Moravian congregation [MS]. The early history of both villages has still to be written.
 
@@ -128,29 +128,31 @@ Vigne laid out a village on the farm. Sources date its founding to 1852, with th
 
 ## Hard years: land, work, and law (1860s to 1950)
 
-In the second half of the 1800s, cheap factory-made goods reached the Cape by steamship. They undercut the knives, furniture, and other goods made by hand at Genadendal, and many people left to find work in towns and on farms [TBV].
+In the second half of the 1800s, cheap factory-made goods reached the Cape by steamship. They undercut the knives, furniture, and other goods made by hand at Genadendal, and many people left to find work in towns and on farms [TBV]. Balie's history says cheap Sheffield knives were sold at the Cape with the Genadendal mark, and that the last of Genadendal's knife-makers died in 1880 [MS]. From 1877 the missionary A.G. Hettasch tried new work to replace the crafts, such as castor oil, silkworms, and buchu for export [MS].
 
-Between 1891 and 1893 the congregation built the large church that stands on Church Square today [MS]. In 1899 the Moravian Church bought the mountain farm Langgezocht, about 1,881 hectares, to protect the water sources of Farm 39 [MS].
+Between 1891 and 1893 the congregation built the large church that stands on Church Square today, and it was consecrated on 15 March 1893 [MS]. In 1899 a deputation of the Afrikaner Bond argued that the teachers' college was not needed for people who were not white [MS]. During the Anglo-Boer War (1899 to 1902) the missionaries sympathised with the Boers and many residents sided with Britain, and resentment against the mission grew [MS]. In 1899 the Moravian Church bought the mountain farm Langgezocht, about 1,881 hectares, to protect the water sources of Farm 39 [MS].
 
-In 1909 the Mission Stations and Communal Reserves Act placed mission land under management boards. Residents kept the right to live on the land, but they could not own it [IC]. Forum research describes this as the start of a deep rift between the missionaries and residents [MS]. In 1924 a secular board of management took over from the missionaries [IC].
+In 1909 the Mission Stations and Communal Reserves Act placed mission land under management boards. Residents kept the right to live on the land, but they could not own it [IC]. Forum research describes this as the start of a deep rift between the missionaries and residents [MS]. Balie's history says many residents left the Moravian Church over the Act [MS]. Five hundred Genadendal men enlisted in the war of 1914 to 1918, and 19 died in service [MS]. In October 1918 about 1,500 residents caught influenza, and 70 funerals were held within two months [MS]. In 1924 a secular board of management took over from the missionaries [IC]. In the same year a group of residents known as the Magermans took the church to the Supreme Court over property rights [MS].
 
-In 1926 the government closed the teachers' college [IC]. It argued that coloured people did not need higher education because they were suited to work as labourers on farms [IC]. In 1927 about 70 hectares at the heart of Genadendal and Bereaville, known as the Glebe Lands, were granted to the Moravian Church [IC].
+In 1926 the government closed the teachers' college [IC]. It argued that coloured people did not need higher education because they were suited to work as labourers on farms [IC]. In 1927 about 70 hectares at the heart of Genadendal and Bereaville, known as the Glebe Lands, were granted to the Moravian Church [IC]. Balie's history says that under a series of government departments, from 1926 to 1997, Genadendal stayed an undeveloped village of about 5,000 people [MS]. In 1928 the Young Men's Society put up an obelisk to the soldiers who had died in the war [MS]. In 1938 a high school opened in the old college building, and it later became Emil Weder Secondary [MS].
 
 ## Apartheid (1950 to 1994)
 
-The Group Areas Act of 1950 divided land by race [IC]. In Greyton, coloured families were forced to sell their homes and farmland and move to [[villages/heuwelkroon|Heuwelkroon]], on the edge of the village [IC]. Sources differ on the dates. Some Greyton histories say the 1950s. An essay in the journal *Herri* dates the removals from 1968 to 1974, and a 2022 heritage study says Heuwelkroon was built in 1970 [TBV]. See [[history/history-of-greyton|History of Greyton]].
+The Group Areas Act of 1950 divided land by race [IC]. In Greyton, coloured families were forced to sell their homes and farmland and move to [[villages/heuwelkroon|Heuwelkroon]], on the edge of the village [IC]. Sources differ on the dates. Some Greyton histories say the 1950s. An essay in the journal *Herri* dates the removals from 1968 to 1974, and a 2022 heritage study says Heuwelkroon was built in 1970 [TBV]. See [[history/history-of-greyton|History of Greyton]]. Balie's history says fear of removal spread to Genadendal, and many residents stopped maintaining their houses [MS].
+
+In the 1950s and 1960s members of the Teachers' League of South Africa met in the Genadendal parsonage loft to oppose apartheid, and became known as the *Solder-beweging* (Loft Movement) [MS]. One of them, Rev Daniel Wessels, was placed under house arrest for five years in 1962 [MS]. In the 1950s co-operative laws forced farmers to send their wheat to licensed co-operatives, and the water mill closed [MS]. Electricity and piped water reached Genadendal in the 1960s [MS].
 
 On 13 May 1977 the Greyton Nature Reserve, established by [[history/people/brian-rycroft|Brian Rycroft]], was proclaimed on the mountain commonage [IC]. It covers about 2,200 hectares [IC].
 
-In 1987 the Rural Areas Act 9 of 1987 took over the former mission areas, and Genadendal was added to it in 1989 [IC]. On 8 March 1991 the Mission Museum's collection was declared a National Cultural Treasure [MS].
+In 1987 the Rural Areas Act 9 of 1987 took over the former mission areas, and Genadendal was added to it in 1989 [IC]. In 1980 the buildings on Church Square were declared national monuments [MS]. In 1986 the Moravian Church started the Mission Trust Fund to restore them, and in 1987 the Mission Museum opened in the college building of 1838 [MS]. On 8 March 1991 the Mission Museum's collection was declared a National Cultural Treasure [MS]. In 1992 the water mill was restored and began milling again [MS].
 
 ## Democracy and the land question (1994 to 2011)
 
 South Africa held its first democratic election on 27 April 1994 [IC]. In 1995 President Nelson Mandela renamed his official Cape Town residence, then called Westbrooke, Genadendal [IC]. Mission sources say the name came from a letter by the museum curator, Dr Isaac Balie [MS]. Mandela visited Genadendal on 10 October 1995 [IC]. He later described it as "a place of sanctuary for more than a thousand slaves when slavery was abolished in 1838" [MS].
 
-In the mid-1990s a transitional council replaced Greyton's white municipal council and the Heuwelkroon management committee [IC]. In December 2000 the valley became part of the new Theewaterskloof Municipality [IC].
+In the mid-1990s a transitional council replaced Greyton's white municipal council and the Heuwelkroon management committee [IC]. In December 2000 the valley became part of the new Theewaterskloof Municipality [IC]. In 2000 the South African Heritage Resources Agency changed the status of the museum collection and the Church Square monuments from national to provincial [MS]. Around 2001 the Dutch government gave R11 million to restore the historic buildings, and residents were trained as masons and thatchers [MS].
 
-TRANCRAA, the law meant to hand Farm 39 to an entity its residents help choose, came into force on 2 November 1998 [IC]. The municipality began the process in 2002 [IC]. Residents elected the [[civic/governance/genadendal-transformasie-komitee|Transformasie Komitee]] in November 2004 [IC]. A settlement between the Komitee, the municipality, and the national Minister became a High Court order on 22 October 2008, and its terms were never carried out [IC]. The transitional period for Farm 39 ended in January 2011 without a transfer, and the land stayed with the Minister [IC]. The full story, with each party's position in its own words, is on [[trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]].
+TRANCRAA, the law meant to hand Farm 39 to an entity its residents help choose, came into force on 2 November 1998 [IC]. The municipality began the process in 2002 [IC]. Residents elected the [[civic/governance/genadendal-transformasie-komitee|Transformasie Komitee]] in November 2004 [IC]. A settlement between the Komitee, the municipality, and the national Minister became a High Court order on 22 October 2008, and its terms were never carried out [IC]. Balie's history says the Komitee applied to the Western Cape High Court in 2007 to review actions of the municipality, and later asked the court to declare the municipality in breach of the settlement [MS]. The transitional period for Farm 39 ended in January 2011 without a transfer, and the land stayed with the Minister [IC]. The full story, with each party's position in its own words, is on [[trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]].
 
 The Genadendal printing works closed in 2003, after more than 170 years [MS].
 
@@ -170,13 +172,17 @@ April 2028 marks 290 years since Schmidt settled at Baviaanskloof. On 23 April 2
 
 ## Where the sources disagree
 
-- **When Genadendal was founded.** Schmidt reached the Cape in 1737 and began teaching nearby that year. He settled at Baviaanskloof on 23 April 1738 [IC]. The provincial heritage register gives 1737 [IC]. The museum, the mission, and the 2038 tercentenary use 1738 [MS].
+- **When Genadendal was founded.** Schmidt reached the Cape in 1737 and began teaching nearby that year. He settled at Baviaanskloof on 23 April 1738 [IC]. The provincial heritage register gives 1737 [IC]. The museum, the mission, and the 2038 tercentenary use 1738 [MS]. Balie's history gives the day as 25 April 1738, without a source [MS]. This wiki keeps 23 April.
+- **The first baptisms.** This wiki gives 1742 [IC]. Balie's history gives 1739, 1740, 12 April 1742, and 1743 on different pages [MS].
 - **When Schmidt left.** Most sources say 1744. Some say 1743 [IC].
-- **The first church.** A chapel was consecrated in 1796 [IC], and a larger church was finished by 1800 [IC]. Magdalena died on 3 January 1800, shortly before the new church was consecrated [MS].
+- **The first church.** A chapel was consecrated in 1796 [IC], and a larger church was finished by 1800 [IC]. Balie's history dates the first chapel, the Middle House, to 1798, and its map of Church Square to 1795 to 1796 [MS]. Magdalena died on 3 January 1800, five days before the larger church's first service on 8 January [MS].
+- **The lending library.** Most sources give 1823 [IC]. Balie's history gives 1825 [MS].
+- **The land grant.** Most sources give 1858 [MS]. Balie's history gives 15 February 1858 on one page and 1856 on another [MS].
+- **The teachers' college.** Most sources say it closed in 1926 [IC]. Balie's history gives both 1926 and 1927 [MS].
 - **Greyton's founding.** Vigne bought Weltevreden in 1845 or 1846. The village is dated to 1852 or 1854, depending on whether the source counts the plan or the first sale of plots [IC].
 - **The removals to Heuwelkroon.** Some Greyton histories give the 1950s. The *Herri* essay gives 1968 to 1974, and the 2022 heritage study says Heuwelkroon was built in 1970. The later two agree [TBV].
 - **Greyton Transition Town.** Its own website says it started in mid-2011. Forum research notes give 2012 [MS].
-- **The size of Farm 39.** Records give between about 4,515 and 4,800 hectares. See [[trancraa-process-farm-39|TRANCRAA and Farm 39]].
+- **The size of Farm 39.** Records give between about 4,515 and 4,800 hectares. Balie's history gives the survey of 1857 as 5,644 morgen and 289 square roods, which at about 0.857 hectares to the morgen is roughly 4,830 hectares (this page's own conversion) [MS]. See [[trancraa-process-farm-39|TRANCRAA and Farm 39]].
 
 ## Help fill the gaps
 
@@ -230,54 +236,81 @@ This is one way of reading the history. Residents may read the same events diffe
 | 1795 | [[history/people/hendrik-cloete\|Hendrik Cloete]] takes over Weltevreden [IC] |
 | 1796 | The first chapel is consecrated [IC] |
 | 1797 | A forge and a water mill are built at the mission [IC] |
+| 1797 | The government pays to drain the garden land, and households get 2 to 4 morgen each [MS] |
 | 3 Jan 1800 | Magdalena dies [IC] |
+| 8 Jan 1800 | First service in the larger church [MS] |
 | By 1800 | A larger church is finished [IC] |
 | 1803 | Independent Khoekhoe kraals are still recorded near Genadendal [IC] |
 | 1806 | Baviaanskloof is renamed Genadendal [IC] |
 | 1809 | The Caledon Code requires Khoekhoe people to have a fixed home and carry a pass [IC] |
+| 1813 | The boundary between the mission and the farms is mapped [MS] |
+| 15 Jul 1814 | A school building is consecrated with 243 children [MS] |
 | 1819 to 1820 | A bridge is built over the Sonderend River [IC] |
 | 1823 | A lending library opens at Genadendal [IC] |
 | 1828 | Ordinance 50 gives free people of colour legal equality [IC] |
+| 1828 | A tannery is started [MS] |
+| 12 Sep 1831 | South Africa's first kindergarten opens [MS] |
+| 1832 | A pipe organ, bought with a gift made in 1830, is in use at Genadendal [MS] |
 | 1 Dec 1834 | Slavery ends in law, and a four-year "apprenticeship" begins [IC] |
-| 1832 | A pipe organ arrives at Genadendal [TBV] |
 | 1837 | A printing press arrives at Genadendal [IC] |
 | 1838 | South Africa's first teachers' training college opens at Genadendal [IC] |
 | 1 Dec 1838 | Full emancipation of enslaved people at the Cape [IC] |
 | 1839 | [[history/people/john-malcolm-stewart\|John Malcolm Stewart]] becomes the first British owner of Weltevreden [IC] |
+| 1842 | Carl Jonas becomes the college's first qualified teacher [MS] |
 | 1846 | [[history/people/herbert-vigne\|Herbert Vigne]] buys Weltevreden [IC] |
+| 1851 | Genadendal knives win an honourable mention at the Great Exhibition in London [MS] |
 | 1852 to 1854 | Greyton is laid out as a village of smallholders, and the first plots are sold in 1854 [IC] |
 | 1854 | Greyton's leiwater furrows begin carrying water from the Gobos River to every plot with a water right [MS] |
+| 3 Jan 1855 | Governor Grey visits; only two residents can still speak the Hessequa language [MS] |
 | Easter 1856 | The Genadendal brass band gives its first recorded performance [MS] |
+| Nov 1857 | The mission land is surveyed at 5,644 morgen [MS] |
 | 1858 | The mission land (Farm 39) is granted to the Moravian Church in trust for residents [MS] |
 | 1859 | *De Bode van Genadendal* is first printed [IC] |
 | 1860 | The Post House is built in Greyton [IC] |
 | 1865 to 1880 | First attempt to build a road over the Boesmanskloof to McGregor [TBV] |
 | 1865 | Moravian missionaries start a school at Bereaville [MS] |
+| 1880 | The last of Genadendal's knife-makers dies [MS] |
 | 1891 | Greyton has 276 residents [IC] |
-| 1891 to 1893 | The present church on Church Square is built [MS] |
+| 1891 to 1893 | The present church on Church Square is built, and consecrated on 15 March 1893 [MS] |
 | 1899 | The Moravian Church buys Langgezocht to protect Farm 39's water [MS] |
 | 1909 | The Mission Stations and Communal Reserves Act denies residents ownership of mission land [IC] |
 | 1910 | Greyton becomes a municipality [IC] |
+| 1915 to 1918 | Five hundred Genadendal men enlist, and 19 die in service [MS] |
 | 1918 | The Dutch Reformed congregation of Greyton is founded [MS] |
+| Oct 1918 | About 1,500 Genadendal residents catch influenza, and 70 funerals are held within two months [MS] |
 | 1924 | A secular board replaces the missionaries in running Genadendal [IC] |
+| 1924 | The Magermans take the Moravian Church to the Supreme Court over property rights [MS] |
 | 1926 | The teachers' college is closed [IC] |
 | 1927 | The Glebe Lands are granted to the Moravian Church [IC] |
+| 1928 | A memorial to Genadendal's soldiers of 1914 to 1918 is put up [MS] |
 | 1936 to 1941 | Work on the Boesmanskloof road resumes as a relief scheme, and stops for the Second World War [TBV] |
+| 1938 | A high school opens in the old college building [MS] |
 | 1950 | The Group Areas Act becomes law [IC] |
 | 1951 | The Moravian Brass Band Union of South Africa is founded [IC] |
+| 1950s | The water mill closes [MS] |
+| 1950s and 1960s | The Loft Movement of teachers opposes apartheid from the Genadendal parsonage [MS] |
+| 1960s | Electricity and piped water reach Genadendal [MS] |
+| 1962 | Rev Daniel Wessels is placed under house arrest for five years [MS] |
 | 1968 to 1974 | Coloured families are forced from Greyton to Heuwelkroon. Some sources say the 1950s [TBV] |
 | 13 May 1977 | The Greyton Nature Reserve is proclaimed [IC] |
+| 1980 | The buildings on Church Square are declared national monuments [MS] |
+| 1986 | The Mission Trust Fund is set up to restore Church Square [MS] |
 | 1987 | The Rural Areas Act 9 of 1987 takes over the former mission areas. Genadendal is added in 1989 [IC] |
+| 1987 | The Mission Museum opens in the college building of 1838 [MS] |
 | 8 Mar 1991 | The Mission Museum's collection is declared a National Cultural Treasure [MS] |
+| 1992 | The water mill is restored and working again [MS] |
 | 27 Apr 1994 | South Africa's first democratic election [IC] |
 | 1995 | The presidential residence in Cape Town is renamed Genadendal [IC] |
 | 10 Oct 1995 | President Mandela visits Genadendal [IC] |
 | Mid-1990s | A transitional council replaces Greyton's old municipal structures [IC] |
 | 2 Nov 1998 | TRANCRAA comes into force [IC] |
+| 2000 | The museum collection and Church Square monuments are changed from national to provincial status [MS] |
 | Dec 2000 | Theewaterskloof Municipality is created [IC] |
+| About 2001 | The Dutch government gives R11 million to restore the historic buildings [MS] |
 | 2002 | The Farm 39 transformation process begins [IC] |
 | 2003 | The Genadendal printing works close [MS] |
 | 9 Nov 2004 | The Transformasie Komitee is elected [IC] |
+| 2007 | The Transformasie Komitee applies to the High Court to review the municipality's actions [MS] |
 | 22 Oct 2008 | The Houw Hoek settlement becomes a High Court order [IC] |
 | Jan 2011 | The Farm 39 transitional period ends without a transfer [IC] |
 | 2011 | Greyton Transition Town starts [MS] |
@@ -295,6 +328,7 @@ This is one way of reading the history. Residents may read the same events diffe
 ## Related
 
 - [[history/index|Valley History]]
+- [[history/genadendal-a-long-walk|Genadendal: A Long Walk]]
 - [[history/tribes/khoekhoe|Khoekhoe]]
 - [[history/tribes/san|San]]
 - [[history/institutions/dutch-east-india-company|Dutch East India Company]]
@@ -331,6 +365,7 @@ Books and academic sources:
 
 - Krüger, B. (1966). *The Pear Tree Blossoms: A History of the Moravian Mission Stations in South Africa, 1737 to 1869.* Genadendal Printing Works. The main mission history of Schmidt, Magdalena, and the 1792 reopening.
 - Balie, I. (1988). *Die Geskiedenis van Genadendal, 1738 to 1988.* Mission history, including the numbers of freed people after 1838.
+- Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The facts attributed to Balie's history on this page; page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].
 - Marsveld, H., Schwinn, D. and Kühnel, J.C. *The Genadendal Diaries, Volume I (1792 to 1794).* Edited by H.C. Bredekamp and H.E.F. Plüddemann. University of the Western Cape Institute for Historical Research. The first lessons in 1793.
 - Bredekamp, H.C. (1987). "Vehettge Tikkuie, alias Moeder Lena van Genadendal (1737 to 1800)." *Quarterly Bulletin of the South African Library* 41(4). Magdalena's life.
 - du Preez, H. and others (eds) (2009). [The Challenge of Genadendal](https://ebooks.iospress.nl/book/the-challenge-of-genadendal). IOS Press. Mandela's foreword gives the 1995 renaming and the visit of 10 October 1995.

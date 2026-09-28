@@ -32,7 +32,8 @@ On 24 December 1792, three Moravian missionaries arrived at Baviaanskloof: Hendr
 | | |
 | --- | --- |
 | Who | Hendrik Marsveld, a tailor; Daniel Schwinn, a shoemaker; Johann Christian Kühnel, a knife-maker (cutler) [MS] |
-| Born | Marsveld in 1744 and Kühnel in 1762, according to library records of their diaries [TBV]. Schwinn's birth year is not known. |
+| Born | Marsveld in 1744 and Kühnel in 1762, according to library records of their diaries [TBV]. [[history/genadendal-a-long-walk|Balie's history]] gives Marsveld 9 November 1745 in Gouda, Schwinn 18 March 1750 in Erbach, and Kühnel 10 June 1762 at Ober-Seifersdorf [MS]. |
+| Died | Kühnel on 20 April 1813, Schwinn on 25 July 1816, and Marsveld on 8 September 1822, all at Genadendal, according to Balie's history [MS] |
 | Arrived | 24 December 1792, at Baviaanskloof [IC] |
 | Known for | Reopening the mission and its school, and building the chapel, forge, and mill [IC] |
 | Link to the valley | The founders of the mission that became Genadendal |
@@ -53,10 +54,14 @@ The work was contested from the start. Colonists in the Overberg depended on Kho
 
 Then the mission grew fast:
 
-- A chapel was consecrated in 1796 [IC].
+- A chapel was consecrated in 1796 [IC]. Balie's history dates the first chapel, the Middle House, to 1798 [MS].
 - In March 1797 they built a forge, and a water mill at about the same time [IC]. Kühnel used the forge to make knives, which became known across the Cape [MS].
 - A larger church was finished by 1800 [IC].
 - In 1806 the governor renamed the mission Genadendal, "valley of grace" [IC]. More than 1,000 Khoekhoe were living there by then [MS].
+
+## Their later lives
+
+Balie's history, drawing on the mission's records, gives an account of each man [MS]. Marsveld was born in Gouda in the Netherlands, worked as a tailor at Zeist, and became known at Genadendal as the tailor-miller [MS]. He was the last of the three to die, in 1822, at the age of 77, and many residents came to the missionaries' house in tears when the news spread [MS]. Schwinn was born at Erbach in Germany and had settled at Zeist [MS]. In 1799 he went back to Europe, married Anna Hellinger, and returned in 1800 bringing two brides for Marsveld and Kühnel, chosen by the Moravian practice of drawing lots [MS]. Kühnel was trained as a cutler and taught young men of the mission to make knives, which became one of the mission's main sources of income [MS]. All three are buried in the mission cemetery at Genadendal [MS].
 
 ## The Genadendal Diaries
 
@@ -79,9 +84,7 @@ The three kept a diary of daily life at the mission. It records who came, what w
 
 ## What is still open
 
-- Where each man came from, and what became of each of them after their years at Genadendal.
-- When each died.
-- Schwinn's year of birth.
+- Where each man came from, and when each was born and died. Balie's history gives dates for all three, which have not been checked against other sources. It gives 1745 for Marsveld's birth, and library records give 1744.
 - How the Khoekhoe families who moved to the kloof in 1793 saw the new missionaries.
 - The details of how permission to return was won in 1792, which rest on Moravian sources only.
 
@@ -97,6 +100,7 @@ The three kept a diary of daily life at the mission. It records who came, what w
 - [[genadendal-mission-museum|Genadendal Mission Museum]]
 - [[moravian-church-genadendal|Moravian Church Genadendal]]
 - [[lr-schmidt-primary|L.R. Schmidt Primary School]]
+- [[history/genadendal-a-long-walk|Genadendal: A Long Walk]]
 
 ## References
 
@@ -106,3 +110,4 @@ The three kept a diary of daily life at the mission. It records who came, what w
 - Wikipedia. [List of heritage sites in Caledon](https://en.wikipedia.org/wiki/List_of_heritage_sites_in_Caledon). Kühnel House as a Provincial Heritage Site.
 - Viljoen, R. (1995). "Moravian Missionaries, Khoisan Labour and the Overberg Colonists at the End of the VOC Era, 1792 to 1795." In Bredekamp, H. and Ross, R. (eds), *Missions and Christianity in South African History.* Witwatersrand University Press. The conflict with the colonists.
 - Krüger, B. (1966). *The Pear Tree Blossoms: A History of the Moravian Mission Stations in South Africa, 1737 to 1869.* Genadendal Printing Works. The missionaries' trades, the first lessons, and the road to permission.
+- Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The birth and death dates of the three men, the chapel of 1798, and their later lives. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].

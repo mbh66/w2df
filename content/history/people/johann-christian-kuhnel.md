@@ -1,6 +1,6 @@
 ---
 title: Johann Christian Kühnel
-description: German Moravian missionary and knife-maker (born about 1762), one of the three who reopened the mission at Baviaanskloof in 1792. His forge of 1797 began the Genadendal knives, sold across the Cape.
+description: German Moravian missionary and knife-maker (1762 to 1813), one of the three who reopened the mission at Baviaanskloof in 1792. His forge of 1797 began the Genadendal knives, sold across the Cape.
 type: person
 tags:
   - theme/heritage
@@ -12,7 +12,9 @@ aliases:
   - Johann Christian Kuhnel
   - Joh. Chr. Kühnel
   - Brother Kühnel
-born: "1762"
+born: "1762-06-10"
+died: "1813-04-20"
+updated: 2026-09-28
 links:
   - https://github.com/mbh66/genadendal-diaries
   - https://archive.org/details/genadendaldiarie0000mars
@@ -34,14 +36,14 @@ Johann Christian Kühnel was one of the three Moravian missionaries who reopened
 
 | | |
 | --- | --- |
-| Born | About 1762 [TBV]. A library record of the printed diaries gives 1762, and a Genadendal history says he was 30 in November 1792. Where he was born is not known. |
-| Died | Not known. He was still at Baviaanskloof in February 1804 [MS]. |
+| Born | 10 June 1762, at Ober-Seifersdorf in Germany, according to [[history/genadendal-a-long-walk|Balie's history]] [MS]. A library record gives 1762, and a Genadendal history says he was 30 in November 1792 [MS]. |
+| Died | 20 April 1813, at Genadendal [MS] |
 | Known for | Reopening the mission in 1792, and founding its forge and knife-making in 1797 [IC] |
 | Link to the valley | One of the founders of the mission that became Genadendal. Kühnel House, in the mission complex on Church Square, is a Provincial Heritage Site [IC]. |
 
 ## A craftsman missionary
 
-Moravian missionaries were chosen from among tradesmen, who were expected to earn their own living among the people they served [MS]. Kühnel was a German knife-maker [MS]. The Dutch copy of the diaries calls him and Schwinn "two German brothers", who in the first months could not yet preach in Dutch [MS]. He brought files with him from Amsterdam, and the church in Europe sent him lathes, grindstones, and screw clamps, so that he could earn money towards the mission's costs [MS].
+Moravian missionaries were chosen from among tradesmen, who were expected to earn their own living among the people they served [MS]. Kühnel was a German knife-maker [MS]. Balie's history says he was trained as a cutler by the Neissers, a Moravian family [MS]. The Dutch copy of the diaries calls him and Schwinn "two German brothers", who in the first months could not yet preach in Dutch [MS]. He brought files with him from Amsterdam, and the church in Europe sent him lathes, grindstones, and screw clamps, so that he could earn money towards the mission's costs [MS].
 
 Diaries: [A363595, lines 11473 to 11533](https://github.com/mbh66/genadendal-diaries/blob/main/translations/en/A363595/27-28-september-to-31-october-1794.md)
 
@@ -77,7 +79,9 @@ Diaries: [A363349, lines 11466 to 11487](https://github.com/mbh66/genadendal-dia
 
 Kühnel went on teaching as well as working the forge. In May 1797, when children misbehaved in school, he told them he could not speak to them of the Saviour and sent them home. The children crowded round him and begged forgiveness, and he spoke with them and forgave them [MS]. In August 1797 he fetched sheep from a farmer who had bought them on a journey into the Xhosa country, giving the mission a flock of its own for the first time [MS].
 
-In December 1803 Kühnel and Brother Rose rode with some Khoekhoe to the boundary of the mission's land to welcome the Commissioner-General, De Mist [MS]. Kühnel signed the mission's diary in February 1804, with Rose, Kohrhammer, Marsveld, and Schwinn [MS]. When and where he died has not yet been found.
+In December 1803 Kühnel and Brother Rose rode with some Khoekhoe to the boundary of the mission's land to welcome the Commissioner-General, De Mist [MS]. Kühnel signed the mission's diary in February 1804, with Rose, Kohrhammer, Marsveld, and Schwinn [MS].
+
+In 1800 Schwinn came back from Europe with brides for Kühnel and Marsveld, chosen by lot, and the couples were married in Cape Town [MS]. Kühnel's wife, Christiana Amalia Dressler, was born at Arnsdorf near Görlitz in 1769, and died at Genadendal on 8 June 1810, aged 41 [MS]. Kühnel died at Genadendal on 20 April 1813 [MS]. Balie's history quotes the mission's report, which called him "a most active, useful and faithful servant of Christ" [MS]. His grave is in the old mission cemetery [MS]. Balie's history says his knife trade became one of the mission's main sources of income [MS].
 
 Diaries: [A363349, lines 16098 to 16145](https://github.com/mbh66/genadendal-diaries/blob/main/translations/en/A363349/63-may-1797-and-the-close-of-the-diary.md); [A363349, lines 12397 to 12426](https://github.com/mbh66/genadendal-diaries/blob/main/translations/en/A363349/38-august-1797.md); [A363597, lines 1029 to 1077](https://github.com/mbh66/genadendal-diaries/blob/main/translations/en/A363597/07-december-1803-and-the-years-figures.md); [A363597, lines 1506 to 1510](https://github.com/mbh66/genadendal-diaries/blob/main/translations/en/A363597/09-february-1804-and-the-signatures.md)
 
@@ -101,9 +105,7 @@ What is known of Kühnel comes almost entirely from the diaries he and his fello
 
 ## What is still open
 
-- Where and when he was born, and when and where he died.
-- Whether he married, and what became of him after 1804.
-- Whether Kühnel House was his home, and when it was built.
+- Whether Kühnel House was his home. Balie's history says the building is the old Genadendal guest house of about 1800, and that the name Kühnel House was given in the 1960s, when it became part of a hostel for high school boys [MS].
 - The name of his Khoekhoe apprentice, and whether the craft passed down in Genadendal families.
 - What Genadendal knives sold for, and where.
 
@@ -116,6 +118,7 @@ What is known of Kühnel comes almost entirely from the diaries he and his fello
 - [[history/markets/mission-economy|The Mission Economy]]
 - [[history/the-genadendal-diaries|The Genadendal Diaries]]
 - [[genadendal-mission-museum|Genadendal Mission Museum]]
+- [[history/genadendal-a-long-walk|Genadendal: A Long Walk]]
 
 ## References
 
@@ -125,3 +128,4 @@ What is known of Kühnel comes almost entirely from the diaries he and his fello
 - Wikipedia. [List of heritage sites in Caledon](https://en.wikipedia.org/wiki/List_of_heritage_sites_in_Caledon). Kühnel House as a Provincial Heritage Site.
 - De Wet, T., Teugels, J.L. and Van Deventer, P. (2014). ["Historic bells in Moravian Missions in South Africa's Western Cape"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0018-229X2014000200007). *Historia* 59(2). Kühnel's first bell of 1793.
 - Genadendal Diaries repository. [Genadendal Diaries](https://github.com/mbh66/genadendal-diaries). English translations of the Utrecht copies of the diaries, cited here by file and line number. Unreviewed machine translations.
+- Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. His birth, training, marriage, and death, and the naming of Kühnel House. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].

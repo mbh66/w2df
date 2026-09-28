@@ -22,12 +22,15 @@ needs: [funding, members]
 links:
   - https://genadendalmuseum.org
   - https://www.facebook.com/GenadendalMissionMuseum/
+updated: 2026-09-28
 heritage_site_status: Collection declared a National Cultural Treasure (1991)
 ---
 
 The Genadendal Mission Museum is on Moravian Church Square in Genadendal [MS]. Georg Schmidt, a Moravian missionary, started the mission here in 1738. It was the first Moravian mission in South Africa [IC]. The museum preserves the history and culture of the people of the mission station, and their ties with the rest of South Africa and the world [MS]. The museum's collection was declared a National Cultural Treasure on 8 March 1991 [MS].
 
-The museum has 25 exhibition rooms [MS]. Most of the objects were made and used at the mission station: household equipment, musical instruments, medical equipment, tools, books, printing presses, and Genadendal-made furniture and knives [MS]. The collection includes the oldest fire engine and the oldest pipe organ in South Africa [MS]. Visitors can also see a water mill that is still used to grind flour, and a reconstructed Khoikhoi kraal [TBV].
+[[history/genadendal-a-long-walk|Balie's history of Genadendal]], by the museum's former director, says a museum first opened at Genadendal in 1963, and that the present museum opened in 1987 in the building of 1838 that housed South Africa's first teachers' training college [MS]. It says the collection held about 3,000 objects when it was declared a National Cultural Treasure, and grew by about 5,000 more over the next 22 years [MS]. In 2000 the South African Heritage Resources Agency changed the collection's status, and that of the monuments on Church Square, from national to provincial [MS]. In 2015 the Department of Cultural Affairs named it the best museum in the Cape Province [MS]. Its collections are shown in five buildings: the main museum, a cottage museum, the printing museum, a medical museum, and the wagon house [MS].
+
+The museum has 25 exhibition rooms [MS]. Most of the objects were made and used at the mission station: household equipment, musical instruments, medical equipment, tools, books, printing presses, and Genadendal-made furniture and knives [MS]. The collection includes the oldest fire engine and the oldest pipe organ in South Africa [MS]. Visitors can also see a water mill that is still used to grind flour, and a reconstructed Khoikhoi kraal [MS]. Balie's history says the mill was restored and began milling again in 1992 [MS].
 
 The museum is one of the main archives of the Moravian Church in South Africa, and holds some of the country's oldest documents [MS].
 
@@ -47,3 +50,4 @@ Book a tour or a school programme, ask about research, or give to the museum thr
 
 ## Related
 - [[2026-09-16-inaugural-meeting|Forum inaugural meeting]], which the museum attended
+- [[history/genadendal-a-long-walk|Genadendal: A Long Walk]], a history of Genadendal by the museum's former director

@@ -16,9 +16,19 @@ draft: false
 right_of_reply: pending
 komitee_review: pending
 aliases: [Tourism Growth Fund application, TGF application, Heritage Trail and Nature Realm Activation]
+updated: 2026-09-28
 ---
 
-> **This is a proposal, not a decision.** At its [[2026-09-16-inaugural-meeting|first meeting]], the Forum agreed that the proposal goes to the Transformasie Komitee in writing first [MS]. This page will be published once the Komitee has received it, and the Komitee's response will be added here. The proposal will also be tabled at the Forum's November 2026 meeting.
+> **This idea is not yet agreed.** At its [[2026-09-16-inaugural-meeting|first meeting]], the Forum agreed that the proposal goes to the Transformasie Komitee in writing first [MS]. This page will be published once the Komitee has received it, and the Komitee's response will be added here. The proposal will also be tabled at the Forum's November 2026 meeting.
+
+> [!info] What the letters in square brackets mean
+> Facts on this page are followed by a tag that shows where they come from.
+>
+> - **[IC] Independently Corroborated.** Confirmed by at least two sources that do not depend on each other, or by an official record.
+> - **[MS] Mission-Sourced.** Comes from the people putting this idea forward, or from the organisation the sentence names, in their own documents or statements. It has not been checked against other sources.
+> - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
+>
+> Statements without a tag are proposals. They describe what the idea could become.
 
 ## What it is
 

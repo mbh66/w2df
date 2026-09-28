@@ -6,6 +6,7 @@ tags:
   - theme/youth
   - theme/environment
   - theme/tourism
+  - theme/trancraa
   - priority/education-skills
   - priority/tourism-development
   - priority/conservation-environment
@@ -19,9 +20,10 @@ aliases:
   - Leerkampus
 links:
   - https://hs.valleyofgrace.co.za/options/long-term/learning-campus
+updated: 2026-09-28
 ---
 
-> **This is an idea, not a plan.** No organisation has agreed to it yet, and some of the stakeholders have not yet been approached to participate, only because this is unfolding quite rapidly. **Please do not share anything here publicly**. This page exists to keep the conversation flowing. It shows what the valley **could** build if we worked together. The details will be tabled at the Forum's November 2026 meeting, and it will change as more people see this early invitation to dialogue and respond.
+> **This idea is not yet agreed.** No organisation has signed up to it yet, and some of the stakeholders have not yet been approached to participate, only because this is unfolding quite rapidly. **Please do not share anything here publicly**. This page exists to keep the conversation flowing. It shows what the valley **could** build if we worked together. The details will be tabled at the Forum's November 2026 meeting, and it will change as more people see this early invitation to dialogue and respond.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.

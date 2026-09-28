@@ -12,6 +12,7 @@ aliases:
   - Africo (Christian)
 links:
   - https://genadendalproject.objectecologies.co.za/history-of-genadendal-and-surrounds/
+updated: 2026-09-28
 ---
 
 Africo was the leader of a Khoekhoe clan living near the Sonderend River in 1737 [MS]. When Georg Schmidt arrived in the area that year, he pitched his tent at Africo's kraal [MS]. Africo became one of Schmidt's best students, and in 1742 he was among the first people Schmidt baptised, with the name Christian [MS]. The meeting of 1738 that the valley will mark in 2038 began, in practice, as a welcome at his kraal.
@@ -76,4 +77,4 @@ Nothing is known of his later life. He had died by the time the missionaries ret
 - Moravian Church in America. [Coffee with Moravian Ancestors: Georg Schmidt](https://www.moravian.org/ccd/2021/02/20/coffee-with-moravian-ancestors-georg-schmidt/) (2021). The five baptisms and the names given.
 - Muatze (Mansell Upham). [Moravian missionary Georg Schmidt (1709 to 1785) prohibited (1742) from baptising Cape of Good Hope aborigines](https://mansellupham.wordpress.com/2022/04/03/moravian-missionary-georg-schmidt-1709-1785-prohibited-1742-from-baptising-cape-of-good-hope-aborigines/) (2022). Willem as Africo's brother-in-law, and the date of Willem's baptism.
 - Wikipedia. [Genadendal](https://en.wikipedia.org/wiki/Genadendal). The first converts and their baptismal names.
-- Schmidt, G. and others (1981). *Das Tagebuch und die Briefe von Georg Schmidt, dem ersten Missionar in Südafrika (1737 to 1744).* Genadendal Printing Works. The primary source for his life.
+- Schmidt, G. and others (1981). *Das Tagebuch und die Briefe von Georg Schmidt, dem ersten Missionar in Südafrika (1737 to 1744).* Bellville: Wes-Kaaplandse Instituut vir Historiese Navorsing (Western Cape Institute for Historical Research). See [[history/georg-schmidts-diary|Georg Schmidt's Diary]]. The primary source for his life.

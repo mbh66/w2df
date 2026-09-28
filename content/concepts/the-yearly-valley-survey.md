@@ -22,7 +22,7 @@ links:
   - https://www.statssa.gov.za/?p=18967
   - https://iris.thegiin.org/about/
   - https://unstats.un.org/sdgs/indicators/indicators-list/
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 > **This idea is not yet agreed.** [[long-term-goal|Our Long-Term Goal]] says the Forum plans a yearly survey from 2027 [MS]. This page sets out how it could work and what it could measure. Nobody named on this page has been asked about it yet, including the Transformasie Komitee, Theewaterskloof Municipality, and the residents associations. **Please do not share this page publicly yet.** The idea will be tabled at the Forum's November 2026 meeting.
@@ -61,32 +61,9 @@ Community workers have argued this for a long time. In 1993 John Kretzmann and J
 
 The survey would give the valley that map, and update it every year.
 
-## Two ways to speak for the valley
+## Working with the bodies that speak for the valley
 
-The valley already has a body that speaks for many of its residents. The [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]] was elected on 9 November 2004 to represent the residents of Farm 39 in the transfer of their land [IC]. Its 2005 constitution lists 27 representatives from organisations, plus three chosen by the community [MS]. The constitution asks the Komitee to consult the community throughout [MS].
-
-The Komitee speaks through delegates. Each delegate carries the view of an organisation. Much of the Komitee's record with government runs through formal steps [IC]:
-
-- a formal dispute with the municipality, declared in 2006
-- an application to the High Court in 2007
-- a settlement made an order of the High Court in 2008
-- an application to the Land Claims Court in 2014
-
-The 2008 settlement gave the Komitee two seats on the steering committee that oversees the land process [IC].
-
-When a community's voice reaches government through delegates, the argument can move to who the delegates represent. The provincial Department of Local Government and Housing advised that the Komitee has "an advisory status" [MS]. Others have questioned its legitimacy, and the Ward 2 Forum wrote in 2017 that these accusations "have never been substantiated" [MS]. Disputes can also harden relationships. In 2016 the municipality wrote that "a hostile environment has over the years developed" between it and the Komitee [MS].
-
-A yearly survey works in a different way. Each household answers for itself. The same questions are asked every year, and the results are published for anyone to check. If government questions the numbers, the Forum can show how the survey was done.
-
-| | Speaking through delegates | Speaking through a yearly survey |
-| --- | --- | --- |
-| Who speaks | Representatives of organisations | Every household in the sample, for itself |
-| What government receives | Positions and letters | Numbers for each village, collected the same way every year |
-| What others can challenge | Whether the delegates speak for the majority | How the survey was done, which can be shown and checked |
-| How often | When a question comes up | Once a year, at the same time |
-| What it builds | A case, sometimes argued in court | A record the valley and government can both plan with |
-
-### Working together
+The valley already has bodies that speak for its residents. They include the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]], elected on 9 November 2004 to represent the residents of Farm 39 in the transfer of their land [IC], and the residents associations.
 
 The survey would add to the work of the Komitee and every other body in the valley. Delegates would still negotiate and sign agreements. The survey would give them evidence to carry. The Komitee, the residents associations, and the Forum could all use the same numbers. A delegate who brings survey results into a meeting speaks with the weight of every household that answered.
 
@@ -246,8 +223,8 @@ The survey would also give each of the five [[priorities/index|priorities]] a ye
 
 ## What happens next
 
-1. The idea is tabled at the Forum's November 2026 meeting.
-2. If the Forum agrees, the idea is shared with the Transformasie Komitee and the residents associations, and they are asked which questions they would add.
+1. The idea is shared with the Transformasie Komitee and the residents associations, and they are asked for their views and which questions they would add.
+2. The idea is tabled at the Forum's November 2026 meeting.
 3. The Forum asks the municipality's IDP office which figures it can use, and by when.
 4. The survey group drafts the questions and tests them with a small number of homes in one village.
 5. Fieldworkers are trained.
@@ -285,4 +262,4 @@ To comment on this idea, suggest a question for the survey, or offer to help, co
 - Statistics South Africa. [South African Statistical Quality Assessment Framework, second edition](https://www.statssa.gov.za/standardisation/SASQAF_Edition_2.pdf). Quality standards for statistics.
 - National Treasury, via the South African Government. [Central Supplier Database surpasses milestone of 150 000 registered suppliers](https://www.gov.za/speeches/central-supplier-database-surpasses-milestone-150-000-registered-suppliers-28-jun-2016-0000) (28 June 2016). Registration for suppliers to government.
 - Slum Dwellers International. [What does it mean to "Know Your City" in South Africa?](https://sdinet.org/2017/09/mean-know-city-south-africa/) (September 2017). Community-collected data on informal settlements.
-- The Komitee's constitution, court records, and the statements of the province, the municipality, and the Ward 2 Forum are listed on [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]].
+- The Komitee's election in 2004, and the sources for it, are recorded on [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]].

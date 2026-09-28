@@ -12,6 +12,7 @@ aliases:
   - Musiek van die Vallei
   - Genadendal music
   - Genadendal brass band
+updated: 2026-09-28
 links:
   - https://genadendalmusicarchive.co.za/about-genadendal/
   - https://moravianbrass.co.za/history/overview/
@@ -32,9 +33,10 @@ Music has been part of life at Genadendal from the first year of the mission. Hy
 | --- | --- |
 | 1737 | [[history/people/georg-schmidt\|Georg Schmidt]] teaches sacred songs as well as reading, with [[history/people/africo\|Africo]] as interpreter [MS] |
 | 1792 | [[history/people/missionaries-of-1792\|The missionaries of 1792]] teach hymn singing [MS] |
-| 1832 | A pipe organ arrives at Genadendal [TBV] |
+| 1830 to 1832 | A gift of 100 rixdollars buys a used pipe organ in England, and it is in use at Genadendal by 1832 [MS] |
 | 1838 | The teachers' training college opens. Music, including brass, is part of what it teaches [IC] |
 | Easter 1856 | The Genadendal brass band plays its first recorded performance [MS] |
+| 1893 | A new organ from Rixdorf, Germany, is played at the consecration of the present church, and the old organ is retired [MS] |
 | 1880 | A Dutch hymnal of 1773 is revised at Genadendal, with about 800 hymns [TBV] |
 | 1951 | The Moravian Brass Band Union of South Africa is founded [IC] |
 | 1995 | The Genadendal band plays for President Mandela during his visit [MS] |
@@ -48,11 +50,13 @@ People at the mission copied out by hand the music the missionaries gave them, a
 
 ## The organ
 
-A pipe organ arrived at Genadendal in 1832, and at first the missionaries played it [TBV]. The Mission Museum holds what the museum and music researchers describe as the oldest playable pipe organ in South Africa [IC]. A 2023 article in the *Journal of the Musical Arts in Africa* studies its pipework and history [IC]. Whether the organ in the museum is the one that arrived in 1832 has not yet been confirmed for this page [TBV].
+In 1830 a French woman, Juliana Tate, gave the mission 100 rixdollars, and the missionaries used it to buy a second-hand organ from the late 1700s in England [MS]. It was in use by 1832, when the doctor Edward Lees became one of its organists [MS]. It was played in the church until 1890, and in 1893 a new organ from Rixdorf, in Germany, was played at the consecration of the present church [MS]. [[history/genadendal-a-long-walk|Balie's history]] calls the organ of 1830 the oldest pipe organ in South Africa [MS]. The Mission Museum holds what the museum and music researchers describe as the oldest playable pipe organ in South Africa [IC]. A 2023 article in the *Journal of the Musical Arts in Africa* studies its pipework and history [IC]. Whether the organ in the museum is the one that arrived in 1832 has not yet been confirmed for this page [TBV].
 
 ## The teachers' college and music
 
 The teachers' training college founded by [[history/people/hans-peter-hallbeck|Hans Peter Hallbeck]] in 1838 taught music as part of its course [IC]. Students learned violin, piano, organ, singing, and choir, and brass instruments were taught with energy [MS]. The college's first director, Francke, was a gifted musician who set up church choirs [MS]. A music instruction book from the college, dated 1853, survives [MS]. Moravian sources credit Hallbeck and especially [[history/people/benno-marx|Benno Marx]] with fostering the musical talents of the students [MS].
+
+Balie's history says that a student could qualify as a teacher only if he could play the harmonium, the violin, and a brass instrument [MS]. Because the students worked in the mission press in the afternoons, the press could print music, including tonic sol-fa, which a report of 1906 says no other press in the colony could do [MS]. For decades it printed a music periodical, *De Kleine Zang Vriend* [MS].
 
 Some sources give 1840 for the start of the college's music teaching [TBV].
 
@@ -60,7 +64,7 @@ Some sources give 1840 for the start of the college's music teaching [TBV].
 
 Brass playing came to South Africa with the Moravian Church, and Genadendal was where it started, with the training school of 1838 [IC]. The Genadendal brass band gave its first recorded performance at Easter 1856 [MS]. It has played ever since [MS].
 
-In Moravian villages, brass bands are part of church life [IC]. The bands played at the consecration of churches, on the church square during festivals, and on New Year's Day and other festive days [MS]. At Easter, Moravian sources say, the procession to the graveyard at dawn without the brass band "was unthinkable" [MS]. The Genadendal band still plays at services, funerals, and weddings, and gives an end-of-year Christmas concert in the Moravian church [MS]. Several of its members have played for more than 50 years [MS]. It played for President Mandela during his visit in 1995, and has worked with musician Abdullah Ibrahim's M5 Jazz Academy [MS].
+In Moravian villages, brass bands are part of church life [IC]. The bands played at the consecration of churches, on the church square during festivals, and on New Year's Day and other festive days [MS]. At Easter, Moravian sources say, the procession to the graveyard at dawn without the brass band "was unthinkable" [MS]. The Genadendal band still plays at services, funerals, and weddings, and gives an end-of-year Christmas concert in the Moravian church [MS]. Several of its members have played for more than 50 years [MS]. It played for President Mandela during his visit in 1995, and has worked with musician Abdullah Ibrahim's M5 Jazz Academy [MS]. Balie's history says that in the 1970s the German minister Karl Schiefer made it one of the best youth brass bands in the country [MS].
 
 Genadendal was one of the first bands in a movement that spread to Moravian congregations across the Western and Eastern Cape [IC]. In 1951 the bands formed the Moravian Brass Band Union of South Africa, which celebrated its 70th anniversary in 2021 [IC]. The union's history names Genadendal among the historic bands of the Overberg, with Elim, Groenland, and Karwyderskraal [MS]. Brass bands meet each year at a *Basuinfees* (trombone festival), named after Psalm 150's call to praise "with the sound of the trumpet" [MS].
 
@@ -80,7 +84,7 @@ The valley's music is one of the clearest examples of what began here and lasted
 
 ## What is still open
 
-- Whether the museum's organ is the one that arrived in 1832, and who built it.
+- Whether the museum's organ is the one bought in 1830 and in use by 1832, and who built it. Balie's history suggests it is.
 - The history of brass bands and choirs in Bereaville, Voorstekraal, and Greyton.
 - The lives of the valley's own composers, and where their music is kept.
 - The history of choirs in the valley's churches and schools.
@@ -99,10 +103,12 @@ If you play in a band or sing in a choir in the valley, or hold music, photograp
 - [[moravian-church-genadendal|Moravian Church Genadendal]]
 - [[history/people/hans-peter-hallbeck|Hans Peter Hallbeck]]
 - [[history/people/benno-marx|Benno Marx]]
+- [[history/genadendal-a-long-walk|Genadendal: A Long Walk]]
 
 ## References
 
 - Genadendal Music Archive. [About Genadendal](https://genadendalmusicarchive.co.za/about-genadendal/). Schmidt's songs, the hymns of 1792, the training school's music teaching, the organ, the Basuinfees, and the museum's collection.
+- Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The organ's purchase in 1830 and use to 1890, the Rixdorf organ of 1893, music at the college and the press, and the band in the 1970s. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].
 - Genadendal Music Archive. [About GMA](https://genadendalmusicarchive.co.za/about/). The archive's start in 2020, its funders, and its partners.
 - Froehlich, A. and Engelbrecht, I. [Essay in *Herri*, issue 5](https://herri.org.za/5/anke-froehlich-inge-engelbrecht/). The training school's music teaching, the instruction book of 1853, hand-copied scores, and the composers Sacks Williams, Dan Apolles, and Dan Ulster.
 - Boonzaaier, D. and De Villiers, A.C. (2019). ["The Moravian heritage of community musicking"](https://td-sa.net/index.php/td/article/download/641/1137). *The Journal for Transdisciplinary Research in Southern Africa* 15(1). The organ of 1832, Francke and the choirs, the hymnal of 1880, and Daniel Ulster.

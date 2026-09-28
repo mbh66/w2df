@@ -28,7 +28,7 @@ links:
   - https://www.saflii.org/za/cases/ZAWCHC/2019/95.html
   - https://www.parliament.gov.za/news/committee-receives-briefing-progress-and-challenges-facing-trancraa-communities
   - https://pmg.org.za/committee-question/8475/
-updated: 2026-09-23
+updated: 2026-09-28
 ---
 
 The Transformation of Certain Rural Areas Act of 1998, known as TRANCRAA, is the law that decides who will own the land of Farm 39 [IC]. Farm 39 is the land on which [[villages/genadendal|Genadendal]], [[villages/bereaville|Bereaville]], [[villages/voorstekraal|Voorstekraal]], and [[villages/boschmanskloof|Boschmanskloof]] stand, and [[villages/madiba-park|Madiba Park]] stands on it too [IC]. The national Minister responsible for land reform holds most of this land in trust for the residents [IC]. TRANCRAA provides for the Minister to transfer it to an entity, such as the municipality or a Communal Property Association (CPA), through a process that involves the residents [IC]. The process for Farm 39 began in 2002 and has not been completed [IC].
@@ -66,9 +66,10 @@ In 2014 the Land Claims Court held that TRANCRAA is a land reform law. It does n
 ## The land
 
 - The Moravian mission at Genadendal was founded in 1737 [IC]. In 1858 the land was granted to the Moravian Church "for the use of and in trust for such persons as may from time to time be lawfully resident at the institution of Genadendal" [MS].
+- [[history/genadendal-a-long-walk|Balie's history of Genadendal]] says the land was surveyed in November 1857 by J. Kuys, at 5,644 morgen and 289 square roods, and granted in trust to the church's superintendent on 15 February 1858 [MS]. It says many residents rejected the grant because the superintendent was the only trustee, and they held that the land had belonged to their Khoi ancestors [MS]. On one page it dates the grant to 1856 [MS]. It also records a case over land ownership brought against the mission in the Supreme Court at the end of the 1800s, and another brought by a group of residents known as the Magermans in 1924 [MS].
 - In 1909 a new law placed mission land under management boards. Residents kept occupation rights, but could not become owners [IC].
 - In 1927 about 70 hectares at the core of Genadendal and Bereaville, known as the Glebe Lands, were granted to the Moravian Church [IC]. They sit outside the TRANCRAA process [IC].
-- The size of Farm 39 depends on which record is used. The consultants' 2010 report gives 4,772.97 hectares for the original farm, and 4,641.45 hectares in the title deeds [IC]. A 2019 court judgment gives 4,515.53 hectares [IC]. Forum documents use "about 4,800 hectares" [MS].
+- The size of Farm 39 depends on which record is used. The consultants' 2010 report gives 4,772.97 hectares for the original farm, and 4,641.45 hectares in the title deeds [IC]. A 2019 court judgment gives 4,515.53 hectares [IC]. Forum documents use "about 4,800 hectares" [MS]. The survey of 1857, at 5,644 morgen and 289 square roods [MS], is roughly 4,830 hectares at about 0.857 hectares to the morgen (this page's own conversion).
 - The four township areas cover about 342 hectares [IC]. The rest, about 4,430 hectares, is the Remainder [IC].
 - A 2005 survey confirmed the fence between Genadendal and Greyton as the boundary [IC].
 
@@ -95,9 +96,11 @@ The Act sets the steps in law [IC]:
 | Date | What happened |
 | --- | --- |
 | 1737 | Moravian mission founded at Genadendal [IC] |
+| Nov 1857 | The mission land is surveyed at 5,644 morgen and 289 square roods [MS] |
 | 1858 | Land granted to the Moravian Church in trust for residents [MS] |
 | 1909 | Mission Stations and Communal Reserves Act places the land under management boards [IC] |
 | 1924 | A secular board replaces the missionaries; Proclamation 98 of 1924 describes the extent of Genadendal [IC] |
+| 1924 | A group of residents known as the Magermans take the Moravian Church to the Supreme Court over property rights [MS] |
 | 1927 | Glebe Lands granted to the Moravian Church [IC] |
 | 1987 | Rural Areas Act 9 of 1987 takes over; Genadendal is added to it in 1989 [IC] |
 | 2 Nov 1998 | TRANCRAA comes into force; this is the qualifying date for residents [IC] |
@@ -236,6 +239,7 @@ Research in Namaqualand in 2004 found that tenure reform on its own left residen
 - What rights the users of the *tuingronde* and the holders of expired farm leases will have.
 - Whether the property transfers made on Farm 39 since 1998 are valid.
 - How residents who are not on any committee will be informed and consulted.
+- What the land cases of the late 1800s and of 1924 decided, and whether their records survive.
 
 ## Needs
 
@@ -262,6 +266,7 @@ If you are a Farm 39 resident, or represent a body named here, and want to add o
 - [[cultural/faith-communities/moravian-church-genadendal|Moravian Church Genadendal]]
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]
 - [[civic/governance/minutes/2026-09-16-inaugural-meeting|Inaugural Meeting, 16 September 2026]]
+- [[history/genadendal-a-long-walk|Genadendal: A Long Walk]]
 
 ## References
 
@@ -311,6 +316,8 @@ If you are a Farm 39 resident, or represent a body named here, and want to add o
 - [Part 9: Communal Land Tenure (31 May 2017)](https://web.archive.org/web/20201204045902/https://ward2forum.org/wp-content/uploads/2017/06/Farm-39-lost-18-years-Part-9-Land-Tenure.pdf)
 
 ## Research:
+
+- Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The survey of 1857, the grant of 1858, residents' objections, and the court cases of the late 1800s and 1924. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].
 
 - [Wisborg and Rohde, *Contested land tenure reform in South Africa: the Namaqualand experience* (UWC, 2004)](https://uwcscholar.uwc.ac.za:8443/server/api/core/bitstreams/f9d3ad85-654e-4448-a151-2493768449ab/content). Referendums and outcomes in the six Namaqualand areas.
 - [Wisborg and Rohde, *TRANCRAA and communal land rights: Lessons from Namaqualand* (PLAAS policy brief, 2003)](https://uwcscholar.uwc.ac.za/items/4f2239f2-1319-455b-a53c-5cec6451b7c4).

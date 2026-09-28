@@ -16,6 +16,7 @@ aliases:
   - Lena
   - Ou Lena
 died: 1800-01-03
+updated: 2026-09-28
 links:
   - https://dacb.org/stories/southafrica/tikhuie-vmagdalena/
 ---
@@ -48,17 +49,17 @@ In 1742 Schmidt received the authority to baptise, and he baptised her with the 
 
 ## The 48 years (1744 to 1792)
 
-Schmidt left the Cape in 1744 [IC]. The mission broke up, and Magdalena went back to Sergeants River [MS]. She kept the Dutch New Testament Schmidt had given her, wrapped in a sheepskin [MS].
+Schmidt left the Cape in 1744 [IC]. The mission broke up, and Magdalena went back to Sergeants River [MS]. She kept the Dutch New Testament Schmidt had given her, wrapped in a sheepskin [MS]. [[history/genadendal-a-long-walk|Balie's history]] says it was printed in Amsterdam in 1694, and that Schmidt asked her to keep his 28 converts together by praying and reading with them [MS]. The book is now in the [[genadendal-mission-museum|Genadendal Mission Museum]], in a case made from the wood of Schmidt's pear tree [MS].
 
 She gathered the people who remained under the pear tree in Schmidt's garden, prayed with them, and read to them from the New Testament [IC]. A resident later told the missionaries: "Every evening we all, men, women and children would go to old Lena. Then she would fall on her knees and pray" [MS]. By 1775 and 1776, European travellers at the Cape had heard of the Khoekhoe woman who prayed and read the Bible [MS].
 
-She did this for 48 years, without a church, a salary, or any support from outside [IC].
+She did this for 48 years, without a church, a salary, or any support from outside [IC]. Balie's history says the first pear tree died in 1838, that a second grew from the same roots and stood for about 120 years, and that a third grows in the parsonage garden today [MS].
 
 ## The return of the missionaries
 
-Three Moravian missionaries arrived at Baviaanskloof on 24 December 1792 [IC]. They found Magdalena, by then about 80 and nearly blind, still keeping Schmidt's New Testament [MS]. The missionary Hendrik Marsveld recorded that she came to support them, attended the school lessons, and helped students who were struggling [MS]. In 1794 she fell seriously ill during an outbreak of sickness, and recovered [MS]. Visitors to the Cape, among them Lady Anne Barnard, came to meet her [MS].
+Three Moravian missionaries arrived at Baviaanskloof on 24 December 1792 [IC]. They found Magdalena, by then about 80 and nearly blind, still keeping Schmidt's New Testament [MS]. Balie's history says she asked a girl she had taught to read to them from it [MS]. The missionary Hendrik Marsveld recorded that she came to support them, attended the school lessons, and helped students who were struggling [MS]. In 1794 she fell seriously ill during an outbreak of sickness, and recovered [MS]. Visitors to the Cape, among them Lady Anne Barnard, came to meet her [MS].
 
-She died on 3 January 1800 [IC], shortly before the mission's new church was consecrated [MS].
+She died on 3 January 1800 [IC], five days before the first service in the mission's new church [MS]. Balie's history says she was buried in the new cemetery, the seventeenth person to be buried at Baviaanskloof [MS].
 
 ## How she is remembered
 
@@ -75,6 +76,7 @@ She died on 3 January 1800 [IC], shortly before the mission's new church was con
 ## What is still open
 
 - The year of her birth, and her age when she died.
+- The year of her baptism. Most sources give 1742. Balie's history gives 1739 on one page [MS].
 - Whether she was Hessequa, as the Moravian Church in South Africa says.
 - Whether she had children, and whether any families in the valley descend from her.
 - Where exactly she lived at Sergeants River between 1744 and 1792.
@@ -94,6 +96,7 @@ She died on 3 January 1800 [IC], shortly before the mission's new church was con
 - [[history/people/missionaries-of-1792|The Missionaries of 1792]]
 - [[moravian-church-genadendal|Moravian Church Genadendal]]
 - [[genadendal-mission-museum|Genadendal Mission Museum]]
+- [[history/genadendal-a-long-walk|Genadendal: A Long Walk]]
 
 ## References
 
@@ -103,3 +106,4 @@ She died on 3 January 1800 [IC], shortly before the mission's new church was con
 - Bredekamp, H.C. (1987). "Vehettge Tikkuie, alias Moeder Lena van Genadendal (1737 to 1800)." *Quarterly Bulletin of the South African Library* 41(4).
 - Landman, C. (1996). "The Story of Vehettge Tikkuie." In *Digging Up Our Foremothers.* Unisa Press. Also *Missionalia* 26(3), 1998.
 - Marsveld, H., Schwinn, D. and Kühnel, J.C. (1992). *The Genadendal Diaries, Volume I (1792 to 1794).* University of the Western Cape Institute for Historical Research. The missionaries' own record of meeting her.
+- Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The New Testament of 1694 and its case, the 28 converts, the three pear trees, her burial, and the baptism year 1739. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].
