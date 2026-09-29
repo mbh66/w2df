@@ -53,6 +53,10 @@ Agency here works inside the law. The state holds all water in trust, and the Re
 
 The BioConomy work calls this the move from needy to needed [MS]. Here, being needed means offering something others depend on: more water in the river, measured and proved. See [Needed vs. Needy](https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy).
 
+From Kwaxala, which represents investors:
+
+> *"The key thing is that if you can create a revenue stream that is predictable and you can ensure it is being received by those that are protecting and regenerating the ecosystem that makes it possible, you end up with a revenue-generating project that is investable. Our investment mechanism just magnifies the investable asset value of a project of that type, and the end result of that is upfront capital to help establish it in the first place and more revenue and value being retained by the community doing the actual work over time. Part of the reason we can magnify so much is that the investors we engage with are happy to accept lower returns because they are accompanied by high non-monetary impact returns such as community ownership and ecosystem restoration and protection."* - September 29, 2026
+
 ## Why the valley needs it
 
 ### One dam, three calls on its water

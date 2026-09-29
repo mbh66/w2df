@@ -41,9 +41,15 @@ A suggested route for any group in the valley that wants to form a co-operative:
 ### [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]]
 A yearly household survey that would let the valley speak to government and investors with one voice, using its own numbers on what each village has to offer. To be tabled at the November 2026 meeting.
 
+### [[concepts/overberg-leopard-corridor|The Overberg Leopard Corridor]]
+A proposed visitor plan for the mountains above the valley, built around the Cape leopard and the work of tracking it. Goes to the Transformasie Komitee in writing first, then to a Forum meeting.
+
+### [[concepts/ridge-to-river-to-table|Ridge to River to Table: Investing in the Whole Valley]]
+A proposal to invest in the valley as one place, joining water, the leopard corridor, agri-heritage tourism, and learning under one shared support layer, with blended finance. To be discussed with Ranyaka at the end of October and tabled at the November 2026 meeting.
+
 ## How these fit together
 
-All seven ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
+All nine ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
 
 ## Have your say
 
