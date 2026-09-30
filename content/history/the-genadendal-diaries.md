@@ -16,7 +16,8 @@ links:
   - https://zenodo.org/records/18095167
   - https://archive.org/details/genadendaldiarie0000mars
   - https://github.com/mbh66/genadendal-diaries
-updated: 2026-09-28
+contributors: ["Samuel Baatjies"]
+updated: 2026-09-30
 ---
 
 When the [[history/people/missionaries-of-1792|Missionaries of 1792]] reopened the mission at Baviaanskloof, they kept a diary of daily life at the mission and sent copies to their church leaders in Europe [IC]. These diaries are one of the fullest written records of the valley between 1792 and the early 1800s. Copies are held at Het Utrechts Archief (the Utrecht Archives) in the Netherlands [MS]. In December 2025 researchers at TU Dresden published digital transcriptions of four of the Utrecht copies, with translations, on the Zenodo research archive [MS]. This page describes those files, their limits, and how this wiki uses them. The earlier diary kept by Georg Schmidt, from 1737 to 1744, is a separate record, described on [[history/georg-schmidts-diary|Georg Schmidt's Diary]].
@@ -104,6 +105,10 @@ If you can read the old German or Dutch hand, know the diaries, or can help tran
 - [[history/institutions/moravian-church|Moravian Church]]
 - [[history/history-of-the-valley|History of the Valley]]
 - [[genadendal-mission-museum|Genadendal Mission Museum]]
+
+## Contributors
+
+- Digital transcriptions pointed out by Samuel Baatjies, museum educator at the Genadendal Mission Museum, 2026.
 
 ## References
 

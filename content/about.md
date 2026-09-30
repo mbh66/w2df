@@ -23,6 +23,8 @@ The Forum works on five [[priorities/index|priorities]]. Each will have a champi
 
 This site is a public register of what is happening in the ward. Each entry shows what an initiative needs and what it offers. Residents can find what is nearby, people running projects can be found, and partners from outside the valley can see who is doing what.
 
+The moderators use AI tools to collate large amounts of material, from submissions and from published sources such as books, court records, and archives, into the format you see here. A moderator checks every page before it goes live, and each page lists its sources under *References*.
+
 ## How the site is organised
 
 Every entry belongs to one of eight categories. The categories are grouped into three spheres of life, and each sphere has its own guiding principle:
