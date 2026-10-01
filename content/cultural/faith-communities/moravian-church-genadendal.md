@@ -11,13 +11,15 @@ tags:
   - theme/trancraa
   - lang/en
 status: active
-location: Genadendal, Church Square
+location: Genadendal
 date: 2026-09-22
 draft: false
 right_of_reply: pending
 komitee_review: pending
 contact_consent: no
-aliases: [Morawiese Kerk Genadendal, Genadendal Moravian Church]
+aliases:
+  - Morawiese Kerk Genadendal
+  - Genadendal Moravian Church
 needs: []
 links:
   - https://www.moravianchurch.co.za/genadendal-moravian-church/

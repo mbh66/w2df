@@ -10,12 +10,13 @@ tags:
   - priority/education-skills
   - lang/en
 status: active
-location: Greyton, Heuwelkroon
+location: Heuwelkroon
 date: 2026-09-22
 draft: false
 right_of_reply: pending
 contact_consent: no
-aliases: [Greyton Primêre Skool]
+aliases:
+  - Greyton Primêre Skool
 needs: []
 links:
   - https://www.facebook.com/people/Greyton-Primer/100035604921835/

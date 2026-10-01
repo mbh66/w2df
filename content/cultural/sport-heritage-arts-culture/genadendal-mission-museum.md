@@ -12,13 +12,16 @@ tags:
   - priority/tourism-development
   - lang/en
 status: active
-location: Genadendal, Church Square
+location: Genadendal
 date: 2026-09-22
 draft: false
 right_of_reply: pending
 contact_consent: no
-aliases: [Genadendal Museum]
-needs: [funding, members]
+aliases:
+  - Genadendal Museum
+needs:
+  - funding
+  - members
 links:
   - https://genadendalmuseum.org
   - https://www.facebook.com/GenadendalMissionMuseum/

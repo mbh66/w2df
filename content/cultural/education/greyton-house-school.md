@@ -10,12 +10,14 @@ tags:
   - priority/education-skills
   - lang/en
 status: active
-location: Greyton, Main Road
+location: Greyton
 date: 2026-09-22
 draft: false
 right_of_reply: pending
 contact_consent: no
-aliases: [Greyton House Independent Village School, Greyton House Village School]
+aliases:
+  - Greyton House Independent Village School
+  - Greyton House Village School
 needs: []
 links:
   - https://www.greytonhouse.co.za/

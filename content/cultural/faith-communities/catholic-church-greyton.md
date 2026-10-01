@@ -8,12 +8,13 @@ tags:
   - cultural/faith-communities
   - lang/en
 status: active
-location: Greyton, Main Road
+location: Greyton
 date: 2026-09-22
 draft: false
 right_of_reply: pending
 contact_consent: no
-aliases: [Roman Catholic Church Greyton]
+aliases:
+  - Roman Catholic Church Greyton
 needs: []
 links:
   - https://adct.org.za/greyton/

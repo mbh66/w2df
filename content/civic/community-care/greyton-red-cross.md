@@ -9,13 +9,18 @@ tags:
   - theme/youth
   - lang/en
 status: active
-location: Greyton, Pointer Street
+location: Greyton
 date: 2026-09-22
 draft: false
 right_of_reply: pending
 contact_consent: no
-aliases: [Red Cross Greyton, "South African Red Cross Society, Greyton"]
-needs: [volunteers, funding, equipment]
+aliases:
+  - Red Cross Greyton
+  - South African Red Cross Society, Greyton
+needs:
+  - volunteers
+  - funding
+  - equipment
 links:
   - https://www.greytonredcross.co.za/
 service_type: after-school care, home-based care, health outreach, first aid

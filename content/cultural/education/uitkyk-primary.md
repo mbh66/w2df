@@ -10,12 +10,14 @@ tags:
   - priority/education-skills
   - lang/en
 status: active
-location: Greyton, Park Street
+location: Greyton
 date: 2026-09-22
 draft: false
 right_of_reply: pending
 contact_consent: no
-aliases: [Laerskool Uitkyk, Uitkyk Laerskool]
+aliases:
+  - Laerskool Uitkyk
+  - Uitkyk Laerskool
 needs: []
 links:
   - https://xplorio.com/greyton/uitkyk-laerskool/

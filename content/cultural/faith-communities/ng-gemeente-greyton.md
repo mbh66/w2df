@@ -8,12 +8,14 @@ tags:
   - cultural/faith-communities
   - lang/en
 status: active
-location: Greyton, High Street
+location: Greyton
 date: 2026-09-22
 draft: false
 right_of_reply: pending
 contact_consent: no
-aliases: [Dutch Reformed Church Greyton, NG Kerk Greyton]
+aliases:
+  - Dutch Reformed Church Greyton
+  - NG Kerk Greyton
 needs: []
 links:
   - https://www.gemeentegeskiedenis.co.za/ng-gemeente-greyton/

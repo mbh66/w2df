@@ -11,13 +11,15 @@ tags:
   - priority/business-procurement
   - lang/en
 status: active
-location: Greyton, Main Road
+location: Greyton
 date: 2026-09-22
 draft: false
 right_of_reply: pending
 contact_consent: no
-aliases: [Greyton Tourism]
-needs: [members]
+aliases:
+  - Greyton Tourism
+needs:
+  - members
 links:
   - https://greytontourism.com
   - https://www.facebook.com/GreytonTourism/

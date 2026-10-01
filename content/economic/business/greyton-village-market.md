@@ -11,14 +11,18 @@ tags:
   - priority/business-procurement
   - lang/en
 status: active
-location: Greyton, Main Road
+location: Greyton
 date: 2026-09-22
 draft: false
 right_of_reply: pending
 contact_consent: no
-aliases: [Greyton Saturday Market, Greyton Market]
+aliases:
+  - Greyton Saturday Market
+  - Greyton Market
 start_date: 1970s
-needs: [participants, customers]
+needs:
+  - participants
+  - customers
 links:
   - https://greytonconservationsociety.com/market/
   - https://www.facebook.com/groups/610249909071175/

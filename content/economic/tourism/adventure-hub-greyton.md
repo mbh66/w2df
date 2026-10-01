@@ -12,13 +12,15 @@ tags:
   - priority/business-procurement
   - lang/en
 status: active
-location: Greyton, Main Road
+location: Greyton
 date: 2026-09-22
 draft: false
 right_of_reply: pending
 contact_consent: no
-aliases: [The Adventure Hub]
-needs: [partners]
+aliases:
+  - The Adventure Hub
+needs:
+  - partners
 links:
   - https://theadventurehub.co.za
 ---
