@@ -1,0 +1,83 @@
+filters:
+  and:
+    - file.ext == "md"
+    - type == "rule"
+    - draft != true
+    - '!file.inFolder("templates")'
+    - '!file.inFolder("private")'
+formulas:
+  rule: file.asLink(title)
+properties:
+  formula.rule:
+    displayName: Rule
+  level:
+    displayName: Level
+  instrument:
+    displayName: Kind
+  subject:
+    displayName: Subject
+  administered_by:
+    displayName: Administered by
+  last_checked:
+    displayName: Last checked
+views:
+  - type: table
+    name: By subject
+    groupBy:
+      property: subject
+      direction: ASC
+    order:
+      - formula.rule
+      - level
+      - instrument
+      - administered_by
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By level
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - formula.rule
+      - instrument
+      - subject
+      - administered_by
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Municipal
+    filters:
+      and:
+        - level == "Municipal"
+    order:
+      - formula.rule
+      - instrument
+      - subject
+      - last_checked
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Farm 39
+    filters:
+      and:
+        - file.hasTag("theme/trancraa")
+    order:
+      - formula.rule
+      - level
+      - subject
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Last checked
+    order:
+      - formula.rule
+      - last_checked
+      - level
+    sort:
+      - property: last_checked
+        direction: ASC

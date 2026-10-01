@@ -118,6 +118,10 @@ If you live in Madiba Park, or represent a body named here, and want your accoun
 - [[villages/genadendal|Genadendal]]
 - [[villages/greyton|Greyton]]
 - [[civic/governance/minutes/2026-09-16-inaugural-meeting|Inaugural Meeting, 16 September 2026]]
+- [[rules/trancraa|Transformation of Certain Rural Areas Act]]
+- [[rules/interim-protection-of-informal-land-rights-act|Interim Protection of Informal Land Rights Act]]
+- [[rules/municipal-systems-act|Municipal Systems Act]]
+- [[rules/constitution|The Constitution]]
 
 ## References
 

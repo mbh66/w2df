@@ -60,3 +60,4 @@ Book a tour or a school programme, ask about research, or give to the museum thr
 ## Related
 - [[2026-09-16-inaugural-meeting|Forum inaugural meeting]], which the museum attended
 - [[history/genadendal-a-long-walk|Genadendal: A Long Walk]], a history of Genadendal by the museum's former director
+- [[rules/national-heritage-resources-act|National Heritage Resources Act]]

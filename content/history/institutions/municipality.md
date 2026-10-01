@@ -76,6 +76,10 @@ Theewaterskloof Municipality's Economic Development office co-convened the first
 - [[trancraa-process-farm-39|TRANCRAA and Farm 39]]
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]
 - [[history/institutions/moravian-church|Moravian Church]]
+- [[rules/municipal-structures-act|Municipal Structures Act]]
+- [[rules/municipal-systems-act|Municipal Systems Act]]
+- [[rules/theewaterskloof-integrated-development-plan|Theewaterskloof Integrated Development Plan]]
+- [[rules/index|The Rules the Valley Lives By]]
 
 ## References
 

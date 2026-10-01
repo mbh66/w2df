@@ -90,6 +90,8 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the Novem
 - [[long-term-goal|Our Long-Term Goal]]
 - [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]
 - [[concepts/index|Ideas for the Valley]]
+- [[rules/tourism-act|Tourism Act]]
+- [[rules/national-heritage-resources-act|National Heritage Resources Act]]
 
 ## References
 

@@ -277,6 +277,9 @@ If you are a Farm 39 resident, or represent a body named here, and want to add o
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]
 - [[civic/governance/minutes/2026-09-16-inaugural-meeting|Inaugural Meeting, 16 September 2026]]
 - [[history/genadendal-a-long-walk|Genadendal: A Long Walk]]
+- [[rules/trancraa|Transformation of Certain Rural Areas Act]]
+- [[rules/communal-property-associations-act|Communal Property Associations Act]]
+- [[rules/interim-protection-of-informal-land-rights-act|Interim Protection of Informal Land Rights Act]]
 
 ## References
 

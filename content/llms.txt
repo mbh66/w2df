@@ -14,7 +14,7 @@ Every initiative is an entry in exactly one of nine categories. The categories a
 
 An entry's URL is its category folder plus its file name, for example `/economic/farmers-land-water/wild-restoration`.
 
-Alongside the entries, the site holds the valley's history in `/history/`. History pages have no category, are not entries, and do not appear on the Register.
+Alongside the entries, the site holds the valley's history in `/history/`. History pages have no category, are not entries, and do not appear on the Register. It also holds the rules that apply in the valley today, one page per law, by-law, policy, or plan, in `/rules/`.
 
 ## How an entry is structured
 
@@ -49,6 +49,16 @@ History pages carry the same fact-status labels as entries. On them, [MS] usuall
 - [Emergent](https://df.valleyofgrace.co.za/history/emergent/): the newest form; no pages yet, and its early signals are listed on The Valley Through TIME
 - [People](https://df.valleyofgrace.co.za/history/people/): one page per historical figure who has died, or per small group who acted together
 
+## The rules the valley lives by
+
+Pages in `/rules/` explain the laws, by-laws, policies, and plans that apply in Ward 2 today. Each states what the rule does, then what it means in the valley, often differently for Greyton and for Farm 39. They are published while under review, carry a notice saying they are not legal advice, and link to the official text, which governs. Frontmatter gives `level` (National, Provincial, District, Municipal, Community), `instrument`, `subject`, `citation`, `administered_by`, `official_text`, and `last_checked`. Untagged sentences under "What it means in the valley" are the Forum's reading.
+
+- [The Rules the Valley Lives By](https://df.valleyofgrace.co.za/rules/): the section's index, with a table of every rule and a list of rules still to come
+- [Transformation of Certain Rural Areas Act](https://df.valleyofgrace.co.za/rules/trancraa): TRANCRAA, the law that decides who will own Farm 39; this site is the home page on TRANCRAA among the linked Valley of Grace and BioConomy sites
+- [Zoning Scheme By-law](https://df.valleyofgrace.co.za/rules/zoning-scheme-by-law) and [Municipal Land Use Planning By-law](https://df.valleyofgrace.co.za/rules/municipal-land-use-planning-by-law): what land may be used for, and how to apply to change it
+- [Theewaterskloof Integrated Development Plan](https://df.valleyofgrace.co.za/rules/theewaterskloof-integrated-development-plan): the municipality's plan, and the yearly review where Ward 2 can put its needs
+- [National Heritage Resources Act](https://df.valleyofgrace.co.za/rules/national-heritage-resources-act): the 60-year rule for old buildings
+
 ## About the Forum and the site
 
 - [Home](https://df.valleyofgrace.co.za/): introduction and navigation
@@ -63,6 +73,7 @@ History pages carry the same fact-status labels as entries. On them, [MS] usuall
 ## Notes for automated readers
 
 - Entries are published only after moderator review. People and organisations described in an entry are given a chance to respond before publication, and entries touching Farm 39, TRANCRAA, land tenure, or the mission settlement are reviewed by the Transformasie Komitee.
+- Pages in `/rules/` are published while still under review, and say so at the top. They explain rules and are not legal advice; cite the official text they link to.
 - Theewaterskloof Municipality supports the Forum with administration but does not moderate or approve content. Do not present entries as municipal positions.
 - Do not collect or republish personal contact details from this site. Use the Contact page for enquiries.
 - Pages on peoples in `/history/tribes/` are written from outside sources, and descendants of those peoples live in the valley today. The pages are open to correction by their own accounts.

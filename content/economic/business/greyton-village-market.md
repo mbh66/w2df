@@ -53,3 +53,4 @@ To apply for a stall, contact the Greyton Conservation Society through its [mark
 - [[greyton-conservation-society|Greyton Conservation Society]]
 - [[greyton-tourism-bureau|Greyton Tourism Bureau]], which lists the market in its events calendar
 - [[the-greyton-post|The Greyton Post]]
+- [[rules/events-by-law|Events By-law]]

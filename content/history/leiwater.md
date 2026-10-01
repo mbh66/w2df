@@ -94,6 +94,7 @@ If you hold old title deeds, schedules, photographs, or memories of the leiwater
 - [[history/people/j-g-rietz|J.G. Rietz]]
 - [[history/people/herbert-vigne|Herbert Vigne]]
 - [[greyton-conservation-society|Greyton Conservation Society]]
+- [[rules/national-water-act|National Water Act]]
 
 ## References
 

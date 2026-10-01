@@ -247,6 +247,7 @@ To comment on this idea, suggest a question for the survey, or offer to help, co
 - [[concepts/restoring-the-river|Restoring the River: Water Skills at the Learning Campus]]
 - [[priorities/index|Forum Priorities]]
 - [[villages/index|Villages]]
+- [[rules/theewaterskloof-integrated-development-plan|Theewaterskloof Integrated Development Plan]]
 
 ## References
 

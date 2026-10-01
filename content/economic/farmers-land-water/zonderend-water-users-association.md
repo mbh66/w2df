@@ -55,3 +55,4 @@ Get in touch through the [ZWUA website](https://zonderend.co.za/contact/) before
 ## Related
 - [[wild-restoration|Wild Restoration]]
 - [[greyton-conservation-society|Greyton Conservation Society]]
+- [[rules/national-water-act|National Water Act]]

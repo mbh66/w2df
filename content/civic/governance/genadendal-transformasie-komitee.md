@@ -180,6 +180,8 @@ To contact the Komitee through the Forum, or to add or correct anything on this 
 - [[priorities/index|Forum priorities]]
 - [[civic/governance/how-the-forums-categories-compare|How the Forum's Categories Compare]]
 - [[villages/genadendal|Genadendal]]
+- [[rules/trancraa|Transformation of Certain Rural Areas Act]]
+- [[rules/communal-property-associations-act|Communal Property Associations Act]]
 
 ## References
 

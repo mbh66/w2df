@@ -58,3 +58,6 @@ Come to the next Forum meeting in November 2026. The date and venue will be anno
 - [[priorities/index|Forum priorities]]
 - [[civic/governance/how-the-forums-categories-compare|How the Forum's Categories Compare]]
 - [[about|About the Forum]]
+- [[rules/municipal-structures-act|Municipal Structures Act]]
+- [[rules/municipal-systems-act|Municipal Systems Act]]
+- [[rules/index|The Rules the Valley Lives By]]
