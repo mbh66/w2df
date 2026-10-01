@@ -18,6 +18,16 @@ links:
   - https://www.amazon.com/dp/B0CCJ3S45K/
 ---
 
+> [!warning] For Isaac Balie to review
+> This page is waiting for Isaac Balie to check it. It is published now so that he can see how it fits with the rest of the site. Until he has approved the text, it may change. Questions for him:
+>
+> 1. Does this page describe your book fairly? What would you like to change?
+> 2. Is "former director and curator of the Genadendal Mission Museum" the title you would like the page to use?
+> 3. Rows marked [TBV] are where the book's dates differ from other sources. For each one, which date would you stand by, and on what source?
+> 4. Are you content with how the wiki quotes and cites the book?
+>
+> Because this page touches the mission settlement or its land, the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]] will also be asked to check it.
+
 *Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa* is a history of Genadendal by Dr Isaac Balie, a former director and curator of the [[cultural/sport-heritage-arts-culture/genadendal-mission-museum|Genadendal Mission Museum]] [MS]. He first published it himself in September 2020, and AuthorHouse published the current edition in July 2023 [MS]. The book tells the story of the mission village from 1737 to the present, through its church, schools, buildings, crafts, people, and museum collections [MS]. This page describes the book, sets out the major events it records in one table with page numbers, lists where it differs from other sources, and explains how this wiki uses it.
 
 > [!info] What the letters in square brackets mean

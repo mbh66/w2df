@@ -64,12 +64,14 @@ The table shows where entries related to each sector are filed on this site. It 
 | Inwonersvereniging | [[civic/residents-association/index\|Residents Association]] |
 | Social Welfare | [[civic/community-care/index\|Community Care]] |
 | Education | [[cultural/education/index\|Education]] |
-| Business | [[economic/business-tourism/index\|Business & Tourism]] |
+| Business | [[economic/business/index\|Business]] |
 | Sport, Arts and Culture | [[cultural/sport-heritage-arts-culture/index\|Sport, Heritage, Arts & Culture]] |
 | Faith-based | [[cultural/faith-communities/index\|Faith Communities]] |
 | Youth | No single category. Youth initiatives are filed by subject and tagged youth. |
 
-Seven of the eight sectors match one of the Forum's categories. The Forum's eighth category, [[civic/governance/index|Governance]], holds this page.
+Seven of the eight sectors match one of the Forum's categories. Two of the Forum's nine categories have no matching sector: [[economic/tourism/index|Tourism]], and [[civic/governance/index|Governance]], which holds this page.
+
+[[civic/governance/how-the-forums-categories-compare|How the Forum's Categories Compare]] sets these sectors beside the Forum's categories and the portfolios of a typical residents' association.
 
 ## How the Komitee was formed
 
@@ -176,6 +178,7 @@ To contact the Komitee through the Forum, or to add or correct anything on this 
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]
 - [[civic/governance/minutes/2026-09-16-inaugural-meeting|Inaugural Meeting, 16 September 2026]]
 - [[priorities/index|Forum priorities]]
+- [[civic/governance/how-the-forums-categories-compare|How the Forum's Categories Compare]]
 - [[villages/genadendal|Genadendal]]
 
 ## References

@@ -6,9 +6,9 @@ The site is built with Quartz from an Obsidian vault. Pages are written in plain
 
 ## How the site is organised
 
-Every initiative is an entry in exactly one of eight categories. The categories are grouped into three spheres of life: Economic, Civic, and Cultural. Each sphere and category is a folder with an index page that lists its entries.
+Every initiative is an entry in exactly one of nine categories. The categories are grouped into three spheres of life: Economic, Civic, and Cultural. Each sphere and category is a folder with an index page that lists its entries.
 
-- Economic (`/economic/`): Farmers, Land & Water (`/economic/farmers-land-water/`); Business & Tourism (`/economic/business-tourism/`)
+- Economic (`/economic/`): Farmers, Land & Water (`/economic/farmers-land-water/`); Business (`/economic/business/`); Tourism (`/economic/tourism/`)
 - Civic (`/civic/`): Governance (`/civic/governance/`); Residents Association (`/civic/residents-association/`); Community Care (`/civic/community-care/`)
 - Cultural (`/cultural/`): Education (`/cultural/education/`); Sport, Heritage, Arts & Culture (`/cultural/sport-heritage-arts-culture/`); Faith Communities (`/cultural/faith-communities/`)
 
@@ -55,6 +55,7 @@ History pages carry the same fact-status labels as entries. On them, [MS] usuall
 - [Getting Started](https://df.valleyofgrace.co.za/getting-started): what the site is for and how to use it
 - [About the Forum](https://df.valleyofgrace.co.za/about): who runs the Forum and the site, and how entries are checked
 - [Ward 2 Development Forum](https://df.valleyofgrace.co.za/civic/governance/ward-2-development-forum): the Forum's own entry
+- [How the Forum's Categories Compare](https://df.valleyofgrace.co.za/civic/governance/how-the-forums-categories-compare): how the nine categories line up with the Transformasie Komitee's eight sectors and with the portfolios of a typical residents' association, and why the Forum chose its structure
 - [How to Submit](https://df.valleyofgrace.co.za/how-to-submit): how to add or correct an entry
 - [Contact](https://df.valleyofgrace.co.za/contact): how to reach the moderators
 - [Data Policy](https://df.valleyofgrace.co.za/data-policy): how personal information is handled under POPIA

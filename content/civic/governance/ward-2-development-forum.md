@@ -56,4 +56,5 @@ Come to the next Forum meeting in November 2026. The date and venue will be anno
 ## Related
 - [[2026-09-16-inaugural-meeting|Inaugural meeting, 16 September 2026]]
 - [[priorities/index|Forum priorities]]
+- [[civic/governance/how-the-forums-categories-compare|How the Forum's Categories Compare]]
 - [[about|About the Forum]]

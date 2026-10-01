@@ -22,6 +22,16 @@ links:
 updated: 2026-09-28
 ---
 
+> [!warning] For the Moravian Church in South Africa to review
+> This page is waiting for the Moravian Church in South Africa to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Does the page describe the church and its history in the valley correctly? What would you like to change?
+> 2. Are the figures of about 80,000 members and 84 congregations current?
+> 3. Which church records or histories should the page cite?
+> 4. Who in the church should the moderators contact about this page?
+>
+> Because this page touches the mission settlement or its land, the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]] will also be asked to check it.
+
 The Moravian Church founded Genadendal, the first mission in southern Africa, and ran it for almost two centuries [IC]. It built the valley's first school, its teachers' college, its printing press, and the church on Church Square, and it held the mission land in trust for residents [IC]. Its congregations in [[moravian-church-genadendal|Genadendal]], [[moravian-church-bereaville|Bereaville]], [[moravian-church-voorstekraal|Voorstekraal]], and [[moravian-church-greyton|Greyton]] are listed in the Register. This page tells the church's history in the valley.
 
 > [!info] What the letters in square brackets mean

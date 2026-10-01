@@ -15,7 +15,7 @@ aliases:
 links:
   - https://wiki.bioconomy.earth/frameworks/time-framework
   - https://wiki.bioconomy.earth/research/time-profile
-updated: 2026-09-27
+updated: 2026-09-30
 ---
 
 > **This idea is not yet agreed.** It sets out how the Forum could follow the rule it agreed at its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]]: that proposals should involve the communities they affect from the start [MS]. Nobody named on this page has been asked about it yet, including the Transformasie Komitee and Theewaterskloof Municipality. By its own rule, this page should have been shaped with them before it was written, so it is offered as a first draft for them to change. **Please do not share this page publicly yet.** The idea will be tabled as the first item at the Forum's November 2026 meeting, because it would shape how the other ideas on the agenda are handled.
@@ -181,4 +181,5 @@ To comment on this idea, suggest a change, or put forward a different way of dec
 - ABC News. [Kakadu no-confidence vote against parks management](https://www.abc.net.au/news/2020-07-04/kakadu-no-confidence-vote-against-parks-management/12421666) (4 July 2020) and [Traditional owners threaten to close Kakadu National Park](https://www.abc.net.au/news/2021-02-22/traditional-owners-threaten-to-close-kakadu-national-park/13125884) (22 February 2021). The board's vote and the reasons given.
 - Basic and Applied Social Psychology. [Naïve realism and affirmative action: adversaries are more similar than they think](https://labs.psych.ucsb.edu/sherman/david/sites/labs.psych.ucsb.edu.sherman.david/files/pubs/sherman_nelson_ross_2003.pdf) (2003), by David Sherman, Leif Nelson, and Lee Ross. The effect of hearing the other side acknowledge a strong point.
 - Political Psychology. [Taboo trade-offs: reactions to transactions that transgress the spheres of justice](https://www.semanticscholar.org/paper/Taboo-Trade%E2%80%90offs:-Reactions-to-Transactions-That-of-Fiske-Tetlock/dd0dbf9a37eb051341d392c34c05a3cf6394dfad) (1997), by Alan Fiske and Philip Tetlock. Why putting a price on some things causes offence.
+- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The essay that describes placing yourself before discussion and a round in which each person names the strongest point from another view.
 - BioConomy wiki. [A TIME Profile for Multi-Perspective Governance](https://wiki.bioconomy.earth/research/time-profile). The research behind the slips and the card sort, and the safeguards they follow.

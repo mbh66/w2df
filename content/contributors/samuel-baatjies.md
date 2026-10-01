@@ -7,7 +7,7 @@ tags:
   - theme/heritage
   - lang/en
 date: 2026-09-30
-draft: true
+draft: false
 right_of_reply: pending
 contact_consent: no
 aliases: []
@@ -17,7 +17,7 @@ updated: 2026-09-30
 ---
 
 > [!warning] For Samuel Baatjies to review
-> This page is waiting for Samuel Baatjies to check it. It will be published only when he has approved the text. Questions for him:
+> This page is waiting for Samuel Baatjies to check it. It is published now so that he can see how it fits with the rest of the site. Until he has approved the text, it may change. Questions for him:
 >
 > 1. Is "Museum educator, Genadendal Mission Museum" the role you would like the wiki to use? If not, what wording do you prefer?
 > 2. Since when have you worked at the museum, and which programmes or tours do you lead now?

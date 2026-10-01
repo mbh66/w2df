@@ -22,6 +22,14 @@ start_date: 2010
 service_type: animal welfare
 ---
 
+> [!warning] For EARS Donkey Sanctuary to review
+> This page is waiting for EARS Donkey Sanctuary to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of EARS and its work correct? What would you like to change?
+> 2. Are the adoption amounts (R100 a month or R1,200 a year) still current?
+> 3. Is the list under Offers complete, and is every service on it still running?
+> 4. Should readers reach you through the moderators, or would you like a public contact listed?
+
 EARS (Equine Animal Rescue Sanctuary) is a registered non-profit (NPO 147-280) that rescues abused and abandoned donkeys and horses [MS]. It started in 2010 [MS]. The sanctuary is on a farm on Middelplaas Road, about 10 kilometres outside Greyton, where more than a dozen donkeys and two ponies live permanently [MS]. It also treats horses that need medical care [MS]. It helps law enforcement officers remove donkeys from abuse [MS].
 
 ## Needs

@@ -22,6 +22,14 @@ links:
   - https://greytonfarmsanctuary.org/pigs-to-plants/
 ---
 
+> [!warning] For the Pigs to Plants team to review
+> This page is waiting for the Pigs to Plants team to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the programme correct? What would you like to change?
+> 2. How many gardens are running now, and where can people buy The Graceful Garden's produce?
+> 3. How does a pig farmer apply to join the programme?
+> 4. Should readers reach you through the moderators, or would you like a public contact listed?
+
 Pigs to Plants is a programme of [[greyton-farm-animal-sanctuary|Greyton Farm Animal Sanctuary]] [MS]. It offers people who keep pigs in their backyards the chance to change to growing vegetables. A farmer either hands their pigs over to the sanctuary or closes their pig business slowly. In return, the programme gives money, materials, and staff to turn the space into a market garden [MS].
 
 The sanctuary says backyard piggeries often keep animals in poor conditions, pollute water and soil, and cause conflict with neighbours [MS]. The programme aims to replace them with gardens that grow fresh fruit and vegetables where people live [MS].

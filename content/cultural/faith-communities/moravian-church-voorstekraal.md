@@ -21,6 +21,16 @@ links:
   - https://www.facebook.com/churchofthepeople/
 ---
 
+> [!warning] For the Moravian Church in Voorstekraal to review
+> This page is waiting for the Moravian Church in Voorstekraal to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the congregation correct? What would you like to change?
+> 2. When are services held, and who leads the congregation?
+> 3. Is there anything the congregation offers besides worship that the page should list?
+> 4. Should readers reach you through the moderators, or would you like a public contact listed?
+>
+> Because this page touches the mission settlement or its land, the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]] will also be asked to check it.
+
 The Voorstekraal Moravian Church is the Moravian congregation in Disa Street, Voorstekraal [MS]. Voorstekraal is one of the villages linked to the Genadendal mission [MS]. The congregation shares news and videos on its Facebook page [MS].
 
 ## Needs

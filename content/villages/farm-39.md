@@ -7,6 +7,13 @@ draft: false
 komitee_review: pending
 ---
 
+> [!warning] For the Genadendal Transformasie Komitee to review
+> This page is waiting for the Genadendal Transformasie Komitee to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of Farm 39 correct? What would you like to change?
+> 2. The page says the process involves the proposed transfer of about 4,800 hectares to a Communal Property Association. Is that how the Komitee would describe it?
+> 3. Is the Komitee content with how this site uses the name Farm 39?
+
 Farm 39 is the name used in law for the land on which [[villages/genadendal|Genadendal]], [[villages/bereaville|Bereaville]], [[villages/voorstekraal|Voorstekraal]], and [[villages/boschmanskloof|Boschmanskloof]] stand [MS]. [[villages/madiba-park|Madiba Park]] also stands on this land [MS]. Farm 39 is not a separate village. Residents seldom use the name, and it appears mainly in legislation and in the work of the Transformasie Komitee [MS].
 
 ## Why the name matters

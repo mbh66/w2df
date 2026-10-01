@@ -27,6 +27,14 @@ links:
 catchment: Riviersonderend
 ---
 
+> [!warning] For Wild Restoration to review
+> This page is waiting for Wild Restoration to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of Wild Restoration and its work correct? What would you like to change?
+> 2. When are the next volunteer clearing days, and how do people sign up?
+> 3. Is there anything you would like to add about the clearing team or the monitoring work?
+> 4. Should readers reach you through the moderators, or would you like a public contact listed?
+
 Wild Restoration is a non-profit based in Greyton [MS]. It clears invasive alien plants, restores and monitors biodiversity, and helps groups across the Cape Floristic Region work together [MS]. Its clearing work is in the Overberg [MS]. It is a registered Public Benefit Organisation (PBO 930075885), so donations from South African taxpayers are tax deductible [MS].
 
 Its work in and around the valley [MS]:

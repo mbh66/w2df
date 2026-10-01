@@ -23,6 +23,14 @@ links:
   - https://www.givengain.com/cc/valleyfoodgardens/
 ---
 
+> [!warning] For Greyton Transition Town to review
+> This page is waiting for Greyton Transition Town to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of Valley Food Gardens correct? What would you like to change?
+> 2. Are all five hubs still running, and which have become nursery businesses?
+> 3. What does the project need to raise this year, and for what?
+> 4. Should readers reach you through the moderators, or would you like a public contact listed?
+
 Valley Food Gardens is a non-profit food security project started by Greyton Transition Town, a registered non-profit [MS]. It began in 2020 as part of the Red Cross response to Covid-19 [MS]. Its aim is to help families in the valley grow their own vegetables, so they spend less on food, eat a wider range of food, and can sell what they do not need [MS].
 
 It set up five community hubs, in Genadendal, Heuwelkroon, Bereaville, Voorstekraal, and Greyton, where households could collect free seedlings [MS]. At the start, 800 families each received a voucher for 40 vegetable seedlings, with a simple guide to growing them [MS]. The hubs are being helped to become nursery businesses of their own [MS].

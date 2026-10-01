@@ -21,6 +21,15 @@ links:
   - https://xplorio.com/greyton/uitkyk-laerskool/
 ---
 
+> [!warning] For Uitkyk Primary School to review
+> This page is waiting for Uitkyk Primary School to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the school correct? What would you like to change?
+> 2. Is Uitkyk a public school that charges fees? If not, how would you describe it?
+> 3. Which programmes, sports, or clubs does the school offer besides lessons?
+> 4. The page lists no needs yet. What would help the school most?
+> 5. Which contact should the page give for parents and partners?
+
 Uitkyk Primary School is a primary school at 1 Park Street, Greyton [MS]. It teaches Grade 1 to Grade 7 [MS]. Its learners speak isiXhosa, isiZulu, Afrikaans, English, and other languages, and come from Christian and Muslim families [MS]. Some learners come from low-income homes [MS]. It is a public school that charges fees [TBV].
 
 ## Needs

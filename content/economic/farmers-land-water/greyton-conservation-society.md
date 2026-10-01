@@ -26,6 +26,15 @@ links:
 catchment: Riviersonderend
 ---
 
+> [!warning] For the Greyton Conservation Society to review
+> This page is waiting for the Greyton Conservation Society to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the society and its work correct? What would you like to change?
+> 2. Has the proposed extension of the Greyton Nature Reserve moved forward since CapeNature's stewardship panel approved it?
+> 3. Are the membership amounts still current?
+> 4. When is the next monthly alien hack, and where do volunteers meet?
+> 5. Should readers reach you through the moderators, or would you like a public contact listed?
+
 The Greyton Conservation Society (GCS) is a member-based non-profit and public benefit organisation with its own constitution [MS]. Since 1979 it has worked to protect Greyton's plants and wildlife, the natural landscape around the village, and the village's character [MS]. It supports Theewaterskloof Municipality in managing the Greyton Nature Reserve and the commonage around the village [MS].
 
 The Greyton Nature Reserve was established on 13 May 1977 and covers about 2,200 hectares, up to the peaks of Uitkyk, Wa en Osse, and Perdekop [MS]. CapeNature's stewardship panel has approved a proposed extension of the reserve, but further steps are needed before it is final [MS].

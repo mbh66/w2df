@@ -30,13 +30,15 @@ The site is a public register. You can look things up, add something you know ab
 
 ## The three spheres of life
 
-Everything on the site belongs to one of eight areas of valley life, grouped into three spheres:
+Everything on the site belongs to one of nine areas of valley life, grouped into three spheres:
 
-1. **[[economic/index|Economic]]: working the land and looking after it.** [[economic/farmers-land-water/index|Farmers, Land & Water]] · [[economic/business-tourism/index|Business & Tourism]]
+1. **[[economic/index|Economic]]: working the land and looking after it.** [[economic/farmers-land-water/index|Farmers, Land & Water]] · [[economic/business/index|Business]] · [[economic/tourism/index|Tourism]]
 2. **[[civic/index|Civic]]: living together and looking after each other.** [[civic/governance/index|Governance]] · [[civic/residents-association/index|Residents Association]] · [[civic/community-care/index|Community Care]]
 3. **[[cultural/index|Cultural]]: learning what matters and passing it on.** [[cultural/education/index|Education]] · [[cultural/sport-heritage-arts-culture/index|Sport, Heritage, Arts & Culture]] · [[cultural/faith-communities/index|Faith Communities]]
 
 Two themes run through every area: youth and environment. Look for the tags on each entry to see what is happening for young people and for the natural world, wherever it sits.
+
+If you know the Transformasie Komitee's sectors, or the portfolios of a residents' association, [[civic/governance/how-the-forums-categories-compare|How the Forum's Categories Compare]] shows where each one fits on this site.
 
 The Forum has also agreed five [[priorities/index|development priorities]] for the ward. Each will have a champion, to be named at the November 2026 meeting.
 

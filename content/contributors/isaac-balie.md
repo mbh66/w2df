@@ -7,7 +7,7 @@ tags:
   - theme/heritage
   - lang/en
 date: 2026-09-30
-draft: true
+draft: false
 right_of_reply: pending
 contact_consent: no
 aliases:
@@ -21,7 +21,7 @@ updated: 2026-09-30
 ---
 
 > [!warning] For Isaac Balie to review
-> This page is waiting for Isaac Balie to check it. It will be published only when he has approved the text. Questions for him:
+> This page is waiting for Isaac Balie to check it. It is published now so that he can see how it fits with the rest of the site. Until he has approved the text, it may change. Questions for him:
 >
 > 1. Is "Historian of Genadendal, former museum curator" the role you would like the wiki to use? If not, what wording do you prefer?
 > 2. Which posts did you hold at the museum (curator, director, manager), and in which years?

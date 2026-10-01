@@ -21,6 +21,14 @@ links:
 service_type: after-school care, home-based care, health outreach, first aid
 ---
 
+> [!warning] For the Greyton Red Cross to review
+> This page is waiting for the Greyton Red Cross to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the branch and its work correct? What would you like to change?
+> 2. Are the times for arts and culture Mondays (14:30 to 15:30) still right, and does Elevate Education still give the drama classes?
+> 3. Which items does the children's programme need most?
+> 4. Should readers reach you through the moderators, or would you like a public contact listed?
+
 The Greyton branch of the South African Red Cross Society is at 11 Pointer Street, Greyton [MS]. It has worked in Greyton for more than 25 years [MS]. Its aim is to relieve suffering and support the health and wellbeing of people and families in Greyton and the surrounding area [MS].
 
 Its after-school programme began by giving children a warm meal and a safe place after school. Since early 2026 it has grown into a weekly arts and culture programme, with art, music, and drama every Monday from 14:30 to 15:30 [IC]. The children's art has been shown on the Greyton Art Walk [IC].

@@ -179,7 +179,7 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the next 
 - [[concepts/restoring-the-river|Restoring the River: Water Skills at the Learning Campus]]
 - [[economic/farmers-land-water/wild-restoration|Wild Restoration]]
 - [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]]
-- [[economic/business-tourism/greyton-tourism-bureau|Greyton Tourism Bureau]]
+- [[economic/tourism/greyton-tourism-bureau|Greyton Tourism Bureau]]
 - [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]]
 - [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]]
 - [[cultural/sport-heritage-arts-culture/genadendal-mission-museum|Genadendal Mission Museum]]

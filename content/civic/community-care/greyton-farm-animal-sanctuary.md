@@ -26,6 +26,14 @@ links:
 service_type: animal welfare
 ---
 
+> [!warning] For Greyton Farm Animal Sanctuary to review
+> This page is waiting for Greyton Farm Animal Sanctuary to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the sanctuary correct? What would you like to change?
+> 2. How much of the R1,000,000 for the barn has been raised so far?
+> 3. Are the sponsorship amounts and the terms for volunteers still current?
+> 4. Should readers reach you through the moderators, or would you like a public contact listed?
+
 Greyton Farm Animal Sanctuary is on Tabularasa Farm, a 40-hectare private farm on Krige Road, about 7 kilometres outside Greyton [MS]. It opened in November 2014 and is a registered non-profit and public benefit organisation (NPO 187-044, PBO 930070994) [MS]. About 200 animals live there: pigs, sheep, goats, cows, geese, chickens, peacocks, a duck, and old or disabled dogs and cats [MS]. The farm runs on solar power, off the grid [MS].
 
 In April 2026 the Global Federation of Animal Sanctuaries gave the sanctuary accredited status [MS]. The sanctuary is funded mainly by its founder, and by donations and animal sponsorships from supporters [MS].

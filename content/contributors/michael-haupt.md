@@ -7,7 +7,7 @@ tags:
   - theme/heritage
   - lang/en
 date: 2026-09-30
-draft: true
+draft: false
 right_of_reply: pending
 contact_consent: yes
 contact: hello@michaelhaupt.com

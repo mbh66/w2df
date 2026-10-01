@@ -31,6 +31,16 @@ links:
 updated: 2026-09-28
 ---
 
+> [!warning] For the Genadendal Transformasie Komitee to review
+> This page is waiting for the Genadendal Transformasie Komitee to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Does the page describe the process, and the Komitee's part in it, correctly? What would you like to change?
+> 2. Is the summary of where the process stands in 2026 correct?
+> 3. Several points are marked [TBV], including whether the 2008 court order still stands. Can the Komitee confirm any of them, and from which documents?
+> 4. Which of the Komitee's own documents may the page cite?
+>
+> Theewaterskloof Municipality will also be asked to check how the page describes its part in the process.
+
 The Transformation of Certain Rural Areas Act of 1998, known as TRANCRAA, is the law that decides who will own the land of Farm 39 [IC]. Farm 39 is the land on which [[villages/genadendal|Genadendal]], [[villages/bereaville|Bereaville]], [[villages/voorstekraal|Voorstekraal]], and [[villages/boschmanskloof|Boschmanskloof]] stand, and [[villages/madiba-park|Madiba Park]] stands on it too [IC]. The national Minister responsible for land reform holds most of this land in trust for the residents [IC]. TRANCRAA provides for the Minister to transfer it to an entity, such as the municipality or a Communal Property Association (CPA), through a process that involves the residents [IC]. The process for Farm 39 began in 2002 and has not been completed [IC].
 
 > [!info] What the letters in square brackets mean

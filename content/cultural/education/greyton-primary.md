@@ -22,6 +22,14 @@ links:
 quintile: 1
 ---
 
+> [!warning] For Greyton Primary School to review
+> This page is waiting for Greyton Primary School to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the school correct? What would you like to change?
+> 2. Which sports and music does the school offer, and what does its environmental education include?
+> 3. The page lists no needs yet. What would help the school most?
+> 4. Which contact should the page give for parents and partners?
+
 Greyton Primary School is a public primary school at 17 Plantasie Road, in Heuwelkroon, Greyton [IC]. It teaches Grade R to Grade 7 [MS]. It had 257 learners in 2026 [IC]. It is a quintile 1 school, so learners pay no school fees [IC].
 
 ## Needs

@@ -22,6 +22,14 @@ links:
 quintile: 3
 ---
 
+> [!warning] For Emil Weder Secondary School to review
+> This page is waiting for Emil Weder Secondary School to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the school correct? What would you like to change?
+> 2. Which sport and cultural activities does the school offer, and how many learners can the hostel take?
+> 3. The page lists no needs yet. What would help the school most?
+> 4. Which contact should the page give for parents and partners?
+
 Emil Weder Secondary School is a public secondary school in Hartzenberg Avenue, Genadendal, in the Overberg education district [IC]. It had 556 learners in 2026 [IC]. It is a quintile 3 school, so learners pay no school fees [IC]. The school runs a hostel, and offers sport and cultural activities [MS].
 
 A 1995 University of Cape Town study examined how the school's matric pass rate rose from 48% in 1990 to 100% in 1992 [IC].

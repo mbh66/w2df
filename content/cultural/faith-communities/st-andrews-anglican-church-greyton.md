@@ -18,6 +18,14 @@ aliases: [St Andrews Anglican Church]
 needs: []
 ---
 
+> [!warning] For St Andrew's Anglican Church, Greyton to review
+> This page is waiting for St Andrew's Anglican Church, Greyton to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the church correct? What would you like to change?
+> 2. When are services held, and who leads the congregation?
+> 3. Does the church offer anything besides worship that the page should list?
+> 4. Should readers reach you through the moderators, or would you like a public contact listed?
+
 St Andrew's is the Anglican church in Greyton [IC]. Theewaterskloof Municipality's planning documents note that the church and the area around it form an attractive historic streetscape [IC]. The first Anglican services in Greyton were held in an old flat-roofed building that later became the Moravian school and is now the town library [TBV].
 
 ## Needs

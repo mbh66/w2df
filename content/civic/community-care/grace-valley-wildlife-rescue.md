@@ -28,6 +28,14 @@ links:
 service_type: wildlife rescue
 ---
 
+> [!warning] For Grace Valley Wildlife Rescue to review
+> This page is waiting for Grace Valley Wildlife Rescue to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of Grace Valley Wildlife Rescue correct? What would you like to change?
+> 2. How much of the R78,000 for the rehabilitation building has been raised, and is the list of building materials still current?
+> 3. Has the plan to become a permitted satellite rehabilitation centre moved forward since 2025?
+> 4. Should readers reach you through the moderators, or would you like a public contact listed?
+
 Grace Valley Wildlife Rescue is the wildlife division of [[greyton-farm-animal-sanctuary|Greyton Farm Animal Sanctuary]], and works under its non-profit registration (NPO 187-044, PBO 930070994) [MS]. Its training arm is called the Wild Ways Learning Centre [MS]. It started in 2020 [MS].
 
 It responds to calls about injured, orphaned, and displaced wild animals, and stabilises them before they go to a permitted rehabilitation centre or a vet [MS]. It has responded to hundreds of wildlife emergencies across the Overberg, from bats and songbirds to raptors, mammals, reptiles, tortoises, and duikers [MS]. Its public Facebook group, started in 2021, has more than 770 members [MS].

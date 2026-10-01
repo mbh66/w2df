@@ -25,6 +25,15 @@ links:
 catchment: Riviersonderend
 ---
 
+> [!warning] For the Zonderend Water Users Association to review
+> This page is waiting for the Zonderend Water Users Association to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of ZWUA and its work correct? What would you like to change?
+> 2. The page says the Riviersonderend flows into Theewaterskloof Dam, the largest dam in the Western Cape. Is that right?
+> 3. How should visitors arrange to see the Genadendal nursery?
+> 4. The page lists no needs yet. What would help you most: volunteers, skills, funding, equipment, premises, members, participants, customers, or partners?
+> 5. Should readers reach you through the moderators, or would you like a public contact listed?
+
 The Zonderend Water Users Association (ZWUA) brings together the people who use water from the Riviersonderend [MS]. Its aim is to manage the river's water responsibly, so that all water users have fresh water for generations to come [MS]. It works with water users and other stakeholders to restore and conserve the river, and to create jobs for local people while doing so [MS].
 
 The Riviersonderend flows into Theewaterskloof Dam, the largest dam in the Western Cape [TBV]. Its banks were once lined with palmiet wetlands, which hold water, slow floods, and stop erosion. Invasive trees such as pines, Port Jackson, blue gums, and black wattle have crowded out the palmiet in many places [MS].

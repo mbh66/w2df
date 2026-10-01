@@ -3,9 +3,9 @@ title: The Greyton Post
 description: Greyton's free community newspaper, published every two months in print and online. It also runs a business directory, a village map, a community noticeboard, and The Greyton Collective, a shop for local makers.
 type: entry
 holon: Economic
-category: Business & Tourism
+category: Business
 tags:
-  - economic/business-tourism
+  - economic/business
   - priority/business-procurement
   - lang/en
 status: active
@@ -22,6 +22,14 @@ links:
   - https://www.facebook.com/TheGreytonPost
   - https://www.instagram.com/GreytonPost
 ---
+
+> [!warning] For The Greyton Post to review
+> This page is waiting for The Greyton Post to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the paper and its services correct? What would you like to change?
+> 2. Are the prices for a directory listing (R550) and a place on the village map (R300) still current?
+> 3. Is there anything you would like to add about The Greyton Collective?
+> 4. Should readers reach you through the moderators, or would you like a public contact listed?
 
 The Greyton Post is an independent community newspaper for Greyton and the Overberg [MS]. It comes out every two months in print and as a free digital edition, and its website carries news, events, and community notices [MS]. It is locally owned and written, and funded by advertising and donations from readers [MS].
 

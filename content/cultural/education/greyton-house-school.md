@@ -22,6 +22,14 @@ links:
 medium_of_instruction: English
 ---
 
+> [!warning] For Greyton House School to review
+> This page is waiting for Greyton House School to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the school correct? What would you like to change?
+> 2. The number of learners and the fees come from an older listing. What are the current figures?
+> 3. Would the school like to list any needs, or anything it can offer the wider valley?
+> 4. Which contact should the page give for parents and partners?
+
 Greyton House Independent Village School is an independent school at 2 Main Road, Greyton [MS]. It opened in 2000 [MS]. It teaches pre-primary to Grade 7 in English, and had 82 learners at the time of its latest listing [MS]. It is listed with the Independent Schools Association of Southern Africa (ISASA) [MS]. Fees ranged from R33,000 to R60,500 a year at the time of that listing [MS].
 
 ## Needs

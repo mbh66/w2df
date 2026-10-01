@@ -3,9 +3,9 @@ title: Greyton Tourism Bureau
 description: Greyton's visitor information office and website. It lists accommodation, events, outdoor activities, and local businesses, and sells tickets for local events.
 type: entry
 holon: Economic
-category: Business & Tourism
+category: Tourism
 tags:
-  - economic/business-tourism
+  - economic/tourism
   - theme/tourism
   - priority/tourism-development
   - priority/business-procurement
@@ -23,6 +23,14 @@ links:
   - https://www.facebook.com/GreytonTourism/
   - https://www.instagram.com/greytontourism
 ---
+
+> [!warning] For the Greyton Tourism Bureau to review
+> This page is waiting for the Greyton Tourism Bureau to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the bureau correct? What would you like to change?
+> 2. Are the opening hours and the price of a premium listing still current?
+> 3. The Adventure Hub is also listed at 29 Main Road. How would you like the two pages to describe the link between you?
+> 4. Should readers reach you through the moderators, or would you like a public contact listed?
 
 The Greyton Tourism Bureau runs a visitor information office at 29 Main Road, Greyton, and the website greytontourism.com [MS]. It helps visitors find things to do, places to stay and eat, local businesses, and upcoming events [MS]. The office is open Tuesday to Friday from 09:00 to 17:00 and on Saturday from 09:00 to 13:00. It is closed on Sunday and Monday [MS].
 

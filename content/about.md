@@ -27,13 +27,15 @@ The moderators use AI tools to collate large amounts of material, from submissio
 
 ## How the site is organised
 
-Every entry belongs to one of eight categories. The categories are grouped into three spheres of life, and each sphere has its own guiding principle:
+Every entry belongs to one of nine categories. The categories are grouped into three spheres of life, and each sphere has its own guiding principle:
 
 - [[economic/index|Economic]] (cooperation): how the valley makes, grows, and trades what people need.
 - [[civic/index|Civic]] (equality): the rules the valley lives by, and what every person is owed.
 - [[cultural/index|Cultural]] (freedom): how the valley learns, remembers, worships, and celebrates.
 
-Two themes run through all eight categories: youth and environment. Tags on each entry let you follow these and other themes across the valley.
+Two themes run through all nine categories: youth and environment. Tags on each entry let you follow these and other themes across the valley.
+
+To see how these categories line up with the Transformasie Komitee's sectors and with a typical residents' association, see [[civic/governance/how-the-forums-categories-compare|How the Forum's Categories Compare]].
 
 ## How entries are checked
 

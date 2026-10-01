@@ -12,6 +12,7 @@ komitee_review: pending
 aliases:
   - Heuwelkroon, Boschmanskloof, and Madiba Park
 links:
+  - https://frameros.substack.com/p/time-for-difficult-decisions
   - https://www.google.com/maps/d/viewer?mid=1NhqnmXfc1PCWgRa5i8beRdVrW-j6ZDM
   - https://twk.gov.za/wp-content/uploads/2022_2023/Town%20Planning/SDF%202020/11%20GREYTON.pdf
   - https://groundup.org.za/article/greyton-families-still-in-limbo-five-years-after-protests/
@@ -28,11 +29,11 @@ Heuwelkroon, Boschmanskloof, and Madiba Park lie next to each other on the edge 
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements, or from the Forum's own notes. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Advice on how to get involved carries no tag.
+> Advice on how to get involved carries no tag. Which way of deciding a place or an event belongs to is the Forum's reading of the history, and carries no tag either.
 
 ## The lay of the land
 
-The [Greyton Governance Map](https://www.google.com/maps/d/viewer?mid=1NhqnmXfc1PCWgRa5i8beRdVrW-j6ZDM), developed by W2DF, shows how closely the three settlements fit together [MS]. The sizes and distances below are this page's own measurements from that map.
+The [Greyton Governance Map](https://www.google.com/maps/d/viewer?mid=1NhqnmXfc1PCWgRa5i8beRdVrW-j6ZDM), developed by W2DF, shows how closely the three settlements fit together [MS]. The sizes and distances below are an AI-generated simplification from the Google map linked above.
 
 ![[greyton-governance-map.png|820]]
 
@@ -94,12 +95,36 @@ The record since 2008 shows how many parties even a small fix in Madiba Park inv
 
 In Madiba Park, even a toilet or a water tank has involved the municipality, the Komitee, and the national department [IC]. Each of them has a legal role in that land.
 
+## Why a quick fix meets more than one way of deciding
+
+This site reads the valley's history through the [[history/the-time-model|TIME model]]. TIME describes four ways people organise themselves, and each has its own way of settling a question [MS].
+
+| Way of deciding | TIME form | Who or what settles a question |
+| --- | --- | --- |
+| Kin and belonging | T | Elders and families, drawing on who belongs and what the group has always shared |
+| Rules and office | I | An office-bearer, working under written rules |
+| Price and trade | M | A price that a buyer and a seller agree on |
+| Working it out together | E | Nobody presides. The people affected shape the answer together. |
+
+The three settlements came to their land at different times, under different ways of deciding. [[history/the-valley-through-time|The Valley Through TIME]] sets out the full reading.
+
+- **Boschmanskloof and Madiba Park** stand on land granted in trust for its residents in 1858 [MS], which has still not been transferred to them [IC]. In the Forum's reading, rules and office still decide who may hold this land, while wages and prices shape daily life here as they do across the valley.
+- **Heuwelkroon** was made by rules and office, when the Group Areas Act moved coloured families out of Greyton [IC]. Today it is part of Greyton, where land has been property that can be bought and sold since 1854 [IC].
+- **In all three,** families, congregations, and neighbours still organise through kin and belonging, in the Forum's reading.
+
+A newcomer who sees a broken tap in Madiba Park may reach for the ways that work at home in Greyton: buy the parts, or phone the municipality. On Farm 39 land those routes meet others. The national department holds the land in trust [IC], and residents elected the Komitee to take part in its transfer [IC]. The residents of each settlement also have their own account, which this page has not yet recorded.
+
+In the Forum's reading, each way of deciding works best among people who already accept how it settles things [MS]. When two ways meet, one usually becomes the host, and the other takes part on the host's terms [MS]. A fix that arrives already decided makes the newcomer's way the host, however well it is meant.
+
+[[michael-haupt|Michael Haupt]] describes this in an essay about the Forum's first meeting, [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions). He brought a prepared proposal to that meeting, and participants from the valley asked that the communities a proposal affects help shape it from the start [MS]. The Forum agreed [MS]. In the essay he argues that the Emergent way, working it out together, has no tie-breaker, because it brings all four ways into one room with none of them presiding [MS]. The Forum's reasons for its rule are on [[civic/governance/why-the-forum-shapes-proposals-together|Why the Forum Shapes Proposals Together]].
+
 ## Before you start something here
 
 - **Check which settlement you are in.** Each has its own page, listed on [[villages/index|Villages]].
 - **In Heuwelkroon,** questions about land, housing, roads, and water go to Theewaterskloof Municipality.
 - **In Boschmanskloof and Madiba Park,** anything that touches the land goes to the Transformasie Komitee first. That includes building, fencing, food gardens on open ground, water, toilets, and clearing a site. This register sends every entry of this kind to the Komitee for review before it is published.
 - **In Madiba Park,** speak with residents before planning anything for them. This register keeps one rule for every page: no proposal about a group of people without that group present.
+- **Bring people in before anything is written.** The Forum has agreed that the communities a proposal affects should help shape it from the start. A plan that arrives finished is harder to shape together, even when it is a good plan.
 - **Bring your idea to the Forum.** The [[civic/governance/ward-2-development-forum|Ward 2 Development Forum]] works across the whole valley, and can bring the right people into one room. See [[how-to-submit|How to Submit]].
 
 ## What is still open
@@ -127,6 +152,11 @@ If you live in Heuwelkroon, Boschmanskloof, or Madiba Park, or represent a body 
 - [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]]
 - [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]]
 - [[history/history-of-greyton|History of Greyton]]
+- [[history/the-time-model|The TIME Model]]
+- [[history/the-valley-through-time|The Valley Through TIME]]
+- [[civic/governance/why-the-forum-shapes-proposals-together|Why the Forum Shapes Proposals Together]]
+- [[civic/governance/how-the-forums-categories-compare|How the Forum's Categories Compare]]
+- [[concepts/how-the-forum-decides-together|How the Forum Decides Together]]
 - [[history/institutions/municipality|Theewaterskloof Municipality]]
 - [[villages/index|All villages]]
 
@@ -142,6 +172,11 @@ Official records:
 Forum documents:
 
 - Ward 2 Development Forum. [Greyton Governance Map](https://www.google.com/maps/d/viewer?mid=1NhqnmXfc1PCWgRa5i8beRdVrW-j6ZDM) (Google My Maps, 2026). Outlines of Greyton, Heuwelkroon, Boschmanskloof, and Madiba Park. The diagram, areas, and boundary lengths on this page are drawn and measured from it.
+
+The TIME model:
+
+- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The Forum's first meeting read through TIME, and why the Emergent way has no tie-breaker.
+- BioConomy wiki. [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework). The full framework.
 
 News reports and statements:
 

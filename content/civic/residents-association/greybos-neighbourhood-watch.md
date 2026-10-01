@@ -19,6 +19,15 @@ links:
   - https://greytonpost.co.za/community/greybos/
 ---
 
+> [!warning] For Greybos Neighbourhood Watch to review
+> This page is waiting for Greybos Neighbourhood Watch to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the watch correct? What would you like to change?
+> 2. The page says the watch gives safety advice during busy events, and works alongside the police and private security. Is that right?
+> 3. How can residents join a patrol or support the watch?
+> 4. The page lists no needs yet. What would help you most: volunteers, skills, funding, equipment, premises, members, participants, customers, or partners?
+> 5. Should readers reach you through the moderators, or would you like a public contact listed?
+
 Greybos Neighbourhood Watch is a community crime prevention and safety group in Greyton [MS]. It runs a street patrol programme [MS]. It gives safety advice to residents and visitors during busy events, and works alongside the South African Police Service and private security [TBV].
 
 ## Needs

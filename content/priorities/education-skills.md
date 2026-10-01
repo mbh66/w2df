@@ -17,7 +17,7 @@ A champion for this priority will be named at the Forum's November 2026 meeting.
 
 ## Initiatives working on this priority
 
-This list fills itself. Any initiative on the site that is tagged with this priority appears here. Initiatives come from [[cultural/education/index|Education]], [[economic/farmers-land-water/index|Farmers, Land & Water]] and [[economic/business-tourism/index|Business & Tourism]].
+This list fills itself. Any initiative on the site that is tagged with this priority appears here. Initiatives come from [[cultural/education/index|Education]], [[economic/farmers-land-water/index|Farmers, Land & Water]] and [[economic/business/index|Business]].
 
 ![[education-skills.base]]
 

@@ -20,6 +20,13 @@ links:
 start_date: 1918-05-07
 ---
 
+> [!warning] For NG Gemeente Greyton to review
+> This page is waiting for NG Gemeente Greyton to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the congregation correct? What would you like to change?
+> 2. When are services held, and what does the congregation offer besides Sunday worship?
+> 3. Should readers reach you through the moderators, or would you like a public contact listed?
+
 The NG Gemeente Greyton is the Dutch Reformed congregation in Greyton [MS]. It was founded on 7 May 1918, and belongs to the Caledon ring of the Dutch Reformed Church's Western Cape synod [MS]. Its church is on the corner of High and West Streets [MS]. Before the congregation was founded, Dutch Reformed members came to Greyton once a month for communion [MS].
 
 ## Needs

@@ -32,6 +32,8 @@ TIME builds on the TIMN framework of the American researcher David Ronfeldt, who
 
 [[history/the-valley-through-time|The Valley Through TIME]] sets out when each form was most dominant in the valley, and the main developments in each, from the first people to 2038. [[history/laws-that-shaped-the-valley|The Laws That Shaped the Valley]] reads each law by the forms it built up or held back. Several other history pages end with a section that reads their subject through the model.
 
+[Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions), an essay by Michael Haupt, shows the model at work in the Forum's first meeting, where one proposal was read in four different ways [MS].
+
 Which form was most dominant in a period is the Forum's reading of the history, and it carries no fact-status tag. Residents may read the same history differently, and the pages will change as they say so.
 
 ## The full framework
@@ -48,4 +50,5 @@ This page gives the short version. The full framework, including the organising 
 ## References
 
 - BioConomy wiki. [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework). The full framework.
+- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The model applied to a decision at the Forum's first meeting.
 - Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which TIME builds.

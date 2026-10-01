@@ -18,6 +18,13 @@ links:
   - https://xplorio.com/greyton/greyton-christian-fellowship/
 ---
 
+> [!warning] For Greyton Christian Fellowship to review
+> This page is waiting for Greyton Christian Fellowship to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the fellowship correct? What would you like to change?
+> 2. When do you meet for Bible study, and how often are the movie nights?
+> 3. Should readers reach you through the moderators, or would you like a public contact listed?
+
 Greyton Christian Fellowship is a non-denominational Christian group [MS]. It meets for Bible study and fellowship at De Ontmoeting coffee shop in Genadendal [MS].
 
 ## Needs

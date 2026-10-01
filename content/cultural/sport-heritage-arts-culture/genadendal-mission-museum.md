@@ -22,9 +22,18 @@ needs: [funding, members]
 links:
   - https://genadendalmuseum.org
   - https://www.facebook.com/GenadendalMissionMuseum/
-updated: 2026-09-28
+updated: 2026-10-01
 heritage_site_status: Collection declared a National Cultural Treasure (1991)
 ---
+
+> [!warning] For the Genadendal Mission Museum to review
+> This page is waiting for the Genadendal Mission Museum to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the museum correct? What would you like to change?
+> 2. Is the Friends of the Genadendal Mission Museum described correctly, and how can people join?
+> 3. Are the tours and school programmes listed still offered?
+> 4. How does the museum plan to mark the 300th anniversary in 2038, and may this page say so?
+> 5. Should readers reach you through the moderators, or would you like a public contact listed?
 
 The Genadendal Mission Museum is on Moravian Church Square in Genadendal [MS]. Georg Schmidt, a Moravian missionary, started the mission here in 1738. It was the first Moravian mission in South Africa [IC]. The museum preserves the history and culture of the people of the mission station, and their ties with the rest of South Africa and the world [MS]. The museum's collection was declared a National Cultural Treasure on 8 March 1991 [MS].
 
@@ -36,7 +45,7 @@ The museum is one of the main archives of the Moravian Church in South Africa, a
 
 ## Needs
 - Donations to the Genadendal Mission Museum Restoration Fund, which supports preservation work and local programmes [MS]
-- Members for the Friends of the Genadendal Museum, a group of supporters who give to the museum over time [MS]
+- Members for the Friends of the Genadendal Mission Museum, a group of supporters who give to the museum over time [MS]
 
 ## Offers
 - Guided tours for adults, children, schools, businesses, and retirement groups. Staff can shape a tour to suit the group [MS].

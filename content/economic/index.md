@@ -16,4 +16,5 @@ If your project is mainly about rules or rights (a land dispute, a municipal ser
 ## Categories
 
 - [[economic/farmers-land-water/index|Farmers, Land & Water]]
-- [[economic/business-tourism/index|Business & Tourism]]
+- [[economic/business/index|Business]]
+- [[economic/tourism/index|Tourism]]

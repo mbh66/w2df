@@ -11,7 +11,7 @@ How the valley learns, remembers, worships, and celebrates. Guiding principle: f
 
 Work about learning, memory, faith, and celebration: schools and courses, the museum and heritage, sport, music, crafts, and congregations.
 
-A heritage tour sold to visitors belongs under [[economic/business-tourism/index|Business & Tourism]]. Rules and public services belong under [[civic/index|Civic]].
+A heritage tour sold to visitors belongs under [[economic/tourism/index|Tourism]]. Rules and public services belong under [[civic/index|Civic]].
 
 ## Categories
 

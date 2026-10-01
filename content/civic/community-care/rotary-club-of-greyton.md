@@ -2,12 +2,13 @@
 title: Rotary Club of Greyton
 description: A Rotary service club running eleven community projects across the valley, from food forests and food gardens to natural building, early childhood development, youth media, and a skills centre.
 type: entry
-holon: Cultural
-category: Faith Communities
+holon: Civic
+category: Community Care
 tags:
-  - cultural/faith-communities
+  - civic/community-care
   - theme/youth
   - theme/environment
+  - priority/agriculture-food-sovereignty
   - lang/en
 status: active
 location: Whole valley
@@ -20,6 +21,15 @@ needs: [volunteers, skills, funding, members]
 links:
   - https://greytonrotary.org
 ---
+
+> [!warning] For the Rotary Club of Greyton to review
+> This page is waiting for the Rotary Club of Greyton to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the club and its projects correct? What would you like to change?
+> 2. Are the eleven projects listed still the club's projects for 2026/27?
+> 3. Is the date of the next Greyton Apple & Cider Festival (14 to 16 May 2027) confirmed?
+> 4. Would any project like a lead or a contact named on the page?
+> 5. Should readers reach you through the moderators, or would you like a public contact listed?
 
 The Rotary Club of Greyton is a service club in Rotary District 9350, part of Rotary International [MS]. It works in Genadendal, Boschmanskloof, Voorstekraal, Bereaville, and Greyton [MS]. The club meets on the first and third Tuesday of each month at 17:30 at the Rietdak in Genadendal, and members can also join online [MS]. It chose its projects after consulting the community and other stakeholders. Each project has its own working team, and the club reviews progress at every meeting [MS]. The club took part in the Forum's first meeting [IC].
 

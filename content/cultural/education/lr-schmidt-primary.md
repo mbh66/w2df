@@ -24,6 +24,14 @@ medium_of_instruction: Afrikaans
 quintile: 3
 ---
 
+> [!warning] For L.R. Schmidt Primary School to review
+> This page is waiting for L.R. Schmidt Primary School to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the school correct? What would you like to change?
+> 2. Is there anything you would like to add about the school's history since 1738?
+> 3. The page lists no needs yet. What would help the school most?
+> 4. Which contact should the page give for parents and partners?
+
 L.R. Schmidt (Mor) Primary School is a public primary school in George Schmidt Avenue, Genadendal [IC]. It teaches Grade R to Grade 7 in Afrikaans [MS]. It had 391 learners in 2026 [IC]. It is a quintile 3 school, so learners pay no school fees [IC].
 
 The school traces its history to 1738, when Georg Schmidt began teaching at the mission. The missionaries reopened the school in 1792, and it has been open since then [MS]. An article on The Heritage Portal describes it as the oldest school in South Africa [IC].

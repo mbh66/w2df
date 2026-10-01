@@ -21,6 +21,14 @@ links:
   - https://www.greytonmtb.co.za/
 ---
 
+> [!warning] For the Greyton MTB Club to review
+> This page is waiting for the Greyton MTB Club to check it. It is published now so that they can see how it fits with the rest of the site. Until they have approved the text, it may change. Questions for them:
+>
+> 1. Is this description of the club correct? What would you like to change?
+> 2. Are the permit prices (R800 a year, R75 a day, R150 a weekend) still current?
+> 3. Where is the trailhead, and where else can riders buy permits?
+> 4. Should readers reach you through the moderators, or would you like a public contact listed?
+
 The Greyton MTB Club looks after the mountain-bike trails around Greyton, and publishes gravel routes for longer rides [MS]. Riders need a permit to use the trails [MS]. The club's youth programme is the [[greyton-mtb-juniors|Greyton MTB Juniors]] [MS].
 
 In 2026 the Absa Cape Epic raced a stage on Greyton's trails, including Luislang, 2nd Bench, and Bakenskop. The local trail team worked with the race's trail builders to prepare them [IC].

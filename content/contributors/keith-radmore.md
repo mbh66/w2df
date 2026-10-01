@@ -7,7 +7,7 @@ tags:
   - theme/heritage
   - lang/en
 date: 2026-09-30
-draft: true
+draft: false
 right_of_reply: pending
 contact_consent: no
 aliases: []
@@ -17,7 +17,7 @@ updated: 2026-09-30
 ---
 
 > [!warning] For Keith Radmore to review
-> This page is waiting for Keith Radmore to check it. It will be published only when he has approved the text. Questions for him:
+> This page is waiting for Keith Radmore to check it. It is published now so that he can see how it fits with the rest of the site. Until he has approved the text, it may change. Questions for him:
 >
 > 1. Is "President, Rotary Club of Greyton, and keeper of the Vigne family papers" the role you would like the wiki to use? If not, what wording do you prefer?
 > 2. In which year did you become president of the club?
@@ -27,7 +27,7 @@ updated: 2026-09-30
 > 6. Are there wiki pages you have checked or given material for?
 > 7. Should readers reach you through the moderators, or would you like a public contact listed?
 
-Keith Radmore is the president of the [[cultural/faith-communities/rotary-club-of-greyton|Rotary Club of Greyton]] [MS]. He is a great-great-grandson of [[history/people/herbert-vigne|Herbert Vigne]], who laid out the village of [[villages/greyton|Greyton]] in the 1850s [MS]. He keeps the family papers that Herbert Vigne's writing desk held, and a collection of books, documents, articles, and stories on Greyton and the Overberg that he has built up over his adult life [MS]. He is now digitising the papers [MS].
+Keith Radmore is the president of the [[civic/community-care/rotary-club-of-greyton|Rotary Club of Greyton]] [MS]. He is a great-great-grandson of [[history/people/herbert-vigne|Herbert Vigne]], who laid out the village of [[villages/greyton|Greyton]] in the 1850s [MS]. He keeps the family papers that Herbert Vigne's writing desk held, and a collection of books, documents, articles, and stories on Greyton and the Overberg that he has built up over his adult life [MS]. He is now digitising the papers [MS].
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -84,7 +84,7 @@ Contact Keith Radmore through the moderators via [[how-to-submit|How to Submit]]
 - [[history/people/herbert-vigne|Herbert Vigne]]
 - [[history/people/elizabeth-vigne|Elizabeth Vigne]]
 - [[history/history-of-greyton|History of Greyton]]
-- [[cultural/faith-communities/rotary-club-of-greyton|Rotary Club of Greyton]]
+- [[civic/community-care/rotary-club-of-greyton|Rotary Club of Greyton]]
 - [[economic/farmers-land-water/valley-food-gardens|Valley Food Gardens]]
 - [[contributors/samuel-baatjies|Samuel Baatjies]]
 

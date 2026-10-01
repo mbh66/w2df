@@ -1,12 +1,12 @@
 ---
 title: Why the Forum Shapes Proposals Together
-description: "Why the Forum agreed that proposals should involve the communities they affect from the start. The page looks at why most of South Africa's 23 TRANCRAA areas have waited more than twenty years for their land, and what that suggests about deciding together."
+description: Why the Forum agreed that proposals should involve the communities they affect from the start. The page looks at why most of South Africa's 23 TRANCRAA areas have waited more than twenty years for their land, and what that suggests about deciding together.
 type: page
 tags:
   - civic/governance
   - lang/en
 date: 2026-09-27
-draft: true
+draft: false
 right_of_reply: pending
 links:
   - https://www.parliament.gov.za/news/committee-receives-briefing-progress-and-challenges-facing-trancraa-communities
