@@ -47,6 +47,8 @@ views:
       - location
       - needs
     sort:
+      - property: formula.entry
+        direction: ASC
       - property: title
         direction: ASC
   - type: table
@@ -95,7 +97,7 @@ views:
     name: Looking for help
     filters:
       and:
-        - '!needs.isEmpty()'
+        - "!needs.isEmpty()"
     order:
       - formula.entry
       - needs

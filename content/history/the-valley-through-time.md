@@ -18,7 +18,14 @@ links:
   - https://github.com/mbh66/genadendal-diaries
 ---
 
-This page reads the history of the valley through the [[history/the-time-model|TIME model]]. It sets out the main developments in each of three forms of organisation: Tribes, Institutions, and Markets. It also shows when each form was most dominant, and the first signs of a fourth form, Emergent. It brings together what the other pages of [[history/index|Valley History]] say, and adds new entries from the English translations of the missionaries' diaries of 1792 to 1805. It runs to 2038, when Genadendal turns 300. The story doesn't stop there, and neither does the table.
+This page collates almost 400 years of history in the Valley of Grace and presents the events we're all familiar with in a slightly different way, using the [[history/the-time-model|TIME model]]. 
+
+It sets out the main developments in each of three forms of organisation: *Tribes*, *Institutions*, and *Markets*. It also shows when each form was most dominant, and demonstrates the first signs of a fourth form, *Emergent*. It brings together what the detailed pages of [[history/index|Valley History]] present, based on the original missionaries' diaries:
+
+1. [[georg-schmidts-diary|Georg Schmidt's Diary]] from 1737 to 1744, and
+2. [[the-genadendal-diaries|The Genadendal Diaries]] from 1792 to 1805. 
+
+The page continues to 2038, when Genadendal turns 300. The story doesn't stop there, and neither does the table.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -28,38 +35,45 @@ This page reads the history of the valley through the [[history/the-time-model|T
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 > [!note] Reading this page
-> Which form was most dominant in a period, and which column an event is placed in, is the Forum's reading of the history. That reading carries no tag. Residents may read the same events differently, and the page will change as they say so.
+> Which form was most dominant in a period, and which column an event is placed in, is the Forum's interpretation of the history. There is no two-letter tag for these interpretations, because it is merely a theory. Residents might read the same events differently, and the page will change as we collectively interpret the Big History story unfolding in our valley.
 
 > [!warning] The diary entries
-> Entries marked *Diaries* come from new English translations in the [Genadendal Diaries repository](https://github.com/mbh66/genadendal-diaries). They are machine translations that no person has checked yet, so they are a guide to what the diaries say and are not quoted here as finished translations. Each entry gives the Utrecht file number and the line numbers, so a reader of the old German or Dutch can check it. The diaries were written by the missionaries, and they show the Khoekhoe through the missionaries' eyes. See [[history/the-genadendal-diaries|The Genadendal Diaries]].
+> Entries marked *Diaries* come from new English translations in the online [Genadendal Diaries repository](https://github.com/mbh66/genadendal-diaries). They are machine translations that no person has thoroughly checked yet, so they are a guide to what the diaries say and are not quoted here as finished translations. Each entry gives the Utrecht file number and the line numbers, so a reader of the old German or Dutch can check it directly from the original. The diaries were written by the missionaries, and they show the Khoekhoe through the missionaries' eyes. For an explanation, see [[history/the-genadendal-diaries|The Genadendal Diaries]].
 
 ## How the model works
 
-[[history/the-time-model|TIME]] builds on the work of the American researcher David Ronfeldt, who called his version [TIMN](https://wiki.bioconomy.earth/frameworks/timn-framework). It asks one question of each period: how did people organise themselves to share work, land, and what they produced? It names four forms:
+[[history/the-time-model|TIME]] builds on the work of the American researcher [David Ronfeldt](https://wiki.bioconomy.earth/people/theorists/ronfeldt-david), who called his version [TIMN](https://wiki.bioconomy.earth/frameworks/timn-framework).  
+
+> [!question] It asks a simple question of each period:
+> *How did people organise themselves to share work, land, and what they produced?*
+
+The model has four forms:
 
 - **T: Tribes.** People organise through kinship and belonging. What you give and get depends on your family, your clan, and your people.
 - **I: Institutions.** People organise through written rules, leaders with authority, and fixed settlements.
 - **M: Markets.** People organise through exchange at a price.
-- **E: Emergent.** People organise through sharing, commons, and care for the land, linked to similar places around the world.
+- **E: Emergent.** People organise through sharing, commons, and care for the land, linked to similar places around the world. (Emergent because it is still forming.)
 
-Each new form is added to the ones before it, and no form comes to a close. The older forms carry on alongside the newer ones, and they keep shaping each other. What changes is which form is most dominant: which one decides most about who gets land, work, and food. See [[history/history-of-the-valley|History of the Valley]], where the model is first set out.
+Each new form is added to the ones before it, and no form ever comes to a definite ending. The older forms carry on alongside the newer ones, and they keep shaping each other. What changes is which form is **most dominant**: which one decides most about who gets land, work, and food. See [[history/history-of-the-valley|History of the Valley]], where the model is first set out.
 
-## When each form was most dominant
+## Summary of when each form was most dominant in the valley
 
-| Dominant Form       | Period                                    | Still at work today                                                                                      |
-| ------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **T: Tribes**       | From the first people until about 1713    | Families, congregations, and neighbourhoods; Khoi and San descendants reclaiming their history and names |
-| **I: Institutions** | From about 1713 to about 1860             | The churches, the schools, the municipality, and Farm 39, which is still held in trust                   |
-| **M: Markets**      | From about 1860 to today                  | Wages, shops, farms, tourism, and property in Greyton                                                    |
-| **E: Emergent**     | Not yet dominant. Early signals from 2011 | See *Early signals of Emergent* below                                                                    |
+| Dominant Form       | Period                                                       | Still at work today                                                                                      |
+| ------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| **T: Tribes**       | From the first people until about the 1713 smallpox epidemic | Families, congregations, and neighbourhoods; Khoi and San descendants reclaiming their history and names |
+| **I: Institutions** | From about 1713 to about 1860                                | The churches, the schools, the municipality, and Farm 39, which is still held in trust                   |
+| **M: Markets**      | From about 1860 to today                                     | Wages paid in currency, shops, farms, tourism, and property in Greyton                                   |
+| **E: Emergent**     | Not yet dominant. Early signals from 2011                    | Start of Transition town, COVID pandemic in 2020                                                         |
 
-The dates are the Forum's reading. They mark turning points. In 1713 smallpox killed many Khoekhoe, and more colonists moved onto their land [IC]. In 1854 Greyton's plots were sold as freehold [IC], and in the second half of the 1800s factory goods began to undercut the mission's crafts [TBV].
+The dates are the Forum's interpretation. They mark turning points. In 1713 smallpox killed many Khoekhoe, and more colonists moved onto their land [IC]. In 1854 Greyton's plots were sold as freehold [IC], and in the second half of the 1800s factory goods began to undercut the mission's handmade crafts [TBV].
 
-The two villages didn't move at the same pace. In Greyton, land became property that could be bought and sold from 1854 [IC]. In Genadendal and the mission villages, land has been held in trust since 1858 [MS] and has still not been transferred to residents [IC]. There, markets came to decide wages and prices, while institutions went on deciding who could hold land. From 1950, under the Group Areas Act, the state's rules also decided who could live where [IC].
+Development in the two villages didn't move at the same pace. In Greyton, land became property that could be bought and sold from 1854 [IC]. In Genadendal and the mission villages, land has been held in trust since 1858 [MS] and has still not been transferred to residents [IC]. There, markets came to decide wages and prices, while institutions went on deciding who could hold land. From 1950, under the Group Areas Act, the state's rules also decided who could live where [IC].
 
 ## The overview
 
-The overview sums up the detailed tables below. Read across a row to see how the forms met in one period. Read down a column to follow one form through time.
+The overview sums up the detailed tables that follow below. Two ways to read the table:
+1. Read **across** a row to see how the different forms interacted across a single period. 
+2. Read **down** a column to follow one form through time.
 
 | Period & Dominant Form                              | Tribes                                                                                                              | Institutions                                                                                                                                           | Markets                                                                                          | Emergent                                                                      |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
@@ -204,13 +218,13 @@ The Emergent form is still to be written up in full. These are the first signs o
 | Proposed | The BioConomy, which would keep more of what the valley has in the valley, including water in the ground and healthy soil, and the [[concepts/valley-of-grace-agri-heritage-co-operative\|Agri-Heritage Co-operative]]. Neither is yet agreed. | [[long-term-goal\|Our Long-Term Goal]] |
 | 23 April 2038 | 300 years since Schmidt settled at Baviaanskloof | [[future-of-the-valley\|Future of the Valley]] |
 
-## What is still open
+## What must still be decided
 
-- Whether the Forum adopts this reading, including the dates given for when each form was most dominant.
+- Whether the Forum adopts this interpretation of history, including the dates given for when each form was most dominant.
 - Whether the Genadendal and Greyton stories should each have their own column, since they moved at different paces.
 - Whether older practices belong among the early signals of Emergent: Greyton's leiwater, which has watered the village since 1854 and is run today by volunteer water bailiffs, and the commonage that became the nature reserve in 1977.
 - Whether the "couple of years ago" in Baas Teunis's speech of December 1792 refers to Jan Paerl's movement of 1788.
-- What the Tribes column would say if it were written by descendants of the Khoekhoe and San, and by the families of Heuwelkroon, Madiba Park, and the mission villages.
+- What the Tribes column would say if it were written by descendants of the Khoekhoe and San, and by the families of Heuwelkroon and the mission villages.
 - Every diary entry here depends on translations that no person has checked. Some readings are marked in the repository to be checked against the manuscript images.
 
 ## Have your say
