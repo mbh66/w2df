@@ -1,11 +1,11 @@
 ---
 title: Communal Property Associations Act
-description: "The law that lets a community own land together through an association with its own constitution. A Communal Property Association is being set up to receive the land of Farm 39 under TRANCRAA."
+description: The law that lets a community own land together through an association with its own constitution. A Communal Property Association is being set up to receive the land of Farm 39 under TRANCRAA.
 type: rule
 level: National
 instrument: Act
 subject: Land and tenure
-citation: "Act 28 of 1996"
+citation: Act 28 of 1996
 administered_by: National Department of Agriculture, Land Reform and Rural Development
 in_force: 1996
 tags:
@@ -23,7 +23,7 @@ aliases:
 official_text: https://www.saflii.org/za/legis/consol_act/cpaa1996362/
 links:
   - https://lawlibrary.org.za/akn/za/act/2018/20/eng@2024-10-08
-last_checked: 2026-10-01
+last_checked: 2026-10-07
 ---
 
 > [!warning] A working page, open for review
@@ -33,6 +33,7 @@ last_checked: 2026-10-01
 >
 > 1. For the Genadendal Transformasie Komitee: has the CPA for Farm 39 been provisionally or finally registered? May this page say so, and cite its constitution?
 > 2. For anyone with legal training: is the Amendment Act gazetted in October 2024 in force, or does it still wait for a proclamation?
+> 3. For anyone who has worked with CPAs: do the 2023/24 figures match the annual report as tabled, and have later reports updated them?
 
 The Communal Property Associations Act lets a group of people own and manage land together through a Communal Property Association (CPA), run under a written constitution that its members agree [IC]. It was passed in 1996 to give communities receiving land through land reform a legal body to hold it [IC]. In the valley it matters because a CPA is being set up to receive the land of [[villages/farm-39|Farm 39]] under the [[rules/trancraa|Transformation of Certain Rural Areas Act]] [MS].
 
@@ -62,11 +63,27 @@ The Communal Property Associations Act lets a group of people own and manage lan
 - **It sets principles every constitution must follow.** Section 9 requires fair and inclusive decision-making, equality of membership, democratic processes, fair access to the association's property, and accountability and transparency [IC].
 - **It registers associations.** A CPA must be registered with the Department before it can hold land [IC]. The Act also allows provisional registration, so that an association can begin while its constitution is finalised [TBV].
 - **It was amended in 2024.** The Communal Property Associations Amendment Act was passed by Parliament in 2018 and published in the Government Gazette on 8 October 2024 [IC]. It provides for a Registrar of CPAs and a CPA Office, and states that the land belongs to the members of the association [IC]. Whether all of it is in force, or some parts still wait for a proclamation, is not settled: one legal commentary reads it as in force from publication, and a ministerial reply said it awaited a proclamation [TBV].
-- **Many CPAs struggle to comply.** In 2024 Parliament heard that most registered CPAs across the country did not meet the Act's requirements, such as holding meetings and submitting reports [IC].
+- **Many CPAs struggle to comply.** In 2024 Parliament heard that most registered CPAs across the country did not meet the Act's requirements, such as holding meetings and submitting reports [IC]. See *What the record shows* below.
+
+## What the record shows
+
+The CPA route has a weak track record across the country. Reports to Parliament describe most associations as failing to meet their legal duties, and many have not turned land ownership into benefits for their members.
+
+- **Compliance.** The 2023/24 CPA annual report found that 82% of the 1,742 registered associations were non-compliant with the Act, up from 75% the year before [IC]. Only 11% were fully compliant, and 7% were partly compliant [IC].
+- **Governance.** Parliamentary oversight visits and the Portfolio Committee on Land Reform named poor governance, mismanaged funds, and a lack of openness about finances as common problems [IC].
+- **Disputes.** Fights over leadership and resources have stopped some associations from making decisions [IC]. A parliamentary report described the Richtersveld CPA as a history of disagreement, dysfunction, and a period under administration [IC]. Members of the Oppermansgronde CPA reported that they could not attend annual general meetings or see financial statements [IC].
+- **Use of the land.** Much of the land transferred to associations stays idle or underused after transfer [IC].
+- **Capacity.** The same reports name gaps in government support after an association is set up, and a registrar's office without the capacity to monitor associations [IC].
+
+These findings cover the country as a whole. Officials name government support among the causes, so the record does not rest on members alone. The 2023/24 figures describe the period before the Amendment Act was published on 8 October 2024 [IC]. 
+
+**Nothing mentioned here is a finding about the CPA for Farm 39.**
 
 ## What it means in the valley
 
 **On Farm 39.** TRANCRAA lets the Minister transfer the Remainder of Farm 39 to a CPA, the municipality, or another approved body [IC]. A CPA is being set up for this [MS]. If the land goes to a CPA, the Forum reads the Act as meaning that the CPA's constitution will decide who the members are, how land is allocated, and how decisions about the land are made. TRANCRAA adds its own test: the Minister may only transfer the land once satisfied that the receiving body's rules balance the rights of residents, members, and present and future users [IC]. So the drafting of the CPA's constitution is where much of the future of Farm 39 will be settled.
+
+> [!warning] **A caution.** The national record gives residents reasons to ask how the CPA's constitution will deal with meetings, financial reports, and disputes between members, and who will monitor it once the land is transferred.
 
 **Who would be a member.** TRANCRAA defines residents by 2 November 1998 [IC]. How the CPA's membership will relate to that list, and to people who have moved to Farm 39 since, is a question for its constitution and for the residents. This site does not answer it.
 
@@ -88,6 +105,7 @@ The Communal Property Associations Act lets a group of people own and manage lan
 - Whether the CPA for Farm 39 has been registered, provisionally or finally, and under what name.
 - Which parts of the 2024 Amendment Act are in force.
 - How the CPA's membership will be decided.
+- How a CPA for Farm 39 would be supported and monitored after transfer.
 
 ## Have your say
 
@@ -108,3 +126,6 @@ If you can confirm or correct anything on this page, contact the moderators thro
 - Legal Academy. [Communal Property Associations Amendment Act gazetted and in force?](https://legalacademy.co.za/news/read/communal-property-associations-amendment-act-gazetted-and-in-force). Reads the Act as in force from publication; the Registrar, the CPA Office, and members' ownership of the land.
 - PMG. [Question NW1304 to the Minister of Land Reform and Rural Development](https://pmg.org.za/committee-question/27229/). Says the Act awaits a proclamation for commencement, and gives the share of CPAs not complying.
 - Parliament of South Africa. [Committee Receives Briefing on Progress and Challenges Facing TRANCRAA Communities (31 October 2024)](https://www.parliament.gov.za/news/committee-receives-briefing-progress-and-challenges-facing-trancraa-communities). CPAs in the TRANCRAA areas.
+- Parliament of South Africa. [Rural Development and Land Affairs Committee disappointed with CPS's non-compliance with the law (01 November 2024)](https://parliament.gov.za/news/rural-development-and-land-affairs-committee-disappointed-cpas-non-compliance-law). Confirmation that 82% of the registered Communal Property Associations (CPAs) are non-compliant.
+- Peoples Assembly - Response from the Minister of Land Reform and Rural Development. [What plans are in place to address the challenge of the reported 90% of communal property associations that are dysfunctional? (03 January 2025)](https://pa.org.za/speeches/questions/questions-asked-to-the-minister-of-land-reform-and/2025-w1963-03-january-2025#s410291237)
+- [Communal land tenure after 20 years of democracy in South Africa](https://www.kas.de/documents/252038/253252/7_dokument_dok_pdf_42265_1.pdf/4baa4ab1-ad53-e2e4-1cda-d51814a6ed7c?version=1.0&t=1539659330364#46#39) by Tara Weinberg, Researcher, Centre for Law and Society, University of Cape Town. SADC LAW JOURNAL, Volume Four, Number 1, 2014/15, page 164
