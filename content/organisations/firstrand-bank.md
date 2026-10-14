@@ -57,7 +57,7 @@ FirstRand Limited is the holding company of FirstRand Bank, and is listed on the
 
 ## How its work reaches the valley
 
-**The bond.** FirstRand Bank issued the R2.5 billion Cape Water Performance-Based Bond, listed on the Johannesburg Stock Exchange on 17 April 2026 under the code FR31PB [IC]. Part of what investors earn is linked to independently verified restoration [IC]. FirstRand Bank describes its roles as issuer, project agent, and conditional funding donor [MS]. RMB arranged the bond [MS]. FirstRand's Group Treasurer said one of the key aims was to "make nature an investable asset class" [MS].
+**The bond.** FirstRand Bank issued the R2.5 billion Cape Water Performance-Based Bond, listed on the Johannesburg Stock Exchange on 17 April 2026 under the code FR31PB [IC]. Part of what investors earn is linked to independently verified restoration [IC]. FirstRand Bank describes its roles as issuer, project agent, and conditional funding donor [MS]. RMB arranged the bond [MS]. The co-anchor investors were the [[organisations/international-finance-corporation|International Finance Corporation]], with about R1.6 billion, [[organisations/aluwani-capital-partners|Aluwani Capital Partners]], with R350 million, and [[organisations/fsd-africa-investments|FSD Africa Investments]], with R234 million [IC]. FirstRand's Group Treasurer said one of the key aims was to "make nature an investable asset class" [MS].
 
 **The FirstRand Foundation.** The FirstRand Foundation is the bond's anchor outcomes-based funder, and coordinates its philanthropic partners [IC]. RMB's launch announcement gives the Foundation's anchor commitment as R50 million [MS].
 
