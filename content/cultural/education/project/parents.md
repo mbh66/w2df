@@ -1,5 +1,5 @@
 ---
-title: A Guide for Parents
+title: For Parents
 ---
 
 

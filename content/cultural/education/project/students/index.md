@@ -1,7 +1,8 @@
 ---
-title: "Water for the Valley: Your Term 4 Project"
+title: For Students
 ---
 
+## Water for the Valley
 
 Your Term 4 project for the next six weeks.
 

@@ -1,5 +1,5 @@
 ---
-title: Teachers Guide
+title: For Teachers
 ---
 
 
