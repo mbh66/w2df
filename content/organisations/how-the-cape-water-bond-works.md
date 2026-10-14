@@ -80,7 +80,6 @@ Each of the three biggest lenders has said why, in its own words:
 
 ## Learn more
 
-- The Silverwood pupils followed the bond in their project: [[cultural/education/project/students/evan|Evan: The Bond (Follow the Money)]] and [[cultural/education/project/students/ayden|Ayden: The Bond (Follow the Checking)]].
 - For the full detail, with every source, read the research brief [Why Three Investors Anchored the Cape Water Bond](https://wiki.bioconomy.earth/research/cape-water-bond-co-anchor-investors) on the BioConomy wiki.
 - How bonds of this kind work in general: [Performance-Based Water Bonds](https://wiki.bioconomy.earth/concepts/performance-based-water-bonds).
 
