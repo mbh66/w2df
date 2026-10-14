@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "alias-redirects": {
+      "source": "github:quartz-community/alias-redirects",
+      "resolved": "https://github.com/quartz-community/alias-redirects.git",
+      "commit": "96411dcff962b50609754cacc88c33b7cbd581df",
+      "installedAt": "2026-10-14T12:05:12.712Z"
+    }
+  }
+}

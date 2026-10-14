@@ -7,15 +7,17 @@ For parents and guardians of the Silverwood Primary School students doing the Cl
 
 ## What the project is
 
-For six weeks, your child and their classmates will study a real question: how could our valley be paid for the water the mountains collect before it flows into the Riviersonderend River?
+For six weeks, your child and their classmates will study a real question: how could our valley be paid for the water the mountains collect before it flows into the Riviersonderend River? This is a real-world application of what they learned in Term 3's Emergent Economics lessons.
 
-A large bond (a kind of loan that investors buy) called the Cape Water Performance-Based Bond pays for clearing invasive trees from the mountains above the Theewaterskloof Dam. The trees drink a great deal of water, and clearing them puts water back into the streams and into the largest dam serving Cape Town's water needs. Nobody yet knows whether work in our valley could be paid for in the same way. The children's task is to look for a route into the bond and to say honestly what would have to happen first.
+A large bond (a kind of loan that investors buy) called the Cape Water Performance-Based Bond pays for clearing invasive trees from the mountains above the Theewaterskloof Dam. The trees consume a great deal of water, and clearing them puts water back into the streams and into the largest dam serving Cape Town's water needs. At least one NGO in our valley is being paid from that fund. The children's task is to look for their own route into the bond and to say honestly what, if any, roadblocks might be in the way.
 
-The project builds on what they have learned over the past term: the TIME model (four ways people organise themselves: Tribes, Institutions, Markets and Emergent) and Commitment Pooling (people and organisations making promises to each other, and holding those promises together).
+The project builds on what they have learned over the past term: 
+- [The TIME model](https://wiki.bioconomy.earth/frameworks/time-framework) (four ways people organise themselves: Tribes, Institutions, Markets and Emergent) and 
+- [Commitment Pooling](https://wiki.bioconomy.earth/concepts/commitment-pooling) (people and organisations making promises to each other, and holding those promises together).
 
 ## What your child will do
 
-- **Choose a theme** from six: 
+- **They have each chosen one theme** from the six that collectively inform the project: 
 	- **Geography**: how land holds water (water retention landscapes), 
 	- **Law**: who decides where the water goes (various water acts),
 	- **Economics**: how the bond works (issued by Rand Merchant Bank), 
@@ -33,10 +35,10 @@ Four hours a week for six weeks: two hours on their own and two with the guide, 
 
 ## Who the children will meet
 
-The children may write to, interview or visit local organisations from the Register, such as conservation groups, a water users' association and the Transformasie Komitee. They may also invite adults to sit on the panel.
+The children may write to, interview or visit local organisations from the Register, such as conservation groups, a water users' association and the Transformasie Komitee. They must also invite adults to sit on the panel which will hear their final presentation.
 
 **Safeguards.**
-- The children write the letters. An adult sends every letter and reads every reply first.
+- The children write the letters, but an adult will oversee the sending of every letter and will check every reply first.
 - An adult is present at every interview and visit.
 - No child's phone number or home address goes into any letter.
 - Each organisation sees what the children write about it before the presentation and can ask for corrections.
@@ -49,15 +51,18 @@ The panel is a practice run. Adults will play the parts of people connected to t
 ## How the children learn to be careful with facts
 
 Every fact the children use carries one of three stamps: 
-- checked twice [IC - Independently Coroborrated], 
+- checked twice [IC - Independently Corroborated], 
 - the organisation's own word [MS - Mission Sourced], or 
 - not yet checked [TBV - To Be Verified]. 
 
-The project concludes by saying what still needs to be explored. The children will probably come home with questions about how we know what we know.
+The project concludes by saying what still needs to be explored. 
+The children will probably come home with questions about how we know what we know.
 
 ## A request
 
-The idea the children are studying is still being worked out in real life. The Ward 2 Development Forum has prepared a Concept Note but has not yet discussed it and some of the organisations involved have not yet been asked. Please treat what your child tells you as a school exercise and keep it within the family until the children have presented their findings. Stated differently, this is a chance for your child to play a real role in the future of our valley.
+The idea the children are studying is still being worked out in real life. The TWK Ward 2 Development Forum has prepared a Concept Note but has not yet discussed it and some of the organisations involved have not yet been asked/briefed. Please treat what your child tells you as a school exercise and keep it within the family until the children have presented their findings. 
+
+Stated differently, this is a chance for your child to play a real role in the future of our valley, but we must exercise a little caution because of the tensions and politics in the valley.
 
 ## What you can do
 
@@ -66,7 +71,7 @@ Nothing is required. If you would like to help:
 - Ask your child to explain their theme and their favourite fact, and what stamp it has.
 - Ask what the class still needs to find out.
 - If you work in a field the children are studying (water, farming, banking, conservation, the law, or teaching) and would be willing to be interviewed or to sit on the panel, tell Michael or Cheryl.
-- If you're comfortable using AI, point your favourite agent to a machine readable format of the wiki, from which the children will be getting all their answers: https://df.valleyofgrace.co.za/llms.txt. Ask clarifying questions or help your child use AI to get answers here. You can also go to the site's [home page](https://df.valleyofgrace.co.za/) and use the search bar in the top left hand corner.
+- If you're comfortable using AI, point your favourite agent to a machine readable format of the wiki, from which the children will be getting all their answers: https://df.valleyofgrace.co.za/llms.txt. The children may also use AI to engage with the wiki, and they have been shown how. Ask clarifying questions or help your child use AI to get answers here. You can also use the search bar in the top left hand corner.
 - Come to the presentation, once the school confirms the date.
 
 ## Questions

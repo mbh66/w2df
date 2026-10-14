@@ -160,9 +160,7 @@ plugins:
   - source: "@quartz-community/explorer"
     enabled: true
     options:
-      # Hide the tags folder (Quartz default) and Obsidian Bases files (*.base).
-      # The string is sent to the browser and run as the Explorer filter.
-      filterFn: '(node) => node.slugSegment !== "tags" && !node.slugSegment.endsWith(".base")'
+      filterFn: (node) => node.slugSegment !== "tags" && !node.slugSegment.endsWith(".base")
     layout:
       position: left
       priority: 50
@@ -279,6 +277,11 @@ plugins:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
+    order: 50
+  - source: github:quartz-community/alias-redirects
+    enabled: true
+    options:
+      enableCaseRedirects: true
     order: 50
 layout:
   groups:
