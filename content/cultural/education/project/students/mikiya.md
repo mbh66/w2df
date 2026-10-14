@@ -1,6 +1,6 @@
 ---
 title: "Mikiya: The Sponge"
-draft: true
+draft: false
 aliases:
   - mikiya
 ---

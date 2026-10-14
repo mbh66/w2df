@@ -1,5 +1,5 @@
 ---
-title: "Water for the Valley: A Guide for Parents"
+title: A Guide for Parents
 ---
 
 
