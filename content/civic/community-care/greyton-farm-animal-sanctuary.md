@@ -47,8 +47,8 @@ In April 2026 the Global Federation of Animal Sanctuaries gave the sanctuary acc
 
 ## Offers
 - **Sanctuary.** A permanent home for rescued farm animals [MS]
-- **Humane education.** Lessons that teach children to care for animals and each other. A programme started in 2015 reached all six schools in the valley, about 2,500 children in Genadendal, Bereaville, Voorstekraal, and Greyton, with funding from Humane Society International [MS].
-- **Pigs to Plants.** Backyard pig farmers can give up their pigs in exchange for help to turn their space into a vegetable garden, with money, materials, and staff. A team of gardeners recruited locally works on five gardens in the Greyton and Genadendal valley, with more planned [MS]. Produce is sold under the brand The Graceful Garden [MS]. The programme is funded by the Olsen Animal Trust and Humane Society International, and the University of the Western Cape will help measure its results [MS].
+- **Humane education.** Lessons that teach children to care for animals and each other. A programme started in 2015 reached all six schools in the valley, about 2,500 children in Genadendal, Bereaville, Voorstekraal, and Greyton, with funding from [[organisations/humane-world-for-animals|Humane Society International]] [MS].
+- **Pigs to Plants.** Backyard pig farmers can give up their pigs in exchange for help to turn their space into a vegetable garden, with money, materials, and staff. A team of gardeners recruited locally works on five gardens in the Greyton and Genadendal valley, with more planned [MS]. Produce is sold under the brand The Graceful Garden [MS]. The programme is funded by the [[organisations/olsen-animal-trust|Olsen Animal Trust]] and Humane Society International, and the University of the Western Cape will help measure its results [MS].
 - **Visits.** Tours of the sanctuary by appointment [MS]
 
 ## How to get involved

@@ -30,8 +30,8 @@ last_checked: 2026-10-01
 >
 > Questions for reviewers:
 >
-> 1. For the Greater Overberg Fire Protection Association: does its membership cover land in Ward 2, and which Fire Management Unit do Greyton, Genadendal, and the surrounding farms fall in? Are Theewaterskloof Municipality and the national department, as owners of the commonage and of Farm 39, members?
-> 2. For the Overberg District Fire Services: is the description of the service's role in Ward 2 correct?
+> 1. For the [[organisations/greater-overberg-fire-protection-association|Greater Overberg Fire Protection Association]]: does its membership cover land in Ward 2, and which Fire Management Unit do Greyton, Genadendal, and the surrounding farms fall in? Are Theewaterskloof Municipality and the national department, as owners of the commonage and of Farm 39, members?
+> 2. For the [[organisations/overberg-district-municipality|Overberg District Fire Services]]: is the description of the service's role in Ward 2 correct?
 > 3. For Greyton Volunteer Firefighters: how does GVF work with the district fire services and the FPA on a call?
 > 4. Who answers for firebreaks on Farm 39 land and on the commonage around Greyton?
 

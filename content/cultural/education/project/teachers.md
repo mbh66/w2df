@@ -23,7 +23,7 @@ The children are asked to find a way into the water bond and to say honestly wha
 
 ## 2. Overall context
 
-**1. The idea is not yet agreed in real life.** The Ward 2 Development Forum (Dev Forum) will be tabling this in November 2026 and none of the organisations involved have been approached yet. The organisations involved are the Department of Water and Sanitation, the Breede-Olifants Catchment Management Agency, the Zonderend Water Users Association, the City of Cape Town, the Transformasie Komitee and the Moravian Church. The students should be aware that this is underway, but they don't need to know all the intricacies. Section 4 gives a briefing they can use without it. Either way, the class letter (Appendix A) says that this is a school exercise about an idea that hasn't yet been formally tabled, and it asks organisations only for their time and their own account of whether the idea makes sense.
+**1. The idea is not yet agreed in real life.** The Ward 2 Development Forum (Dev Forum) will be tabling this in November 2026 and none of the organisations involved have been approached yet. The organisations involved are the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the Zonderend Water Users Association, the [[organisations/city-of-cape-town|City of Cape Town]], the Transformasie Komitee and the Moravian Church. The students should be aware that this is underway, but they don't need to know all the intricacies. Section 4 gives a briefing they can use without it. Either way, the class letter (Appendix A) says that this is a school exercise about an idea that hasn't yet been formally tabled, and it asks organisations only for their time and their own account of whether the idea makes sense.
 
 **2. Right of reply.** Whatever the children write about an organisation must be approved by that organisation before the presentation (Week 5). The Register pages for [[wild-restoration|Wild Restoration]] and the [[zonderend-water-users-association|Zonderend Water Users Association]] are still waiting for those organisations to approve them. The children treat Register text as a first draft of each organisation's account.
 
@@ -61,8 +61,8 @@ Invasive trees such as pines and wattles use more water than the native plants t
 
 ### 4.2 The bond
 
-- **What it is.** The Cape Water Performance-Based Bond was listed on the Johannesburg Stock Exchange on 17 April 2026. It is a R2.5 billion bond issued by FirstRand Bank, and part of what it pays investors depends on checked results from clearing invasive plants in Cape Town's catchments. [IC] (Forum page, citing the JSE.)
-- **Who is in it.** The wiki names Rand Merchant Bank as arranger, and the International Finance Corporation, FSD Africa Investments and Aluwani Capital Partners as co-anchors. Conservation Alpha is the independent agent that checks the results. The Nature Conservancy South Africa does the restoration work and passes about USD 8.8 million over five years to the Greater Cape Town Water Fund. [MS]
+- **What it is.** The Cape Water Performance-Based Bond was listed on the Johannesburg Stock Exchange on 17 April 2026. It is a R2.5 billion bond issued by [[organisations/firstrand-bank|FirstRand Bank]], and part of what it pays investors depends on checked results from clearing invasive plants in Cape Town's catchments. [IC] (Forum page, citing the JSE.)
+- **Who is in it.** The wiki names [[organisations/rand-merchant-bank|Rand Merchant Bank]] as arranger, and the International Finance Corporation, FSD Africa Investments and Aluwani Capital Partners as co-anchors. [[organisations/conservation-alpha|Conservation Alpha]] is the independent agent that checks the results. [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy South Africa]] does the restoration work and passes about USD 8.8 million over five years to the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]]. [MS]
 - **The Water Fund.** The Nature Conservancy and the City of Cape Town started it in 2018. Its business case says that clearing invasive plants from 54,300 hectares in seven mountain catchments would add 55 billion litres of water a year within six years, at roughly a tenth of the unit cost of desalination. [MS]
 - **Two words.** "Performance-based" means the payment depends on what is measured. "Verified" means someone independent checked the measurement.
 - **Four tests of a bankable service** (Forum page). 
@@ -90,7 +90,7 @@ The route is untested. These questions are open on the Forum page, and the child
 - How much water would restoration add, and where and when would it arrive?
 - Which legal route could work under the National Water Act?
 - What do the Transformasie Komitee and the Moravian Church say about Farm 39 and Langgezocht?
-- Would the bond's organisers, the City of Cape Town or WWF be interested?
+- Would the bond's organisers, the City of Cape Town or [[organisations/wwf-south-africa|WWF]] be interested?
 
 ### 4.5 Commitment Pooling in this project
 
@@ -171,7 +171,7 @@ On a card, each child writes a first and a second choice. All six themes must be
 
 **You become the specialist on** Theewaterskloof Dam, the two directions the water leaves, the Reserve, the river's mouth at Witsand (about 42% of the natural flow reaches it [MS]), and the bodies that decide.
 
-**Parties to study.** The Zonderend Water Users Association (on the Register). Outside the Register: the Department of Water and Sanitation, the Breede-Olifants Catchment Management Agency, the Overberg Water Board, the City of Cape Town.
+**Parties to study.** The Zonderend Water Users Association (on the Register). Outside the Register: the Department of Water and Sanitation, the Breede-Olifants Catchment Management Agency, the [[organisations/overberg-water-board|Overberg Water Board]], the City of Cape Town.
 
 **You make** a floor map in rope and cloth: mountain, streams, dam, tunnel, river, sea. The class walks a litre of water through it. Mark where the valley's streams join the river.
 
@@ -185,7 +185,7 @@ On a card, each child writes a first and a second choice. All six themes must be
 
 **You become the specialist on** lenders and borrowers, "performance-based" and "verified", the four tests of a bankable service, and the claim that clearing costs about a tenth of desalination per unit. [MS]
 
-**Parties to study** (all outside the Register). FirstRand Bank and Rand Merchant Bank, the three co-anchors, the Nature Conservancy South Africa, Conservation Alpha, the Greater Cape Town Water Fund, the City of Cape Town. Kwaxala, an investor network that has told the Forum's convenors it wants to work with the valley [MS], is optional.
+**Parties to study** (all outside the Register). FirstRand Bank and Rand Merchant Bank, the three co-anchors, the Nature Conservancy South Africa, Conservation Alpha, the Greater Cape Town Water Fund, the City of Cape Town. [[organisations/kwaxala|Kwaxala]], an investor network that has told the Forum's convenors it wants to work with the valley [MS], is optional.
 
 **You make** a money-flow poster: arrows from investors to the bond, to the Fund, to the clearing teams, and the checking loop back to the investors. Add a worked sum with pretend numbers. A bond of R1,000,000 pays investors a base return, and 2 percentage points of the return depend on a verified result. Show what the investors earn if the result is met and if it is missed. Mark every number "pretend".
 

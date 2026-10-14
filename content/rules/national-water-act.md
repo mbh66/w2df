@@ -52,7 +52,7 @@ The National Water Act is the law that governs all water in South Africa [IC]. I
 | Full name | National Water Act, 1998 |
 | Citation | Act 36 of 1998 |
 | Made by | Parliament |
-| Administered by | The Department of Water and Sanitation; in the Breede catchment, the Breede-Olifants Catchment Management Agency |
+| Administered by | The [[organisations/department-of-water-and-sanitation\|Department of Water and Sanitation]]; in the Breede catchment, the [[organisations/breede-olifants-catchment-management-agency\|Breede-Olifants Catchment Management Agency]] |
 | In force since | 1 October 1998, with some provisions later |
 | Official text | [LawLibrary](https://lawlibrary.org.za/akn/za/act/1998/36) |
 

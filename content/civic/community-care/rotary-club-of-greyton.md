@@ -31,7 +31,7 @@ links:
 > 4. Would any project like a lead or a contact named on the page?
 > 5. Should readers reach you through the moderators, or would you like a public contact listed?
 
-The Rotary Club of Greyton is a service club in Rotary District 9350, part of Rotary International [MS]. It works in Genadendal, Boschmanskloof, Voorstekraal, Bereaville, and Greyton [MS]. The club meets on the first and third Tuesday of each month at 17:30 at the Rietdak in Genadendal, and members can also join online [MS]. It chose its projects after consulting the community and other stakeholders. Each project has its own working team, and the club reviews progress at every meeting [MS]. The club took part in the Forum's first meeting [IC].
+The Rotary Club of Greyton is a service club in Rotary District 9350, part of [[organisations/rotary-international|Rotary International]] [MS]. It works in Genadendal, Boschmanskloof, Voorstekraal, Bereaville, and Greyton [MS]. The club meets on the first and third Tuesday of each month at 17:30 at the Rietdak in Genadendal, and members can also join online [MS]. It chose its projects after consulting the community and other stakeholders. Each project has its own working team, and the club reviews progress at every meeting [MS]. The club took part in the Forum's first meeting [IC].
 
 ## Needs
 - Volunteers to join a project team [MS]
@@ -44,7 +44,7 @@ The Rotary Club of Greyton is a service club in Rotary District 9350, part of Ro
 The club's eleven projects for the 2026/27 Rotary year [MS]:
 
 - **Food forests** in Genadendal, Boschmanskloof, Voorstekraal, and Bereaville. The Genadendal food forest will also be a learning centre and community meeting place.
-- **Food security.** Bringing fallow gardens back into use to create jobs and feed families, with surplus food going to soup kitchens, old-age homes, and schools, alongside FoodForward SA.
+- **Food security.** Bringing fallow gardens back into use to create jobs and feed families, with surplus food going to soup kitchens, old-age homes, and schools, alongside [[organisations/foodforward-sa|FoodForward SA]].
 - **Natural building.** Teaching people to build affordable homes from local poles, clay, straw, stone, and sand. Neighbours help each other build, so there is no labour cost.
 - **Early childhood development.** Helping existing ECD centres meet the rules they need to register and receive government funding.
 - **Youth media.** Training young people to tell the valley's stories, including the stories of older residents, responsibly and ethically.

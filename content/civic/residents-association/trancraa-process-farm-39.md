@@ -116,7 +116,7 @@ The Act sets the steps in law [IC]:
 | 2 Nov 1998 | TRANCRAA comes into force; this is the qualifying date for residents [IC] |
 | Dec 2000 | Theewaterskloof Municipality is created and absorbs the area [MS] |
 | Mar 2002 | The municipality advertises a tender for consultants [IC] |
-| 15 Nov 2002 | Council appoints Urban Dynamics Western Cape; the contract is signed on 17 January 2003 [IC] |
+| 15 Nov 2002 | Council appoints [[organisations/urban-dynamics-western-cape\|Urban Dynamics Western Cape]]; the contract is signed on 17 January 2003 [IC] |
 | 9 Nov 2004 | The Transformation Committee is elected; its constitution is adopted on 16 November 2004 [IC] |
 | 2005 | Land rights report, boundary survey, and list of residents completed; the Committee rejects the list as incomplete [IC] |
 | Jun and Oct 2005 | The Committee's powers are disputed at its meetings [IC] |
@@ -127,7 +127,7 @@ The Act sets the steps in law [IC]:
 | 17 Oct 2008 | The Houw Hoek settlement is signed [IC] |
 | 22 Oct 2008 | The Western Cape High Court makes the settlement an order of court [IC] |
 | 20 Apr 2009 | The Minister signs the notice starting the transitional period for Farm 39 [IC] |
-| 26 May 2009 | The Legal Resources Centre advises the Steering Committee that parts of the settlement conflict with TRANCRAA [IC] |
+| 26 May 2009 | The [[organisations/legal-resources-centre\|Legal Resources Centre]] advises the Steering Committee that parts of the settlement conflict with TRANCRAA [IC] |
 | 8 Jul 2009 | The notice is published and the 18-month transitional period begins [IC] |
 | 23 Sep 2009 | The municipality tells the Department of an "irreparable breakdown" with the Committee [IC] |
 | 21 Apr 2010 | The Committee rejects a proposed new facilitator [IC] |

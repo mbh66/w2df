@@ -61,7 +61,7 @@ His book says a museum first opened at Genadendal in 1963, and that the present 
 
 In 1995 President Nelson Mandela renamed his official Cape Town residence, then called Westbrooke, Genadendal [IC]. Mission sources say the name came from a letter by the museum's curator, Isaac Balie, written early that year [MS]. *Die Burger* reported the renaming on 2 February 1995 [TBV]. Mandela visited Genadendal on 10 October 1995 [IC]. In his preface to *The Challenge of Genadendal* (2009), he recalled both the renaming and the visit [IC]. [[history/history-of-the-valley|History of the Valley]] tells this part of the story.
 
-From 2011 to 2012 he led a project to make an inventory of the museum's collections, with an assistant auditor from the South African Heritage Resources Agency (SAHRA) [MS]. He also mentored the museum's archival digitisation and auditing team [MS].
+From 2011 to 2012 he led a project to make an inventory of the museum's collections, with an assistant auditor from the [[organisations/south-african-heritage-resources-agency|South African Heritage Resources Agency]] (SAHRA) [MS]. He also mentored the museum's archival digitisation and auditing team [MS].
 
 In February 2021 the provincial parliament's Standing Committee on Community Safety, Cultural Affairs and Sport visited the museum. Its report names him as the former museum manager, and records that he led the committee through the museum's buildings [IC].
 

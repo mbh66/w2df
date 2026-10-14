@@ -92,7 +92,7 @@ So a new co-operative would need to run for about a year before it could form or
 #### What a co-operative would do
 
 - Choose only qualifications and skills programmes that appear on the SAQA register, and check the last date for enrolment before signing up.
-- Train through a provider accredited for that qualification. Possible partners near the valley include Boland TVET College in Caledon and, for farming, the Western Cape Department of Agriculture's training institute at Elsenburg. Neither has been asked.
+- Train through a provider accredited for that qualification. Possible partners near the valley include Boland TVET College in Caledon and, for farming, the [[organisations/western-cape-department-of-agriculture|Western Cape Department of Agriculture]]'s training institute at Elsenburg. Neither has been asked.
 - Ask the provider about recognition of prior learning, so that members who already do the work get credit for what they know.
 - Keep a simple skills record for each member: what they have done, and what they still need.
 

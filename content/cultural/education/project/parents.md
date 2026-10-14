@@ -20,7 +20,7 @@ The project builds on what they have learned over the past term:
 - **They have each chosen one theme** from the six that collectively inform the project: 
 	- **Geography**: how land holds water (water retention landscapes), 
 	- **Law**: who decides where the water goes (various water acts),
-	- **Economics**: how the bond works (issued by Rand Merchant Bank), 
+	- **Economics**: how the bond works (issued by [[organisations/rand-merchant-bank|Rand Merchant Bank]]), 
 	- **History**: who has stewarded the valley's water over time (going back 500 years),
 	- **Job Creation**: who does the restoration work, and 
 	- **Collective Coordination & Governance**: how many parties can promise each other what none could do alone.

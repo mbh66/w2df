@@ -149,7 +149,7 @@ The tables follow the rulers of the Cape:
 | 2 November 1998 | TRANCRAA (Act 94) | Replaced the Rural Areas Act and set out how the land of the former mission areas, Farm 39 among them, is to pass to its residents [IC]. The transfer of Farm 39 has not yet happened [IC]. See [[trancraa-process-farm-39\|TRANCRAA and Farm 39]]. What it means today: [[rules/trancraa\|Transformation of Certain Rural Areas Act]]. | I: the Minister, the municipality, and residents' committees | | Residents choose together who will hold their land |
 | 2005 | Co-operatives Act 14 | Sets out how co-operatives are formed and run [IC]. See [[concepts/starting-a-co-operative\|Starting a Co-operative]]. | M: member-owned enterprise | | Enterprises owned and governed by their members |
 | 2019 | Traditional and Khoi-San Leadership Act 3 | Provides for Khoi-San communities and leaders to be recognised by the state [IC]. See [[history/tribes/khoekhoe\|Khoekhoe]]. | T: recognised Khoi-San communities. I: the state that recognises them | | |
-| 1 April 2026 | Market signal: the Cape Water Performance-Based Bond | Rand Merchant Bank launched a R2.5 billion, five-year bond, issued by FirstRand Bank and listed on the Johannesburg Stock Exchange on 17 April 2026 [IC]. It pays for The Nature Conservancy to clear invasive plants from the catchments of the Western Cape Water Supply System, and investors' returns depend on independently verified results [IC]. The valley lies below Theewaterskloof Dam, the largest dam in that system [IC]. Whether the bond's clearing reaches the mountains above the valley is not yet known [TBV]. See [[concepts/from-water-access-to-water-agency\|From Water Access to Water Agency]]. | M: capital markets that pay for restored nature | | The first time investors are paid for what a living catchment gives back, a price on regeneration that the valley could one day earn |
+| 1 April 2026 | Market signal: the Cape Water Performance-Based Bond | [[organisations/rand-merchant-bank\|Rand Merchant Bank]] launched a R2.5 billion, five-year bond, issued by [[organisations/firstrand-bank\|FirstRand Bank]] and listed on the Johannesburg Stock Exchange on 17 April 2026 [IC]. It pays for [[organisations/the-nature-conservancy-south-africa\|The Nature Conservancy]] to clear invasive plants from the catchments of the Western Cape Water Supply System, and investors' returns depend on independently verified results [IC]. The valley lies below Theewaterskloof Dam, the largest dam in that system [IC]. Whether the bond's clearing reaches the mountains above the valley is not yet known [TBV]. See [[concepts/from-water-access-to-water-agency\|From Water Access to Water Agency]]. | M: capital markets that pay for restored nature | | The first time investors are paid for what a living catchment gives back, a price on regeneration that the valley could one day earn |
 
 ## The laws through TIME
 
@@ -196,6 +196,7 @@ If you know of a law or order that shaped the valley and is missing here, or hol
 - [[trancraa-process-farm-39|TRANCRAA and Farm 39]]
 - [[history/the-genadendal-diaries|The Genadendal Diaries]]
 - [[rules/index|The Rules the Valley Lives By]]
+- [[organisations/index|Organisations Outside the Valley]]
 
 ## References
 

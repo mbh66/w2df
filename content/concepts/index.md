@@ -27,10 +27,10 @@ A learning campus that gives every young person in the ward a path from school i
 A core theme for the Learning Campus: training young people to restore the Riviersonderend catchment and to be paid for the water it gives, once others have checked the results. To be tabled with the Learning Campus at the November 2026 meeting.
 
 ### [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]]
-An idea to move the valley's water question from access to agency: regenerating the flow its land gives the Riviersonderend, being paid for it, and easing what Theewaterskloof Dam must send downstream. Kwaxala wants to help turn water rights into rights to regenerate flow. To be tabled at the November 2026 meeting.
+An idea to move the valley's water question from access to agency: regenerating the flow its land gives the Riviersonderend, being paid for it, and easing what Theewaterskloof Dam must send downstream. [[organisations/kwaxala|Kwaxala]] wants to help turn water rights into rights to regenerate flow. To be tabled at the November 2026 meeting.
 
 ### [[concepts/tourism-growth-fund-application|Valley of Grace Heritage Trail]]
-An application to the Western Cape Tourism Growth Fund for a heritage trail linking Greyton and the mission settlements, with trained community guides. Being shared with the Transformasie Komitee. To be tabled at the November 2026 meeting.
+An application to the [[organisations/western-cape-department-of-economic-development-and-tourism|Western Cape Tourism Growth Fund]] for a heritage trail linking Greyton and the mission settlements, with trained community guides. Being shared with the Transformasie Komitee. To be tabled at the November 2026 meeting.
 
 ### [[concepts/valley-of-grace-agri-heritage-co-operative|Valley of Grace Agri-Heritage Co-operative]]
 A primary co-operative of valley growers that would share one brand, a farm shop, and visitor experiences, and work with government through the Overberg district plan. To be tabled at the November 2026 meeting.
@@ -45,7 +45,7 @@ A yearly household survey that would let the valley speak to government and inve
 A proposed visitor plan for the mountains above the valley, built around the Cape leopard and the work of tracking it. Goes to the Transformasie Komitee in writing first, then to a Forum meeting.
 
 ### [[concepts/ridge-to-river-to-table|Ridge to River to Table: Investing in the Whole Valley]]
-A proposal to invest in the valley as one place, joining water, the leopard corridor, agri-heritage tourism, and learning under one shared support layer, with blended finance. To be discussed with Ranyaka at the end of October and tabled at the November 2026 meeting.
+A proposal to invest in the valley as one place, joining water, the leopard corridor, agri-heritage tourism, and learning under one shared support layer, with blended finance. To be discussed with [[organisations/ranyaka-community-transformation|Ranyaka]] at the end of October and tabled at the November 2026 meeting.
 
 ## How these fit together
 

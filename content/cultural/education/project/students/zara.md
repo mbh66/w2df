@@ -19,7 +19,7 @@ You are the class expert on the valley's history of water. "Holding" water means
 
 ## What you need to know
 
-People have lived beside our rivers and springs for a very long time. Each group that came held the water in its own way. In class you learned the four forms of the TIME model: Tribes (T), Institutions (I), Markets (M) and Emergent (E). Each holder below fits one form best, and sometimes more than one. Your job is to decide which, and to give a reason.
+People have lived beside our rivers and springs for a very long time. Each group that came held the water in its own way. In class you learned the four forms of the [TIME model](https://wiki.bioconomy.earth/frameworks/time-framework): Tribes (T), Institutions (I), Markets (M) and Emergent (E). Each holder below fits one form best, and sometimes more than one. Your job is to decide which, and to give a reason.
 
 ### Four holders
 
@@ -32,7 +32,7 @@ People have lived beside our rivers and springs for a very long time. Each group
 
 Greyton and Genadendal have different histories with land and water. Tell each side only through what its own records and people say. Do not take sides. Do not write what you think either community wants.
 
-If you find anything about who owns the land, or who has the right to it, do not say it aloud in class yet. Tell Michael first. The Transformasie Komitee has to see it before the children use it.
+If you find anything about who owns the land, or who has the right to it, do not say it aloud in class yet. Tell Teacher Cheryl first. The Transformasie Komitee has to agree with it before anyone uses it.
 
 ### Words to know
 
@@ -46,25 +46,25 @@ If you find anything about who owns the land, or who has the right to it, do not
 - The Moravian Church congregations in Genadendal, Greyton, Bereaville and Voorstekraal
 - Genadendal Mission Museum
 - Greyton Conservation Society
-- The Genadendal Transformasie Komitee (an adult will talk to them for you, through Martin January)
+- The Genadendal Transformasie Komitee (an adult will talk to them with you, through Martin January)
 
 Read more in the Forum's pages on [The Valley Through TIME](https://df.valleyofgrace.co.za/history/the-valley-through-time) and [Greyton's Leiwater](https://df.valleyofgrace.co.za/history/leiwater).
 
 ## The three stamps
 
-- **Checked twice:** two separate sources agree, or an official record says so.
-- **Their own word:** it comes from the person or group the fact is about.
-- **Not yet checked:** it seems likely, but nobody has confirmed it.
+- [IC] **Checked twice:** two separate sources agree, or an official record says so.
+- [MS] **Their own word:** it comes from the person or group the fact is about.
+- [TBV] **Not yet checked:** it seems likely, but nobody has confirmed it.
 
 ## Week 1 homework
 
 This should take about two hours.
 
-**1. Read this page twice (15 minutes).** Underline every word you do not know.
+**1. Read this page twice (15 minutes).** Write down every word you don't know.
 
 **2. Start your timeline (35 minutes).** Cut a long strip of paper. Mark the left end "before 1652" and the right end "2038". Space the dates evenly. Put in 1854, 1858 and 1899. Write one holder at each date. Colour each card for the form you think fits best. Write one sentence for each colour choice.
 
-**3. Ask an older person (20 minutes).** Ask a grown-up or neighbour you know what they remember about where the valley's water came from when they were young. Write down what they say in their own words. Stamp it **Their own word**. Do not ask about who owns land.
+**3. Ask someone else (20 minutes).** Ask a parent or neighbour you know what they remember about where the valley's water came from when they were young. Write down what they say in their own words. Stamp it **Their own word**. Do not ask about who owns land.
 
 **4. Write ten fact cards (40 minutes).** Use a card like this for each one:
 

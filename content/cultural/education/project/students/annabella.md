@@ -46,7 +46,7 @@ One source says only about 42% of the river's natural flow reaches the sea at Wi
 
 Our valley's streams might add water to the river below the dam. If the people who run the dam agreed to count that water, the dam might need to release less. The saved water could go to Cape Town.
 
-Nobody has asked the Department of Water and Sanitation or the catchment agency whether they would agree. So you must never write that they would. You will stamp this idea **Not yet checked**.
+Nobody has asked the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]] or the catchment agency whether they would agree. So you must never write that they would. You will stamp this idea **Not yet checked**.
 
 ### Words to know
 
@@ -59,21 +59,21 @@ Nobody has asked the Department of Water and Sanitation or the catchment agency 
 
 - Zonderend Water Users Association (on the Register)
 - Department of Water and Sanitation
-- Breede-Olifants Catchment Management Agency
-- Overberg Water Board
-- City of Cape Town
+- [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]]
+- [[organisations/overberg-water-board|Overberg Water Board]]
+- [[organisations/city-of-cape-town|City of Cape Town]]
 
 ## The three stamps
 
-- **Checked twice:** two separate sources agree, or an official record says so.
-- **Their own word:** it comes from the person or group the fact is about.
-- **Not yet checked:** it seems likely, but nobody has confirmed it.
+- [IC] **Checked twice:** two separate sources agree, or an official record says so.
+- [MS] **Their own word:** it comes from the person or group the fact is about.
+- [TBV] **Not yet checked:** it seems likely, but nobody has confirmed it.
 
 ## Week 1 homework
 
 This should take about two hours.
 
-**1. Read this page twice (15 minutes).** Underline every word you do not know.
+**1. Read this page twice (15 minutes).** Write down every word you don't know.
 
 **2. Draw a water map (35 minutes).** Use a big sheet of paper. Draw the mountain, the dam, the tunnel to Cape Town, the Riviersonderend, Greyton, Genadendal, the Breede River and Witsand. Show the Baviaans and Gobos rivers joining the Riviersonderend. Use blue arrows for the water's path. In Week 2 you will build this map on the floor with rope and cloth.
 

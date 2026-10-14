@@ -14,7 +14,7 @@ Every initiative is an entry in exactly one of nine categories. The categories a
 
 An entry's URL is its category folder plus its file name, for example `/economic/farmers-land-water/wild-restoration`.
 
-Alongside the entries, the site holds the valley's history in `/history/`. History pages have no category, are not entries, and do not appear on the Register. It also holds the rules that apply in the valley today, one page per law, by-law, policy, or plan, in `/rules/`.
+Alongside the entries, the site holds the valley's history in `/history/`. History pages have no category, are not entries, and do not appear on the Register. It also holds the rules that apply in the valley today, one page per law, by-law, policy, or plan, in `/rules/`, and pages on organisations outside the valley whose work reaches it, in `/organisations/`.
 
 ## How an entry is structured
 
@@ -59,6 +59,20 @@ Pages in `/rules/` explain the laws, by-laws, policies, and plans that apply in 
 - [Theewaterskloof Integrated Development Plan](https://df.valleyofgrace.co.za/rules/theewaterskloof-integrated-development-plan): the municipality's plan, and the yearly review where Ward 2 can put its needs
 - [National Heritage Resources Act](https://df.valleyofgrace.co.za/rules/national-heritage-resources-act): the 60-year rule for old buildings
 
+## Organisations outside the valley
+
+Pages in `/organisations/` describe organisations based outside Ward 2 whose work reaches the valley, such as the banks, non-profit, water fund, verifier, and city linked by the Cape Water Performance-Based Bond. They are not entries, have no category, and do not appear on the Register. Each describes the organisation only through what it has said or done in public, opens with questions for the organisation, and records whether the Forum has contacted it. Frontmatter gives `kind` (Bank, Funder, Non-profit, Water fund, Government, Specialist firm), `based_in`, `connection` (the programme and the organisation's role in it), and `relationship` (the Forum's contact with it).
+
+- [Organisations Outside the Valley](https://df.valleyofgrace.co.za/organisations/): the section's index, with a table of each organisation's role in the Cape Water bond and how the bond reaches the valley
+- [FirstRand Bank](https://df.valleyofgrace.co.za/organisations/firstrand-bank) and [Rand Merchant Bank](https://df.valleyofgrace.co.za/organisations/rand-merchant-bank): the issuer and the arranger of the bond
+- [The Nature Conservancy South Africa](https://df.valleyofgrace.co.za/organisations/the-nature-conservancy-south-africa) and [Greater Cape Town Water Fund](https://df.valleyofgrace.co.za/organisations/greater-cape-town-water-fund): the implementer and the clearing programme
+- [Conservation Alpha](https://df.valleyofgrace.co.za/organisations/conservation-alpha): the bond's independent verifier
+- [City of Cape Town](https://df.valleyofgrace.co.za/organisations/city-of-cape-town): a founding partner of the water fund, and the main user of the water supply system whose largest dam lies upstream of the valley
+- [Department of Water and Sanitation](https://df.valleyofgrace.co.za/organisations/department-of-water-and-sanitation) and [Breede-Olifants Catchment Management Agency](https://df.valleyofgrace.co.za/organisations/breede-olifants-catchment-management-agency): the owner of Theewaterskloof Dam and the agency for water use in the Breede catchment
+- [Department of Land Reform and Rural Development](https://df.valleyofgrace.co.za/organisations/department-of-land-reform-and-rural-development): the national department responsible for TRANCRAA and the custodian of state land at Madiba Park
+- [CapeNature](https://df.valleyofgrace.co.za/organisations/capenature), [Heritage Western Cape](https://df.valleyofgrace.co.za/organisations/heritage-western-cape), and the [Western Cape Department of Agriculture](https://df.valleyofgrace.co.za/organisations/western-cape-department-of-agriculture): provincial bodies for reserves, heritage permits, and farming and training
+- The section's index lists the other organisations, from conservation groups to funders of Register entries
+
 ## About the Forum and the site
 
 - [Home](https://df.valleyofgrace.co.za/): introduction and navigation
@@ -73,6 +87,7 @@ Pages in `/rules/` explain the laws, by-laws, policies, and plans that apply in 
 ## Notes for automated readers
 
 - Entries are published only after moderator review. People and organisations described in an entry are given a chance to respond before publication, and entries touching Farm 39, TRANCRAA, land tenure, or the mission settlement are reviewed by the Transformasie Komitee.
+- Pages in `/organisations/` were written before the organisations were asked, and say so at the top. Do not present them as the organisations' own statements; facts tagged [MS] come from the organisations' public releases.
 - Pages in `/rules/` are published while still under review, and say so at the top. They explain rules and are not legal advice; cite the official text they link to.
 - Theewaterskloof Municipality supports the Forum with administration but does not moderate or approve content. Do not present entries as municipal positions.
 - Do not collect or republish personal contact details from this site. Use the Contact page for enquiries.

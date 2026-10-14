@@ -36,7 +36,7 @@ The sanctuary says backyard piggeries often keep animals in poor conditions, pol
 
 A team of gardeners recruited locally works on five gardens in the Greyton and Genadendal valley, with more planned in the valley and in other municipalities [MS]. Produce from the gardens is sold under the brand The Graceful Garden, as vegetable boxes, salad packs, preserves, spices, and sauces, to earn a better price [MS]. The programme aims to pay for itself within five years [MS].
 
-The Olsen Animal Trust and Humane Society International fund the programme. The University of the Western Cape's Department of Sociology will help measure its results [MS].
+The [[organisations/olsen-animal-trust|Olsen Animal Trust]] and [[organisations/humane-world-for-animals|Humane Society International]] fund the programme. The University of the Western Cape's Department of Sociology will help measure its results [MS].
 
 ## Needs
 - Backyard pig farmers in the valley who want to change to growing vegetables [MS]

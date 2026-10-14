@@ -29,7 +29,7 @@ A rule is included when it governs something an initiative, idea, or village on 
 | --- | --- | --- |
 | National | Parliament and national ministers | [[rules/constitution\|The Constitution]], [[rules/trancraa\|TRANCRAA]], [[rules/national-water-act\|National Water Act]] |
 | Provincial | The Western Cape Provincial Parliament and provincial ministers | [[rules/western-cape-land-use-planning-act\|Western Cape Land Use Planning Act]] |
-| District | Overberg District Municipality | None written yet |
+| District | [[organisations/overberg-district-municipality\|Overberg District Municipality]] | None written yet |
 | Municipal | Theewaterskloof Municipal Council | [[rules/zoning-scheme-by-law\|Zoning Scheme By-law]], [[rules/theewaterskloof-integrated-development-plan\|Integrated Development Plan]] |
 | Community | Bodies in the valley, for their own members and land | None written yet |
 

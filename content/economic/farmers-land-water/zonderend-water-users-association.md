@@ -38,7 +38,7 @@ The Zonderend Water Users Association (ZWUA) brings together the people who use 
 
 The Riviersonderend flows into Theewaterskloof Dam, the largest dam in the Western Cape [TBV]. Its banks were once lined with palmiet wetlands, which hold water, slow floods, and stop erosion. Invasive trees such as pines, Port Jackson, blue gums, and black wattle have crowded out the palmiet in many places [MS].
 
-WWF South Africa started a project to clear invasive plants along the river in 2013, with funding from government and private partners. At the end of 2017 it handed the project to ZWUA, which named it Restoring the Riviersonderend [MS].
+[[organisations/wwf-south-africa|WWF South Africa]] started a project to clear invasive plants along the river in 2013, with funding from government and private partners. At the end of 2017 it handed the project to ZWUA, which named it Restoring the Riviersonderend [MS].
 
 ## Needs
 None stated yet.

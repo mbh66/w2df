@@ -53,7 +53,7 @@ The Transformation of Certain Rural Areas Act, known as TRANCRAA, is the nationa
 | Full name | Transformation of Certain Rural Areas Act, 1998 |
 | Citation | Act 94 of 1998 |
 | Made by | Parliament |
-| Administered by | The national Minister responsible for land reform, through the Department of Agriculture, Land Reform and Rural Development |
+| Administered by | The national Minister responsible for land reform, through the [[organisations/department-of-land-reform-and-rural-development\|Department of Agriculture, Land Reform and Rural Development]] |
 | In force since | 2 November 1998 |
 | Official text | [Government of South Africa](https://www.gov.za/documents/transformation-certain-rural-areas-act); [SAFLII](https://www.saflii.org/za/legis/num_act/tocraa1998376/) |
 

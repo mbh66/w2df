@@ -44,7 +44,7 @@ The Greyton Tourism Bureau runs a visitor information office at 29 Main Road, Gr
 - **Visitor information.** Help with things to do, accommodation, restaurants, hiking trails, markets, and planning weddings [MS]
 - **Business directory.** Listings for accommodation, food and drink, shops, art and workshops, and health and beauty businesses in Greyton [MS]
 - **Events calendar.** Festivals and events in and around Greyton, with tickets for some events sold on the website [MS]. It lists the Greyton Saturday market (09:30 to 12:00) and the Genadendal night market (the first Friday of each month) [MS].
-- **Outdoor information.** Hiking and mountain-biking routes, a downloadable hiking map, information on the Boesmanskloof trail and CapeNature permits, and links to local alien-clearing groups [MS]
+- **Outdoor information.** Hiking and mountain-biking routes, a downloadable hiking map, information on the Boesmanskloof trail and [[organisations/capenature|CapeNature]] permits, and links to local alien-clearing groups [MS]
 - **Village history and map.** A history of Greyton from the Hassequa Khoikhoi to the founding of the village in 1854, and a downloadable village map [MS]
 
 ## How to get involved

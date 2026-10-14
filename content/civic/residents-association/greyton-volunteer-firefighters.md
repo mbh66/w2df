@@ -28,7 +28,7 @@ links:
 > 2. Does GVF give fire safety talks for learners? If so, at which schools?
 > 3. Are the needs listed (donations and volunteers) still the most useful, or is there something more specific?
 > 4. Should readers reach you through the moderators, or would you like a public contact listed?
-> 5. How does GVF work with the Overberg District Fire Services and the Greater Overberg Fire Protection Association on a call? Is GVF a member of, or recognised by, either?
+> 5. How does GVF work with the [[organisations/overberg-district-municipality|Overberg District Fire Services]] and the [[organisations/greater-overberg-fire-protection-association|Greater Overberg Fire Protection Association]] on a call? Is GVF a member of, or recognised by, either?
 
 Greyton Volunteer Firefighters (GVF) is a team of volunteers who protect Greyton and the Valley of Grace by responding quickly to fires [MS]. Its members are residents and people from local businesses [MS]. It is registered as Greyton Volunteer Firefighters NPC, a non-profit company (registration 2024/486379/08), and as a public benefit organisation (PBO 930089566), so donations are tax deductible under section 18A [MS].
 

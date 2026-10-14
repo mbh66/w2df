@@ -25,7 +25,7 @@ Healthy land works like a sponge. Rain soaks into the soil and the soil holds it
 
 Damaged land works like a hard kitchen counter. Rain runs off in a few hours and rushes down to the river. The rain is the same. The land is different.
 
-Helping land hold more water is called making a Water Retention Landscape. The BioConomy wiki explains the idea.
+Helping land hold more water is called making a [Water Retention Landscape](https://wiki.bioconomy.earth/concepts/water-retention-landscapes). The BioConomy wiki explains the idea.
 
 ### The thirsty trees
 
@@ -48,21 +48,21 @@ Nobody has measured how much extra water clearing would give our valley. You wil
 
 ## Who you will study
 
-- Wild Restoration (Greyton)
-- Greyton Conservation Society
-- Zonderend Water Users Association, which clears river banks and grows palmiet plants at its nursery in Genadendal
+- [[wild-restoration|Wild Restoration]]
+- [[greyton-conservation-society|Greyton Conservation Society]]
+- [[zonderend-water-users-association|Zonderend Water Users Association]], which clears river banks and grows palmiet plants at its nursery in Genadendal
 
 ## The three stamps
 
-- **Checked twice:** two separate sources agree, or an official record says so.
-- **Their own word:** it comes from the person or group the fact is about.
-- **Not yet checked:** it seems likely, but nobody has confirmed it.
+- [IC] **Checked twice:** two separate sources agree, or an official record says so.
+- [MS] **Their own word:** it comes from the person or group the fact is about.
+- [TBV] **Not yet checked:** it seems likely, but nobody has confirmed it.
 
 ## Week 1 homework
 
 This should take about two hours.
 
-**1. Read this page twice (15 minutes).** Underline every word you do not know. Bring the list to Week 2.
+**1. Read this page twice (15 minutes).** Write down every word you don't know. Bring the list to Week 2.
 
 **2. Do the pour test (35 minutes).** Ask a grown-up to help you.
 

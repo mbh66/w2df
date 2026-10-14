@@ -79,7 +79,7 @@ The Tourism Act is the national law for tourism in South Africa [IC]. Among othe
 
 ## Who to ask
 
-- The Western Cape Provincial Registrar of Tourist Guides, in the Western Cape Department of Economic Development and Tourism [TBV].
+- The Western Cape Provincial Registrar of Tourist Guides, in the [[organisations/western-cape-department-of-economic-development-and-tourism|Western Cape Department of Economic Development and Tourism]] [TBV].
 
 ## What is still open
 

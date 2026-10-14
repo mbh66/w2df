@@ -34,7 +34,7 @@ links:
 updated: 2026-09-29
 ---
 
-> **This idea is not yet agreed.** It draws together eight ideas already on this site, and none of those are agreed either. It answers a concept paper by Ranyaka Community Transformation, and will be discussed with Ranyaka at a meeting at the end of October 2026 [MS]. Everything in it that touches Farm 39 land goes to the Transformasie Komitee in writing first. Kwaxala has said it wants to work with the valley on water (see [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]]). Rand Merchant Bank (RMB) and the other organisations named on this page have not been approached. They include the Cape Leopard Trust, the Landmark Foundation, CapeNature, the Department of Water and Sanitation, the Breede-Olifants Catchment Management Agency, the Zonderend Water Users Association, Wild Restoration, the Greyton Conservation Society, Emil Weder Secondary's governing body, and Theewaterskloof Municipality. **Please do not share this page publicly yet.** The idea will be tabled at the Forum's November 2026 meeting.
+> **This idea is not yet agreed.** It draws together eight ideas already on this site, and none of those are agreed either. It answers a concept paper by [[organisations/ranyaka-community-transformation|Ranyaka Community Transformation]], and will be discussed with Ranyaka at a meeting at the end of October 2026 [MS]. Everything in it that touches Farm 39 land goes to the Transformasie Komitee in writing first. [[organisations/kwaxala|Kwaxala]] has said it wants to work with the valley on water (see [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]]). [[organisations/rand-merchant-bank|Rand Merchant Bank]] (RMB) and the other organisations named on this page have not been approached. They include the [[organisations/cape-leopard-trust|Cape Leopard Trust]], the [[organisations/landmark-foundation|Landmark Foundation]], [[organisations/capenature|CapeNature]], the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the Zonderend Water Users Association, Wild Restoration, the Greyton Conservation Society, Emil Weder Secondary's governing body, and Theewaterskloof Municipality. **Please do not share this page publicly yet.** The idea will be tabled at the Forum's November 2026 meeting.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -75,7 +75,7 @@ The [1000 Landscapes for 1 Billion People](https://landscapes.global/) initiativ
 
 ### A buyer for the valley's water already exists
 
-In April 2026 FirstRand listed a R2.5 billion bond on the Johannesburg Stock Exchange that pays investors partly according to checked results from clearing invasive plants in Cape Town's catchments [IC]. RMB, part of FirstRand, arranged and structured it [MS]. The Nature Conservancy and the Greater Cape Town Water Fund carry out the work, and Conservation Alpha checks it independently [MS]. RMB describes the bond as the first in a series for South Africa's strategic water source areas [MS]. The valley is not directly part of it, but does play a downstream role below Theewaterskloof Dam [MS].
+In April 2026 [[organisations/firstrand-bank|FirstRand]] listed a R2.5 billion bond on the Johannesburg Stock Exchange that pays investors partly according to checked results from clearing invasive plants in Cape Town's catchments [IC]. RMB, part of FirstRand, arranged and structured it [MS]. [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy]] and the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]] carry out the work, and [[organisations/conservation-alpha|Conservation Alpha]] checks it independently [MS]. RMB describes the bond as the first in a series for South Africa's strategic water source areas [MS]. The valley is not directly part of it, but does play a downstream role below Theewaterskloof Dam [MS].
 
 > [!important] A drop of water in the river below the valley is a drop the dam can keep. 
 > Theewaterskloof Dam sends its water two ways: west through a tunnel to Cape Town, and east down the Riviersonderend to farmers, the Overberg towns, and the river itself [IC]. By law, the river must keep enough water to stay healthy down to its estuary at Witsand. This share is called the Reserve [IC]. Cape Town's households and businesses pay for the water they use. The people putting this idea forward say nobody pays for the water released to meet the Reserve [MS].
@@ -107,7 +107,7 @@ The valley would ask investors to fund one place in four linked strands. Picture
 
 ### The leopard corridor links two known areas
 
-The Cape Leopard Trust surveyed the Boland mountains, west of the valley, in 2025 and identified 38 leopards [MS]. To the south, the Trust, the Endangered Wildlife Trust and the Grootbos Foundation are building the Agulhas Green Corridor, which joins the Walker Bay Protected Environment to Agulhas National Park and the Nuwejaars area [MS]. No published survey covers the mountains between Villiersdorp, Genadendal and Riviersonderend [TBV].
+The Cape Leopard Trust surveyed the Boland mountains, west of the valley, in 2025 and identified 38 leopards [MS]. To the south, the Trust, the [[organisations/endangered-wildlife-trust|Endangered Wildlife Trust]] and the [[organisations/grootbos-foundation|Grootbos Foundation]] are building the Agulhas Green Corridor, which joins the Walker Bay Protected Environment to Agulhas National Park and the Nuwejaars area [MS]. No published survey covers the mountains between Villiersdorp, Genadendal and Riviersonderend [TBV].
 
 The corridor strand would treat the valley's mountains as the missing middle piece between the Boland and the Agulhas corridor. The camera survey paid for in this investment would test whether leopards use it that way.
 
@@ -175,7 +175,7 @@ Nothing has been costed [MS]. The figures below are indicative. They show the sc
 
 Other money already requested or open to the valley would sit beside this:
 
-- The Heritage Trail application asks the Western Cape Tourism Growth Fund for R691,350 of a project costing about R1.8 million [MS]. The Rotary Club of Greyton has budgeted R70,000 towards it [MS].
+- The Heritage Trail application asks the [[organisations/western-cape-department-of-economic-development-and-tourism|Western Cape Tourism Growth Fund]] for R691,350 of a project costing about R1.8 million [MS]. The Rotary Club of Greyton has budgeted R70,000 towards it [MS].
 - SETA grants and learner stipends, once courses are registered.
 - The Comprehensive Agricultural Support Programme, for the co-operative's growers.
 - Theewaterskloof Municipality's administrative support to the Forum [MS].
@@ -235,6 +235,9 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the Novem
 - [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]
 - [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]]
 - [[concepts/starting-a-co-operative|Starting a Co-operative in the Valley: A Suggested Route]]
+- [[organisations/index|Organisations Outside the Valley]]
+- [[organisations/rand-merchant-bank|Rand Merchant Bank]]
+- [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]]
 - [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]]
 - [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]]
 - [[register|The Register]]

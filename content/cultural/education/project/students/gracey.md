@@ -40,23 +40,23 @@ The Forum has an idea for a water skills course at the Valley of Grace Learning 
 
 ## Who you will study
 
-- Wild Restoration
-- Zonderend Water Users Association
-- Emil Weder Secondary School
-- Rotary Club of Greyton
-- Other schools on the [Register](https://df.valleyofgrace.co.za/register)
+- [[wild-restoration|Wild Restoration]]
+- [[zonderend-water-users-association|Zonderend Water Users Association]]
+- [[cultural/education/emil-weder-secondary|Emil Weder Secondary School]]
+- [[rotary-club-of-greyton|Rotary Club of Greyton]]
+- Other schools on the [[register|Register]]
 
 ## The three stamps
 
-- **Checked twice:** two separate sources agree, or an official record says so.
-- **Their own word:** it comes from the person or group the fact is about.
-- **Not yet checked:** it seems likely, but nobody has confirmed it.
+- [IC] **Checked twice:** two separate sources agree, or an official record says so.
+- [MS] **Their own word:** it comes from the person or group the fact is about.
+- [TBV] **Not yet checked:** it seems likely, but nobody has confirmed it.
 
 ## Week 1 homework
 
 This should take about two hours.
 
-**1. Read this page twice (15 minutes).** Underline every word you do not know.
+**1. Read this page twice (15 minutes).** Write down every word you don't know.
 
 **2. Read the two Register pages (25 minutes).** Read [Wild Restoration](https://df.valleyofgrace.co.za/economic/farmers-land-water/wild-restoration) and the [Zonderend Water Users Association](https://df.valleyofgrace.co.za/economic/farmers-land-water/zonderend-water-users-association). Write down every job you can find. Next to each, write one skill a person would need.
 

@@ -32,7 +32,7 @@ links:
   - https://www.landmark.foundation/leopards
 ---
 
-> **This idea is not yet agreed.** At its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]], the Forum agreed that the leopard corridor concept goes to the Transformasie Komitee in writing before anything else is done [MS]. None of the other organisations named on this page have been approached. They include the Cape Leopard Trust, the Landmark Foundation, CapeNature, the Greyton Conservation Society, Wild Restoration, the Greyton Tourism Bureau, Wesgro, the Overberg District Municipality, and Theewaterskloof Municipality. **Please do not share this page publicly yet.** The idea will be tabled at a Forum meeting once the Komitee has responded.
+> **This idea is not yet agreed.** At its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]], the Forum agreed that the leopard corridor concept goes to the Transformasie Komitee in writing before anything else is done [MS]. None of the other organisations named on this page have been approached. They include the [[organisations/cape-leopard-trust|Cape Leopard Trust]], the [[organisations/landmark-foundation|Landmark Foundation]], [[organisations/capenature|CapeNature]], the Greyton Conservation Society, Wild Restoration, the Greyton Tourism Bureau, [[organisations/wesgro|Wesgro]], the [[organisations/overberg-district-municipality|Overberg District Municipality]], and Theewaterskloof Municipality. **Please do not share this page publicly yet.** The idea will be tabled at a Forum meeting once the Komitee has responded.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -59,7 +59,7 @@ links:
 
 **Who visits the Overberg today.** Wesgro, the province's tourism agency, collected 7,588 survey responses from visitors at Overberg tourism offices in 2024. About three in four were South African, and nine in ten of those came from the Western Cape [IC]. Germany, the United Kingdom, and the Netherlands sent the most overseas visitors [IC]. About 10% of visitors named outdoor activities as what they did, and about 8% named heritage sites [IC].
 
-**What the province is funding.** The Western Cape Tourism Growth Fund aims to help double international arrivals to the province by 2030 [IC]. It gives preference to projects outside the metro and in underserved areas, and its priority themes include village heritage and Western Cape trails [IC]. Wesgro's five-year plan describes the provincial target as doubling tourism by 2035 [MS].
+**What the province is funding.** The [[organisations/western-cape-department-of-economic-development-and-tourism|Western Cape Tourism Growth Fund]] aims to help double international arrivals to the province by 2030 [IC]. It gives preference to projects outside the metro and in underserved areas, and its priority themes include village heritage and Western Cape trails [IC]. Wesgro's five-year plan describes the provincial target as doubling tourism by 2035 [MS].
 
 **What the Forum asked for.** At its first meeting, the Forum made conservation and environment one of its five priorities, and discussed a possible Overberg leopard corridor [MS].
 
@@ -131,7 +131,7 @@ Nothing has been costed, including a camera survey of the valley's mountains [MS
 - **The Transformasie Komitee**, first, for anything on [[villages/farm-39|Farm 39]] land: trails, camera sites, and homestays.
 - **Landowners**, for what happens on their land. Cameras would go on private land only by agreement.
 - **CapeNature**, for its reserves and state forest, under its management plans.
-- **Heritage Western Cape**, for any work inside the Genadendal heritage precinct.
+- **[[organisations/heritage-western-cape|Heritage Western Cape]]**, for any work inside the Genadendal heritage precinct.
 - **The researchers**, for the camera data they collect. Any sharing would be by written agreement.
 - **The municipalities**, for any part of the plan that needs roads, land use, or public money.
 - **The Forum**, for whether the valley takes on the job of convening the plan.

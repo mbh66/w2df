@@ -152,7 +152,7 @@ Each row gives the event as the book records it, with the page or pages where it
 | 1950s and 1960s | Members of the Teachers' League of South Africa meet in the parsonage loft to oppose apartheid, and become known as the *Solder-beweging* (Loft Movement) [MS] | 154-155 |
 | 1950s | Co-operative laws force farmers to send their wheat to licensed co-operatives, and the watermill closes [MS] | 92 |
 | 1962 | Rev Daniel Wessels, one of the loft movement, is placed under house arrest for five years [MS] | 155 |
-| 1960s | Eskom electricity and piped water reach Genadendal [MS] | 159 |
+| 1960s | [[organisations/eskom\|Eskom]] electricity and piped water reach Genadendal [MS] | 159 |
 | 1963 | A museum opens at Genadendal [MS] | 194 |
 | 1980 | The buildings on Church Square are declared national monuments [MS]. The Department of Forestry fells the cluster pines on the mountain [MS]. | 7, 68, 81, 151 |
 | 1986 | The Moravian Church launches the Mission Trust Fund to restore the buildings on Church Square [MS] | 68 |
@@ -160,7 +160,7 @@ Each row gives the event as the book records it, with the page or pages where it
 | 8 March 1991 | The museum's collection is declared a National Cultural Treasure [MS] | 7, 164 |
 | 1992 | The watermill is restored and working again, with money from the Tiger Oats Milling Company [MS] | 92 |
 | 10 October 1995 | President Mandela visits Genadendal [IC]. Earlier that year he had renamed his Cape Town residence, Westbrooke, Genadendal [IC], after a motivation from the museum's curator [MS]. He tours the museum, speaks in the church, and addresses about 2,000 people on the rugby field [MS]. | 16-21 |
-| 2000 | The South African Heritage Resources Agency (SAHRA) changes the status of the museum collection and the Church Square monuments from national to provincial [MS]. The first liquor store and shebeen open in Genadendal [MS]. | 7, 159 |
+| 2000 | The [[organisations/south-african-heritage-resources-agency\|South African Heritage Resources Agency]] (SAHRA) changes the status of the museum collection and the Church Square monuments from national to provincial [MS]. The first liquor store and shebeen open in Genadendal [MS]. | 7, 159 |
 | About 2001 | The Dutch government gives R11 million to restore the historic buildings, and residents are trained as masons and thatchers [MS] | 69 |
 | 2002 to 2003 | The modern presses are moved to Cape Town and the printing works closes. The building becomes the Printing History Museum [MS]. | 110 |
 | 2005 | The Albion press, used at Genadendal for many decades, comes back from the South African Museum on Heritage Day [MS]. The museum begins a genealogy project, "The Children of Jonas", tracing the old families to Kupido's daughter [[history/people/anna-maria-mauritz\|Anna Maria Mauritz]] [MS]. | 111, 175 |

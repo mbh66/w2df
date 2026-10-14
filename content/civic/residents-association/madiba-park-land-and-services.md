@@ -35,7 +35,7 @@ Madiba Park sits where Greyton and Genadendal meet. On the ground it lies next t
 - Farm 39 Genadendal is a former mission station of about 4,515 hectares [IC].
 - It is one of the rural areas covered by the Transformation of Certain Rural Areas Act of 1998, known as TRANCRAA [IC].
 - The national Minister responsible for land reform holds the part of Genadendal that lies outside the township area in trust [IC].
-- The national Department of Agriculture, Land Reform and Rural Development acts as custodian of the land at Madiba Park [IC].
+- The [[organisations/department-of-land-reform-and-rural-development|national Department of Agriculture, Land Reform and Rural Development]] acts as custodian of the land at Madiba Park [IC].
 - The land is to pass to the Genadendal community through a Communal Property Association, and this has not been finalised [TBV]. In 2024 a department spokesperson told GroundUp that "certain issues" were still outstanding [MS].
 - News reports often call this a land restitution process. In 2014 the Land Claims Court held that TRANCRAA is a land reform law, and that it does not deal with land restitution [IC].
 

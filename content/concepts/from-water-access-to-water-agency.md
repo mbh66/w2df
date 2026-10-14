@@ -26,7 +26,7 @@ links:
 updated: 2026-09-28
 ---
 
-> **This idea is not yet agreed.** Kwaxala has been approached and has said it wants to work with the valley (see below). The other organisations named on this page have not yet been asked. They include the Department of Water and Sanitation, the Breede-Olifants Catchment Management Agency, the Zonderend Water Users Association, the City of Cape Town, the Transformasie Komitee, and the Moravian Church. **Please do not share this page publicly yet.** The idea will be tabled at the Forum's November 2026 meeting, with the [[concepts/valley-of-grace-learning-campus|Learning Campus]] and [[concepts/restoring-the-river|Restoring the River]].
+> **This idea is not yet agreed.** [[organisations/kwaxala|Kwaxala]] has been approached and has said it wants to work with the valley (see below). The other organisations named on this page have not yet been asked. They include the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the Zonderend Water Users Association, the [[organisations/city-of-cape-town|City of Cape Town]], the Transformasie Komitee, and the Moravian Church. **Please do not share this page publicly yet.** The idea will be tabled at the Forum's November 2026 meeting, with the [[concepts/valley-of-grace-learning-campus|Learning Campus]] and [[concepts/restoring-the-river|Restoring the River]].
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -64,7 +64,7 @@ From Kwaxala, which represents investors:
 Theewaterskloof Dam holds up to 480 million cubic metres, more than any other dam that supplies Cape Town [IC]. Its water goes two ways:
 
 - **West, through a tunnel,** to Cape Town and to other towns and farms in the Western Cape Water Supply System [IC].
-- **East, down the Riviersonderend,** past Greyton and Genadendal. Farmers along the river are entitled to water released from the dam, and so is the Overberg Water Board, which supplies Caledon and other towns [IC]. The Riviersonderend joins the Breede River near Swellendam, and the Breede reaches the sea at Witsand [IC].
+- **East, down the Riviersonderend,** past Greyton and Genadendal. Farmers along the river are entitled to water released from the dam, and so is the [[organisations/overberg-water-board|Overberg Water Board]], which supplies Caledon and other towns [IC]. The Riviersonderend joins the Breede River near Swellendam, and the Breede reaches the sea at Witsand [IC].
 
 In the 2018 drought, the farmers along the Riviersonderend received only 60% of their allocation from the dam [IC].
 
@@ -113,7 +113,7 @@ A service is bankable when a bank or investor will put money into it today, beca
 3. **A clear right to do the work,** such as long-term stewardship agreements with the owners of the land being restored.
 4. **A trusted body** in the valley that signs the contracts and delivers the work.
 
-Buyers of this kind already exist. In April 2026 FirstRand Bank listed a R2.5 billion bond on the Johannesburg Stock Exchange that pays investors partly according to checked results from clearing invasive plants in Cape Town's catchments [IC]. In the Breede catchment, a water stewardship programme led by WWF and Woolworths reports releasing 200 million litres of water a year back into the catchment [MS].
+Buyers of this kind already exist. In April 2026 [[organisations/firstrand-bank|FirstRand Bank]] listed a R2.5 billion bond on the Johannesburg Stock Exchange that pays investors partly according to checked results from clearing invasive plants in Cape Town's catchments [IC]. In the Breede catchment, a water stewardship programme led by [[organisations/wwf-south-africa|WWF]] and [[organisations/woolworths|Woolworths]] reports releasing 200 million litres of water a year back into the catchment [MS].
 
 ### Learning from Kwaxala
 
@@ -201,6 +201,8 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the Novem
 - [[wild-restoration|Wild Restoration]]
 - [[history/leiwater|Greyton's Leiwater]]
 - [[priorities/conservation-environment|Conservation and Environment]]
+- [[organisations/city-of-cape-town|City of Cape Town]]
+- [[organisations/index|Organisations Outside the Valley]]
 - [[long-term-goal|Our Long-Term Goal]]
 - [[concepts/index|Ideas for the Valley]]
 

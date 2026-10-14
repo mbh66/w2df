@@ -40,7 +40,7 @@ Grace Valley Wildlife Rescue is the wildlife division of [[greyton-farm-animal-s
 
 It responds to calls about injured, orphaned, and displaced wild animals, and stabilises them before they go to a permitted rehabilitation centre or a vet [MS]. It has responded to hundreds of wildlife emergencies across the Overberg, from bats and songbirds to raptors, mammals, reptiles, tortoises, and duikers [MS]. Its public Facebook group, started in 2021, has more than 770 members [MS].
 
-In 2025 it announced plans to become a permitted satellite rehabilitation centre linked to the Kogelberg Biosphere Wildlife Rescue and Training Centre [MS].
+In 2025 it announced plans to become a permitted satellite rehabilitation centre linked to the [[organisations/kogelberg-biosphere-wildlife-rescue-and-training-centre|Kogelberg Biosphere Wildlife Rescue and Training Centre]] [MS].
 
 ## Needs
 - Money to fit out its rehabilitation building with enclosures, quarantine areas, and safety systems. Its online fundraising campaign aims to raise R78,000 [MS].

@@ -30,7 +30,7 @@ last_checked: 2026-10-01
 >
 > Questions for reviewers:
 >
-> 1. For Heritage Western Cape or anyone who knows the register: which buildings and areas in the valley are formally protected (provincial heritage sites, heritage areas, or entries on the heritage register), and since when?
+> 1. For [[organisations/heritage-western-cape|Heritage Western Cape]] or anyone who knows the register: which buildings and areas in the valley are formally protected (provincial heritage sites, heritage areas, or entries on the heritage register), and since when?
 > 2. For the Genadendal Mission Museum and the Moravian Church: is the description of Church Square's status correct?
 
 The National Heritage Resources Act sets out how South Africa identifies and protects its heritage: buildings, landscapes, archaeological sites, graves, and objects [IC]. In the Western Cape most of it is administered by Heritage Western Cape, the provincial heritage resources authority [IC]. For the valley, its most important rule is the simplest: no one may alter or demolish any structure older than 60 years without a permit (section 34) [IC]. Genadendal's mission dates from the 1730s and Greyton from 1854, so a large share of the valley's buildings fall under it [IC].
@@ -51,7 +51,7 @@ The National Heritage Resources Act sets out how South Africa identifies and pro
 | Full name | National Heritage Resources Act, 1999 |
 | Citation | Act 25 of 1999 |
 | Made by | Parliament |
-| Administered by | The South African Heritage Resources Agency nationally; Heritage Western Cape in the province; municipalities for some local matters |
+| Administered by | The [[organisations/south-african-heritage-resources-agency\|South African Heritage Resources Agency]] nationally; Heritage Western Cape in the province; municipalities for some local matters |
 | In force since | 1 April 2000 |
 | Official text | [LawLibrary](https://lawlibrary.org.za/akn/za/act/1999/25) |
 

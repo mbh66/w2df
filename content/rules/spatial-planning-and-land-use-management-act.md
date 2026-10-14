@@ -49,7 +49,7 @@ The Spatial Planning and Land Use Management Act, known as SPLUMA, is the nation
 | Full name | Spatial Planning and Land Use Management Act, 2013 |
 | Citation | Act 16 of 2013 |
 | Made by | Parliament |
-| Administered by | Municipalities decide land use applications; the national Department of Agriculture, Land Reform and Rural Development is responsible for the Act |
+| Administered by | Municipalities decide land use applications; the [[organisations/department-of-land-reform-and-rural-development\|national Department of Agriculture, Land Reform and Rural Development]] is responsible for the Act |
 | In force since | 1 July 2015 (passed and published on 5 August 2013) |
 | Official text | [LawLibrary](https://lawlibrary.org.za/akn/za/act/2013/16) |
 

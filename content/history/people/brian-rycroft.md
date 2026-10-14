@@ -25,7 +25,7 @@ Brian Rycroft was a South African botanist who led the National Botanic Gardens 
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by at least two sources that do not depend on each other, or by an official record.
-> - **[MS] Mission-Sourced.** Comes from one organisation's own account. For Rycroft, some details come from the published history of the South African National Biodiversity Institute (SANBI), which runs Kirstenbosch.
+> - **[MS] Mission-Sourced.** Comes from one organisation's own account. For Rycroft, some details come from the published history of the [[organisations/south-african-national-biodiversity-institute|South African National Biodiversity Institute]] (SANBI), which runs Kirstenbosch.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 > [!note] Right of reply

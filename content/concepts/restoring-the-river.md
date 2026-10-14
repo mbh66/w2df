@@ -23,7 +23,7 @@ links:
   - https://wiki.bioconomy.earth/research/bioprecipitation
 ---
 
-> **This idea is not yet agreed.** It is part of the thinking behind the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]. None of the organisations named on this page have been asked about it yet. They include the Zonderend Water Users Association, Wild Restoration, the Greyton Conservation Society, the Transformasie Komitee, CapeNature, and The Nature Conservancy. **Please do not share this page publicly yet.** The idea will be tabled with the Learning Campus at the Forum's November 2026 meeting.
+> **This idea is not yet agreed.** It is part of the thinking behind the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]. None of the organisations named on this page have been asked about it yet. They include the Zonderend Water Users Association, Wild Restoration, the Greyton Conservation Society, the Transformasie Komitee, [[organisations/capenature|CapeNature]], and [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy]]. **Please do not share this page publicly yet.** The idea will be tabled with the Learning Campus at the Forum's November 2026 meeting.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -42,9 +42,9 @@ links:
 
 **Invasive trees and water.** Pines, wattles, and other invasive trees use far more water than fynbos. Clearing them puts water back into the streams that fill the dams [IC]. A 2019 study estimated that invasive plants already cut the water available from the Western Cape Water Supply System by about 38 million cubic metres a year. It found the loss would grow to about 130 million cubic metres a year within 45 years if nothing is done [TBV].
 
-**What cities pay for.** After Cape Town's drought of 2018, The Nature Conservancy set up the Greater Cape Town Water Fund to clear invasive plants in the catchments that fill the city's dams [MS]. The Nature Conservancy says this gives water at about one tenth of the cost of desalination or new groundwater [MS]. In April 2026 FirstRand Bank listed a R2.5 billion bond on the Johannesburg Stock Exchange that pays for this clearing [IC]. Part of what investors earn depends on results that are checked independently [IC]. One of its investors says the work will create about 1,500 jobs [MS]. The people putting this idea forward expect cities to pay for more such work as the climate changes [MS].
+**What cities pay for.** After Cape Town's drought of 2018, The Nature Conservancy set up the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]] to clear invasive plants in the catchments that fill the city's dams [MS]. The Nature Conservancy says this gives water at about one tenth of the cost of desalination or new groundwater [MS]. In April 2026 [[organisations/firstrand-bank|FirstRand Bank]] listed a R2.5 billion bond on the Johannesburg Stock Exchange that pays for this clearing [IC]. Part of what investors earn depends on results that are checked independently [IC]. One of its investors says the work will create about 1,500 jobs [MS]. The people putting this idea forward expect cities to pay for more such work as the climate changes [MS].
 
-**The valley's link to the system.** The valley lies below Theewaterskloof Dam [IC]. Farmers along the Riviersonderend are entitled to water released from the dam, and so is the Overberg Water Board, which supplies Caledon and other towns [IC]. In the 2018 drought those farmers received only 60% of their allocation [IC]. The national map of strategic water source areas includes the Riviersonderend in the Boland area, which supplies 97.1% of Cape Town's water [MS]. Whether the valley's own mountain slopes fall inside that area has not been checked [TBV].
+**The valley's link to the system.** The valley lies below Theewaterskloof Dam [IC]. Farmers along the Riviersonderend are entitled to water released from the dam, and so is the [[organisations/overberg-water-board|Overberg Water Board]], which supplies Caledon and other towns [IC]. In the 2018 drought those farmers received only 60% of their allocation [IC]. The national map of strategic water source areas includes the Riviersonderend in the Boland area, which supplies 97.1% of Cape Town's water [MS]. Whether the valley's own mountain slopes fall inside that area has not been checked [TBV].
 
 **Work already under way.** The [[zonderend-water-users-association|Zonderend Water Users Association]] has cleared invasive trees along the river since 2017 and runs an indigenous plant nursery in Genadendal with a team of 14 workers [MS]. [[wild-restoration|Wild Restoration]] clears invasive pines in the Riviersonderend mountains and at the Greyton Sandpit with a local team [MS]. The [[greyton-conservation-society|Greyton Conservation Society]] runs clearing days with volunteers [MS].
 
@@ -90,7 +90,7 @@ Steps 2 to 5 are the new part. The campus would ask the Quality Council for Trad
 - **How much water restoration gives below the dam.** The valley would measure its own river and publish the results.
 - **Four ways to hold water in the land.** Clearing invasive plants, restoring the soil so it soaks up rain like a sponge, farming that uses less water, and storing water in farm dams and wetlands. The BioConomy work groups these under the name Water Retention Landscapes [MS].
 - **Who holds the water.** Water in the valley is shared by custom (like Greyton's [[history/leiwater|leiwater]] turns), governed by law, sold at a price, and made by caring for the land. The BioConomy work argues that water held in all four ways lasts better than water held in one [MS].
-- **Turning water rights into rights to regenerate flow.** How the valley could do this within South African water law, with Kwaxala, which has done the same with logging rights in Canada. See [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]].
+- **Turning water rights into rights to regenerate flow.** How the valley could do this within South African water law, with [[organisations/kwaxala|Kwaxala]], which has done the same with logging rights in Canada. See [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]].
 - **Rain and vegetation.** People often say that healthy vegetation brings more rain. The BioConomy wiki's review of the research finds support for this in some other parts of the world [MS]. For the Cape, where winter rain comes from ocean storms, it found no published study that shows it [MS]. The centre could study the question, and the valley would make no promise to buyers based on it.
 
 ## Who would benefit
@@ -135,7 +135,7 @@ It serves three of the Forum's [[priorities/index|priorities]]: [[priorities/edu
 - **The qualifications.** Whether any SETA or QCTO qualification already covers measuring and proving results. Which SETA would host a new skills programme. What replaces the Environmental Practice certificate after 2027.
 - **The people already doing the work.** What the Zonderend Water Users Association, Wild Restoration, and the Greyton Conservation Society think of the idea, and whether they would host learners. None has been asked.
 - **Farm 39.** The Transformasie Komitee's view on restoration work and stewardship agreements on Farm 39 land. The Komitee has not been asked.
-- **Other partners.** Whether CapeNature, The Nature Conservancy, or the bond's verifier, Conservation Alpha, would work with the valley. None has been asked.
+- **Other partners.** Whether CapeNature, The Nature Conservancy, or the bond's verifier, [[organisations/conservation-alpha|Conservation Alpha]], would work with the valley. None has been asked.
 - **Money.** What the course would cost, and who would teach it.
 
 ## What happens next
@@ -155,6 +155,9 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the Novem
 - [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]]
 - [[zonderend-water-users-association|Zonderend Water Users Association]]
 - [[wild-restoration|Wild Restoration]]
+- [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]]
+- [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy South Africa]]
+- [[organisations/index|Organisations Outside the Valley]]
 - [[greyton-conservation-society|Greyton Conservation Society]]
 - [[history/leiwater|Greyton's Leiwater]]
 - [[priorities/conservation-environment|Conservation and Environment]]

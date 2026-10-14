@@ -75,7 +75,7 @@ In 1909 the Mission Stations and Communal Reserves Act placed mission land under
 
 ## Restoring Church Square
 
-In 1980 the church's buildings on Church Square were declared national monuments [MS]. In 1986 the church started the Mission Trust Fund to restore them, and in 1987 the Mission Museum opened in the college building of 1838 [MS]. In 2000 the South African Heritage Resources Agency changed the status of the monuments and the museum collection from national to provincial [MS]. Around 2001 the Dutch government gave R11 million towards restoration [MS]. The church's printing works closed in 2003, and its building became the Printing History Museum [MS].
+In 1980 the church's buildings on Church Square were declared national monuments [MS]. In 1986 the church started the Mission Trust Fund to restore them, and in 1987 the Mission Museum opened in the college building of 1838 [MS]. In 2000 the [[organisations/south-african-heritage-resources-agency|South African Heritage Resources Agency]] changed the status of the monuments and the museum collection from national to provincial [MS]. Around 2001 the Dutch government gave R11 million towards restoration [MS]. The church's printing works closed in 2003, and its building became the Printing History Museum [MS].
 
 ## One church again
 

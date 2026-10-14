@@ -53,7 +53,7 @@ The Communal Property Associations Act lets a group of people own and manage lan
 | Full name | Communal Property Associations Act, 1996 |
 | Citation | Act 28 of 1996, amended by the Communal Property Associations Amendment Act 20 of 2018 (gazetted 8 October 2024) |
 | Made by | Parliament |
-| Administered by | The national Minister responsible for land reform, through the Department of Agriculture, Land Reform and Rural Development |
+| Administered by | The national Minister responsible for land reform, through the [[organisations/department-of-land-reform-and-rural-development\|Department of Agriculture, Land Reform and Rural Development]] |
 | In force since | 1996 |
 | Official text | [SAFLII (consolidated)](https://www.saflii.org/za/legis/consol_act/cpaa1996362/); [Amendment Act on LawLibrary](https://lawlibrary.org.za/akn/za/act/2018/20/eng@2024-10-08) |
 

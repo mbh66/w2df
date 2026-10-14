@@ -83,8 +83,8 @@ The Interim Protection of Informal Land Rights Act, known as IPILRA, protects pe
 
 ## Who to ask
 
-- The national Department of Agriculture, Land Reform and Rural Development, through its Western Cape provincial office.
-- Legal aid organisations that work on land rights, such as the Legal Resources Centre, which advised on the Farm 39 process in 2009 [IC].
+- The [[organisations/department-of-land-reform-and-rural-development|national Department of Agriculture, Land Reform and Rural Development]], through its Western Cape provincial office.
+- Legal aid organisations that work on land rights, such as the [[organisations/legal-resources-centre|Legal Resources Centre]], which advised on the Farm 39 process in 2009 [IC].
 
 ## What is still open
 

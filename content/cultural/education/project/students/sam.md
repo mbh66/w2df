@@ -19,13 +19,12 @@ You are the keeper of the Pool Board and the list of open questions. The other f
 
 ## What you need to know
 
-You already know Commitment Pooling from class. Here it is again, applied to our project.
+You already know [Commitment Pooling](https://wiki.bioconomy.earth/concepts/commitment-pooling) from class. Here it is again, applied to our project.
 
-In a commitment pool, people and organisations make promises to each other and hold those promises together. The BioConomy wiki describes two sizes of pool.
+In a commitment pool, people and organisations make promises to each other and hold those promises together. There are two sizes of pools:
 
-**Community size.** Neighbours promise each other time, work and goods. Anyone can draw on the pool by taking part. The wiki gives these examples: Mweria on the Kenyan coast, and Letsema and Ilima in southern Africa. It reads them as T-form, the Tribes form of TIME. You will stamp this **Their own word**, because it is the wiki's own reading.
-
-**Bioregional size.** Many parties pool promises such as clearing, restoring and monitoring into one service that an outside buyer can pay for. The Greater Cape Town Water Fund and the bond work at this size. You will stamp this **Their own word**.
+1. **Community size.** Neighbours promise each other time, work and goods. Anyone can draw on the pool by taking part. The wiki gives these examples: Mweria on the Kenyan coast, and Letsema and Ilima in southern Africa. It reads them as T-form, the Tribes form of TIME. You will stamp this **Their own word**, because it is the wiki's own reading.
+2. **Bioregional size.** Many parties pool promises such as clearing, restoring and monitoring into one service that an outside buyer can pay for. The [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]] and the bond work at this size. You will stamp this **Their own word**.
 
 ### The idea for our valley
 
@@ -48,7 +47,7 @@ These are the questions nobody has answered yet. Your list will grow.
 2. How much water would restoration add, and where and when would it arrive?
 3. Which law could allow it?
 4. What do the Transformasie Komitee and the Moravian Church say about Farm 39 and Langgezocht?
-5. Would the bond's organisers, the City of Cape Town or WWF be interested?
+5. Would the bond's organisers, the [[organisations/city-of-cape-town|City of Cape Town]] or [[organisations/wwf-south-africa|WWF]] be interested?
 
 All five are **Not yet checked**.
 
@@ -61,19 +60,19 @@ All five are **Not yet checked**.
 
 ## Who you will study
 
-All the parties in the project. You will work closely with the other five children.
+All the parties in the project. You will work closely with the other students and use what they discover to build your part of the project.
 
 ## The three stamps
 
-- **Checked twice:** two separate sources agree, or an official record says so.
-- **Their own word:** it comes from the person or group the fact is about.
-- **Not yet checked:** it seems likely, but nobody has confirmed it.
+- [IC] **Checked twice:** two separate sources agree, or an official record says so.
+- [MS] **Their own word:** it comes from the person or group the fact is about.
+- [TBV] **Not yet checked:** it seems likely, but nobody has confirmed it.
 
 ## Week 1 homework
 
 This should take about two hours.
 
-**1. Read this page twice (15 minutes).** Underline every word you do not know.
+**1. Read this page twice (15 minutes).** Write down every word you don't know.
 
 **2. Draw an empty Pool Board (30 minutes).** Use a large sheet of paper. Draw a table with these six columns:
 

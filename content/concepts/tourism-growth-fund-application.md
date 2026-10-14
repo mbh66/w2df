@@ -77,7 +77,7 @@ The application was being prepared for submission by the end of September 2026 [
 ## What is still open
 
 - The Transformasie Komitee's view. The project works with heritage in the mission settlements, so the Komitee's input comes first.
-- Approval by Heritage Western Cape for panels inside the Genadendal heritage precinct, and by the municipality for signs on municipal land [MS].
+- Approval by [[organisations/heritage-western-cape|Heritage Western Cape]] for panels inside the Genadendal heritage precinct, and by the municipality for signs on municipal land [MS].
 - Confirmation from the co-funders.
 
 ## Have your say

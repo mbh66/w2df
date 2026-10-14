@@ -121,7 +121,7 @@ It also serves three of the Forum's [[priorities/index|priorities]]: [[prioritie
 
 ## Learning from Bonnievale
 
-In Bonnievale, community leaders began planning a new public high school in 2016, because the town had too few high school places and many learners left school or the town after Grade 7 [IC]. The school, Jakes Gerwel Technical School, teaches academic subjects and practical skills on one campus [IC]. The year it opened has not been confirmed [TBV]. It charges no school fees, and the non-profit organisation that helps run it holds half the seats on its governing body [TBV]. The Western Cape Education Department helped pay for the buildings, and the town raised the rest together [TBV]. People from Bonnievale have visited Emil Weder Secondary to share their experience [MS].
+In Bonnievale, community leaders began planning a new public high school in 2016, because the town had too few high school places and many learners left school or the town after Grade 7 [IC]. The school, Jakes Gerwel Technical School, teaches academic subjects and practical skills on one campus [IC]. The year it opened has not been confirmed [TBV]. It charges no school fees, and the non-profit organisation that helps run it holds half the seats on its governing body [TBV]. The [[organisations/western-cape-education-department|Western Cape Education Department]] helped pay for the buildings, and the town raised the rest together [TBV]. People from Bonnievale have visited Emil Weder Secondary to share their experience [MS].
 
 ## What is not known/decided
 

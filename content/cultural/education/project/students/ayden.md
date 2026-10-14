@@ -21,14 +21,14 @@ How does anyone prove that clean water has really been delivered, so that invest
 
 A bond is a loan. A bank or a government borrows money from many investors and promises to pay it back with extra.
 
-The Cape Water Performance-Based Bond was listed on the Johannesburg Stock Exchange on 17 April 2026. It is worth R2.5 billion and was issued by FirstRand Bank. Part of what it pays investors depends on checked results from clearing invasive plants in Cape Town's mountain catchments. You will stamp these facts **Checked twice**.
+The Cape Water Performance-Based Bond was listed on the Johannesburg Stock Exchange on 17 April 2026. It is worth R2.5 billion and was issued by [[organisations/firstrand-bank|FirstRand Bank]]. Part of what it pays investors depends on checked results from clearing invasive plants in Cape Town's mountain catchments. You will stamp these facts **Checked twice**.
 
 ### Two important words
 
 - **Performance-based** means the payment depends on what is measured. If the result is good, investors earn more. If the result is missed, they earn less.
 - **Verified** means someone independent checked the measurement. Independent means they have nothing to gain from the answer.
 
-The BioConomy wiki says a company called Conservation Alpha checks the results for this bond. You will stamp this **Their own word**, because we have only one source. Please check it again before we present.
+The BioConomy wiki says a company called [[organisations/conservation-alpha|Conservation Alpha]] checks the results for this bond. You will stamp this **Their own word**, because we have only one source. Please check it again before we present.
 
 ### Four tests of a bankable service
 
@@ -52,19 +52,19 @@ The bond pays for work in Cape Town's catchments. Nobody has asked the bond's or
 
 ## Who you will study
 
-All outside the Register: Conservation Alpha, FirstRand Bank, Rand Merchant Bank, the Nature Conservancy South Africa, the Greater Cape Town Water Fund and the City of Cape Town.
+All of these organisations are outside our valley: [[organisations/conservation-alpha|Conservation Alpha]], [[firstrand-bank|FirstRand Bank]], [[organisations/rand-merchant-bank|Rand Merchant Bank]], [[organisations/the-nature-conservancy-south-africa|the Nature Conservancy South Africa]], the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]], and the [[organisations/city-of-cape-town|City of Cape Town]].
 
 ## The three stamps
 
-- **Checked twice:** two separate sources agree, or an official record says so.
-- **Their own word:** it comes from the person or group the fact is about.
-- **Not yet checked:** it seems likely, but nobody has confirmed it.
+- [IC] **Checked twice:** two separate sources agree, or an official record says so.
+- [MS] **Their own word:** it comes from the person or group the fact is about.
+- [TBV] **Not yet checked:** it seems likely, but nobody has confirmed it.
 
 ## Week 1 homework
 
 This should take about two hours.
 
-**1. Read this page twice (15 minutes).** Underline every word you do not know.
+**1. Read this page twice (15 minutes).** Write down every word you don't know.
 
 **2. Make an everyday example (30 minutes).** Think of a time when a person is paid only if the result is proven. A teacher marking a test might be one. A gardener paid for a tidy garden might be another. Write a short story of one example. Say what is measured, who checks it, and who pays. Then match your story to the four tests.
 
@@ -78,11 +78,11 @@ This should take about two hours.
 | What would move it up one level | |
 
 - Write at least eight facts from this page.
-- Write two more of your own. Ask a grown-up to help you find them.
+- Write two more of your own. Ask a parent to help you find them if necessary.
 
 **4. Write five questions you want answered (15 minutes).** At least two should be about how water could be measured in a stream.
 
-**5. Tell it to a grown-up (10 minutes).** Explain "performance-based" and "verified" in your own words. Write down one thing that confused them.
+**5. Tell it to a parent (10 minutes).** Explain "performance-based" and "verified" in your own words. Write down one thing that confused them.
 
 ## Bring to Week 2
 

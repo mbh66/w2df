@@ -77,7 +77,7 @@ So Boschmanskloof's services are tied to its neighbours in Greyton [IC], while i
 
 ## Madiba Park: on Farm 39, without full services
 
-Madiba Park borders Heuwelkroon [MS]. It stands on Farm 39 land [IC], and the national Department of Agriculture, Land Reform and Rural Development is the custodian of that land [IC]. People have lived there for more than ten years [TBV]. In 2024 the municipality counted more than 175 structures, and residents said there were more than 220 homes [MS].
+Madiba Park borders Heuwelkroon [MS]. It stands on Farm 39 land [IC], and the [[organisations/department-of-land-reform-and-rural-development|national Department of Agriculture, Land Reform and Rural Development]] is the custodian of that land [IC]. People have lived there for more than ten years [TBV]. In 2024 the municipality counted more than 175 structures, and residents said there were more than 220 homes [MS].
 
 In 2024 the municipality told GroundUp that it could not provide full services because "the settlement is not on municipal land" [MS]. GroundUp reported five toilets and some water tanks on the edge of the settlement, kept by the municipality under an agreement with the Komitee, and found one toilet working [TBV]. The full record is on [[civic/residents-association/madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]].
 

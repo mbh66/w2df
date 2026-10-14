@@ -39,7 +39,7 @@ Wild Restoration is a non-profit based in Greyton [MS]. It clears invasive alien
 
 Its work in and around the valley [MS]:
 
-- **The Riviersonderend mountains.** The range covers more than 28,000 hectares, including the Greyton and Riviersonderend nature reserves. It is an important water catchment and a habitat for leopard. Pines have invaded the higher slopes. The current focus is the high-altitude wetlands of the Greyton Nature Reserve and nearby CapeNature land. Crews reach these areas on foot, by 4x4, and by helicopter.
+- **The Riviersonderend mountains.** The range covers more than 28,000 hectares, including the Greyton and Riviersonderend nature reserves. It is an important water catchment and a habitat for leopard. Pines have invaded the higher slopes. The current focus is the high-altitude wetlands of the Greyton Nature Reserve and nearby [[organisations/capenature|CapeNature]] land. Crews reach these areas on foot, by 4x4, and by helicopter.
 - **The Greyton Sandpit.** A 230-hectare site near Greyton that links the mountains to the Riviersonderend River. Local people use it for grazing, woodcutting, and harvesting, and for cycling, running, and swimming. Wild Restoration has been clearing it since 2023 with an experienced local team, working with the Greyton Conservation Society, and clears along the river with the Zonderend Water Users Association.
 - **Private land.** Helping landowners between the Riviersonderend mountains and the Kleinriviersberg to plan and oversee clearing, firebreaks, and fire management, and to assess and protect biodiversity on their land.
 
