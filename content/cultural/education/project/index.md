@@ -41,6 +41,6 @@ Full detail is covered in [[the-valley-through-time]]
 
 ## Briefing Documents
 
-- [[parents-guide|Parent's Guide]]
-- [[teachers-guide|Teacher's Guide]]
+- [[parents|Parent's Guide]]
+- [[teachers|Teacher's Guide]]
 - [[w2df/cultural/education/project/students/index|Students' Instructions]]

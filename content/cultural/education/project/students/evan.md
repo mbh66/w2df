@@ -5,7 +5,11 @@ aliases:
   - evan
 ---
 
-This is your own page for the Water for the Valley project. New homework is added below the old homework each week. Right now it is Week 1.
+This is your own page for the Water for the Valley project. New homework is added above the old homework each week. Right now we're at Week 1.
+
+You may use AI for your project or use the search bar in the top left-hand corner of every page. Copy and paste this link into every AI chat: https://df.valleyofgrace.co.za/cultural/education/project/llms.txt. 
+
+If you want to see what the whole project will become, see [[index|Water for the Valley: Your Term 4 Project]]
 
 You and Ayden share the theme The Bond. You each have your own page and your own focus. Evan, you follow the money. Ayden follows the checking. In Week 2 you will put your work together.
 

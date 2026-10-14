@@ -71,7 +71,7 @@ Nothing is required. If you would like to help:
 - Ask your child to explain their theme and their favourite fact, and what stamp it has.
 - Ask what the class still needs to find out.
 - If you work in a field the children are studying (water, farming, banking, conservation, the law, or teaching) and would be willing to be interviewed or to sit on the panel, tell Michael or Cheryl.
-- If you're comfortable using AI, point your favourite agent to a machine readable format of the wiki, from which the children will be getting all their answers: https://df.valleyofgrace.co.za/llms.txt. The children may also use AI to engage with the wiki, and they have been shown how. Ask clarifying questions or help your child use AI to get answers here. You can also use the search bar in the top left hand corner.
+- If you're comfortable using AI, point your favourite agent to a machine-readable format of the wiki, from which the children will be getting all their answers: https://df.valleyofgrace.co.za/cultural/education/project/llms.txt. The children may also use AI to engage with the wiki, and they have been shown how. Ask clarifying questions or help your child use AI to get answers here. You can also use the search bar in the top left-hand corner of every page.
 - Come to the presentation, once the school confirms the date.
 
 ## Questions
