@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Literata
+      body: Atkinson Hyperlegible Next
+      code: Atkinson Hyperlegible Mono
     colors:
       lightMode:
-        light: "#f4efe6"
-        lightgray: "#e5e0d5"
-        gray: "#b8b3a8"
-        darkgray: "#3d3d3a"
-        dark: "#1a1a17"
-        secondary: "#4f6142"
-        tertiary: "#6e4e2e"
-        highlight: rgba(79, 97, 66, 0.15)
-        textHighlight: "#c2a67688"
+        light: "#f9f6f2"
+        lightgray: "#e9e6df"
+        gray: "#726e66"
+        darkgray: "#3b3831"
+        dark: "#1d1a14"
+        secondary: "#3c6038"
+        tertiary: "#884627"
+        highlight: rgba(60, 96, 56, 0.12)
+        textHighlight: "#deb86673"
       darkMode:
-        light: "#1a1a17"
-        lightgray: "#2d3640"
-        gray: "#646460"
-        darkgray: "#d2d1c5"
-        dark: "#f4efe6"
-        secondary: "#7a9a6d"
-        tertiary: "#c2a676"
-        highlight: rgba(79, 97, 66, 0.15)
-        textHighlight: "#c2a67688"
+        light: "#191713"
+        lightgray: "#2c2a25"
+        gray: "#8f8c84"
+        darkgray: "#d7d4cd"
+        dark: "#f3f0ea"
+        secondary: "#9ec399"
+        tertiary: "#efac8d"
+        highlight: rgba(158, 195, 153, 0.16)
+        textHighlight: "#a67f3866"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -229,8 +229,12 @@ plugins:
       position: afterBody
       priority: 10
   - source: "@quartz-community/footer"
+    enabled: false
+  - source: "./plugins/custom-footer"
     enabled: true
     options:
+      copyrightHolder: null
+      licence: null
       links:
         Valley of Grace: https://valleyofgrace.co.za
         Learning Campus: https://hs.valleyofgrace.co.za
@@ -240,6 +244,14 @@ plugins:
     layout:
       position: footer
       priority: 50
+  - source: "./plugins/gtranslate"
+    enabled: true
+    options:
+      defaultLanguage: "en"
+      detectBrowserLanguage: true
+    layout:
+      position: afterBody
+      priority: 60
   - source: "@quartz-community/recent-notes"
     enabled: false
   - source: "@quartz-community/spacer"
@@ -271,18 +283,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
-    options:
-      enableInteraction: true
-      darkMode: auto
-      exportPadding: 20
-    order: 50
-  - source: github:quartz-community/alias-redirects
-    enabled: true
-    options:
-      enableCaseRedirects: true
-    order: 50
 layout:
   groups:
     toolbar:

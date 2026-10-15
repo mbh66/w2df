@@ -1,18 +1,7 @@
 @use "./variables.scss" as *;
+@use "./network";
 
-// put your custom CSS here!
-
-// Info and todo callouts, matched to the site palette
-.callout[data-callout="info"],
-.callout[data-callout="todo"] {
-  --color: #7d5f28;
-  --border: #7d5f2855;
-  --bg: #7d5f281a;
-}
-
-:root[saved-theme="dark"] .callout[data-callout="info"],
-:root[saved-theme="dark"] .callout[data-callout="todo"] {
-  --color: #c2a676;
-  --border: #c2a67655;
-  --bg: #c2a6761a;
-}
+// The shared look (fonts, palette, callouts) lives in network.scss, copied from
+// quartz-hub/styles/network.scss by tools/network-sync.py. Edit it there, not here.
+//
+// Anything below this line applies to this site only. Keep it short.
