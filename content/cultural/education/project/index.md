@@ -43,4 +43,4 @@ Full detail is covered in [[the-valley-through-time]]
 
 - [[parents|Parent's Guide]]
 - [[teachers|Teacher's Guide]]
-- [[students/index|Students' Instructions]]
+- [[cultural/education/project/students/index|Students' Instructions]]
