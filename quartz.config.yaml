@@ -278,11 +278,6 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-  - source: github:quartz-community/alias-redirects
-    enabled: true
-    options:
-      enableCaseRedirects: true
-    order: 50
 layout:
   groups:
     toolbar:
