@@ -1,0 +1,89 @@
+/* network.scss: the shared look of every Quartz site in the network.
+ *
+ * Source of truth: quartz-hub/styles/network.scss. Do not edit the copies in the sites;
+ * edit this file and run tools/network-sync.py. The sync also copies it into the vault
+ * as an Obsidian CSS snippet, so it must stay plain CSS (no Sass, no // comments).
+ *
+ * Typefaces: Field (Literata, Atkinson Hyperlegible Next, Atkinson Hyperlegible Mono),
+ * loaded through theme.typography in quartz.config.yaml.
+ * Palette: Fynbos. Callouts: eight earth families.
+ */
+
+/* ---- Page palette. Same values as theme.colors in quartz.config.yaml (styles/theme.yaml). ---- */
+:root:root:root {
+  --light: #f9f6f2;
+  --lightgray: #e9e6df;
+  --gray: #726e66;
+  --darkgray: #3b3831;
+  --dark: #1d1a14;
+  --secondary: #3c6038;
+  --tertiary: #884627;
+  --highlight: rgba(60, 96, 56, 0.12);
+  --textHighlight: #deb86673;
+}
+:root:root:root[saved-theme="dark"] {
+  --light: #191713;
+  --lightgray: #2c2a25;
+  --gray: #8f8c84;
+  --darkgray: #d7d4cd;
+  --dark: #f3f0ea;
+  --secondary: #9ec399;
+  --tertiary: #efac8d;
+  --highlight: rgba(158, 195, 153, 0.16);
+  --textHighlight: #a67f3866;
+}
+
+/* ---- Callouts ----
+ * --callout-color is Obsidian's variable (an "r, g, b" triple). Quartz reads --color, --border
+ * and --bg, which are derived from it here, so one value per type serves both.
+ * Families: river (note, info, todo), lichen (abstract, tip), fynbos (success), ochre (question),
+ * clay (warning), laterite (failure, danger, bug), erica (example), stone (quote).
+ * Aliases such as [!summary] or [!important] resolve to their main type in both Obsidian and Quartz.
+ */
+:root:root:root .callout[data-callout] {
+  --color: rgb(var(--callout-color));
+  --border: rgba(var(--callout-color), 0.267);
+  --bg: rgba(var(--callout-color), 0.063);
+}
+
+:root:root:root .callout[data-callout="note"]     { --callout-color: 51, 96, 126; } /* river */
+:root:root:root .callout[data-callout="abstract"] { --callout-color: 37, 102, 102; } /* lichen */
+:root:root:root .callout[data-callout="info"]     { --callout-color: 51, 96, 126; } /* river */
+:root:root:root .callout[data-callout="todo"]     { --callout-color: 51, 96, 126; } /* river */
+:root:root:root .callout[data-callout="tip"]      { --callout-color: 37, 102, 102; } /* lichen */
+:root:root:root .callout[data-callout="success"]  { --callout-color: 64, 102, 55; } /* fynbos */
+:root:root:root .callout[data-callout="question"] { --callout-color: 115, 86, 3; } /* ochre */
+:root:root:root .callout[data-callout="warning"]  { --callout-color: 136, 71, 13; } /* clay */
+:root:root:root .callout[data-callout="failure"]  { --callout-color: 146, 59, 48; } /* laterite */
+:root:root:root .callout[data-callout="danger"]   { --callout-color: 134, 39, 33; } /* laterite-deep */
+:root:root:root .callout[data-callout="bug"]      { --callout-color: 146, 59, 48; } /* laterite */
+:root:root:root .callout[data-callout="example"]  { --callout-color: 116, 74, 112; } /* erica */
+:root:root:root .callout[data-callout="quote"]    { --callout-color: 94, 90, 83; } /* stone */
+
+/* Dark mode: Quartz marks it with saved-theme on <html>, Obsidian with .theme-dark on <body>. */
+:root:root:root[saved-theme="dark"] .callout[data-callout="note"],
+.theme-dark.theme-dark.theme-dark .callout[data-callout="note"] { --callout-color: 139, 187, 221; }
+:root:root:root[saved-theme="dark"] .callout[data-callout="abstract"],
+.theme-dark.theme-dark.theme-dark .callout[data-callout="abstract"] { --callout-color: 130, 194, 193; }
+:root:root:root[saved-theme="dark"] .callout[data-callout="info"],
+.theme-dark.theme-dark.theme-dark .callout[data-callout="info"] { --callout-color: 139, 187, 221; }
+:root:root:root[saved-theme="dark"] .callout[data-callout="todo"],
+.theme-dark.theme-dark.theme-dark .callout[data-callout="todo"] { --callout-color: 139, 187, 221; }
+:root:root:root[saved-theme="dark"] .callout[data-callout="tip"],
+.theme-dark.theme-dark.theme-dark .callout[data-callout="tip"] { --callout-color: 130, 194, 193; }
+:root:root:root[saved-theme="dark"] .callout[data-callout="success"],
+.theme-dark.theme-dark.theme-dark .callout[data-callout="success"] { --callout-color: 152, 194, 142; }
+:root:root:root[saved-theme="dark"] .callout[data-callout="question"],
+.theme-dark.theme-dark.theme-dark .callout[data-callout="question"] { --callout-color: 208, 176, 107; }
+:root:root:root[saved-theme="dark"] .callout[data-callout="warning"],
+.theme-dark.theme-dark.theme-dark .callout[data-callout="warning"] { --callout-color: 235, 161, 110; }
+:root:root:root[saved-theme="dark"] .callout[data-callout="failure"],
+.theme-dark.theme-dark.theme-dark .callout[data-callout="failure"] { --callout-color: 247, 150, 134; }
+:root:root:root[saved-theme="dark"] .callout[data-callout="danger"],
+.theme-dark.theme-dark.theme-dark .callout[data-callout="danger"] { --callout-color: 242, 137, 124; }
+:root:root:root[saved-theme="dark"] .callout[data-callout="bug"],
+.theme-dark.theme-dark.theme-dark .callout[data-callout="bug"] { --callout-color: 247, 150, 134; }
+:root:root:root[saved-theme="dark"] .callout[data-callout="example"],
+.theme-dark.theme-dark.theme-dark .callout[data-callout="example"] { --callout-color: 210, 162, 205; }
+:root:root:root[saved-theme="dark"] .callout[data-callout="quote"],
+.theme-dark.theme-dark.theme-dark .callout[data-callout="quote"] { --callout-color: 184, 180, 172; }

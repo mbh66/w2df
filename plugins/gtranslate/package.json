@@ -1,0 +1,42 @@
+{
+  "name": "gtranslate",
+  "version": "1.0.0",
+  "description": "GTranslate widget for Quartz",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "import": "./dist/components/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "gtranslate",
+    "displayName": "GTranslate",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 55,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "defaultLanguage": "en",
+      "detectBrowserLanguage": true
+    },
+    "components": {
+      "GTranslate": {
+        "displayName": "GTranslate",
+        "defaultPosition": "afterBody",
+        "defaultPriority": 60
+      }
+    },
+    "optionSchema": {
+      "defaultLanguage": { "type": "string" },
+      "detectBrowserLanguage": { "type": "boolean" }
+    }
+  }
+}

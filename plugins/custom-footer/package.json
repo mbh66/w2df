@@ -1,0 +1,55 @@
+{
+  "name": "custom-footer",
+  "version": "1.1.0",
+  "description": "Shared footer for the Quartz network: copyright, licence and links",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "import": "./dist/components/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "custom-footer",
+    "displayName": "Custom Footer",
+    "category": "component",
+    "version": "1.1.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "copyrightHolder": "Michael Haupt & Associates",
+      "links": {}
+    },
+    "components": {
+      "Footer": {
+        "displayName": "Footer",
+        "defaultPosition": "footer",
+        "defaultPriority": 50
+      }
+    },
+    "optionSchema": {
+      "copyrightHolder": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "licence": {
+        "type": [
+          "object",
+          "null"
+        ]
+      },
+      "links": {
+        "type": "object"
+      }
+    }
+  }
+}
