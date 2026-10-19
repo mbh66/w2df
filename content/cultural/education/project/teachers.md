@@ -2,77 +2,177 @@
 title: For Teachers
 ---
 
+A six-week project for Silverwood Primary Class 6. Teacher's guide, version 2.
 
-A six-week project for Silverwood Primary Class 6. Teacher's guide, version 1.
+Prepared by Michael Haupt. Version 1 was dated 8 October 2026. This version is dated 19 October 2026 and matches the rewritten student pages. A backup of version 1 is in the workbench. Working document.
 
-Prepared by Michael Haupt, 8 October 2026. Working document. 
+**What changed in version 2.** Parents told us the first version asked for too much reading and began with abstract ideas. The project now follows the order **Do, Tell, Think**. Every week begins with something the children make or try with their hands. A story follows, and the sorting and judging come last. The fact cards are gone. Each child keeps one Field Book instead. The Friday Kinship day, when the children are outdoors all day, is now the ground of the project. The class's Europe lessons on rivers as trade routes and mountains as barriers are woven in.
 
 ## 1. The project at a glance
 
-|                                    |                                                                                                                                                                                                  |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Learners**                       | Approximately eight Class 6 students, Silverwood Primary, English-speaking                                                                                                                       |
-| **Time**                           | Six weeks, four hours a week: approximately two hours on their own, two with the guide (Michael Haupt)                                                                                           |
-| **Driving question**               | How could the valley be paid for the water its land holds, and what must each party promise before a proposal can go ahead?                                                                      |
-| **Final product**                  | One story, told by all students, to a panel the children choose and invite. The panel is simulated: real adults from the valley play the parts of the bond's issuers and partners.               |
-| **Four required pieces**           | 1. A TIME map of the parties. <br>2. An offers-and-needs pool for every party, built with Commitment Pooling. <br>3. One partner organisation chosen from the Valley Register. <br>4. The story. |
-| **What the students already know** | The TIME sequence and Commitment Pooling, taught over the past eight weeks. This project uses both and does not re-teach them.                                                                   |
-| **Themes**                         | Each child picks their favourite from the available themes. All of the themes must be covered before any theme is selected twice.                                                                |
+|                                    |                                                                                                                                                                                                                                                          |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Learners**                       | The Class 6 students at Silverwood Primary, English-speaking. Seven have chosen themes so far.                                                                                                                                                           |
+| **Dates**                          | 12 October to 20 November 2026. Six weeks.                                                                                                                                                                                                               |
+| **Time**                           | Four hours a week: approximately two hours on their own, two with the guide (Michael Haupt). Planning assumption: the guided two hours include some time with Josh during Kinship, the Friday when the children are outdoors all day.                    |
+| **Method**                         | Do, Tell, Think. A Field Book with one page a week. Three facts a week, each tied with a thread: blue, yellow or red.                                                                                                                                    |
+| **Driving question**               | How could the valley be paid for the water its land holds, and what must each party promise before a proposal can go ahead?                                                                                                                              |
+| **Final product**                  | One story, told, acted, sung and shown by all the students to a panel the children choose and invite. The panel is simulated: real adults from the valley play the parts of the bond's issuers and partners.                                             |
+| **Four required pieces**           | 1. A TIME map on the wall, laid out in four corners. <br>2. A Pool Board woven in wool, with an offers-and-needs card for every party, built with Commitment Pooling. <br>3. One partner organisation chosen from the Valley Register. <br>4. The story. |
+| **What the students already know** | The TIME sequence and Commitment Pooling, taught over the past eight weeks. This project uses both and does not re-teach them. In main lesson they are also studying Europe, with rivers as trade routes and mountains as barriers.                      |
+| **Themes**                         | Six themes. Each child picks a favourite. All six must be taken before any theme is taken twice.                                                                                                                                                         |
 
 The children are asked to find a way into the water bond and to say honestly what the blockages are. They are free to reach any conclusion for the project, provided there is an adequate explanation.
 
 ## 2. Overall context
 
-**1. The idea is not yet agreed in real life.** The Ward 2 Development Forum (Dev Forum) will be tabling this in November 2026 and none of the organisations involved have been approached yet. The organisations involved are the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the Zonderend Water Users Association, the [[organisations/city-of-cape-town|City of Cape Town]], the Transformasie Komitee and the Moravian Church. The students should be aware that this is underway, but they don't need to know all the intricacies. Section 4 gives a briefing they can use without it. Either way, the class letter (Appendix A) says that this is a school exercise about an idea that hasn't yet been formally tabled, and it asks organisations only for their time and their own account of whether the idea makes sense.
+**1. The idea is not yet agreed in real life.** The Ward 2 Development Forum (Dev Forum) will be tabling this in November 2026 and none of the organisations involved have been approached yet. The organisations involved are the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the Zonderend Water Users Association, the [[organisations/city-of-cape-town|City of Cape Town]], the Transformasie Komitee and the Moravian Church. The students should be aware that this is underway, but they don't need to know all the intricacies. Section 5 gives a briefing they can use without it. Either way, the class letter (Appendix A) says that this is a school exercise about an idea that hasn't yet been formally tabled, and it asks organisations only for their time and their own account of whether the idea makes sense.
 
-**2. Right of reply.** Whatever the children write about an organisation must be approved by that organisation before the presentation (Week 5). The Register pages for [[wild-restoration|Wild Restoration]] and the [[zonderend-water-users-association|Zonderend Water Users Association]] are still waiting for those organisations to approve them. The children treat Register text as a first draft of each organisation's account.
+**2. Right of reply.** Whatever the children write about an organisation must be approved by that organisation before the presentation. The text goes out in Week 4 so that organisations have time to answer, and the corrections come back into the story in Week 5. The Register pages for [[wild-restoration|Wild Restoration]] and the [[zonderend-water-users-association|Zonderend Water Users Association]] are still waiting for those organisations to approve them. The children treat Register text as a first draft of each organisation's account.
 
-**3. Adults in the contact chain.** Children draft every letter. An adult sends it, reads the replies first and sits in on every interview or visit. No child's phone number or home address goes into a letter. Where Silverwood's child-protection rules say more, follow them.
+**3. Adults in the contact chain.** Children draft every letter. An adult sends it, reads the replies first and sits in on every interview or visit. No child's phone number or home address goes into a letter. Where Silverwood's child-protection rules say more, follow them. Silverwood's outdoor rules apply at the river on Kinship days.
 
-**4. Honest claims.** Every fact the children state must include a stamp (section 3). The project covers what nobody knows yet (a future truth) and so this will not carry a stamp.
+**4. Honest claims.** Every fact the children use wears a thread (section 3). The things nobody knows yet are not facts. They sit on the wall as open questions and carry a red thread until somebody answers them.
 
-## 3. The three stamps
+## 3. How the project works
 
-The Dev Forum marks every recorded fact to show how the fact came to be written down. The children use the same stamps, with plain words on the project card.
+### Do, Tell, Think
 
-| Stamp | Words on the card | What it means                                                                           |
-| ----- | ----------------- | --------------------------------------------------------------------------------------- |
-| [IC]  | Checked twice     | Two independent sources, or an official record such as a law or a stock exchange notice |
-| [MS]  | Their own account | It comes from the organisation or person the fact is about                              |
-| [TBV] | Not yet checked   | It seems likely, but nobody has confirmed it                                            |
+Each week follows the same three steps.
 
-**Game for Week 1, "Fact or hope?"** Read ten statements about the valley's water. The children hold up a card for the stamp they would give and say what would move it up one level. Three to start with:
+- **Do.** The children use their hands first: walking, pouring, building, measuring, painting, planting and playing games with wool and beans. No reading is needed before the first task. The facts they need are on their own page.
+- **Tell.** On Tuesday you tell a story. On Wednesday they tell it again in class without notes, after sleeping on it. During the week each child tells their own story back to a grown-up in their own words.
+- **Think.** Only after doing and telling do the children sort what they found, give each fact a thread and make up their minds.
+
+### Kinship
+
+Kinship is the Friday session when the children are outdoors the whole day. It is the ground of the project. Where the plan says walk, build or play, do it at Kinship.
+
+- The Four Corners are marked on a field with cloth or sticks.
+- The Rope Web is played under a tree.
+- The Bean Bond is played beside the river or a stream.
+- The wall map of the dam and rivers is laid out on the grass in rope and cloth.
+- If the weather is bad, move to a covered space and keep the plan unchanged.
+
+### The Field Book
+
+Each child keeps one book for the whole project, in the style of their main lesson books. Each week they add:
+
+- one large drawing or painting of what they did, and
+- three facts written beside it, each tied with a thread.
+
+| Thread | Words | What it means |
+| ------ | ----- | ------------- |
+| Blue [IC] | Checked twice | Two independent sources, or an official record such as a law or a stock exchange notice |
+| Yellow [MS] | Their own word | It comes from the organisation or person the fact is about |
+| Red [TBV] | Not yet checked | It seems likely, but nobody has confirmed it |
+
+For every fact the children also ask: what would move it up one level? The Field Book becomes the source for the final story. It is also what the parents will ask to see.
+
+### The shape of a guided session (two hours)
+
+| Minutes | Step | What happens |
+| ------- | ---- | ------------ |
+| 10 | Arrive and move | A walk, a rhythm game or a stretch at the nearest stream |
+| 20 | Recall | Each child shows last week's Field Book page and tells its story in two minutes, without notes |
+| 20 | Tell | You tell the story for the day. Name which parts are firm and which are hopes, so the children learn to hear the difference |
+| 50 | Do | The day's game or making |
+| 20 | Think | Choose threads, update the wall, and each child names one thing found and one open question |
+
+### The wall and the room
+
+The wall carries three things all through the six weeks: the open questions, the Pool Board in wool, and a row of the children's Field Book pages. The poster carries the TIME map in four corners (section 4).
+
+## 4. The games
+
+### Fact or Hope
+
+Read a statement about the valley's water. On the count of three each child holds up a thread: blue, yellow or red. Ask one child why they chose it and what would move it up one level. Choose ten statements from section 5, where every fact carries its stamp. Three to start with:
 
 - The bond was listed on the Johannesburg Stock Exchange in April 2026. [IC]
 - Wild Restoration says more than 150 volunteers have joined its clearing days. [MS]
 - Restoring the valley's catchments would add water to the river. [TBV] No study has measured it.
 
-The rule for the whole project: nothing goes into the story without a stamp.
+The rule for the whole project: nothing goes into the story without a thread.
 
-## 4. Briefing for the guide
+### The Rope Web
+
+**Materials.** A ball of wool and one card per child.
+
+**Cards for the first round.** Wild Restoration, Zonderend Water Users Association, Greyton Conservation Society, City of Cape Town, Department of Water and Sanitation, FirstRand Bank, Greater Cape Town Water Fund, Conservation Alpha.
+
+**How it runs.**
+
+1. The children stand in a circle, each holding a card. One child holds the end of the wool and says "I promise ... to ..." about their card, then rolls the ball to the child they promise it to.
+2. That child holds the wool, says what their card needs and what it promises, and rolls it on.
+3. The web grows until everyone holds a strand.
+4. Sam, the Weaver, asks the four questions of two or three promises: does it belong in the pool, what is it worth to the others, can the party keep it without breaking another promise, who receives it and what do they give back.
+5. Everything said in the first round is a guess and wears a red thread. Real answers replace the guesses after the interviews.
+
+**Debrief.** One child lets go of their strand. What goes slack? Which needs did nobody meet? Write them on the wall as open questions.
+
+### The Four Corners
+
+**Materials.** Four signs or cloths for T, I, M and E. A card for every organisation in the project.
+
+**How it runs.**
+
+1. Mark the four corners of the field or room T (Tribes), I (Institutions), M (Markets) and E (Emergent).
+2. Each child carries a card to the corner where the organisation gets its way of deciding, and says one sentence of reason.
+3. The others may move the card. The mover gives a reason too.
+4. A card may stand in one corner with a loop of string on the ground reaching toward a second.
+5. Only organisations go on the map. Individual people and whole communities stay off it.
+
+**Debrief.** Which corner is crowded? Which is thin? Where would a toll station on a river go? Where would a river market go? Where would a family of traders who kept to themselves go? Use the answers the class brings from its Europe lessons.
+
+### The Bean Bond
+
+Evan is the bank and Ayden is the Checker. The rest of the class are investors. Every number is pretend.
+
+**Materials.** Dried beans, a bag for the bank, and a small job to be done (for example clearing weeds from a patch).
+
+**How it runs.**
+
+1. Each investor hands 10 beans to the bank.
+2. The bank gives 6 beans to a Restoration Team of two or three children and asks them to do the job.
+3. The bank promises each investor 11 beans back at the end. One of those is a bonus, paid only if the Checker confirms the job was done.
+4. The team does the job. Ayden inspects it and fills in his certificate of delivery.
+5. If he confirms, the bank pays 11 beans to each investor. If he does not, the bank pays 10.
+
+**Rounds.**
+
+1. The job is done and confirmed.
+2. The job is done badly and the Checker refuses the bonus.
+3. Nobody can agree on how to check, so the bonus is delayed.
+
+**Debrief.** Who carried the risk? Why would investors accept this? What did the Checker need in order to be trusted? How does each role map onto the real bond: the issuing bank, the investors, the restoration organisation and Conservation Alpha?
+
+**Extension for Evan, on paper.** A bond of R1,000,000 pays a pretend base return of 6%, plus a bonus of 2 percentage points if a verified result is met. Show what the investors earn if the result is met and if it is missed. Mark every number "pretend".
+
+## 5. Briefing for the guide
 
 Read this first, then tell it to the children in your own words. Sources are named so you can check them. Where a fact comes from the BioConomy wiki and has not been checked against a second source, it carries [MS].
 
-### 4.1 The sponge
+### 5.1 The sponge
 
 Rain that falls on healthy land soaks in, is held in the soil, and comes out of springs and streams for weeks afterwards. Rain that falls on damaged land runs off within hours. The rain falls equally over the entire landscape but the result differs. Restoring land so it holds more water is called making a Water Retention Landscape ([BioConomy wiki](https://wiki.bioconomy.earth/concepts/water-retention-landscapes)).
 
 Invasive trees such as pines and wattles use more water than the native plants they replace. In fynbos catchments, one study found streamflow 55% lower 23 years after pine invasion (Van Wyk, 1987, cited on the wiki). [MS] Clearing the trees puts water back into streams. [IC]
 
-### 4.2 The bond
+### 5.2 The bond
 
 - **What it is.** The Cape Water Performance-Based Bond was listed on the Johannesburg Stock Exchange on 17 April 2026. It is a R2.5 billion bond issued by [[organisations/firstrand-bank|FirstRand Bank]], and part of what it pays investors depends on checked results from clearing invasive plants in Cape Town's catchments. [IC] (Forum page, citing the JSE.)
 - **Who is in it.** The wiki names [[organisations/rand-merchant-bank|Rand Merchant Bank]] as arranger, and the [[organisations/international-finance-corporation|International Finance Corporation]], [[organisations/fsd-africa-investments|FSD Africa Investments]] and [[organisations/aluwani-capital-partners|Aluwani Capital Partners]] as co-anchors. [[organisations/conservation-alpha|Conservation Alpha]] is the independent agent that checks the results. [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy South Africa]] does the restoration work and passes about USD 8.8 million over five years to the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]]. [MS]
 - **The Water Fund.** The Nature Conservancy and the City of Cape Town started it in 2018. Its business case says that clearing invasive plants from 54,300 hectares in seven mountain catchments would add 55 billion litres of water a year within six years, at roughly a tenth of the unit cost of desalination. [MS]
 - **Two words.** "Performance-based" means the payment depends on what is measured. "Verified" means someone independent checked the measurement.
-- **Four tests of a bankable service** (Forum page). 
-	- A buyer who pays for the result. 
-	- A result that can be measured. 
-	- A clear right to do the work. 
+- **Four tests of a bankable service** (Forum page).
+	- A buyer who pays for the result.
+	- A result that can be measured.
+	- A clear right to do the work.
 	- A trusted body that signs the contracts and delivers.
 - **The honest question.** The bond pays for work in Cape Town's catchments. Work in valley counts by reducing the amount of water that needs to be released out of Theewaterskloof Dam. This has not yet been proven as a valid approach to the bond. The children's task is to validate a route into the bond and list what must be true before an application can be made.
 
-### 4.3 The valley's water
+### 5.3 The valley's water
 
 - Theewaterskloof Dam holds up to 480 million cubic metres, more than any other dam that supplies Cape Town. Its water leaves in two directions: west through a tunnel to Cape Town, and east down the Riviersonderend past Greyton and Genadendal to farms and towns, then to the Breede River and the sea at Witsand. [IC]
 - In the 2018 drought, farmers along the Riviersonderend received 60% of their allocation. [IC]
@@ -80,7 +180,7 @@ Invasive trees such as pines and wattles use more water than the native plants t
 - The Baviaans River at Genadendal and the Gobos River at Greyton join the Riviersonderend below the dam. [IC]
 - The valley has protected its water before. The Moravian Church bought the mountain farm Langgezocht (about 1,881 hectares) in 1899 to protect Genadendal's water sources. [MS] Greyton's leiwater furrows have carried water from the Gobos River since 1854. [MS] See [Greyton's Leiwater](https://df.valleyofgrace.co.za/history/leiwater).
 
-### 4.4 The idea, and what still needs to be addressed
+### 5.4 The idea, and what still needs to be addressed
 
 The idea so far is that the valley restores its catchments, its streams add water to the river below the dam, and if the people who run the dam agree to count that water, the dam might need to release less. The water saved could go through the tunnel to Cape Town. The valley would be paid for the water it adds.
 
@@ -92,7 +192,7 @@ The route is untested. These questions are open on the Forum page, and the child
 - What do the Transformasie Komitee and the Moravian Church say about Farm 39 and Langgezocht?
 - Would the bond's organisers, the City of Cape Town or [[organisations/wwf-south-africa|WWF]] be interested?
 
-### 4.5 Commitment Pooling in this project
+### 5.5 Commitment Pooling in this project
 
 The BioConomy wiki describes pooling at two scales ([Commitment Pooling](https://wiki.bioconomy.earth/concepts/commitment-pooling)).
 
@@ -110,7 +210,7 @@ Two rules from the theory carry the classroom work.
    - Can the party keep it without breaking another promise? (limitation)
    - Who receives it, and what do they give back? (exchange)
 
-### 4.6 The TIME map
+### 5.6 The TIME map
 
 The four forms, in the words of the Forum's [Valley Through TIME](https://df.valleyofgrace.co.za/history/the-valley-through-time) page:
 
@@ -121,7 +221,7 @@ The four forms, in the words of the Forum's [Valley Through TIME](https://df.val
 
 The Market is most dominant today; Institutions still decide land in the former mission villages; and Emergent shows only early (weak) signals.
 
-**Placing rule.** Place organisations, and the way each one gets its say. Leave people and whole communities off the map. Each party gets one main dot and, if needed, rings for secondary forms. Each placement needs a one-sentence reason. In the valley pages, a group of people is called a people (the Chainoqua, a Khoekhoe people). T names a way of organising and carries no label for a group of persons.
+**Placing rule.** Place organisations, and the way each one gets its say. Leave people and whole communities off the map. Each party gets one main place and, if needed, a string loop toward a secondary form. Each placement needs a one-sentence reason. In the valley pages, a group of people is called a people (the Chainoqua, a Khoekhoe people). T names a way of organising and carries no label for a group of persons.
 
 **Starter key.** One reading, drawn from the pages. Let the children argue for a different placement if they can give the reason.
 
@@ -135,187 +235,224 @@ The Market is most dominant today; Institutions still decide land in the former 
 | The Forum, the Register, the Nature Realm                                                         | E              | The Forum page lists them as early signals                       |
 | Wild Restoration, Zonderend Water Users Association, the schools, the clubs, any other NGO        | Open           | The children decide and defend                                   |
 
-## 5. Core work for every child, and six themes
+### 5.7 Rivers and mountains: the Europe thread
+
+The class is studying rivers as trade routes and mountains as barriers. Use what they have actually learned in main lesson. The table gives prompts. Each one is a question for the children, and none states a fact about Europe.
+
+| Idea from Europe | Question for the valley | Where it shows up |
+| ---------------- | ----------------------- | ----------------- |
+| Rivers carry goods, news and people | What travels down our rivers? What travels the other way? | Raindrop story, Annabella, Evan |
+| Mountains hold travellers back | What do our mountains stop, and what do they give? A wall and a sponge at once. | Mikiya, Raindrop story |
+| A pass or gap lets people through | Genadendal began as Baviaanskloof, a settlement in a kloof. Which gaps have been doorways? | Zara |
+| Who could say yes or no to a boat? | Who can say yes or no to a drop of our water? | Annabella, Four Corners (I) |
+| Fees were paid at certain places | When water flows from our mountains to the sea, who gets paid? Who should? | Evan, Bean Bond |
+| Buyers needed a trusted weight | Who could be trusted to weigh a stream? | Ayden, Bean Bond |
+| Someone kept the banks, canals and roads in order | Who keeps our rivers and mountains in order? | Gracey |
+| Traders on a route needed to trust each other for months | What promises held them together? How is that like a pool? | Sam, Rope Web |
+
+Each student page ends with a "Think of Europe" question. Each child writes two sentences on it and brings it to the next Friday. In Recall, ask one child to read theirs and let the class add.
+
+### 5.8 The raindrop's road: the story for Week 1
+
+Tell this by the river at Kinship, in your own words, from the beats below. Name which facts are firm and which are hopes as you go.
+
+1. **Two landings.** A drop of rain falls on the mountains above the valley. It lands twice, in two stories. On healthy ground it meets roots, leaf litter and soil that holds it like a sponge. On bare hard ground it runs away within hours. The same rain meets two roads. [MS]
+2. **The slow road.** The drop that soaks in stays in the mountain for weeks. It comes out in a spring and joins a stream. Some of that water reaches the Baviaans River, some the Gobos River, and since 1854 some of the Gobos has been carried along the leiwater furrows to Greyton's gardens. [MS]
+3. **The thirsty tree.** On its way down the drop meets a pine or a wattle from another country. These trees drink more than the plants that grew there before. [MS] Where people clear them, water comes back to the streams. [IC]
+4. **The river and the dam.** The streams meet the Riviersonderend below the dam. [IC] The river runs east past Greyton and Genadendal, to farms and towns, then joins the Breede and reaches the sea at Witsand. [IC] Above, the dam holds up to 480 million cubic metres, a wall across a river. It has two doors: a tunnel west to Cape Town, and the river east. [IC]
+5. **Who decides.** Who opens the doors? The state holds the water in trust. The first share, the Reserve, goes to people's basic needs and to the river's own health. [IC] In the drought of 2018 the farmers along the river received 60% of what they were allowed. [IC]
+6. **A promise of money.** Someone thought: if we clear the thirsty trees from the mountains, more water stays in the streams. Who would pay for that? A bond is a loan from many investors. The Cape Water Performance-Based Bond pays investors partly according to what an independent checker confirms has been cleared. [IC]
+7. **The open door.** Nobody has asked whether our valley's water could count. That is the question the children carry for six weeks. Close by asking: where in our valley would we begin?
+
+Europe thread: say that in main lesson the class has met rivers as roads and mountains as walls. Here the water is the road, and the money must travel the other way. Ask the children what they notice.
+
+## 6. Core work for every child, and six themes
 
 ### The core work
 
-Whatever theme a child takes, each child does three things for the parties in that theme.
+Whatever theme a child takes, each child does these things.
 
-1. Places each party on the TIME map with a reason.
-2. Writes what it can offer and what it needs before a proposal can go ahead, on the Pool Board, with a stamp.
-3. Forms a view on which Register organisation would be the best partner, and brings it to Week 4.
+1. Keeps a Field Book page every week, with three threaded facts.
+2. Owns the Pool Board cards for the parties in their theme. Places each party on the TIME map with a reason.
+3. Writes, on each card, what the party can offer and what it needs before a proposal can go ahead, with a thread.
+4. Forms a view on which Register organisation would be the best partner and brings it to Week 4.
+5. Has a chapter of the story (section 10).
 
-Every child also has a chapter of the story (below).
+Sam is the Weaver of the Pool Board. He hosts the Rope Web and asks the four questions. He does not carry everyone's findings. Each child brings their own cards to the board.
 
 ### How the themes are chosen
 
-On a card, each child writes a first and a second choice. All six themes must be taken before any is taken twice. If two children want the same theme, the pair forms where the Pool Board and the bond need the most help.
+On a card, each child writes a first and a second choice. All six themes must be taken before any is taken twice. If two children want the same theme, the pair forms where the Pool Board and the bond need the most help. The Bond theme is split: Evan follows the money and Ayden follows the checking.
 
-### Theme 1: The Sponge
+### Theme 1: The Sponge (Mikiya)
 
 **Question.** What does the valley's land do with rain, and how could it hold more?
 
-**You become the specialist on** soil that holds water, invasive trees, stream banks, and how anyone could prove that more water is flowing.
+**Specialist in** soil that holds water, invasive trees, stream banks, and how anyone could prove that more water is flowing.
 
 **Parties to study.** Wild Restoration. Greyton Conservation Society. Zonderend Water Users Association, which clears the river banks and grows palmiet at its Genadendal nursery.
 
-**You make** a soil sponge or stuff a gulley (covered in earlier lessons). Fill two trays, one with packed bare soil and one with soil mixed with compost and leaf litter. Pour the same measured water over each. Measure what runs off and what stays. Then draw a catchment from ridge to river.
+**Hands first.** The pour test on two kinds of ground, and a wet-on-wet painting of rain running down a mountain. At Kinship in Week 2 or 3 Mikiya can run the tray demonstration: two trays, one with packed bare soil and one with soil mixed with compost and leaf litter, the same measured water poured over each, and what runs off and what stays measured. Then draw a catchment from ridge to river.
 
-**Your chapter.** The water the valley holds.
+**Chapter.** The water the valley holds.
 
 **Take care.** It is not yet proven that the valley's water has value to anyone outside the valley. This should not be written as a foregone conclusion.
 
-### Theme 2: The Dam and the Law
+### Theme 2: The Dam and the Law (Annabella)
 
 **Question.** Who decides where the valley's water goes?
 
-**You become the specialist on** Theewaterskloof Dam, the two directions the water leaves, the Reserve, the river's mouth at Witsand (about 42% of the natural flow reaches it [MS]), and the bodies that decide.
+**Specialist in** Theewaterskloof Dam, the two directions the water leaves, the Reserve, the river's mouth at Witsand (about 42% of the natural flow reaches it [MS]), and the bodies that decide.
 
 **Parties to study.** The Zonderend Water Users Association (on the Register). Outside the Register: the Department of Water and Sanitation, the Breede-Olifants Catchment Management Agency, the [[organisations/overberg-water-board|Overberg Water Board]], the City of Cape Town.
 
-**You make** a floor map in rope and cloth: mountain, streams, dam, tunnel, river, sea. The class walks a litre of water through it. Mark where the valley's streams join the river.
+**Hands first.** A sand-and-clay model of mountain, dam, tunnel, river and the two small streams, with a jug of water poured on the mountain. At Kinship in Week 3 Annabella lays out the floor map in rope and cloth on the grass, and the class walks a litre of water through it. Mark where the valley's streams join the river.
 
-**Your chapter.** Where the water goes.
+**Chapter.** Where the water goes.
 
 **Take care.** The Department and the catchment agency have not been asked whether they would count the valley's water. Nobody writes that they would.
 
-### Theme 3: The Bond and the Money
+### Theme 3: The Bond and the Money (Evan and Ayden)
 
-**Question.** How does a bond turn clean water into something investors will pay for?
+**Question.** How does a bond turn clean water into something investors will pay for, and how does anyone prove the water has been delivered?
 
-**You become the specialist on** lenders and borrowers, "performance-based" and "verified", the four tests of a bankable service, and the claim that clearing costs about a tenth of desalination per unit. [MS]
+**Specialists in** lenders and borrowers, "performance-based" and "verified", the four tests of a bankable service, and the claim that clearing costs about a tenth of desalination per unit. [MS]
 
 **Parties to study** (all outside the Register). FirstRand Bank and Rand Merchant Bank, the three co-anchors, the Nature Conservancy South Africa, Conservation Alpha, the Greater Cape Town Water Fund, the City of Cape Town. [[organisations/kwaxala|Kwaxala]], an investor network that has told the Forum's convenors it wants to work with the valley [MS], is optional.
 
-**You make** a money-flow poster: arrows from investors to the bond, to the Fund, to the clearing teams, and the checking loop back to the investors. Add a worked sum with pretend numbers. A bond of R1,000,000 pays investors a base return, and 2 percentage points of the return depend on a verified result. Show what the investors earn if the result is met and if it is missed. Mark every number "pretend".
+**Hands first.** Evan invents the Bean Bond with a parent, plays one round at home and draws the money arrows in his Field Book: solid lines for payments he has a fact for, dotted lines for guesses. Ayden measures a flow of water with a bucket and stopwatch, once himself and once with an independent second measurer, and writes a certificate of delivery. In Week 2 they run the Bean Bond together for the class (section 4).
 
-**Your chapter.** How the bond pays for water.
+**Chapter.** How the bond pays for water. Evan tells the money. Ayden tells the checking.
 
-**Take care.** The bond as described pays for clearing in Cape Town's catchments. Nothing confirms that valley work would count.
+**Take care.** The bond as described pays for clearing in Cape Town's catchments. Nothing confirms that valley work would count. All numbers in the games are pretend and are marked as such.
 
-### Theme 4: Who Has Held the Water
+### Theme 4: Water Stewards Through History (Zara)
 
-**Question.** Who has held the valley's water over the centuries, and how did each one decide?
+**Question.** Who looked after the valley's water over the centuries, and how did they decide how much could be used?
 
-**You become the specialist on** the Valley Through TIME table. Khoekhoe claims to land rested on the use of springs and rivers [IC]. Greyton's plots were sold in 1854 with a water right for the leiwater [IC]. The Farm 39 land was granted in trust in 1858 [MS]. Langgezocht was bought in 1899 [MS].
+**Specialist in** the Valley Through TIME table. Khoekhoe claims to land rested on the use of springs and rivers [IC]. Georg Schmidt settled at Baviaanskloof in 1738 [IC]. Greyton's plots were sold in 1854 with a water right for the leiwater [IC]. The Farm 39 land was granted in trust in 1858 [MS]. Langgezocht was bought in 1899 [MS].
 
 **Parties to study.** The Moravian Church congregations in Genadendal, Greyton, Bereaville and Voorstekraal. Genadendal Mission Museum. Greyton Conservation Society. The Genadendal Transformasie Komitee, through Martin January.
 
-**You make** a rope timeline from before 1652 to 2038, with a card at each water-holder in the colour of its form.
+**Hands first.** Zara asks an older person where the valley's water came from when they were young, and who decided how much could be used. She retells the story aloud as if she were that person. She ties a three-metre string timeline from before 1652 to today with knots for 1738, 1854, 1858 and 1899. At Kinship she lays the string out and the class hangs a card at each water-holder in the colour of its form.
 
-**Your chapter.** Who held the water.
+**Chapter.** Who looked after the water.
 
-**Take care.** Greyton and Genadendal have different histories with land and water. Tell each side only through what its own records and people say, stamp it [MS], and take no side. Anything about Farm 39 or its water goes to the Komitee through Martin January before the children say it aloud.
+**Take care.** Greyton and Genadendal have different histories with land and water. Tell each side only through what its own records and people say, stamp it [MS], and take no side. Anything about Farm 39 or its water goes to the Komitee through Martin January before the children say it aloud. Zara brings any such finding to her teacher first.
 
-### Theme 5: Hands for the Work
+### Theme 5: Hands for the Work (Gracey)
 
 **Question.** Who would do the restoration work, and what would they need to learn and earn?
 
-**You become the specialist on** clearing crews, nurseries, monitoring and training. Wild Restoration employs a clearing team drawn from the local community and runs volunteer days [MS]. The Zonderend Water Users Association's Genadendal nursery is run by a team of 14 employed through the Expanded Public Works Programme [MS]. The Forum's idea of a water skills course at the Learning Campus is also not yet agreed.
+**Specialist in** clearing crews, nurseries, monitoring and training. Wild Restoration employs a clearing team drawn from the local community and runs volunteer days [MS]. The Zonderend Water Users Association's Genadendal nursery is run by a team of 14 employed through the Expanded Public Works Programme [MS]. The Forum's idea of a water skills course at the Learning Campus is also not yet agreed.
 
 **Parties to study.** Wild Restoration. Zonderend Water Users Association. Emil Weder Secondary School. Rotary Club of Greyton. The schools on the Register.
 
-**You make** a storyboard of a working day in a clearing team or at the nursery, drawn from a visit or an interview.
+**Hands first.** Gracey tries a piece of the work herself: about 30 minutes of hand-weeding with a parent, who shows her which plants are weeds, then planting one seedling in a pot. Hands and a trowel only. She keeps a Work Diary of what was hard and what she needed to know, and draws four pictures of a worker's day. In Week 3 she checks her drawings against a visit or an interview.
 
-**Your chapter.** Who does the work.
+**Chapter.** Who does the work.
 
-**Take care.** Ask about the work and leave pay alone. Name nobody without their permission. An adult is present at every visit.
+**Take care.** Ask about the work and leave pay alone. Name nobody without their permission. An adult is present at every visit. The weeding at home uses no saws, knives or sprays.
 
-### Theme 6: The Promise Pool
+### Theme 6: The Promise Pool (Sam)
 
 **Question.** How could many parties promise each other what none could do alone?
 
-**You become the specialist on** Commitment Pooling in this project. You keep the Pool Board and the list of open questions, and you work with the other five themes to turn their findings into promises and needs.
+**Specialist in** Commitment Pooling in this project. Sam is the Weaver. He hosts the Rope Web, asks the four questions of every promise, and keeps the list of open questions. The other children own the cards for their own parties.
 
-**Parties to study.** All of them.
+**Parties to study.** All of them, through the cards the other children bring.
 
-**You make** the Pool Board: a large wall chart with string running from each need to the promise that meets it.
+**Hands first.** Sam runs a Family Pool at home for a week. Each person in the family promises one thing to someone else, written on a card. Sam keeps a ledger and asks each evening who kept their promise and why. He then asks the four questions of one promise and draws the pool as a web.
 
-**Your chapter.** The pool.
+**Chapter.** The pool. In Week 4 he weaves the Pool Board with the whole class.
 
-**Take care.** A party promises only what it controls. A need becomes a promise only when someone accepts it. Needs that nobody has met stay on the board in red. They are the honest answer to "what must happen before a proposal can go ahead."
+**Take care.** A party promises only what it controls. A need becomes a promise only when someone accepts it. Needs that nobody has met stay on the board in red. They are the honest answer to "what must happen before a proposal can go ahead." Consider naming a second Weaver if Sam would like company.
 
-## 6. The six weeks
+## 7. The six weeks
 
-Each week has two hours with the guide and two hours alone. The guided session follows the school's rhythm:
+The guided session for each week is on the Friday. The children's own work follows in the days after it and comes back at the next Friday. Planning assumption: this is how Kinship Fridays and the two-and-two split line up.
 
-- **Arrive and move (10 minutes).** A walk, a rhythm game or a stretch at the nearest stream.
-- **Recall (10).** Each child says what they remember from last time, without notes.
-- **New work (40).**
-- **Making (40).** Hands, paper, rope, voice.
-- **Close (20).** Each child names one thing found and one open question. Update the wall.
+| Week | Dates | Name | Kinship Friday |
+| ---- | ----- | ---- | -------------- |
+| 1 | 12 to 16 October | The Raindrop's Road | 16 October |
+| 2 | 19 to 23 October | Who Lives Along the River | 23 October |
+| 3 | 26 to 30 October | Meet the People | 30 October |
+| 4 | 2 to 6 November | Weave the Pool | 6 November |
+| 5 | 9 to 13 November | Choose and Shape | 13 November |
+| 6 | 16 to 20 November | Tell It | 20 November |
 
-**The wall** carries three things all through the six weeks: the TIME map (four zones, four colours of card), the Pool Board, and the list of open questions.
+**About the start.** The first Friday, 16 October, opened the project. The rewritten Week 1 tasks on the student pages are the children's own work for the days after that session, and they bring the results to Friday 23 October. If the Rope Web, Fact or Hope or the choosing of themes were not done on 16 October, do them first on 23 October.
 
-### Week 1: The raindrop and the question
+### Week 1: The Raindrop's Road
 
-**With the guide.**
-- Walk to a stream or a drain and watch where the water goes.
-- Tell the story of the valley's water (4.3) aloud, without notes.
-- Set the question, the final task and the panel.
-- Play "Fact or hope?" (section 3).
-- Hand out the six theme cards. Choose themes (section 5).
-- Put up the empty TIME map and Pool Board.
+**With the guide (Friday 16 October).**
+- Walk to the river or a stream and watch where the water goes. Do not explain yet.
+- Tell the raindrop story (5.8).
+- Play the Rope Web and Fact or Hope (section 4).
+- Hand out the six theme cards. Choose themes (section 6).
+- Introduce the Field Book and the three threads.
 
-**Alone.** Read your theme card. Write ten fact cards, each with a stamp. Write five questions you want answered.
+**On their own.** The hands-first task for each theme (section 6), one Field Book page, three threaded facts, telling the task back to a grown-up, and the Think of Europe question. About two hours. No long reading.
 
-**Done by the end of the week.** Ten stamped fact cards and five questions per child.
+**Done by the following Friday.** One Field Book page with three threaded facts per child, and two sentences on the Europe question.
 
-### Week 2: Find the parties
+### Week 2: Who Lives Along the River
 
-**With the guide.**
-- Each child lists the parties for their theme from the [Register](https://df.valleyofgrace.co.za/register) and from outside it.
-- Place each on the TIME map with a reason. Read the reasons aloud and let others challenge them.
-- Stand back from the map and ask which forms are thin.
-- Decide which parties to contact. Each organisation hears from the class once, in one letter, so that no small organisation receives eight requests.
-- Start the panel discussion: which roles do we need, and who could play them? (section 7)
+**With the guide (Friday 23 October).**
+- Recall: each child shows their Field Book page and tells its story in two minutes.
+- Four Corners: put the organisations on the TIME map and look at which corners are thin (section 4).
+- Bean Bond, run by Evan and Ayden (section 4).
+- Each child lists the parties for their theme from the [Register](https://df.valleyofgrace.co.za/register) and from outside it. Decide which organisations to contact. Each organisation hears from the class once, in one letter, so that no small organisation receives seven requests.
+- Start the panel discussion: which roles do we need, and who could play them? (section 8)
 
-**Alone.** Read the Register page of every party on your list. On the Pool Board, write what it offers and what it needs, using the page's own words, stamped [MS]. If a page lists no needs, write "none stated" and plan to ask.
+**On their own.** Write the first draft of a letter to one organisation (Appendix A). Add a second Field Book page.
 
-**Done by the end of the week.** First TIME map. First Pool Board. A list of parties to contact. A draft letter per organisation (Appendix A).
+**Done by the following Friday.** A draft letter per organisation. A second Field Book page.
 
-### Week 3: Ask the people
+### Week 3: Meet the People
 
-**With the guide.**
+**With the guide (Friday 30 October).**
 - Practise interviews in pairs, one child as the organisation (Appendix F).
-- Finish the letters and the panel invitations (Appendix B). The adult sends them.
+- Finish the letters and the panel invitations (Appendix B). The adult sends them. Invitations go out by the end of this week, since adults need notice.
 - Where replies have come in, hold interviews or visits with an adult present. Good candidates: the Genadendal nursery, a clearing day, a conversation with Martin January.
+- If the weather and time allow, Annabella lays out the floor map in rope and cloth, and Mikiya runs the tray demonstration.
 
-**Alone.** Write up your interview notes. Correct the Pool Board with what each party said, stamped [MS] ("their own word"). Mark anything they asked you to keep private.
+**On their own.** Tell what you saw and heard. Add a third Field Book page. Write the card for your party for the Pool Board, correcting your first guesses with what each party said, with a yellow thread ("their own word"). Mark anything they asked you to keep private.
 
 **For the Komitee conversation.** The children ask what the Komitee would need to know before it could judge a water proposal, and whether anything on the map about Genadendal or Farm 39 needs correcting. They ask for no position on land.
 
-**Done by the end of the week.** Letters and invitations sent. Interview notes written up.
+**Done by the following Friday.** Letters and invitations sent. Interview notes in the Field Book. A card for each party on the Pool Board.
 
-### Week 4: Needs and promises, the pool
+### Week 4: Weave the Pool
 
-**With the guide.**
-- Build the Pool Board. For every party, write one line starting "We promise" (only what it controls) and one starting "Before we go ahead we need". Ask the four plain questions of every promise (4.5).
-- Run string from each need to the promise that meets it. Needs with no promise stay on the board in red.
+**With the guide (Friday 6 November).**
+- Weave the Pool Board in wool. Each child places their own cards. For every party, one line starting "We promise" (only what it controls) and one starting "Before we go ahead we need". Sam asks the four plain questions of every promise (5.5).
+- Run wool from each need to the promise that meets it. Needs with no promise stay on the board in red.
 - Count the red needs. Sort them with the four tests: buyer, measured result, right to do the work, trusted body.
-- Pick three Register organisations for the partner shortlist and begin the scorecard (section 8).
+- Pick three Register organisations for the partner shortlist and begin the scorecard (section 9).
+- An adult sends each organisation the text the children wrote about it, with a request for corrections (right of reply).
 
-**Alone.** Finish the scorecard for your shortlisted organisations, with evidence and stamps. Write one paragraph for each: the strongest case for it, and the strongest case against.
+**On their own.** Test your card with the four questions. Score your shortlist with evidence and threads. Write one paragraph for each: the strongest case for it and the strongest case against. Add a fourth Field Book page.
 
-**Done by the end of the week.** A complete Pool Board. A scored shortlist of three.
+**Done by the following Friday.** A complete Pool Board. A scored shortlist of three.
 
-### Week 5: Choose, check and shape the story
+### Week 5: Choose and Shape
 
-**With the guide.**
-- Hold the acknowledgment round and the decision on the partner (section 8).
-- An adult sends each organisation the text the children wrote about it, with a request for corrections (right of reply). Log what comes back.
-- Build the story from the chapters (section 9). Choose the form: told, performed, drawn, written, or a mix. Everyone has a part.
+**With the guide (Friday 13 November).**
+- Hold the acknowledgment round and the decision on the partner (section 9).
+- Add the corrections that organisations sent back. Log what has come back and chase any that have not.
+- Shape the story from the chapters (section 10). Choose how to tell each part: told, acted, sung, drawn or shown. Everyone has a part.
 - First run-through, with scripts in hand.
 
-**Alone.** Prepare your chapter and its visuals. Write the "what we don't know yet" lines for your theme. Write a thank-you note for each organisation that replied.
+**On their own.** Learn your part. Write the "what we don't know yet" lines for your theme. Write a thank-you note for each organisation that replied. Add a fifth Field Book page.
 
-**Done by the end of the week.** The partner chosen. Corrections logged. A draft of every chapter.
+**Done by the following Friday.** The partner chosen. Corrections logged. A draft of every chapter.
 
-### Week 6: Rehearse and present
+### Week 6: Tell It
 
-**Alone, early in the week.** Polish your chapter. Rehearse it aloud twice. Set up the room.
+**On their own (Monday 16 to Thursday 19 November).** Polish your chapter. Rehearse it aloud twice. Set up the room. Make your last Field Book page: what we still don't know.
 
-**With the guide (two hours).**
+**With the guide (Friday 20 November).**
 - Arrive and move (10 minutes).
 - The story (15).
 - Panel questions (25).
@@ -323,13 +460,17 @@ Each week has two hours with the guide and two hours alone. The guided session f
 - Reflection circle (30): what did we find, what surprised us, what would the valley need to do next?
 - Thank-yous and clearing up (25).
 
+Confirm the date, the place and the panel with the school.
+
 **After the presentation.** Michael decides whether a one-page summary goes to the Forum, and who in the class helps write it.
 
-## 7. The panel
+**If time runs short.** Merge Weeks 4 and 5 before cutting the Field Book or the Rope Web. The Rope Web and the Pool Board are the heart of the project.
+
+## 8. The panel
 
 **The panel is a rehearsal.** Real adults play the parts of people connected to the bond. Nothing they say is the position of the organisation they play, and the children say so at the start of the presentation. If the Forum later wants the real issuers to hear the story, that is a decision for the Forum.
 
-**How the children choose.** First they choose the roles they want in the room, then they name an adult for each. Aim for four or five panelists. Suggested roles, drawn from section 4.2:
+**How the children choose.** First they choose the roles they want in the room, then they name an adult for each. Aim for four or five panelists. Suggested roles, drawn from section 5.2:
 
 - the bank that issues the bond
 - an anchor investor
@@ -338,9 +479,9 @@ Each week has two hours with the guide and two hours alone. The guided session f
 - the City's water department
 - the valley's voice (for example a Forum convenor)
 
-The class writes one invitation per panelist (Appendix B) and sends it by Week 3, since adults need notice. Give each panelist the role card in Appendix C.
+The class writes one invitation per panelist (Appendix B) and sends it by the end of Week 3, since adults need notice. Give each panelist the role card in Appendix C.
 
-## 8. Choosing the partner
+## 9. Choosing the partner
 
 **Candidates.** The children choose from the [Register](https://df.valleyofgrace.co.za/register). Two entries are strong candidates for discussion, and the children may well find others:
 
@@ -349,7 +490,7 @@ The class writes one invitation per panelist (Appendix B) and sends it by Week 3
 
 Both pages are waiting for the organisations' own review. Entries that touch Farm 39, land tenure or Madiba Park need the Komitee's view before anyone proposes anything about them.
 
-**Scorecard.** For each shortlisted organisation, score each line 0, 1 or 2, and write the evidence and its stamp.
+**Scorecard.** For each shortlisted organisation, score each line 0, 1 or 2, and write the evidence and its thread.
 
 | Test | What to ask |
 |---|---|
@@ -360,42 +501,43 @@ Both pages are waiting for the organisations' own review. Entries that touch Far
 | Fit in the pool | How many of the red needs on the Pool Board could it meet, and how many needs would it add? |
 | Balance of forms | Does it connect the parties that sit in the forms the pool is short of? |
 
-**Decision steps for the eight.** These follow the Forum's own research on deciding without a tie-breaker.
+**Decision steps for the class.** These follow the Forum's own research on deciding without a tie-breaker.
 
 1. **Acknowledgment round.** Before any decision, each child names the strongest point they heard from someone who disagrees with them.
 2. **Consent.** The proposal goes ahead when no child holds a reasoned objection. An objection names a reason and says what would settle it.
 3. **A second round** after the objections are met.
 4. **Fallback, agreed in advance.** If the class is still stuck, it asks an adult it has already named (the class teacher, if there is one) to choose among the options already on the table. That adult may add no new option.
 
-## 9. The story
+## 10. The story
 
-Eight parts. Each chapter runs about two minutes. The whole story runs about fifteen minutes.
+Eight parts. Each chapter runs about two minutes. The whole story runs about fifteen minutes. The children decide how to tell each part: spoken, acted, sung, drawn or shown. The wool web, the string timeline, the sand model and the four corners are props and a stage.
 
 | Part | Told by | Content |
 |---|---|---|
 | 1. A raindrop | Everyone | A short telling of what happens to one drop of rain on the mountain |
-| 2. The water the valley holds | Theme 1 | The sponge |
-| 3. Where the water goes | Theme 2 | The dam, the law, the river and the sea |
-| 4. Who held the water | Theme 4 | The TIME timeline |
-| 5. How the bond pays for water | Theme 3 | The money flow and the four tests |
-| 6. Who does the work | Theme 5 | A working day |
-| 7. The map and the pool | Theme 6 with everyone | The TIME map and the Pool Board: what each party promises and needs |
+| 2. The water the valley holds | Mikiya | The sponge |
+| 3. Where the water goes | Annabella | The dam, the law, the river and the sea |
+| 4. Who looked after the water | Zara | The TIME timeline |
+| 5. How the bond pays for water | Evan and Ayden | The money flow, the checking and the four tests |
+| 6. Who does the work | Gracey | A working day |
+| 7. The map and the pool | Sam with everyone | The TIME map in four corners and the Pool Board in wool: what each party promises and needs |
 | 8. Our partner and our ask | Everyone | The partner chosen, why, what must happen first, and what we do not know yet |
 
-**Every child is involved.** Every child speaks, sings, performs or shows work at least once, and every child's making appears somewhere in the room. The children decide the form. They may tell it, act it, draw it, write it or mix these.
+**Every child is involved.** Every child speaks, sings, performs or shows work at least once, and every child's Field Book pages appear somewhere in the room as an exhibition.
 
-**Part 8 closes with the open questions.** The children name each TBV left on the wall and say who could settle it.
+**Part 8 closes with the open questions.** The children name each red thread left on the wall and say who could settle it.
 
-## 10. What "completed" means
+## 11. What "completed" means
 
 - [ ] Every party on the TIME map has a reason for its place.
-- [ ] The Pool Board has a promise and a need for every party, each with a stamp.
+- [ ] The Pool Board has a promise and a need for every party, each with a thread.
 - [ ] Needs nobody has met are listed as the "before we can go ahead" list.
 - [ ] One Register organisation is chosen, with the scorecard and the decision recorded.
 - [ ] Every organisation named has seen what was written about it, and the corrections are logged.
 - [ ] The panel invitations have gone out and the panelists have their role cards.
 - [ ] All eight chapters are ready and every child has a part.
-- [ ] Every fact in the story has a stamp.
+- [ ] Every fact in the story has a thread.
+- [ ] Every child's Field Book has a page for every week.
 
 ## Appendix A: Class letter to an organisation
 
@@ -403,7 +545,7 @@ An adult sends this. Fill the blanks.
 
 > Dear ___,
 >
-> We are eight learners, aged twelve, at Silverwood Primary. For six weeks we are studying how the valley's water could be paid for through the Cape Water Performance-Based Bond. This is a school exercise. It is about an idea the Ward 2 Development Forum has not yet discussed, and we are asking you for nothing beyond a conversation.
+> We are learners, aged twelve, at Silverwood Primary. For six weeks we are studying how the valley's water could be paid for through the Cape Water Performance-Based Bond. This is a school exercise. It is about an idea the Ward 2 Development Forum has not yet discussed, and we are asking you for nothing beyond a conversation.
 >
 > We found you on the Forum's Register. We read that you ___.
 >
@@ -421,7 +563,7 @@ An adult sends this. Fill the blanks.
 
 > Dear ___,
 >
-> We are eight learners, aged twelve, at Silverwood Primary. On ___ at ___ we will present a story about how the valley's water might be paid for through the Cape Water Performance-Based Bond. We would like you to sit on our panel and play the part of ___.
+> We are learners, aged twelve, at Silverwood Primary. On ___ at ___ we will present a story about how the valley's water might be paid for through the Cape Water Performance-Based Bond. We would like you to sit on our panel and play the part of ___.
 >
 > This is a rehearsal. You will not speak for the real organisation, and nothing you say will be taken as its position. We chose you because ___.
 >
@@ -446,26 +588,28 @@ These are prompts for role play. They are questions someone in that role could r
 
 All panelists may also ask: How do you know? Which of these facts are checked and which are still hopes?
 
-## Appendix D: Fact card and Pool Board
+## Appendix D: Field Book page and Pool Board card
 
-**Fact card.**
+**Field Book page (one a week).**
 
 | | |
 |---|---|
-| The fact, in one sentence | |
-| Stamp | Checked twice / Their own word / Not yet checked |
-| Where it comes from | |
-| What would move it up one level | |
+| Large drawing or painting | Of what the child did this week |
+| Three facts | Written beside the drawing |
+| Threads | One thread tied to each fact: blue, yellow or red |
+| Where each fact comes from | Written under the fact |
+| What would move it up one level | Written under the fact |
+| One open question | At the bottom of the page |
 
-**Pool Board (one row per party).**
+**Pool Board card (one for each party, owned by the child whose theme it belongs to).**
 
-| Party | Form (T, I, M, E) and reason | We promise (only what we control) | Before we go ahead we need | Who could meet that need | Stamp |
+| Party | Form (T, I, M, E) and reason | We promise (only what we control) | Before we go ahead we need | Who could meet that need | Thread |
 |---|---|---|---|---|---|
 | | | | | | |
 
 ## Appendix E: Partner scorecard
 
-| Organisation | Right to do the work (0 to 2) | Ability to deliver (0 to 2) | Measured result (0 to 2) | Trusted body (0 to 2) | Fit in the pool (0 to 2) | Balance of forms (0 to 2) | Total | Evidence and stamps |
+| Organisation | Right to do the work (0 to 2) | Ability to deliver (0 to 2) | Measured result (0 to 2) | Trusted body (0 to 2) | Fit in the pool (0 to 2) | Balance of forms (0 to 2) | Total | Evidence and threads |
 |---|---|---|---|---|---|---|---|---|
 | | | | | | | | | |
 
@@ -480,7 +624,28 @@ All panelists may also ask: How do you know? Which of these facts are checked an
 
 Before the interview, each child writes down what they expect to hear. After it, they compare. That comparison becomes one of the lines in Part 8: what surprised us.
 
-## Appendix G: Sources used in this guide
+## Appendix G: Materials and safety
+
+**Materials by child.**
+
+| Child | What the family needs |
+|---|---|
+| Everyone | A Field Book, coloured pencils, and blue, yellow and red wool cut into threads (supplied by the school) |
+| Mikiya | A cup, two spots of ground, paints and paper |
+| Annabella | A tray or baking dish, sand or soil, clay or dough, a straw, a jug of water |
+| Evan | Dried beans, paper |
+| Ayden | A bucket or large bottle marked in litres, a timer |
+| Zara | Three metres of string |
+| Gracey | A small pot, a seedling or cutting, a trowel, a notebook |
+| Sam | A notebook, cards and stones or tokens |
+
+**Safety.**
+- Follow Silverwood's outdoor rules at the river on Kinship days.
+- Gracey works with hands and a trowel only, with a parent present who identifies the weeds.
+- Ayden pours the measured water on the garden afterwards.
+- No child contacts an organisation. An adult sends every letter, reads every reply, and attends every interview or visit.
+
+## Appendix H: Sources used in this guide
 
 - Ward 2 Development Forum. [From Water Access to Water Agency](https://df.valleyofgrace.co.za/concepts/from-water-access-to-water-agency). Concept page, 28 September 2026. Not yet agreed.
 - BioConomy wiki. [Water Retention Landscapes](https://wiki.bioconomy.earth/concepts/water-retention-landscapes).

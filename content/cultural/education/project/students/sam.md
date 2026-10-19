@@ -5,9 +5,9 @@ aliases:
   - sam
 ---
 
-This is your own page for the Water for the Valley project. New homework is added above the old homework each week. Right now we're at Week 1.
+This is your own page for the Water for the Valley project. New work is added above the old work each week. Right now we're at Week 1.
 
-You may use AI for your project or use the search bar in the top left-hand corner of every page. Copy and paste this link into every AI chat: https://df.valleyofgrace.co.za/cultural/education/project/llms.txt. 
+You may use an AI helper. Copy and paste this link into the chat: https://df.valleyofgrace.co.za/cultural/education/project/llms.txt. It can check a fact or explain a hard word. Your Field Book is yours to draw and write.
 
 If you want to see what the whole project will become, see [[index|Water for the Valley: Your Term 4 Project]]
 
@@ -15,33 +15,29 @@ If you want to see what the whole project will become, see [[index|Water for the
 
 How could many parties promise each other what none of them could do alone?
 
-You are the keeper of the Pool Board and the list of open questions. The other five themes bring you their findings. You turn them into promises and needs.
+You are the Weaver. In class you host the Rope Web and you ask the four questions of every promise. Each child brings the cards for their own organisations to the Pool Board, so the board is the work of everyone. Your hands-first job is to run a small pool at home and keep its ledger.
 
-## What you need to know
+## What a commitment pool is
 
-You already know [Commitment Pooling](https://wiki.bioconomy.earth/concepts/commitment-pooling) from class. Here it is again, applied to our project.
+You know [Commitment Pooling](https://wiki.bioconomy.earth/concepts/commitment-pooling) from Term 3. People and organisations make promises to each other and hold those promises together. Everyone draws from the pool by taking part.
 
-In a commitment pool, people and organisations make promises to each other and hold those promises together. There are two sizes of pools:
+## Facts to meet
 
-1. **Community size.** Neighbours promise each other time, work and goods. Anyone can draw on the pool by taking part. The wiki gives these examples: Mweria on the Kenyan coast, and Letsema and Ilima in southern Africa. It reads them as T-form, the Tribes form of TIME. You will stamp this **Their own word**, because it is the wiki's own reading.
-2. **Bioregional size.** Many parties pool promises such as clearing, restoring and monitoring into one service that an outside buyer can pay for. The [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]] and the bond work at this size. You will stamp this **Their own word**.
+Choose three of these for your Field Book. Tie a thread to each one.
 
-### The idea for our valley
+- Community-size pools are very old. Mweria on the Kenyan coast, and Letsema and Ilima in southern Africa, are examples. The wiki reads them as T-form, the Tribes form of TIME. [MS]
+- Bioregional pools join many parties. They pool promises such as clearing, restoring and monitoring into one service that an outside buyer can pay for. The [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]] and the bond work at this size. [MS]
+- The wiki's idea is that the valley could join the two sizes. The community would hold its promises as its own asset and sign the contract as one of the parties. Nobody has tried it here. [TBV]
+- A party can promise only what it controls. A need is a request. It turns into a promise when another party says yes.
 
-The wiki's argument is that the valley could join the two sizes. The community would hold its promises as its own asset. It would sign the contract as one of the parties. You will stamp this **Not yet checked**. It is an idea and nobody has tried it here.
+**The four questions to ask of every promise**
 
-### Two rules for the Pool Board
+1. Does it belong in the pool?
+2. What is it worth to the others?
+3. Can the party keep it without breaking another promise?
+4. Who receives it, and what do they give back?
 
-1. **A party can promise only what it controls.** Nobody promises for someone else. A need is only a request. It turns into a promise when another party says yes.
-2. **Ask four questions of every promise.**
-   - Does it belong in the pool?
-   - What is it worth to the others?
-   - Can the party keep it without breaking another promise?
-   - Who receives it, and what do they give back?
-
-### The open questions
-
-These are the questions nobody has answered yet. Your list will grow.
+**The open questions** nobody has answered yet. Your list will grow.
 
 1. Would the dam's operators count the valley's water?
 2. How much water would restoration add, and where and when would it arrive?
@@ -49,57 +45,37 @@ These are the questions nobody has answered yet. Your list will grow.
 4. What do the Transformasie Komitee and the Moravian Church say about Farm 39 and Langgezocht?
 5. Would the bond's organisers, the [[organisations/city-of-cape-town|City of Cape Town]] or [[organisations/wwf-south-africa|WWF]] be interested?
 
-All five are **Not yet checked**.
+All five are red-thread questions.
 
-### Words to know
+**Words to meet:** commitment (a promise to do something), pool (a shared store that everyone can add to and draw from), party (a person or group that takes part in an agreement), need (something a party must have before a plan can go ahead).
 
-- **Commitment:** a promise to do something.
-- **Pool:** a shared store that everyone can add to and draw from.
-- **Party:** a person or group that takes part in an agreement.
-- **Need:** something a party must have before a plan can go ahead.
+## Think of Europe
 
-## Who you will study
+Traders on a river route needed to trust each other for months at a time. What promises held them together? How is that like a pool? Bring your answer from main lesson.
 
-All the parties in the project. You will work closely with the other students and use what they discover to build your part of the project.
+## Week 1
 
-## The three stamps
+You have about two hours on your own.
 
-- [IC] **Checked twice:** two separate sources agree, or an official record says so.
-- [MS] **Their own word:** it comes from the person or group the fact is about.
-- [TBV] **Not yet checked:** it seems likely, but nobody has confirmed it.
+**Do**
 
-## Week 1 homework
+1. **Start your Family Pool (20 minutes).** With a parent, set up a pool for the week. Every person in the family promises one thing to someone else. It could be time, a chore or help with something. Write each promise on a card. You are the keeper. Use a notebook or put a stone in a bowl for each promise kept.
+2. **Keep the ledger (20 minutes in total).** Each evening, spend about four minutes asking who kept their promise and who did not. Ask why. Write it in your ledger.
 
-This should take about two hours.
+**Tell**
 
-**1. Read this page twice (15 minutes).** Write down every word you don't know.
+3. **Tell it back (10 minutes).** At the end of the week tell your family what the pool did. What did it give back to each person?
 
-**2. Draw an empty Pool Board (30 minutes).** Use a large sheet of paper. Draw a table with these six columns:
+**Think**
 
-| Party | Form (T, I, M or E) and why | We promise (only what we control) | Before we go ahead we need | Who could meet that need | Stamp |
-|---|---|---|---|---|---|
-
-Leave plenty of room for rows. In Week 2 the whole class will fill it in with you.
-
-**3. Find three pools in your own life (30 minutes).** Think of a group where people promise each other things, such as a class, a sports team, a family or a street. Write one paragraph about each. Say what each person promises and what the group gives back. For one of them, ask the four questions from the rules above.
-
-**4. Write ten fact cards (35 minutes).** Use a card like this for each one:
-
-| | |
-|---|---|
-| The fact, in one sentence | |
-| Stamp | Checked twice / Their own word / Not yet checked |
-| Where it comes from | |
-| What would move it up one level | |
-
-- Write at least eight facts from this page. Include the open questions.
-- Write two more of your own.
-
-**5. Write five questions you want answered (10 minutes).** At least two should be about what a party could not promise, because it does not control it.
+4. **Ask the four questions (20 minutes).** Pick one promise from your pool and ask the four questions of it. Write your answers in a sentence each.
+5. **Your Field Book page (30 minutes).** Draw your pool as a web. Draw each person as a circle and each promise as a line. Show who gives and who receives.
+6. **Three facts (10 minutes).** Choose three facts from the list and tie a thread to each: blue, yellow or red.
+7. **Think of Europe (10 minutes).** Write two sentences in answer to the question above.
 
 ## Bring to Week 2
 
-Your empty Pool Board, your three pool paragraphs, your ten fact cards, your five questions and your list of new words.
+Your ledger, your Field Book page and your answer about Europe.
 
 ## Remember
 

@@ -5,9 +5,9 @@ aliases:
   - annabella
 ---
 
-This is your own page for the Water for the Valley project. New homework is added above the old homework each week. Right now we're at Week 1.
+This is your own page for the Water for the Valley project. New work is added above the old work each week. Right now we're at Week 1.
 
-You may use AI for your project or use the search bar in the top left-hand corner of every page. Copy and paste this link into every AI chat: https://df.valleyofgrace.co.za/cultural/education/project/llms.txt. 
+You may use an AI helper. Copy and paste this link into the chat: https://df.valleyofgrace.co.za/cultural/education/project/llms.txt. It can check a fact or explain a hard word. Your Field Book is yours to draw and write.
 
 If you want to see what the whole project will become, see [[index|Water for the Valley: Your Term 4 Project]]
 
@@ -15,89 +15,48 @@ If you want to see what the whole project will become, see [[index|Water for the
 
 Who decides where the valley's water goes?
 
-You are the class expert on Theewaterskloof Dam, the river below it, and the rules about who gets water.
+You are the class expert on Theewaterskloof Dam, the river below it, and the rules about who gets water. Your hands-first job is to build the valley in sand.
 
-## What you need to know
+## Facts to meet
 
-Theewaterskloof Dam can hold up to 480 million cubic metres of water. One cubic metre is a box that is one metre long, one metre wide and one metre high. It holds 1,000 litres. So the dam can hold about 480 billion litres. It holds more than any other dam that supplies Cape Town. You will stamp this **Checked twice**.
+Choose three of these for your Field Book. Tie a thread to each one.
 
-### Two ways out
+- Theewaterskloof Dam holds up to 480 million cubic metres of water. One cubic metre is 1,000 litres. It holds more than any other dam that supplies Cape Town. [IC]
+- Water leaves the dam in two directions. West, through a tunnel, it goes to Cape Town. East, it goes down the Riviersonderend past Greyton and Genadendal, to farms and towns, and on to the sea at Witsand. [IC]
+- The Baviaans River at Genadendal and the Gobos River at Greyton join the Riviersonderend below the dam. [IC]
+- In the 2018 drought, farmers along the Riviersonderend received only 60% of the water they were allowed. [IC]
+- The state looks after all water for the people. The first share is called the Reserve. It is water for people's basic needs and for keeping rivers alive. [IC]
+- One source says only about 42% of the river's natural flow reaches the sea at Witsand. [MS]
+- Nobody has asked the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]] or the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]] whether they would count our valley's water. [TBV]
 
-Water leaves the dam in two directions.
+**Words to meet:** cubic metre (a box of water one metre on every side), Reserve (the first share of water, kept for people and for the river itself), release (letting water out of a dam).
 
-- **West:** through a tunnel to Cape Town.
-- **East:** down the Riviersonderend, past Greyton and Genadendal, to farms and towns. The river then joins the Breede River and reaches the sea at Witsand.
+## Think of Europe
 
-Two smaller rivers join the Riviersonderend below the dam. They are the Baviaans River at Genadendal and the Gobos River at Greyton.
+In Europe, who could say yes or no to a boat on a river? Who could stop it, and who could let it pass? Now ask the same about our water. Who can say yes or no to a drop of water in our valley? Bring your answer from main lesson.
 
-All of this is **Checked twice**.
+## Week 1
 
-### Dry years
+You have about two hours on your own.
 
-In the 2018 drought, farmers along the Riviersonderend received only 60% of the water they were allowed. This is **Checked twice**.
+**Do**
 
-### Who owns the water?
+1. **Build the valley in sand (50 minutes).** Use a big tray or baking dish. Shape sand or soil and clay into a mountain at one end. Add the dam, a straw for the tunnel to Cape Town going west, and a river going east. Put the Baviaans and Gobos rivers in as two small streams that join the river below the dam. Pour a jug of water slowly on the mountain and watch where it goes.
+2. **Ask at home (10 minutes).** Ask a grown-up where the water at your house comes from. Write down what they say in one sentence.
 
-In South Africa the state looks after all water for the people. The first share is called the **Reserve**. It is water for people's basic needs and for keeping rivers alive. This is **Checked twice**.
+**Tell**
 
-One source says only about 42% of the river's natural flow reaches the sea at Witsand. You will stamp this **Their own word**, because you only know it from that one source.
+3. **Tell it back (15 minutes).** Tell a grown-up the story of one drop of rain landing on your mountain. Say where it goes and who decides.
 
-### What nobody knows yet
+**Think**
 
-Our valley's streams might add water to the river below the dam. If the people who run the dam agreed to count that water, the dam might need to release less. The saved water could go to Cape Town.
-
-Nobody has asked the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]] or the catchment agency whether they would agree. So you must never write that they would. You will stamp this idea **Not yet checked**.
-
-### Words to know
-
-- **Cubic metre:** a box of water one metre on every side.
-- **Reserve:** the first share of water, kept for people and for the river itself.
-- **Catchment agency:** a government body that looks after the water in a river area.
-- **Release:** letting water out of a dam.
-
-## Who you will study
-
-- Zonderend Water Users Association (on the Register)
-- Department of Water and Sanitation
-- [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]]
-- [[organisations/overberg-water-board|Overberg Water Board]]
-- [[organisations/city-of-cape-town|City of Cape Town]]
-
-## The three stamps
-
-- [IC] **Checked twice:** two separate sources agree, or an official record says so.
-- [MS] **Their own word:** it comes from the person or group the fact is about.
-- [TBV] **Not yet checked:** it seems likely, but nobody has confirmed it.
-
-## Week 1 homework
-
-This should take about two hours.
-
-**1. Read this page twice (15 minutes).** Write down every word you don't know.
-
-**2. Draw a water map (35 minutes).** Use a big sheet of paper. Draw the mountain, the dam, the tunnel to Cape Town, the Riviersonderend, Greyton, Genadendal, the Breede River and Witsand. Show the Baviaans and Gobos rivers joining the Riviersonderend. Use blue arrows for the water's path. In Week 2 you will build this map on the floor with rope and cloth.
-
-**3. Ask at home (15 minutes).** Ask a grown-up where the water at your house comes from. Write down what they tell you. Stamp it **Their own word**.
-
-**4. Write ten fact cards (40 minutes).** Use a card like this for each one:
-
-| | |
-|---|---|
-| The fact, in one sentence | |
-| Stamp | Checked twice / Their own word / Not yet checked |
-| Where it comes from | |
-| What would move it up one level | |
-
-- Write at least six facts from this page.
-- Write at least two facts from the Register page for the [Zonderend Water Users Association](https://df.valleyofgrace.co.za/economic/farmers-land-water/zonderend-water-users-association).
-- Write one fact from your talk at home.
-- Write one more fact of your own choice.
-
-**5. Write five questions you want answered (15 minutes).** One of them should be about who decides how much water a farm gets.
+4. **Your Field Book page (25 minutes).** Draw your sand model from above. Use blue arrows for the water's path. Write the name of each place.
+5. **Three facts (10 minutes).** Choose three facts from the list and tie a thread to each: blue, yellow or red. Add your answer from home, with a yellow thread.
+6. **Think of Europe (10 minutes).** Write two sentences in answer to the question above.
 
 ## Bring to Week 2
 
-Your water map, your ten fact cards, your five questions and your list of new words.
+Your Field Book page, a photo of your sand model, and your answer about Europe.
 
 ## Remember
 

@@ -5,88 +5,60 @@ aliases:
   - ayden
 ---
 
-This is your own page for the Water for the Valley project. New homework is added above the old homework each week. Right now we're at Week 1.
+This is your own page for the Water for the Valley project. New work is added above the old work each week. Right now we're at Week 1.
 
-You may use AI for your project or use the search bar in the top left-hand corner of every page. Copy and paste this link into every AI chat: https://df.valleyofgrace.co.za/cultural/education/project/llms.txt. 
+You may use an AI helper. Copy and paste this link into the chat: https://df.valleyofgrace.co.za/cultural/education/project/llms.txt. It can check a fact or explain a hard word. Your Field Book is yours to draw and write.
 
 If you want to see what the whole project will become, see [[index|Water for the Valley: Your Term 4 Project]]
 
-You and Evan share the theme The Bond. You each have your own page and your own focus. Evan follows the money. Ayden, you follow the checking. In Week 2 you will put your work together.
+You and Evan share the theme The Bond. Evan follows the money. Ayden, you follow the checking. In Week 2 you will run the Bean Bond game together for the class, and you will be the Checker.
 
 ## Your question
 
 How does anyone prove that clean water has really been delivered, so that investors will trust the bond?
 
-## What you need to know
+Your hands-first job is to measure a flow of water with a friend, and to see how two measurers can disagree.
 
-A bond is a loan. A bank or a government borrows money from many investors and promises to pay it back with extra.
+## Facts to meet
 
-The Cape Water Performance-Based Bond was listed on the Johannesburg Stock Exchange on 17 April 2026. It is worth R2.5 billion and was issued by [[organisations/firstrand-bank|FirstRand Bank]]. Part of what it pays investors depends on checked results from clearing invasive plants in Cape Town's mountain catchments. You will stamp these facts **Checked twice**.
+Choose three of these for your Field Book. Tie a thread to each one.
 
-### Two important words
+- A bond is a loan. A bank or a government borrows money from many investors and promises to pay it back with extra.
+- The Cape Water Performance-Based Bond was listed on the Johannesburg Stock Exchange on 17 April 2026. It was issued by [[organisations/firstrand-bank|FirstRand Bank]]. Part of what it pays depends on checked results from clearing invasive plants. [IC]
+- Performance-based means the payment depends on what is measured. If the result is good, investors earn more. If the result is missed, they earn less.
+- Verified means someone independent checked the measurement. Independent means they have nothing to gain from the answer.
+- A company called [[organisations/conservation-alpha|Conservation Alpha]] checks the results for this bond. [MS]
+- The Forum says a service can be paid for through a bond only if it passes four tests. It needs a buyer. It needs a result you can measure. The people doing the work need a clear right to do it. A trusted body must sign the contracts and deliver. [MS]
+- Nobody has measured how much extra water clearing would add in our valley. [TBV]
 
-- **Performance-based** means the payment depends on what is measured. If the result is good, investors earn more. If the result is missed, they earn less.
-- **Verified** means someone independent checked the measurement. Independent means they have nothing to gain from the answer.
+**Words to meet:** verified (checked by someone independent), bankable (good enough that a bank or investor will put money into it), independent (having nothing to gain from the answer).
 
-The BioConomy wiki says a company called [[organisations/conservation-alpha|Conservation Alpha]] checks the results for this bond. You will stamp this **Their own word**, because we have only one source. Please check it again before we present.
+## Think of Europe
 
-### Four tests of a bankable service
+At a river market, how did a buyer know that a sack of grain weighed what the seller said? Who could they trust to weigh it? Now think about our water. Who could be trusted to weigh a stream? Bring your answer from main lesson.
 
-The Forum says a service can be paid for through a bond only if it passes four tests. You will stamp each one **Their own word**, because they come from one Forum page.
+## Week 1
 
-1. **A buyer.** Someone must be willing to pay for the result.
-2. **A measured result.** You must be able to count it.
-3. **A clear right to do the work.** The people doing it must be allowed to be on the land.
-4. **A trusted body.** Someone people trust must sign the contracts and deliver the work.
+You have about two hours on your own.
 
-### What nobody knows yet
+**Do**
 
-The bond pays for work in Cape Town's catchments. Nobody has asked the bond's organisers whether work in our valley could count. You will stamp this **Not yet checked**. As the checking expert, your job is to say what would have to be measured here, and by whom.
+1. **Measure a flow (40 minutes).** Find a tap, a hose or a small stream. Use a bucket marked in litres, or a big bottle you know the size of. Fill it for one minute while a parent times you. Write down how many litres you collected. Then ask a second person to do the same, without looking at your number. Compare the two numbers. Pour the water on the garden afterwards.
+2. **Make a certificate of delivery (25 minutes).** On a card, write what was measured, how, who measured, who checked and where it was done. Add a place for two signatures.
 
-### Words to know
+**Tell**
 
-- **Verified:** checked by someone independent.
-- **Bankable:** good enough that a bank or investor will put money into it.
-- **Catchment:** the land where rain drains into one river.
-- **Independent:** having nothing to gain from the answer.
+3. **Tell it back (10 minutes).** Tell a grown-up why two measurers are better than one. Ask them to tell you a time someone was paid only after a result was proven.
 
-## Who you will study
+**Think**
 
-All of these organisations are outside our valley: [[organisations/conservation-alpha|Conservation Alpha]], [[firstrand-bank|FirstRand Bank]], [[organisations/rand-merchant-bank|Rand Merchant Bank]], [[organisations/the-nature-conservancy-south-africa|the Nature Conservancy South Africa]], the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]], and the [[organisations/city-of-cape-town|City of Cape Town]].
-
-## The three stamps
-
-- [IC] **Checked twice:** two separate sources agree, or an official record says so.
-- [MS] **Their own word:** it comes from the person or group the fact is about.
-- [TBV] **Not yet checked:** it seems likely, but nobody has confirmed it.
-
-## Week 1 homework
-
-This should take about two hours.
-
-**1. Read this page twice (15 minutes).** Write down every word you don't know.
-
-**2. Make an everyday example (30 minutes).** Think of a time when a person is paid only if the result is proven. A teacher marking a test might be one. A gardener paid for a tidy garden might be another. Write a short story of one example. Say what is measured, who checks it, and who pays. Then match your story to the four tests.
-
-**3. Write ten fact cards (40 minutes).** Use a card like this for each one:
-
-| | |
-|---|---|
-| The fact, in one sentence | |
-| Stamp | Checked twice / Their own word / Not yet checked |
-| Where it comes from | |
-| What would move it up one level | |
-
-- Write at least eight facts from this page.
-- Write two more of your own. Ask a parent to help you find them if necessary.
-
-**4. Write five questions you want answered (15 minutes).** At least two should be about how water could be measured in a stream.
-
-**5. Tell it to a parent (10 minutes).** Explain "performance-based" and "verified" in your own words. Write down one thing that confused them.
+4. **Your Field Book page (25 minutes).** Draw what you measured. Put your two numbers beside it, with your certificate.
+5. **Three facts (10 minutes).** Choose three facts from the list and tie a thread to each: blue, yellow or red.
+6. **Think of Europe (10 minutes).** Write two sentences in answer to the question above.
 
 ## Bring to Week 2
 
-Your everyday example, your ten fact cards, your five questions and your list of new words.
+Your certificate, your two numbers, your Field Book page and your answer about Europe.
 
 ## Remember
 
