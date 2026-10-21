@@ -1,5 +1,5 @@
 ---
-title: The Municipality
+title: TWK Municipality
 description: "How the valley has been governed: Greyton's municipality from 1910, the boards that ran Genadendal from 1909, apartheid-era councils, the transitional councils of the 1990s, and Theewaterskloof Municipality since 2000."
 type: page
 tags:
@@ -36,7 +36,7 @@ For most of its history the valley had no single local government. Greyton had i
 | Greyton | A municipality from 1910; a transitional council in the 1990s [IC] |
 | Genadendal | Run by the missionaries until 1924, then by a secular board; later under the Rural Areas Act of 1987; a transitional council in the 1990s [IC] |
 | Since 2000 | Theewaterskloof Local Municipality, seated in Caledon [IC] |
-| Today | Under a Financial Recovery Plan approved by the Western Cape Government on 7 October 2025 [IC] |
+| Today | Under a [[rules/theewaterskloof-financial-recovery-plan\|Financial Recovery Plan]] approved by the Western Cape Government on 7 October 2025 [IC]. See [[organisations/theewaterskloof-municipality\|Theewaterskloof Municipality]] |
 
 ## Two ways of being governed
 
@@ -56,7 +56,7 @@ When TRANCRAA came into force in 1998, the municipality was given the first duty
 
 ## Financial recovery
 
-On 11 November 2024 the Western Cape Government announced an intervention in Theewaterskloof Municipality under section 139 of the Constitution [IC]. The province said the municipality had shown "prolonged financial instability, including mounting debt, severe cash flow issues, and challenges in revenue collection" [IC]. Revenue collection had fallen from over 95% in 2022/23 to 64% in August 2024 [IC]. The Western Cape Government approved a Financial Recovery Plan on 7 October 2025, with three phases: rescue, stabilisation, and sustainability [IC]. The plan reports that Genadendal accounts for about a fifth of the municipality's outstanding debt, and that many residents there hold that the land does not belong to the municipality [IC].
+On 11 November 2024 the Western Cape Government announced an intervention in Theewaterskloof Municipality under section 139 of the Constitution, citing "prolonged financial instability, including mounting debt, severe cash flow issues, and challenges in revenue collection" [IC]. It approved a binding Financial Recovery Plan on 7 October 2025 [IC]. The plan reports that Genadendal accounts for about a fifth of the municipality's outstanding debt, and that many residents there hold that the land does not belong to the municipality [IC]. What the plan requires, and what it means for Greyton and Genadendal, is on [[rules/theewaterskloof-financial-recovery-plan|Theewaterskloof Financial Recovery Plan]]. The municipality's finances, audits, leadership, and the investigations into it today are on [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]].
 
 ## The municipality and the Forum
 
@@ -75,6 +75,9 @@ Theewaterskloof Municipality's Economic Development office co-convened the first
 - [[history/history-of-greyton|History of Greyton]]
 - [[trancraa-process-farm-39|TRANCRAA and Farm 39]]
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]
+- [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality today]]
+- [[organisations/western-cape-government|Western Cape Government]]
+- [[rules/theewaterskloof-financial-recovery-plan|Theewaterskloof Financial Recovery Plan]]
 - [[history/institutions/moravian-church|Moravian Church]]
 - [[rules/municipal-structures-act|Municipal Structures Act]]
 - [[rules/municipal-systems-act|Municipal Systems Act]]
