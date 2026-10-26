@@ -4,119 +4,128 @@ title: For Students
 
 ## Water for the Valley
 
-Your Term 4 project for the next six weeks.
+Your Term 4 project, from 12 October to 20 November.
 
 ## The question you'll be answering
 
-How could our valley be paid for the water its land holds? And what must each person or group promise before a plan can go ahead?
+If our valley held more of the rain that falls on it, what work would that make, who would pay for it, and what must be true before we could start?
 
-A big bond called the Cape Water Performance-Based Bond pays for clearing invasive trees so that more water reaches Cape Town from Theewaterskloof Dam. We sit below the Dam, which means none of the water in our river ever reaches Cape Town. Nobody knows yet whether work we do in our valley could count towards that water bond.
-
-The project is to figure out a way to tap into that bond, and if it cannot be done, to say so honestly and explain what the blockages are.
-
-## How we work: Do, Tell, Think
-
-Each week follows the same three steps.
-
-1. **Do.** You use your hands first. You walk, pour, build, measure, paint, plant and play games with string and beans.
-2. **Tell.** Michael tells you a story, and you tell your own story back to a grown-up in your own words. You sleep on it, and then you tell it again.
-3. **Think.** Only then do you sort what you found, give it a stamp, and make up your mind.
-
-You do not need to read a lot before you start. The facts you need are on your page, and your guide tells the rest.
-
-## Your Field Book
-
-You keep one Field Book for the whole project. Every week you add:
-
-- one large drawing or painting of what you did, and
-- three facts written beside it, each tied with a coloured thread.
-
-**The stamp threads**
-
-- **Blue thread.** Checked twice. Two separate sources agree, or an official record says so. [IC]
-- **Yellow thread.** Their own word. It comes from the person or organisation the fact is about. [MS]
-- **Red thread.** Not yet checked. It seems likely, but nobody has confirmed it. [TBV] You can still use it, and then ask about it in an interview.
-
-Ask yourself about every fact: what would move it up one level?
-
-## Rivers and mountains
-
-In your Europe lessons you are meeting rivers as roads for trade and mountains as walls. We use both ideas all term.
-
-- A river carries things: logs, grain, news and money. What travels down our rivers, and what travels the other way?
-- A mountain holds travellers back. It also catches rain and snow and sends it down. It is a wall and a sponge at once.
-- A kloof is a gap in the mountains. Genadendal began as Baviaanskloof, a settlement in one of those gaps.
-
-Each page has a **Think of Europe** question. Bring your answer from main lesson.
+A big bond called the Cape Water Performance-Based Bond pays for clearing invasive trees so that more water reaches Cape Town from Theewaterskloof Dam. We sit below the dam, so the water in our rivers never reaches Cape Town. Nobody knows yet whether work in our valley could count towards that bond. If you find it can't, say so and explain what stands in the way.
 
 ## What we make together
 
-1. **A TIME map on the wall.** We mark the four corners of the room T, I, M and E. You carry a card for each organisation to the corner you think it belongs to, and you say why in one sentence. Only organisations go on the map, and individual people and whole communities stay off it.
-2. **A Pool Board woven in wool.** Each of you owns the card for your own organisations. You write what each organisation can *promise* and what it *needs* before the project can go ahead. You will use what you learned in Term 3 about Commitment Pooling.
-3. **A Partner.** You choose one organisation from the Ward 2 Development Forum's [[register|Register]] to work with, and you explain your choice.
-4. **A Story.** All eight of you tell it, together, to a panel. You choose who sits on the panel and you write the invitations. The story is told, acted, sung and shown. Every one of you has a part.
+1. **The Valley Map.** One big poster of our valley, made together in class. Each of you adds your own layer.
+2. **The Valley Water Plan.** A short plan for the work and money that could come from holding more water. Each of you writes one part of it on a plan card.
 
-You may use an AI helper. Copy and paste this link into the chat: https://df.valleyofgrace.co.za/cultural/education/project/llms.txt. The helper can check a fact for you or explain a hard word. The painting and the telling are yours. You can also use the search bar at the top left of every page at https://df.valleyofgrace.co.za/.
+At the end of the project we show the poster and tell the plan to your families and the school. Each of you tells your own part.
 
-## Your themes
+We won't be writing letters or holding a panel. You don't need to contact any organisation. Everything you need is on your page, in your Field Book, and at home.
 
-Each of you has picked a theme. Open your own page to see your Week 1 tasks.
+## How we work: Do, Tell, Think
 
-1. **The Sponge.** What does the land do with rain, and how could it hold more? ([[mikiya|Mikiya]])
-2. **The Dam and the Law.** Who decides where the valley's water goes? Who decides how much water can be taken from a river? ([[annabella|Annabella]])
-3. **The Bond and the Money.** How does a bond turn clean water into something people will pay for? ([[evan|Evan]] follows the money. [[ayden|Ayden]] follows the checking.)
-4. **Water Stewards Through History.** Who looked after the valley's water over the centuries, and how did they decide how much could be used? ([[zara|Zara]])
-5. **Hands for the Work.** Who would do the clearing and the retaining, and what would they need to learn? ([[gracey|Gracey]])
-6. **The Promise Pool.** How could many parties promise each other what none could do alone? ([[sam|Sam]] is the Weaver of the Pool Board.)
+1. **Do.** You use your hands first. You pour, build, measure, paint and plant.
+2. **Tell.** You tell what you did to a grown-up, in your own words.
+3. **Think.** Then you sort what you found, give it a thread, and make up your mind.
 
-## Your six weeks
+## Your Field Book
 
-Each week has two hours with Michael and two hours on your own. Your own hours are for making, asking and drawing.
+Every week you add one large drawing or painting of what you did, and three facts beside it, each tied with a thread.
 
-| Week | Name | With Michael | On your own |
-| ---- | ---- | ------------ | ----------- |
-| 1 | The Raindrop's Road | Walk to the river. Michael tells the story of a raindrop's road. We play the Rope Web and Fact or Hope. | Your hands-first task. Your first Field Book page. Tell it back. |
-| 2 | Who Lives Along the River | The Four Corners game puts the organisations on the TIME map. Evan and Ayden run the Bean Bond. | Write the first draft of a letter to one organisation. Your second Field Book page. |
-| 3 | Meet the People | Interviews and visits, with a teacher or parent. The panel invitations are finished. | Tell what you saw and heard. Your third Field Book page. Write your party's card for the Pool Board. |
-| 4 | Weave the Pool | We build the Pool Board in wool. We choose three possible partners and score them. We send each organisation what we wrote about it. | Test your card with the four questions. Your fourth Field Book page. |
-| 5 | Choose and Shape | We choose our partner together. We add the corrections organisations sent back. We shape the story into scenes. | Learn your part. Your fifth Field Book page. |
-| 6 | Tell It | Rehearse. Perform to the panel. Look back on what we found. | One last rehearsal. Your last page: what we still don't know. |
+- **Blue thread.** Checked twice. Two separate sources agree, or an official record says so. [IC]
+- **Yellow thread.** Their own word. It comes from the person or organisation the fact is about. [MS]
+- **Red thread.** Not yet checked. It seems likely, but nobody has confirmed it. [TBV]
 
-## The games
+Ask yourself about every fact: what would move it up one level?
 
-**Fact or Hope.** Michael reads a statement about the valley's water. You each hold up a thread: blue, yellow or red. Then you say what would move it up a level.
+## Your layer on the map
 
-**The Rope Web.** Each of you holds a card with an organisation on it. One of you says "I promise ... to ..." and rolls the ball of wool to the child you are promising. That child holds the wool, says what they need and what they promise, and rolls it on. The web grows until everyone holds a strand. Sam, the Weaver, asks the four questions of each promise.
+| Who | Your layer |
+| --- | ---------- |
+| [[annabella\|Annabella]] | The dam and the rivers, in blue |
+| [[mikiya\|Mikiya]] | Healthy land and damaged land, and the places we'd hold more water |
+| [[zara\|Zara]] | The old water places, each with its year |
+| [[gracey\|Gracey]] | Where the work would happen, and where people would learn it |
+| [[ayden\|Ayden]] | Where we'd measure the water |
+| [[evan\|Evan]] | The money road, in gold, running the opposite way to the water |
+| [[sam\|Sam]] | A flag for each organisation, in the colour of its TIME corner |
+| Everyone | Your own leaky dam, as a short brown bar across your gully |
 
-**The Four Corners.** The corners of the room are T (Tribes), I (Institutions), M (Markets) and E (Emergent). You carry a card to the corner where that organisation gets its way of deciding. Others may disagree, and you give your reason.
+On the map, a solid line means we have a fact for it. A dotted line means it's a guess.
 
-**The Bean Bond.** Evan is the bank. The class are the investors and pay in dried beans. The bank gives some beans to a restoration team to do a job. The bank promises the investors their beans back plus a bonus, but the bonus is paid only if Ayden, the checker, confirms the job was done. Every number is pretend.
+## Your leaky dam
 
-## Four rules
+In Week 3 every one of you finds a gully or a flood-damaged section of the river where you would build a leaky dam. A leaky dam is a low wall of stones, logs or packed branches across a gully. It slows rushing rainwater so it soaks into the soil, while some still leaks through to the stream below. Gully stuffing means packing branches into a gully to catch soil and water.
 
-**1. Every fact gets a stamp.** Before a fact goes into your story, give it a thread: blue, yellow or red.
+You find your site on the class map in Google Earth: https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing
 
-**2. You can only promise what you control.** Nobody promises for someone else. A need is a request. It turns into a promise when somebody says yes, they can deliver on it.
+Then you plan what you would build around your leaky dam, and what activities you would offer there. Your own page has the steps. Look on Google Earth only. Don't build anything there just yet.
 
-**3. Map what groups in the valley do.** Put organisations on the TIME map and say how each one gets its say.
+**Other ways the valley could earn.** Each of you also picks one of these. Each is an idea nobody has tested here, so give it a red thread.
 
-**4. A teacher or parent is always available.** You will write every letter yourself, and a teacher will send it and read the replies first. A teacher or parent will come with you to every interview or visit. Never put your phone number or home address in a letter. You can use the school's address.
+- Growing vegetables for restaurants and guesthouses in Greyton
+- A nursery selling young local plants for gardens and restoration work
+- Selling firewood, poles and wood chips from cleared pines and wattles
+- Making compost from cleared brush and garden waste
+- Honey from bees kept near the fynbos
+- Guided walks and hikes along restored streams
+- Teaching days for schools and visitors
+- A school-run farm stall or Saturday market for valley produce
+- Collecting seed from local plants for restoration projects
+- Furniture and crafts made from cleared wood
+- Paid work measuring rain and streams
 
-## Before you present about an organisation
+## Your plan card
 
-Everything you write about an organisation gets checked by them before you present anything. Ask: is this right? What would you change?
+Every one of you fills in the same card for your part of the plan. Start from your leaky dam. Put a drawing at the top.
 
-## The panel
+1. **What we would do.** One sentence.
+2. **Where.** Point to it on the map.
+3. **Who could do it.** An organisation can only be a "could", with a red thread. Nobody has agreed to anything.
+4. **What it gives the valley.** Water, work, money, learning or care for the land.
+5. **What must be true first.** Your open questions, each with a red thread.
 
-Real adults from groups doing work in the valley will play the roles of people connected to the bond. It is a practice run. Say so at the start of your presentation. Choose the roles you want on the panel first, then choose who could play each one. Send your invitations by the end of Week 3.
+The parts of the plan:
+
+1. Our valley's water (Annabella)
+2. Holding more water (Mikiya)
+3. What the valley did before (Zara)
+4. Who does the work (Gracey)
+5. Where the money comes from (Evan)
+6. How we would know (Ayden)
+7. Who promises what (Sam)
+8. Before we start (everyone, led by Sam)
+
+## The weeks ahead
+
+Each week has two hours with Michael, and two hours on your own afterwards. Your own page has your tasks for each week.
+
+| Week | Wednesday   | Name               | With Michael                                                                                                                             | On your own afterwards                                                                              |
+| ---- | ----------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 3    | 28 October  | Lay Out the Valley | We lay out the valley on a poster. We paint the base of the map.                                                                         | Your leaky dam on Google Earth. Your hands-first task. Your plan card in pencil. Field Book page 3. |
+| 4    | 4 November  | Hold the Water     | We look at everyone's leaky dam on Google Earth. You paint your layer onto the map. You tell your plan card. Sam runs the promise round. | Your final plan card. Field Book page 4.                                                            |
+| 5    | 11 November | Make the Plan      | We read the plan aloud and agree it. We finish the map.                                                                                  | Practise telling your part. Field Book page 5.                                                      |
+| 6    | To be set   | Show the Valley    | We show the map and tell the plan to families and the school.                                                                            | Your last page: what we still don't know.                                                           |
+
+**This week, before Friday 30 October.** Make sure you've made notes in your Field Book. This week, sketch your map layer on a sheet of paper. Your page tells you how.
+
+## Rivers and mountains
+
+In your Europe lessons you are meeting rivers as roads for trade and mountains as walls. A river carries things downstream. Money travels too, and it often goes the other way. Each page still has a **Think of Europe** question. Bring your answer from main lesson.
+
+## Rules
+
+1. **Every fact gets a thread.**
+2. **You can only promise what you control.** A need becomes a promise only when somebody says yes.
+3. **No organisation has agreed to anything.** Write "could", never "will".
+4. **Keep it in the family.** The Forum hasn't discussed this idea yet. Keep what you find with your class and family.
+5. **Leave land ownership alone.** The map shows places and water. If you find something about who owns land, tell your teacher first.
+
+You may use an AI helper. Copy and paste this link into the chat: https://df.valleyofgrace.co.za/cultural/education/project/llms.txt. It can check a fact or explain a hard word. The painting, the plan card and the telling are yours.
 
 ## When your project is finished
 
-- Every organisation on the TIME map has a reason for its place.
-- The Pool Board shows a promise and a need for every organisation, each with a thread.
-- The needs nobody has met are listed. These are what must happen before a plan can go ahead.
-- You have chosen one partner organisation to work with and can say why.
-- Every organisation has seen what you wrote about it.
-- Every one of you speaks, sings, acts or shows your work at some point in the story.
-- The story ends by naming what still needs to be answered or looked into.
+- The Valley Map has your layer and your leaky dam on it.
+- Your plan card is finished and agreed by the class.
+- Part 8 lists what must be true before the plan could start.
+- You have told or shown your part at the showing.
 - Your Field Book has a page for every week.

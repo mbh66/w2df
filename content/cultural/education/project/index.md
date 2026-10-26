@@ -1,6 +1,6 @@
 ---
 title: Class 6 Project
-description: Describes a project for Class 6 students to build on Commitment Pooling and create an application to the Cape Water Performance-Based Bond. It is a real-life introduction to Emergent Coordination.
+description: Describes a project for Class 6 students to build on Commitment Pooling and make a map of the valley with a simple economic plan based on water retention. It is a real-life introduction to Emergent Coordination.
 type: entry
 holon: Cultural
 category: Education
