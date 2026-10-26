@@ -6,6 +6,21 @@ title: For Students
 
 Your Term 4 project, from 12 October to 20 November.
 
+## Your layer on the map
+
+| Who                                                   | Your layer                                                         |
+| ----------------------------------------------------- | ------------------------------------------------------------------ |
+| [Annabella](https://df.valleyofgrace.co.za/annabella) | The dam and the rivers, in blue                                    |
+| [Mikiya](https://df.valleyofgrace.co.za/mikiya)       | Healthy land and damaged land, and the places we'd hold more water |
+| [Zara](https://df.valleyofgrace.co.za/zara)           | The old water places, each with its year                           |
+| [Gracey](https://df.valleyofgrace.co.za/gracey)       | Where the work would happen, and where people would learn it       |
+| [Ayden](https://df.valleyofgrace.co.za/ayden)         | Where we'd measure the water                                       |
+| [Evan](https://df.valleyofgrace.co.za/evan)           | The money road, in gold, running the opposite way to the water     |
+| [Sam](https://df.valleyofgrace.co.za/sam)             | A flag for each organisation, in the colour of its TIME corner     |
+| Everyone                                              | Your own leaky dam, as a short brown bar across your gully         |
+
+On the map, a solid line means we have a fact for it. A dotted line means it's a guess.
+
 ## The question you'll be answering
 
 If our valley held more of the rain that falls on it, what work would that make, who would pay for it, and what must be true before we could start?
@@ -36,21 +51,6 @@ Every week you add one large drawing or painting of what you did, and three fact
 - **Red thread.** Not yet checked. It seems likely, but nobody has confirmed it. [TBV]
 
 Ask yourself about every fact: what would move it up one level?
-
-## Your layer on the map
-
-| Who | Your layer |
-| --- | ---------- |
-| [[annabella\|Annabella]] | The dam and the rivers, in blue |
-| [[mikiya\|Mikiya]] | Healthy land and damaged land, and the places we'd hold more water |
-| [[zara\|Zara]] | The old water places, each with its year |
-| [[gracey\|Gracey]] | Where the work would happen, and where people would learn it |
-| [[ayden\|Ayden]] | Where we'd measure the water |
-| [[evan\|Evan]] | The money road, in gold, running the opposite way to the water |
-| [[sam\|Sam]] | A flag for each organisation, in the colour of its TIME corner |
-| Everyone | Your own leaky dam, as a short brown bar across your gully |
-
-On the map, a solid line means we have a fact for it. A dotted line means it's a guess.
 
 ## Your leaky dam
 

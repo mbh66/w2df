@@ -9,7 +9,7 @@ This is your own page for the Water for the Valley project. Your tasks for every
 
 You may use an AI helper. Copy and paste this link into the chat: https://df.valleyofgrace.co.za/cultural/education/project/llms.txt. It can check a fact or explain a hard word. Your Field Book, your map layer and your plan card are yours to make.
 
-To see what the whole class is making, see [[index|Water for the Valley: Your Term 4 Project]].
+To see what the whole class is making, see [[students/index|Water for the Valley: Your Term 4 Project]].
 
 > [!note] What changed on 26 October
 > We won't be writing letters or holding a panel. If you started a letter, keep it in your Field Book. The class now makes two things together: a **Valley Map**, as one combined poster we work on in class, and a short **Valley Water Plan**. You keep your theme. You add one layer to the map and write one part of the plan.
