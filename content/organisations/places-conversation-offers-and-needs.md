@@ -4,7 +4,7 @@ As of 27 October 2026. Prepared by Michael Haupt.
 
 ## Context
 
-Nine people met in Stellenbosch on 27 October 2026, convened by Johan Olivier of Ranyaka, to discuss his concept note "A Third Way of Investing in Places" (V1, 28 September 2026). The note names Stellenbosch as the first demonstration place, with Stanford and Genadendal/Greyton as the other two under consideration. Everyone present confirmed a desire to work toward place-based economies, and all have agreed to visit the Valley of Grace as a potential prototype.
+Nine people met in Stellenbosch on 27 October 2026, convened by Johan Olivier of [[ranyaka-community-transformation|Ranyaka]], to discuss his concept note "A Third Way of Investing in Places" (V1, 28 September 2026). The note names Stellenbosch as the first demonstration place, with Stanford and Genadendal/Greyton as the other two under consideration. Everyone present confirmed a desire to work toward place-based economies, and all have agreed to visit the Valley of Grace as a potential prototype.
 
 Read the concept note: [[a-third-way-of-investing-in-places-v1.pdf|A Third Way of Investing in Places (V1, 28 September 2026, PDF)]].
 
