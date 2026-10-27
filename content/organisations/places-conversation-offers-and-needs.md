@@ -1,4 +1,17 @@
-# Places Conversation: Offers and Needs
+---
+title: "Ranyaka Places Conversation: Offers and Needs"
+description: Who took part in Ranyaka's Places Conversation in Stellenbosch on 27 October 2026, with best guesses at what each person offers and needs for place-based economies, and where those meet.
+type: page
+tags:
+  - lang/en
+date: 2026-10-27
+draft: false
+right_of_reply: pending
+aliases:
+  - Places Conversation
+links:
+  - https://ranyaka.co.za
+---
 
 As of 27 October 2026. Prepared by Michael Haupt.
 
