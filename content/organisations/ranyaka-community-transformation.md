@@ -52,13 +52,13 @@ Ranyaka says it pursues "collective, holistic and sustainable positive impact" a
 
 - **2024.** Ranyaka held community sessions across the valley [MS].
 - **The concept paper.** Its paper describes a thin shared layer that holds knowledge of a place and the skills to turn money into lasting value [MS]. Ranyaka is exploring Stellenbosch as its first demonstration place, with Nedbank and local partners, around an indicative budget of R4.5 million a year [MS]. The paper names Stanford and Genadendal and Greyton as other areas it is looking at [MS]. The paper is a draft (version 1). Ranyaka has agreed that the Forum may share it: [[a-third-way-of-investing-in-places-v1.pdf|read the concept paper (PDF)]].
-- **27 October 2026.** Ranyaka convened a Places Conversation on the paper in Stellenbosch, which the Forum's convenor attended [MS]. See [[organisations/places-conversation-offers-and-needs|Places Conversation: Offers and Needs]].
+- **27 October 2026.** Ranyaka convened a Places Conversation on the paper in Stellenbosch, which the Forum's convenor attended [MS]. See [[ranyaka-places-conversation|Places Conversation: Offers and Needs]].
 
 ## Where it touches this site
 
 - [[concepts/ridge-to-river-to-table|Ridge to River to Table]], an idea not yet agreed, which answers Ranyaka's paper.
 - [[history/history-of-the-valley|History of the Valley]], which records the 2024 sessions.
-- [[organisations/places-conversation-offers-and-needs|Places Conversation: Offers and Needs]], from the 27 October 2026 meeting on the paper.
+- [[ranyaka-places-conversation|Places Conversation: Offers and Needs]], from the 27 October 2026 meeting on the paper.
 
 ## What is still open
 
