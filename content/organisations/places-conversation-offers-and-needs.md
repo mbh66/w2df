@@ -13,7 +13,6 @@ links:
   - https://ranyaka.co.za
 ---
 
-As of 27 October 2026. Prepared by Michael Haupt.
 
 ## Context
 
