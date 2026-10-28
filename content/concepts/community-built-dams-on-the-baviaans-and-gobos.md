@@ -44,6 +44,8 @@ updated: 2026-10-28
 
 **Water the valley already depends on.** In 1899 the Moravian Church bought the mountain farm Langgezocht, about 1,881 hectares, to protect Genadendal's water sources [MS]. Since 1854 Greyton's leiwater furrows have carried water from the Gobos to the plots that hold a water right [MS]. See [[history/leiwater|Greyton's Leiwater]].
 
+**The dam Genadendal already has.** An earth dam of about 2.5 hectares lies at the foot of the mountain about 1.4 km east of the Genadendal church, above the road to Boschmanskloof [MS]. Its water stands at about 320 metres above sea level [MS]. It is fed by a poorly maintained pipe from the Baviaans, and by a diesel pump that runs 24 hours a day, lifting water from the river below the dam [MS]. Who owns and runs it, and what its water is used for, has not been confirmed [TBV]. A dam higher up the Baviaans kloof, such as B2 at about 506 metres, could send water down to it by gravity and cut the need to pump.
+
 **Water that must stay in the rivers.** In August 2022 the Minister set the Reserve for the Breede and its tributaries, including the Riviersonderend, the Gobos, and the Baviaans [IC]. The Reserve is the water a river must keep for people's basic needs and for its own health, and it comes before other uses [IC]. See [[rules/national-water-act|National Water Act]].
 
 **Children are already looking for sites.** In the [[cultural/education/project/index|Class 6 Project]], each child uses Google Earth to find a gully in the valley where they would build a leaky dam [MS].
@@ -143,6 +145,7 @@ It serves two of the Forum's [[priorities/index|priorities]]: [[priorities/conse
 ## What is still open
 
 - **The land.** Who holds the land at each site. The Transformasie Komitee and the Moravian Church have not been asked about the Baviaans sites. The municipality and the Greyton Conservation Society have not been asked about the Gobos sites.
+- **The existing dam.** Who owns and runs the dam east of Genadendal, what its water is used for, what the diesel pumping costs each month, and how a new dam upstream would tie in with it.
 - **Leiwater.** How a dam on the Gobos would affect the flow that feeds Greyton's furrows. The holders of leiwater rights have not been asked.
 - **Whether the dams would fill.** How much water each kloof gives in a year. The study did not look at rainfall or river flow.
 - **The law.** Which permissions each size of dam would need. The catchment agency has not been asked.

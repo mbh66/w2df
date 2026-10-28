@@ -29,9 +29,9 @@ At the end of the project the children show the poster and tell the plan to thei
 
 Each child keeps a **Field Book**, in the style of their main lesson books. Every week they add one large drawing or painting and three facts, each tied with a coloured thread: blue (checked twice), yellow (the organisation's own word) or red (not yet checked).
 
-## Kinship Fridays
+## Wednesday sessions
 
-The guided sessions take place on Fridays, when the children are outdoors all day at Kinship. Please send your child dressed for the weather.
+The guided sessions take place on Wednesdays. Part of each session is outdoors, so please send your child dressed for the weather.
 
 ## The weeks ahead at home
 
@@ -49,13 +49,13 @@ Every child needs a computer or tablet for the leaky dam task in Week 3.
 | Gracey | Where the work happens; Who does the work | Her seedling from Week 1, and a few minutes to tell her what you had to learn for your own work |
 | Sam | Organisation flags; Who promises what | Cards, coloured markers, and family members willing to play a party |
 
-| Week | Friday | Name |
+| Week | Date | Name |
 | ---- | ------ | ---- |
 | 1 | 16 October | The Raindrop's Road |
 | 2 | 23 October | Who Lives Along the River |
-| 3 | 30 October | Lay Out the Valley |
-| 4 | 6 November | Hold the Water |
-| 5 | 13 November | Make the Plan |
+| 3 | 28 October | Lay Out the Valley |
+| 4 | 4 November | Hold the Water |
+| 5 | 11 November | Make the Plan |
 | 6 | To be confirmed | Show the Valley |
 
 ## Safeguards

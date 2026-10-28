@@ -16,7 +16,7 @@ Prepared by Michael Haupt. Version 1 was dated 8 October 2026 and version 2 was 
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Learners**                | The Class 6 students at Silverwood Primary, English-speaking.                                                                                                                           |
 | **Dates**                   | 12 October to 20 November 2026. Six weeks.                                                                                                                                              |
-| **Time**                    | Four hours a week: about two hours on their own and two with the guide (Michael Haupt). The guided session is on the Friday, during Kinship, when the children are outdoors all day.     |
+| **Time**                    | Four hours a week: about two hours on their own and two with the guide (Michael Haupt). The guided session is on the Wednesday.                                                            |
 | **Method**                  | Do, Tell, Think. A Field Book with one page a week. Three facts a week, each tied with a thread: blue, yellow or red.                                                                    |
 | **Driving question**        | If our valley held more of the rain that falls on it, what work would that create, who would pay for it, and what must be true before we could start?                                    |
 | **What the class makes**    | 1. The Valley Map: one combined poster, made in class, with a layer from every child. <br>2. The Valley Water Plan: one part from every child, each part on a single plan card.                      |
@@ -32,14 +32,14 @@ The children may conclude that the valley's water can earn its keep, or that it 
 3. **The idea is not yet agreed in real life.** The Ward 2 Development Forum has not discussed it. The map and the plan stay within the class and the families until the Forum has.
 4. **Land.** Nothing about who owns land, Farm 39, Langgezocht's ownership or Madiba Park goes on the map or into the plan. The map marks places and water. It does not mark ownership. Zara brings any such finding to her teacher first.
 5. **Honest claims.** Every fact wears a thread. On the map, a solid line or mark means the class has a fact for it. A dotted line or mark means it is a guess.
-6. **Outdoors.** Silverwood's outdoor rules apply at the river on Kinship days.
+6. **Outdoors.** Silverwood's outdoor rules apply at the river and on every outdoor task.
 
 ## 3. How the project works
 
 ### Do, Tell, Think
 
 - **Do.** Hands first: walking, pouring, building, measuring, painting and planting.
-- **Tell.** You tell a story at Kinship. During the week each child tells their own work back to a grown-up in their own words.
+- **Tell.** You tell a story in the guided session. During the week each child tells their own work back to a grown-up in their own words.
 - **Think.** Only then do the children sort what they found, choose threads and make up their minds.
 
 ### The Field Book and the threads
@@ -70,7 +70,7 @@ For every fact the children also ask: what would move it up one level?
 
 **Before Week 3.** Trace a light pencil outline from a printed map: the dam, the Riviersonderend, the Baviaans and Gobos rivers, the mountains, and the towns of Genadendal, Greyton and Riviersonderend. Leave the rest for the children.
 
-**Google Earth.** The class map is at https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing. Each child sends you the numbers Google Earth shows for their leaky dam site. Pin each site in the shared project before Friday 6 November, so the class can see all of them together.
+**Google Earth.** The class map is at https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing. Each child sends you the numbers Google Earth shows for their leaky dam site. Pin each site in the shared project before Wednesday 4 November, so the class can see all of them together.
 
 **How it is built.**
 
@@ -133,18 +133,18 @@ Part 8 is the honest answer to "can the valley tap into the bond?" It names what
 
 Weeks 1 and 2 are done. In Week 1 the class walked to the river, heard the raindrop story, played the Rope Web and Fact or Hope, and chose themes. In Week 2 they played the Four Corners and the Bean Bond.
 
-The guided session is on Friday. The children's own work follows in the days after it and comes back the next Friday.
+The guided session is on Wednesday. The children's own work follows in the days after it and comes back the next Wednesday.
 
-| Week | Kinship Friday | Name | With the guide | On their own afterwards |
+| Week | Wednesday      | Name | With the guide | On their own afterwards |
 | ---- | -------------- | ---- | -------------- | ----------------------- |
-| 3 | 30 October | Lay Out the Valley | Annabella leads the drawing of the dam and rivers on the poster. Mikiya's tray demonstration. Paint the base of the poster | Their leaky dam on Google Earth. A hands-first task for their theme. A first plan card in pencil. Field Book page 3 |
-| 4 | 6 November | Hold the Water | Leaky dam gallery on Google Earth. Each child adds their layer to the map. Each child tells their plan card. Sam runs a promise round for the plan | Final plan card. Field Book page 4 |
-| 5 | 13 November | Make the Plan | Read the plan aloud and agree it. Gather Part 8. Finish the map and its key | Practise telling their part in two minutes. Field Book page 5 |
+| 3 | 28 October | Lay Out the Valley | Annabella leads the drawing of the dam and rivers on the poster. Mikiya's tray demonstration. Paint the base of the poster | Their leaky dam on Google Earth. A hands-first task for their theme. A first plan card in pencil. Field Book page 3 |
+| 4 | 4 November | Hold the Water | Leaky dam gallery on Google Earth. Each child adds their layer to the map. Each child tells their plan card. Sam runs a promise round for the plan | Final plan card. Field Book page 4 |
+| 5 | 11 November | Make the Plan | Read the plan aloud and agree it. Gather Part 8. Finish the map and its key | Practise telling their part in two minutes. Field Book page 5 |
 | 6 | To be set | Show the Valley | Show the map and tell the plan to families and the school | The last Field Book page: what we still don't know |
 
-**This week (26 to 30 October).** The Week 2 homework was a letter draft. That task is withdrawn. If a child has started a letter, it stays in their Field Book as a record of what they wanted to ask. In its place, each child sketches their map layer on a sheet of paper and brings it on Friday 30 October, with Field Book page 2.
+**This week (26 to 28 October).** The Week 2 homework was a letter draft. That task is withdrawn. If a child has started a letter, it stays in their Field Book as a record of what they wanted to ask. In its place, each child sketches their map layer on a sheet of paper and brings it on Wednesday 28 October, with Field Book page 2.
 
-### Week 3: Lay Out the Valley (Friday 30 October)
+### Week 3: Lay Out the Valley (Wednesday 28 October)
 
 - Recall: each child shows their map-layer sketch and Field Book page 2.
 - Annabella leads the class in drawing the dam, the tunnel and the rivers on the poster outline. Each child points to where their layer goes.
@@ -154,7 +154,7 @@ The guided session is on Friday. The children's own work follows in the days aft
 - Hand out blank plan cards (section 5).
 - Introduce the leaky dam: build a small one from stones and cut branches across a channel dug in a sandpit or a bare patch of ground, pour water above it and watch it slow and spread. Then show the class map on Google Earth and how to read the numbers at the bottom of the screen.
 
-### Week 4: Hold the Water (Friday 6 November)
+### Week 4: Hold the Water (Wednesday 4 November)
 
 - Recall: each child shows their pencil plan card and the result of their hands-first task.
 - Leaky dam gallery: open the class map with every child's site pinned. Each child says in one minute why they chose the spot, what they would build and which activities they would offer. The others ask one question each. Add each site to the Valley Map as a brown bar.
@@ -162,7 +162,7 @@ The guided session is on Friday. The children's own work follows in the days aft
 - The promise round. A shorter Rope Web: each child holds the card for their part of the plan and says "For this part, I promise ... and I need ...". Sam asks the four questions of two or three promises (section 7) and writes every unmet need on the wall in red.
 - Each child names one thing they would change on their card.
 
-### Week 5: Make the Plan (Friday 13 November)
+### Week 5: Make the Plan (Wednesday 11 November)
 
 - Recall: each child shows their final plan card.
 - Read the plan aloud in order, Parts 1 to 7, and agree it (section 5).
@@ -280,7 +280,7 @@ Each student page keeps its "Think of Europe" question. In Recall, ask one child
 | Who | What is needed |
 | --- | -------------- |
 | Every child | A computer or tablet with a grown-up, for Google Earth |
-| The class | Stones and cut branches for the leaky dam at Kinship. A large sheet of paper with the traced outline, paints, brushes, blank plan cards, blue, yellow and red wool cut into threads, a ball of wool for the promise round |
+| The class | Stones and cut branches for the leaky dam. A large sheet of paper with the traced outline, paints, brushes, blank plan cards, blue, yellow and red wool cut into threads, a ball of wool for the promise round |
 | Mikiya | Two trays, soil, compost or leaf litter, a jug, two cups |
 | Annabella | Her sand model from Week 1, if it survived |
 | Evan | Dried beans, paper |

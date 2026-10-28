@@ -106,7 +106,7 @@ Each week has two hours with Michael, and two hours on your own afterwards. Your
 | 5    | 11 November | Make the Plan      | We read the plan aloud and agree it. We finish the map.                                                                                  | Practise telling your part. Field Book page 5.                                                      |
 | 6    | To be set   | Show the Valley    | We show the map and tell the plan to families and the school.                                                                            | Your last page: what we still don't know.                                                           |
 
-**This week, before Friday 30 October.** Make sure you've made notes in your Field Book. This week, sketch your map layer on a sheet of paper. Your page tells you how.
+**This week, before Wednesday 28 October.** Make sure you've made notes in your Field Book. This week, sketch your map layer on a sheet of paper. Your page tells you how.
 
 ## Rivers and mountains
 
