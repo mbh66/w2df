@@ -53,9 +53,12 @@ A way of reading the Western Cape's 2050 infrastructure plans for what the valle
 ### [[concepts/community-built-dams-on-the-baviaans-and-gobos|Community-Built Dams on the Baviaans and Gobos]]
 Small dams the valley could build itself: leaky dams in side gullies and low walls in the mountain kloofs above Genadendal and Greyton, based on a first map study. Not yet set down for a Forum meeting.
 
+### [[concepts/why-alien-clearing|Why Alien Clearing?]]
+Why the Cape Water bond pays for clearing invasive trees, what research says about holding water in the land, and a proposed pilot to measure it on the valley's 11,194 hectares. To be tabled at the November 2026 meeting.
+
 ## How these fit together
 
-All eleven ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
+All twelve ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
 
 ## Have your say
 

@@ -28,7 +28,7 @@ links:
   - https://www.saflii.org/za/cases/ZAWCHC/2019/95.html
   - https://www.parliament.gov.za/news/committee-receives-briefing-progress-and-challenges-facing-trancraa-communities
   - https://pmg.org.za/committee-question/8475/
-updated: 2026-09-28
+updated: 2026-10-28
 ---
 
 > [!warning] For the Genadendal Transformasie Komitee to review
@@ -79,7 +79,7 @@ In 2014 the Land Claims Court held that TRANCRAA is a land reform law. It does n
 - [[history/genadendal-a-long-walk|Balie's history of Genadendal]] says the land was surveyed in November 1857 by J. Kuys, at 5,644 morgen and 289 square roods, and granted in trust to the church's superintendent on 15 February 1858 [MS]. It says many residents rejected the grant because the superintendent was the only trustee, and they held that the land had belonged to their Khoi ancestors [MS]. On one page it dates the grant to 1856 [MS]. It also records a case over land ownership brought against the mission in the Supreme Court at the end of the 1800s, and another brought by a group of residents known as the Magermans in 1924 [MS].
 - In 1909 a new law placed mission land under management boards. Residents kept occupation rights, but could not become owners [IC].
 - In 1927 about 70 hectares at the core of Genadendal and Bereaville, known as the Glebe Lands, were granted to the Moravian Church [IC]. They sit outside the TRANCRAA process [IC].
-- The size of Farm 39 depends on which record is used. The consultants' 2010 report gives 4,772.97 hectares for the original farm, and 4,641.45 hectares in the title deeds [IC]. A 2019 court judgment gives 4,515.53 hectares [IC]. Forum documents use "about 4,800 hectares" [MS]. The survey of 1857, at 5,644 morgen and 289 square roods [MS], is roughly 4,830 hectares at about 0.857 hectares to the morgen (this page's own conversion).
+- The size of Farm 39 depends on which record is used. The consultants' 2010 report gives 4,772.97 hectares for the original farm, and 4,641.45 hectares in the title deeds [IC]. A 2019 court judgment gives 4,515.53 hectares [IC]. Forum documents have used "about 4,800 hectares" [MS]. The Surveyor-General's records give 4,498.09 hectares [IC], and this site now uses that figure. The survey of 1857, at 5,644 morgen and 289 square roods [MS], is roughly 4,830 hectares at about 0.857 hectares to the morgen (this page's own conversion).
 - The four township areas cover about 342 hectares [IC]. The rest, about 4,430 hectares, is the Remainder [IC].
 - A 2005 survey confirmed the fence between Genadendal and Greyton as the boundary [IC].
 
@@ -282,6 +282,10 @@ If you are a Farm 39 resident, or represent a body named here, and want to add o
 - [[rules/interim-protection-of-informal-land-rights-act|Interim Protection of Informal Land Rights Act]]
 
 ## References
+
+### Land records:
+
+- Chief Surveyor-General. Cadastral record for Farm 39, shown on a [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The area of 4,498.09 hectares.
 
 ### The law:
 

@@ -23,7 +23,7 @@ links:
 updated: 2026-10-28
 ---
 
-> **This idea is not yet agreed.** Nobody named on this page has been asked about it yet. That includes the Transformasie Komitee, the Moravian Church, [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], the [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]], the holders of Greyton's leiwater rights, the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], and the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]]. **Please do not share this page publicly yet.** No date has been set for tabling it at a Forum meeting.
+> **This idea is not yet agreed.** Nobody named on this page has been asked about it yet. That includes the Transformasie Komitee, the Moravian Church, [[organisations/capenature|CapeNature]], [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], the [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]], the holders of Greyton's leiwater rights, the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], and the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]]. **Please do not share this page publicly yet.** No date has been set for tabling it at a Forum meeting.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -42,7 +42,7 @@ updated: 2026-10-28
 
 **Two rivers from the mountains.** The Baviaans comes down the kloof above Genadendal, and the Gobos comes out of the mountains northeast of Greyton [MS]. Both run into the Riviersonderend below Theewaterskloof Dam [IC].
 
-**Water the valley already depends on.** In 1899 the Moravian Church bought the mountain farm Langgezocht, about 1,881 hectares, to protect Genadendal's water sources [MS]. Since 1854 Greyton's leiwater furrows have carried water from the Gobos to the plots that hold a water right [MS]. See [[history/leiwater|Greyton's Leiwater]].
+**Water the valley already depends on.** In 1899 the Moravian Church bought the mountain farm Langgezocht to protect Genadendal's water sources [MS]. Langgezocht is Farm 32, 1,835.56 hectares in the Surveyor-General's records [IC], and it is now [[organisations/capenature|CapeNature]] land [MS]. Since 1854 Greyton's leiwater furrows have carried water from the Gobos to the plots that hold a water right [MS]. See [[history/leiwater|Greyton's Leiwater]].
 
 **The dam Genadendal already has.** An earth dam of about 2.5 hectares lies at the foot of the mountain about 1.4 km east of the Genadendal church, above the road to Boschmanskloof [MS]. Its water stands at about 320 metres above sea level [MS]. It is fed by a poorly maintained pipe from the Baviaans, and by a diesel pump that runs 24 hours a day, lifting water from the river below the dam [MS]. Who owns and runs it, and what its water is used for, has not been confirmed [TBV]. A dam higher up the Baviaans kloof, such as B2 at about 506 metres, could send water down to it by gravity and cut the need to pump.
 
@@ -132,7 +132,7 @@ Nothing has been costed [MS]. Leaky dams cost little more than labour and local 
 
 ## Who would decide
 
-- **On the Baviaans:** the kloof above Genadendal lies on Farm 39 land or on Langgezocht, the mountain farm the Moravian Church bought to protect Genadendal's water [TBV]. Any work there goes to the Transformasie Komitee first. See [[villages/farm-39|Farm 39]].
+- **On the Baviaans:** the kloof above Genadendal lies on Farm 39 land or on Langgezocht (Farm 32), now CapeNature land [TBV]. Work on Farm 39 goes to the Transformasie Komitee first. Work on Langgezocht needs CapeNature's approval [MS]. See [[villages/farm-39|Farm 39]].
 - **On the Gobos:** the kloof northeast of Greyton may lie inside the Greyton Nature Reserve, which Theewaterskloof Municipality manages with support from the Greyton Conservation Society [TBV]. Holders of Greyton's leiwater rights draw on the same river [MS].
 - **Water use:** the Breede-Olifants Catchment Management Agency and the Department of Water and Sanitation, under the National Water Act.
 
@@ -180,6 +180,7 @@ Contact the moderators via [[how-to-submit|How to Submit]], or raise the idea at
 
 ## References
 
+- Chief Surveyor-General. Cadastral record for Farm 32 (Langgezocht), shown on a [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The area of 1,835.56 hectares.
 - Parliament of South Africa. [National Water Act 36 of 1998](https://lawlibrary.org.za/akn/za/act/1998/36). LawLibrary. Section 117, the meaning of a dam with a safety risk, and section 120, registration.
 - Department of Water and Sanitation. [National Water Act, Chapter 12: Safety of Dams](https://www.dws.gov.za/IWQS/nwa/tmp_Chapter_12.html). The 50,000 cubic metre and 5 metre limits, and the duty to register.
 - SAnews. [Dam owners called to register their dams within 60 days](https://www.sanews.gov.za/node/72202) (29 November 2024). The same limits, as the Department explained them to dam owners.

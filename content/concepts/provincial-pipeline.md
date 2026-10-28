@@ -12,7 +12,7 @@ tags:
   - priority/business-procurement
   - lang/en
 date: 2026-10-28
-draft: true
+draft: false
 right_of_reply: pending
 komitee_review: pending
 aliases:

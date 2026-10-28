@@ -16,7 +16,7 @@ aliases:
   - Kaapse Waterobligasie
 links:
   - https://wiki.bioconomy.earth/research/cape-water-bond-co-anchor-investors
-updated: 2026-10-14
+updated: 2026-10-28
 ---
 
 The Cape Water bond is a big loan with a bonus. In April 2026 FirstRand Bank borrowed R2.5 billion from investors [IC]. Like any loan, the bank pays it back with interest. The new part is a bonus: the lenders earn it only if an independent checker confirms that alien trees really were cleared from the mountains that fill Cape Town's dams [MS]. This page explains how it works in plain words. The valley isn't yet part of this bond, but it shows that someone will now pay for proven work in nature.
@@ -44,7 +44,7 @@ The clearing itself is paid for separately. The Nature Conservancy receives R150
 | --- | --- | --- |
 | The borrower | [[organisations/firstrand-bank\|FirstRand Bank]], with [[organisations/rand-merchant-bank\|Rand Merchant Bank]] putting the deal together | Borrows the money and pays it back with interest [MS] |
 | The lenders | The [[organisations/international-finance-corporation\|International Finance Corporation]] (about R1.6 billion), [[organisations/aluwani-capital-partners\|Aluwani Capital Partners]] (R350 million), [[organisations/fsd-africa-investments\|FSD Africa Investments]] (R234 million), and four South African investors, including the Eskom Pension and Provident Fund | Lend the money. Some of it is workers' retirement savings [MS] |
-| The bonus payers | The FirstRand Foundation and the Development Bank of Southern Africa (R50 million each) [IC], with Remgro, the Rupert Nature Foundation, and the Lewis Foundation [TBV] | Pay the bonus, but only if the work is proven [MS] |
+| The bonus payers | The FirstRand Foundation and the Development Bank of Southern Africa (R50 million each) [IC], with [[organisations/remgro\|Remgro]], the [[organisations/rupert-nature-foundation\|Rupert Nature Foundation]], and the [[organisations/lewis-foundation\|Lewis Foundation]] [MS] | Pay the bonus, but only if the work is proven [MS] |
 | The workers | [[organisations/the-nature-conservancy-south-africa\|The Nature Conservancy South Africa]], through the [[organisations/greater-cape-town-water-fund\|Greater Cape Town Water Fund]] | Clear the alien trees [MS] |
 | The checker | [[organisations/conservation-alpha\|Conservation Alpha]] | Goes and checks, and says yes or no [MS] |
 
@@ -96,6 +96,7 @@ If you have questions about the bond, or know more about clearing in the valley'
 
 ## References
 
+- Rand Merchant Bank. [RMB launches Africa's first nature-linked outcomes-based bond](https://rmb.co.za/news/rmb-launches-africas-first-naturelinked-outcomesbased-bond) (1 April 2026). Names Remgro, the Rupert Nature Foundation, and the Lewis Foundation as outcome funders.
 - FSD Africa. [FirstRand Bank issues inaugural nature-linked outcomes-based bond](https://fsdafrica.org/firstrand-bank-issues-inaugural-nature-linked-outcomes-based-bond/) (1 April 2026). The lenders, their amounts, and their reasons.
 - FSD Africa. [Behind the investment: Africa's first nature-linked outcomes bond](https://fsdafrica.org/behind-the-investment-africas-first-nature-linked-outcomes-bond/) (26 May 2026). How the interest and the bonus work.
 - JSE. [JSE welcomes Africa's first nature-linked performance-based bond](https://www.jse.co.za/news/news/jse-welcomes-africas-first-naturelinked-performancebased-bond) (17 April 2026). The listing.

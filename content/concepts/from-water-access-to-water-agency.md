@@ -23,10 +23,10 @@ links:
   - https://biohubs.bioconomy.earth/afrotropic/at12-vog/services/water-yield
   - https://wiki.bioconomy.earth/concepts/water-as-compound-asset
   - https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy
-updated: 2026-09-28
+updated: 2026-10-28
 ---
 
-> **This idea is not yet agreed.** [[organisations/kwaxala|Kwaxala]] has been approached and has said it wants to work with the valley (see below). The other organisations named on this page have not yet been asked. They include the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the Zonderend Water Users Association, the [[organisations/city-of-cape-town|City of Cape Town]], the Transformasie Komitee, and the Moravian Church. **Please do not share this page publicly yet.** The idea will be tabled at the Forum's November 2026 meeting, with the [[concepts/valley-of-grace-learning-campus|Learning Campus]] and [[concepts/restoring-the-river|Restoring the River]].
+> **This idea is not yet agreed.** [[organisations/kwaxala|Kwaxala]] has been approached and has said it wants to work with the valley (see below). The other organisations named on this page have not yet been asked. They include the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the Zonderend Water Users Association, the [[organisations/city-of-cape-town|City of Cape Town]], the Transformasie Komitee, the Moravian Church, and [[organisations/capenature|CapeNature]]. **Please do not share this page publicly yet.** The idea will be tabled at the Forum's November 2026 meeting, with the [[concepts/valley-of-grace-learning-campus|Learning Campus]] and [[concepts/restoring-the-river|Restoring the River]].
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -92,7 +92,7 @@ A 2016 study estimated that invasive plants reduce the flow of rivers in the Bre
 
 ### The valley has protected its water before
 
-In 1899 the Moravian Church bought the mountain farm Langgezocht, about 1,881 hectares, to protect the water sources of Genadendal [MS]. Since 1854 Greyton's leiwater furrows have carried water from the Gobos River to the plots that hold a water right [MS]. See [[history/leiwater|Greyton's Leiwater]].
+In 1899 the Moravian Church bought the mountain farm Langgezocht to protect the water sources of Genadendal [MS]. Langgezocht is Farm 32, 1,835.56 hectares in the Surveyor-General's records [IC], and it is now [[organisations/capenature|CapeNature]] land [MS]. Since 1854 Greyton's leiwater furrows have carried water from the Gobos River to the plots that hold a water right [MS]. See [[history/leiwater|Greyton's Leiwater]].
 
 ## The idea
 
@@ -176,7 +176,7 @@ It serves three of the Forum's [[priorities/index|priorities]]: [[priorities/edu
 - **The streams' own needs.** The Reserve sets targets for the Baviaans and the Gobos too, and asks the Gobos to improve from C to A. Extra water from restoration may first be needed to meet those targets.
 - **How much water.** No study has measured what restoring the valley's catchments would add to the river [TBV].
 - **Leiwater and other existing rights.** How the idea would affect water rights already in use, such as Greyton's leiwater and the farmers' allocations.
-- **Farm 39 and Langgezocht.** Who holds Langgezocht today, and the Transformasie Komitee's view on Farm 39's water. Neither has been asked.
+- **Farm 39 and Langgezocht.** The Transformasie Komitee's view on Farm 39's water, and CapeNature's view on work on Langgezocht. Neither has been asked. When Langgezocht passed from the church to CapeNature is not yet recorded.
 - **The legal route.** Which provisions of the National Water Act could turn an existing water right into a right to regenerate flow, and whether the water authorities would approve it. The allocations on the Riviersonderend come from a government water scheme, and how these can be transferred has not been checked [TBV].
 - **Kwaxala's role.** What form a partnership with Kwaxala would take, who in the valley would be its partner, and whether its investors would fund water.
 - **Other partners.** Whether the City of Cape Town, the bond's organisers, or WWF would be interested. None has been asked.
@@ -207,6 +207,10 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the Novem
 - [[concepts/index|Ideas for the Valley]]
 
 ## References
+
+On the valley's land:
+
+- Chief Surveyor-General. Cadastral record for Farm 32 (Langgezocht), shown on a [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The area of 1,835.56 hectares.
 
 On the law and the Reserve:
 
