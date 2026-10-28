@@ -21,6 +21,10 @@ This section holds one page for each organisation based outside Ward 2 whose wor
 
 ![[organisations.base]]
 
+## Cape Town's water supply
+
+For how Cape Town's dams and tunnels work, and why Theewaterskloof Dam matters to the valley, see [[organisations/cape-towns-water-supply|Cape Town's Water Supply]].
+
 ## The Cape Water bond
 
 For a plain-language explanation, start with [[organisations/how-the-cape-water-bond-works|How the Cape Water Bond Works]].

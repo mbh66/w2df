@@ -47,9 +47,15 @@ A proposed visitor plan for the mountains above the valley, built around the Cap
 ### [[concepts/ridge-to-river-to-table|Ridge to River to Table: Investing in the Whole Valley]]
 A proposal to invest in the valley as one place, joining water, the leopard corridor, agri-heritage tourism, and learning under one shared support layer, with blended finance. To be discussed with [[organisations/ranyaka-community-transformation|Ranyaka]] at the end of October and tabled at the November 2026 meeting.
 
+### [[concepts/provincial-pipeline|Provincial Pipeline]]
+A way of reading the Western Cape's 2050 infrastructure plans for what the valley can supply to them, starting with the proposed Overberg Dam on the Breede River. To be tabled at the November 2026 meeting.
+
+### [[concepts/community-built-dams-on-the-baviaans-and-gobos|Community-Built Dams on the Baviaans and Gobos]]
+Small dams the valley could build itself: leaky dams in side gullies and low walls in the mountain kloofs above Genadendal and Greyton, based on a first map study. Not yet set down for a Forum meeting.
+
 ## How these fit together
 
-All nine ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
+All eleven ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
 
 ## Have your say
 

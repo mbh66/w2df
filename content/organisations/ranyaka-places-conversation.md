@@ -101,7 +101,7 @@ These are best guesses from public roles and the concept note. Each person shoul
 - Expertise in planning systems and spatial transformation
 - For the valley specifically, assistance in planning [[ridge-to-river-to-table|Water Retention]] as an investable asset
 
-### Needs
+#### Needs
 - Field sites with real data and willing communities
 - Research questions with practical uptake
 - Partners who can co-fund or co-host research
@@ -174,5 +174,13 @@ Vanessa wasn't present in the meeting, but was on the invite email group. The fo
 - Johan needs a second demonstration place with an organized partner.
 - Danie, Sara and Qhamani need field sites and data. The Valley of Grace needs a baseline of its seven capitals.
 - Sinazo's collaborative governance work and the W2DF relationship with the municipality can each inform the other.
-- Vanessa's school experience speaks directly to the [[w2df/concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]].
+- Vanessa's school experience speaks directly to the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]].
 - Stephan needs evidence on cost and risk. A Stellenbosch and valley comparison using the R100 Resource Journey could supply it.
+
+## Related
+
+- [[organisations/ranyaka-community-transformation|Ranyaka Community Transformation]]
+- [[organisations/grootbos-foundation|Grootbos Foundation]]
+- [[concepts/ridge-to-river-to-table|Ridge to River to Table: Investing in the Whole Valley]]
+- [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]
+- [[organisations/index|Organisations Outside the Valley]]
