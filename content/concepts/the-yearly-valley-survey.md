@@ -67,7 +67,7 @@ The valley already has bodies that speak for its residents. They include the [[c
 
 The survey would add to the work of the Komitee and every other body in the valley. Delegates would still negotiate and sign agreements. The survey would give them evidence to carry. The Komitee, the residents associations, and the Forum could all use the same numbers. A delegate who brings survey results into a meeting speaks with the weight of every household that answered.
 
-Results about Farm 39 land and water would go to the Komitee first, as every page on this site that touches the land does. The Forum has agreed not to duplicate bodies already dealing with the TRANCRAA land process [MS].
+Results about Farm 39 land and water would be sent to the Komitee in writing, and published once the Komitee responds or 21 days after they were sent, whichever comes first. The Forum has agreed not to duplicate bodies already dealing with the TRANCRAA land process [MS].
 
 ## What the survey would measure
 
@@ -89,7 +89,7 @@ A few questions on services would be added: whether water, toilets, electricity,
 - Rooms, vehicles, or tools that could be hired out or shared.
 - Time people would give each month to valley projects.
 
-Questions about land and water on Farm 39 would be agreed with the Komitee before they are asked.
+Questions about land and water on Farm 39 would be sent to the Komitee in writing, and asked once the Komitee responds or 21 days after they were sent, whichever comes first.
 
 ### 3. Where the money goes
 
@@ -191,7 +191,7 @@ Possible sources are the municipality or the province, funders who want to use t
 
 - **The Forum** would decide whether to run the survey.
 - **A small survey group,** with people from each village, would draft the questions.
-- **The Transformasie Komitee** would review any question about Farm 39 land, tenure, or water before the survey goes out.
+- **The Transformasie Komitee** would be sent any question about Farm 39 land, tenure, or water in writing, and the survey would go out once the Komitee responds or 21 days after they were sent, whichever comes first.
 - **The residents associations** would review the questions for their settlements.
 - **An independent statistician** would check the method.
 

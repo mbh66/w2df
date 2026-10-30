@@ -13,9 +13,10 @@ None of these ideas have been agreed upon, but they distill much of the thinking
 
 ## How ideas are handled
 
+- **Proposals are welcome.** The Forum is inviting proposals. Anyone in Ward 2 can bring an idea to a Forum meeting. See [[how-to-submit|How to Submit]].
 - **Tabled first.** Every idea on this page goes to a Forum meeting before anything is done about it.
 - **Everyone affected is asked.** The Forum agreed at its [[2026-09-16-inaugural-meeting|first meeting]] that affected communities should be involved from the start. Any organisation or person named in an idea gets the chance to respond, and their response is added to the page.
-- **Land and tenure go to the Komitee.** Ideas that touch Farm 39, TRANCRAA, land tenure, or the mission settlement go to the Transformasie Komitee first.
+- **Land and tenure go to the Komitee.** Ideas that touch Farm 39, TRANCRAA, land tenure, or the mission settlement are sent to the Transformasie Komitee in writing when they are submitted, and its response is added to the page. An idea can be tabled once the Komitee responds or 21 days after it was sent, whichever comes first. The Forum will be asked to confirm this at its November 2026 meeting.
 - **Ideas can change.** Each page shows when it was last updated and what is still open.
 
 ## The ideas
@@ -42,7 +43,7 @@ A suggested route for any group in the valley that wants to form a co-operative:
 A yearly household survey that would let the valley speak to government and investors with one voice, using its own numbers on what each village has to offer. To be tabled at the November 2026 meeting.
 
 ### [[concepts/overberg-leopard-corridor|The Overberg Leopard Corridor]]
-A proposed visitor plan for the mountains above the valley, built around the Cape leopard and the work of tracking it. Goes to the Transformasie Komitee in writing first, then to a Forum meeting.
+A proposed visitor plan for the mountains above the valley, built around the Cape leopard and the work of tracking it. Sent to the Transformasie Komitee in writing, and tabled at a Forum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
 
 ### [[concepts/ridge-to-river-to-table|Ridge to River to Table: Investing in the Whole Valley]]
 A proposal to invest in the valley as one place, joining water, the leopard corridor, agri-heritage tourism, and learning under one shared support layer, with blended finance. To be discussed with [[organisations/ranyaka-community-transformation|Ranyaka]] at the end of October and tabled at the November 2026 meeting.
@@ -56,9 +57,12 @@ Small dams the valley could build itself: leaky dams in side gullies and low wal
 ### [[concepts/why-alien-clearing|Why Alien Clearing?]]
 Why the Cape Water bond pays for clearing invasive trees, what research says about holding water in the land, and a proposed pilot to measure it on the valley's 11,194 hectares. To be tabled at the November 2026 meeting.
 
+### [[concepts/what-must-happen-first|What Must Happen First]]
+An idea in which the Forum would propose, for each party, what appears necessary before development in Ward 2 can move, and ask each party to respond. Sent to the Transformasie Komitee in writing, and tabled at a Forum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
+
 ## How these fit together
 
-All twelve ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
+All thirteen ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
 
 ## Have your say
 

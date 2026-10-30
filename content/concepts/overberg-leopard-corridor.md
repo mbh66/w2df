@@ -1,6 +1,6 @@
 ---
 title: The Overberg Leopard Corridor
-description: A proposed visitor plan for the mountains above the valley, built around the Cape leopard and the work of tracking it, starting in the northern Overberg. Not yet agreed. Goes to the Transformasie Komitee in writing first, then to a Forum meeting.
+description: A proposed visitor plan for the mountains above the valley, built around the Cape leopard and the work of tracking it, starting in the northern Overberg. Not yet agreed. Sent to the Transformasie Komitee in writing, and tabled at a Forum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
 type: concept
 tags:
   - theme/youth
@@ -32,7 +32,7 @@ links:
   - https://www.landmark.foundation/leopards
 ---
 
-> **This idea is not yet agreed.** At its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]], the Forum agreed that the leopard corridor concept goes to the Transformasie Komitee in writing before anything else is done [MS]. None of the other organisations named on this page have been approached. They include the [[organisations/cape-leopard-trust|Cape Leopard Trust]], the [[organisations/landmark-foundation|Landmark Foundation]], [[organisations/capenature|CapeNature]], the Greyton Conservation Society, Wild Restoration, the Greyton Tourism Bureau, [[organisations/wesgro|Wesgro]], the [[organisations/overberg-district-municipality|Overberg District Municipality]], and Theewaterskloof Municipality. **Please do not share this page publicly yet.** The idea will be tabled at a Forum meeting once the Komitee has responded.
+> **This idea is not yet agreed.** At its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]], the Forum agreed that the leopard corridor concept be sent to the Transformasie Komitee in writing [MS]. None of the other organisations named on this page have been approached. They include the [[organisations/cape-leopard-trust|Cape Leopard Trust]], the [[organisations/landmark-foundation|Landmark Foundation]], [[organisations/capenature|CapeNature]], the Greyton Conservation Society, Wild Restoration, the Greyton Tourism Bureau, [[organisations/wesgro|Wesgro]], the [[organisations/overberg-district-municipality|Overberg District Municipality]], and Theewaterskloof Municipality. **Please do not share this page publicly yet.** The idea will be tabled at a Forum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -165,7 +165,7 @@ It serves four of the Forum's [[priorities/index|priorities]]: [[priorities/tour
 
 1. The written concept goes to the Transformasie Komitee, as the Forum agreed, and the Komitee's response is added to this page.
 2. The Cape Leopard Trust, the Landmark Foundation, CapeNature, the Greyton Conservation Society, Wild Restoration, and farmers in the valley are asked for their views.
-3. The idea is tabled at a Forum meeting once the Komitee has responded.
+3. The idea is tabled at a Forum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
 4. If the Forum agrees, a plan for the northern Overberg is scoped. The Valley of Grace BioHub lists December 2026 for starting this work [MS].
 5. A costed camera survey of the valley's mountains is planned with researchers for 2027.
 

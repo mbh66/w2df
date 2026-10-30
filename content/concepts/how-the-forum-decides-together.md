@@ -66,7 +66,7 @@ Before anyone writes a proposal for the Forum, they would:
 
 1. Name the villages, groups, and families it affects.
 2. Talk with each of them about the idea before writing it up.
-3. Take anything that touches Farm 39, TRANCRAA, land tenure, or the mission settlement to the Transformasie Komitee first. [[concepts/index|Ideas for the Valley]] already handles ideas this way [MS].
+3. Send anything that touches Farm 39, TRANCRAA, land tenure, or the mission settlement to the Transformasie Komitee in writing at the start, alongside the other communities it affects. The proposal can be tabled once the Komitee responds or 21 days after it was sent, whichever comes first.
 4. Record on the proposal who was asked, when, and what they said.
 
 A proposal that skips these steps would still be heard, as an early idea. The Forum would decide on it at a later meeting, once the people it affects have helped shape it.
@@ -112,7 +112,7 @@ Just before a decision, each person would name the strongest point they heard fr
 Anyone bringing a proposal could check it against these questions, and convenors would use them before putting an item on the agenda.
 
 - Which villages, groups, and families does it affect? Has each of them helped shape it?
-- Does it touch Farm 39, TRANCRAA, land tenure, or the mission settlement? If so, has it gone to the Transformasie Komitee first?
+- Does it touch Farm 39, TRANCRAA, land tenure, or the mission settlement? If so, has it been sent to the Transformasie Komitee, and has the Komitee replied or have 21 days passed?
 - Does any part put a price on something people hold in common, such as graves, church land, family stories, or leiwater turns? If so, have the people who hold it decided how it is described?
 - Who helped write it? Would someone from each affected community call it partly theirs?
 - Which way of deciding does it take for granted? Who might feel it was decided without them?
@@ -131,7 +131,7 @@ Nothing has been costed. Most of what this page proposes costs only time. Asking
 
 ## Who would decide
 
-The Forum's members would decide whether to adopt these practices at the November 2026 meeting. Before then, the Transformasie Komitee would be asked whether the first step, and the rule for land and mission settlement matters, fit its own mandate. Theewaterskloof Municipality, which gives the Forum administrative support with minutes, contact lists, and venues [MS], would also be asked. Once adopted, the practices could be changed at any meeting, using the same steps.
+The Forum's members would decide whether to adopt these practices at the November 2026 meeting. Before then, the Transformasie Komitee would be asked whether the first step, the rule for land and mission settlement matters, and the 21-day response period fit its own mandate. Theewaterskloof Municipality, which gives the Forum administrative support with minutes, contact lists, and venues [MS], would also be asked. Once adopted, the practices could be changed at any meeting, using the same steps.
 
 ## How it fits the Forum's goal
 

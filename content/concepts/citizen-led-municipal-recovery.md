@@ -43,7 +43,7 @@ links:
 
 ## What the Forum could do
 
-**1. Ask for a facilitated process on the Genadendal accounts.** The Forum could ask Provincial Treasury and the Department of Local Government to convene the municipality and the [[civic/governance/genadendal-transformasie-komitee|Transformasie Komitee]] on how Genadendal is billed while Farm 39 remains unresolved. Any such step would go to the Komitee first, as the Forum agreed for all matters touching Farm 39 and land tenure [MS].
+**1. Ask for a facilitated process on the Genadendal accounts.** The Forum could ask Provincial Treasury and the Department of Local Government to convene the municipality and the [[civic/governance/genadendal-transformasie-komitee|Transformasie Komitee]] on how Genadendal is billed while Farm 39 remains unresolved. Any such step would be sent to the Komitee in writing, with 21 days to respond, before the Forum tables it.
 
 **2. Become the plan's evidence partner for Ward 2.** The province publishes quarterly progress reports so that the public can follow the plan [IC]. The Forum could collect evidence from the ward, such as faulty meters, leaks, sewage spills, and billing errors, and send it to Provincial Treasury set against the plan's own activities. The [[concepts/the-yearly-valley-survey|Yearly Valley Survey]] could later supply the figures.
 

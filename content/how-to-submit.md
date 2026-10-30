@@ -5,6 +5,8 @@ type: page
 date: 2026-09-22
 ---
 
+The Forum is inviting proposals. If you have an idea for the valley, send it to the moderators in the same way, and it will be added to [[concepts/index|Ideas for the Valley]] and tabled at a Forum meeting.
+
 Anyone can add an initiative in Ward 2 to this site. A business, a farm, a school, a congregation, a sports club, a care group, or a one-person practice all belong here. You can also send a correction to an entry that is already listed.
 
 ## How to send it

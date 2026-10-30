@@ -507,6 +507,7 @@ Only what published sources show is recorded here. Household spending is not est
 - [[rules/national-water-act|National Water Act]]
 - [[concepts/why-alien-clearing|Why Alien Clearing?]]
 - [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]]
+- [[concepts/what-must-happen-first|What Must Happen First]]. The Forum's proposal, drawn from this record, for what must happen first for each party, with space for each party's response.
 - [[priorities/index|Forum Priorities]]
 - [[long-term-goal|Our Long-Term Goal]]
 - BioConomy wiki. [Needed vs. Needy](https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy). The term behind the second research run.
