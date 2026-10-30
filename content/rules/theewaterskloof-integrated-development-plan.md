@@ -19,7 +19,8 @@ aliases:
   - TWK IDP
 official_text: https://twk.gov.za/wp-content/uploads/2026/06/28May26%20Final%20IDP%20-%202026%20Amendment.pdf
 links: []
-last_checked: 2026-10-01
+last_checked: 2026-10-30
+updated: 2026-10-30
 ---
 
 > [!warning] A working page, open for review
@@ -27,7 +28,7 @@ last_checked: 2026-10-01
 >
 > Questions for reviewers:
 >
-> 1. For Theewaterskloof Municipality's IDP office: what does the Community Needs List record for Ward 2 in the 2026 amendment, and may this page quote it?
+> 1. For Theewaterskloof Municipality's IDP office: does the "Greyton & Genadendal" summary in Appendix 1 record the Ward 2 meeting of 27 November 2025? What has been done on each Ward 2 need since it was first listed?
 > 2. When will the public meetings for the 2027 review, and for the next five-year IDP, be held?
 
 The Integrated Development Plan (IDP) is Theewaterskloof Municipality's main plan: a single document that sets out what the municipality will do over five years, and that its budget must follow [IC]. The current IDP runs from 2022 to 2027 [IC]. The council reviews it every year, as the [[rules/municipal-systems-act|Municipal Systems Act]] requires, and approved its 2026 amendment on 28 May 2026 [IC]. For the valley, the yearly review is the main point at which residents of Ward 2 can put their needs into the municipality's plans and budget.
@@ -66,6 +67,26 @@ The Integrated Development Plan (IDP) is Theewaterskloof Municipality's main pla
 
 **Ward 2 speaks as one ward.** Stats SA figures and the needs list both treat Ward 2's seven settlements as one ward [IC]. Differences between Greyton, Genadendal, and Madiba Park do not show up unless residents raise them. The [[concepts/the-yearly-valley-survey|Yearly Valley Survey]] is an idea for giving the valley its own figures, settlement by settlement, ready for each review.
 
+**What Ward 2 asked for in 2026.** The Community Needs List for Ward 2 (Appendix 1, pages 305 and 306) has 13 items [IC]:
+
+1. "Addressing the housing backlog (includes Madiba Park and backyard dwellers)", noting that the municipality "must look at the possibility to use erf. 595, Greyton for housing projects/serviced erven".
+2. Services for those houses.
+3. Generators for the water and sewer plants and pump stations.
+4. Service delivery security for water, sewerage and roads.
+5. Mast lighting, and turning the old Heuwelkroon play park into a play park for children.
+6. Upgrading the Gobos sports field: power supply, toilets, and two new fields.
+7. Voorstekraal: extending the sewer lines, which form a partial network.
+8. Reducing the risk of flooding in Ward 2.
+9. Repairing the Boschmanskloof and Park Street bridges after flood damage.
+10. Rehabilitating gravel roads.
+11. Upgrading Church Street and Long Street in Bereaville.
+12. A safe house for abused women and children, with a recreation centre for Ward 2.
+13. Job creation, especially for the youth of Ward 2.
+
+The IDP's ward priorities table (page 181) also lists netball fields in Genadendal and sports fields in Bereaville and Voorstekraal [IC]. Against each Ward 2 sports item it says "subject to availability of funding", and it refers the safe house to the Department of Social Development and outside funders [IC].
+
+Appendix 1 also summarises issues raised in "Greyton & Genadendal" (pages 314 to 316) [IC]. Residents asked "who is leading engagement with Genadendal residents on rates, taxes, and service fees", asked for the "progress and status of discussions related to Farm 39", and raised the absence of a designated Town Manager for Greyton and Ward 2 [IC]. They also asked for monthly updates on the [[rules/theewaterskloof-financial-recovery-plan|Financial Recovery Plan]], a chance to comment on tariffs, and officials at the leiwater meeting [IC].
+
 **Farm 39.** Projects on land the municipality does not own face the limit set out in its spatial plan: it may not invest in infrastructure there [IC]. A need raised for [[villages/farm-39|Farm 39]] settlements may therefore appear on the needs list without a funded project following, until the land question is settled under [[rules/trancraa|TRANCRAA]].
 
 **The next IDP.** The current plan ends in 2027, and a new council term begins after the local government elections, so a new five-year IDP will be drawn up [TBV]. That process is the larger opening for the valley's priorities.
@@ -83,7 +104,7 @@ The Integrated Development Plan (IDP) is Theewaterskloof Municipality's main pla
 
 ## What is still open
 
-- What the 2026 Community Needs List records for Ward 2.
+- What has been done on each Ward 2 need, and which have a funded project.
 - The dates of the next public meetings, and the timetable for the next five-year IDP.
 
 ## Have your say
@@ -99,6 +120,6 @@ If you took part in an IDP meeting for Ward 2, or can confirm or correct anythin
 
 ## References
 
-- Theewaterskloof Municipality. [Integrated Development Plan 2022 to 2027, 2026 amendment (approved by Council on 28 May 2026, SC04/2026)](https://twk.gov.za/wp-content/uploads/2026/06/28May26%20Final%20IDP%20-%202026%20Amendment.pdf). Fourteen wards, the public participation schedule, the Community Needs List, and Stats SA as the recognised source of population data.
+- Theewaterskloof Municipality. [Integrated Development Plan 2022 to 2027, 2026 amendment (approved by Council on 28 May 2026, SC04/2026)](https://twk.gov.za/wp-content/uploads/2026/06/28May26%20Final%20IDP%20-%202026%20Amendment.pdf). Fourteen wards, the public participation schedule, the ward priorities table (page 181), the Ward 2 Community Needs List (pages 305 and 306), the Greyton and Genadendal summary (pages 314 to 316), and Stats SA as the recognised source of population data.
 - Theewaterskloof Municipality. [Spatial Development Framework, Chapter 12: Genadendal (final, November 2019)](https://twk.gov.za/wp-content/uploads/2022_2023/Town%20Planning/SDF%202020/12%20GENADENDAL.pdf). Investment on land the municipality does not own.
 - Parliament of South Africa. [Local Government: Municipal Systems Act 32 of 2000](https://lawlibrary.org.za/akn/za/act/2000/32). The duty to adopt and review an IDP.

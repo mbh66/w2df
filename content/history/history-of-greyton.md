@@ -14,6 +14,7 @@ aliases:
 links:
   - https://en.wikipedia.org/wiki/Greyton
   - https://sahistory.org.za/place/greyton-western-province
+updated: 2026-10-30
 ---
 
 [[villages/greyton|Greyton]] lies at the foot of the Riviersonderend mountains, a few kilometres east of Genadendal. It was laid out in the 1850s on a farm called Weltevreden, on land where Khoekhoe herders had grazed their cattle for centuries [IC]. This page tells Greyton's own story, including [[villages/heuwelkroon|Heuwelkroon]], the part of Greyton to which coloured families were forced to move under apartheid. The story of the whole valley is on [[history/history-of-the-valley|History of the Valley]].
@@ -184,7 +185,7 @@ The Boesmanskloof road:
 
 The removals and Heuwelkroon:
 
-- Williams, R. [Essay in *Herri*, issue 2](https://herri.org.za/2/rafieka-williams/). The removals from 1968 to 1974 and their effects.
+- Williams, R. ["Hoekom soek ons nog altyd *Kos Klere en Blyplek* in die nuwe dispensasie?"](https://herri.org.za/2/rafieka-williams/). *Herri*, issue 2 (no date given). A personal essay built around a reggae song by Country Conquerors, by a Capetonian writer who came to Greyton in May 2017 and spoke with residents. *Herri* is an online arts and culture journal published by Stephanus Muller for the Africa Open Institute and edited by Aryan Kaganof (see [Review: herri is a rare new arts and culture journal from South Africa](https://www.modernghana.com/amp/news/1003294/review-herri-is-a-rare-new-arts-and-culture-journ.html)). Used here for the dates of the removals, 1968 to 1974, and their effects.
 - ACO Associates for Ohana Environmental Consulting (2022). [Heritage Impact Assessment, Erf 595, Greyton](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). The founding, the 1891 population, removals to Heuwelkroon and Genadendal, and Heuwelkroon built in 1970.
 
 The mountain and commonage:

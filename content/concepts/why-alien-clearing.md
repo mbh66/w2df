@@ -19,7 +19,7 @@ aliases:
 links:
   - https://wiki.bioconomy.earth/concepts/water-retention-landscapes
   - https://wiki.bioconomy.earth/concepts/performance-based-water-bonds
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 > **This idea is not yet agreed.** Nobody named on this page has been asked about it yet. That includes [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy South Africa]], the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]], [[organisations/rand-merchant-bank|Rand Merchant Bank]], [[organisations/conservation-alpha|Conservation Alpha]], the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the [[organisations/overberg-water-board|Overberg Water Board]], the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]], the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]], the [[history/institutions/moravian-church|Moravian Church]], [[organisations/capenature|CapeNature]], [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], and the research groups named under *The idea*. **Please do not share this page publicly yet.** It is proposed for the Forum's November 2026 meeting, with the other water ideas.
@@ -79,7 +79,7 @@ The land this idea covers is about 11,194 hectares, made up of these farms and e
 | Farm 36 | 764.31 |
 | Farm 38 | 740.92 |
 | [[villages/farm-39|Farm 39]] | 4,498.09 |
-| The mission land in Genadendal (official name to be confirmed) | 61.11 |
+| [[villages/farm-827-glebe-land\|Farm 827, the Glebe Land]] | 61.11 |
 | Erf 595, Greyton | 1,404.89 |
 | **Total** | **11,194.38** |
 
@@ -129,7 +129,7 @@ Nothing has been costed. The [[concepts/ridge-to-river-to-table|Ridge to River t
 
 ## Who would decide
 
-Each landholder would decide whether work happens on their land. Anything on Farm 39 or the mission land goes to the Transformasie Komitee first. Any structure in a watercourse would need the permits the National Water Act requires, from the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]] or the Department of Water and Sanitation. The Forum would decide whether to support the pilot and how to report on it.
+Each landholder would decide whether work happens on their land. Anything on Farm 39 goes to the Transformasie Komitee first, and anything on the Glebe Land (Farm 827) to the Moravian Church, which holds it. Any structure in a watercourse would need the permits the National Water Act requires, from the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]] or the Department of Water and Sanitation. The Forum would decide whether to support the pilot and how to report on it.
 
 ## How it fits the Forum's goal
 
@@ -212,5 +212,5 @@ On the law and payment methods:
 
 On the valley's land:
 
-- Chief Surveyor-General. Cadastral records for Farms 32, 33, 34, 36, 38 and 39, the mission land and Erf 595, shown on a [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The areas in the land table.
+- Chief Surveyor-General. Cadastral records for Farms 32, 33, 34, 36, 38 and 39, Farm 827 (the Glebe Land) and Erf 595, shown on a [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The areas in the land table.
 - Western Cape Department of Environmental Affairs and Development Planning. [Environmental Authorisation, Integrated Housing Development on Erf 595, Heuwelkroon, Greyton](https://www.westerncape.gov.za/eadp/files/wcg-blob-files?file=2025-09%2F2014_ba-ea_1084-24-greyton.pdf&type=file) (10 July 2025). The 333 homes.

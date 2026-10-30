@@ -15,7 +15,7 @@ aliases:
   - Valley of Grace history
   - Geskiedenis van die Vallei
   - Significant dates
-updated: 2026-09-28
+updated: 2026-10-30
 links:
   - https://en.wikipedia.org/wiki/Genadendal
   - https://sahistory.org.za/place/genadendal-historic-village-museum
@@ -388,7 +388,7 @@ Reference works and heritage records:
 - Genadendal.info. [The Genadendal Mission Station](https://www.genadendal.info/genadendal-mission-station/). The college date of 12 September 1838, the 1837 press, the 2003 closure of the printing works, and Mandela's October 1995 visit.
 - Genadendal Project. [History of Genadendal and Surrounds](https://genadendalproject.objectecologies.co.za/history-of-genadendal-and-surrounds/). Schmidt's first months, and the 1739 buildings.
 - ACO Associates for Ohana Environmental Consulting (2022). [Heritage Impact Assessment, Erf 595, Greyton](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). The founding of Greyton, and Heuwelkroon around 1970.
-- Williams, R. [Essay in *Herri*, issue 2](https://herri.org.za/2/rafieka-williams/). The removals from Greyton from 1968 to 1974.
+- Williams, R. ["Hoekom soek ons nog altyd *Kos Klere en Blyplek* in die nuwe dispensasie?"](https://herri.org.za/2/rafieka-williams/). *Herri*, issue 2 (no date given). A personal essay built around a reggae song by Country Conquerors, by a Capetonian writer who came to Greyton in May 2017 and spoke with residents. *Herri* is an online arts and culture journal published by Stephanus Muller for the Africa Open Institute and edited by Aryan Kaganof (see [Review: herri is a rare new arts and culture journal from South Africa](https://www.modernghana.com/amp/news/1003294/review-herri-is-a-rare-new-arts-and-culture-journ.html)). Used here for the dates of the removals from Greyton, 1968 to 1974.
 - Greyton Transition Town. [What is Greyton Transition Town](https://greytontransition.co.za/what-is-greyton-transition-town/). Its start in mid-2011.
 
 Forum research:

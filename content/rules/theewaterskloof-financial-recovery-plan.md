@@ -25,7 +25,8 @@ official_text: https://www.westerncape.gov.za/treasury/files/wcg-blob-files?file
 links:
   - https://www.westerncape.gov.za/treasury/article/western-cape-government-approves-theewaterskloof-financial-recovery-plan
   - https://www.westerncape.gov.za/treasury/article/financial-recovery-plans-show-varied-progress-across-beaufort-west-kannaland-and
-last_checked: 2026-10-21
+last_checked: 2026-10-30
+updated: 2026-10-30
 ---
 
 > [!warning] A working page, open for review
@@ -35,7 +36,7 @@ last_checked: 2026-10-21
 >
 > 1. For Western Cape Provincial Treasury: is the published August 2025 final draft the same as the plan approved on 7 October 2025? If not, where can residents read the approved text?
 > 2. Has Theewaterskloof moved from Phase 1 to Phase 2, and where are the quarterly progress reports published?
-> 3. For Theewaterskloof Municipality: may this page quote the Genadendal debt figures in your quarterly reports, and how is the municipality dealing with them?
+> 3. For Theewaterskloof Municipality: how does Genadendal's debt break down by rates, water, sanitation and refuse, and how is the municipality dealing with it?
 > 4. For the Transformasie Komitee: does this page describe the Genadendal position fairly?
 
 The Theewaterskloof Financial Recovery Plan is the plan that the Western Cape Government approved on 7 October 2025 to rescue the municipality's finances [IC]. It was drawn up after the province intervened in the municipality under section 139 of the [[rules/constitution|Constitution]] [IC]. While the plan is in force, the municipal council and the Municipal Manager still run the municipality, but every budget, tariff, and spending decision has to fit inside it [IC]. For the valley, the plan matters twice over. It decides how much money is available for services in Ward 2, and it names Genadendal's unpaid accounts as about a fifth of everything owed to the municipality [IC].
@@ -119,7 +120,16 @@ For 2025/26 the plan set increases of 7% on rates, 12.7% on electricity, and 5% 
 
 ## What it means in the valley
 
-**Genadendal is at the centre of the numbers.** The plan records that Genadendal "equates to around 20 per cent of the total outstanding" debt owed to the municipality [IC]. The municipality's own report for the quarter ending 31 March 2026 is reported to put "Genadendal (Eskom area)" at about R104.9 million, or 23.8% of debtors [TBV]. The plan also records that many residents of Genadendal hold that the land does not belong to the municipality [IC]. That view rests on the unfinished transfer of [[villages/farm-39|Farm 39]] under [[rules/trancraa|TRANCRAA]], and in 2019 the High Court allowed two Genadendal residents to defend the municipality's claims for debt on those grounds [IC]. The Forum reads this as the largest single question in the plan that no one has yet set out to settle. See [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39]].
+**Genadendal is at the centre of the numbers.** The plan records that Genadendal "equates to around 20 per cent of the total outstanding" debt owed to the municipality [IC]. The municipality's own quarterly reports show the share rising since the plan was written [IC]:
+
+| Date | Genadendal (Eskom area) | Share of all debtors |
+| --- | --- | --- |
+| 31 October 2025 | R97,783,258 | 23.0% |
+| 31 January 2026 | R103,966,817 | 23.2% |
+| 31 March 2026 | R104,916,378 | 23.8% |
+| 31 May 2026 | R108,357,195 | 23.7% |
+
+In May 2026 Greyton's municipal-supply area owed R7,981,241 (1.75%), and the Eskom-supplied areas of the whole municipality, where the municipality cannot block electricity meters, owed 86% of all debt [IC]. The reports do not break Genadendal's debt down by rates, water, sanitation and refuse [IC]. The plan also records that many residents of Genadendal hold that the land does not belong to the municipality [IC]. That view rests on the unfinished transfer of [[villages/farm-39|Farm 39]] under [[rules/trancraa|TRANCRAA]], and in 2019 the High Court allowed two Genadendal residents to defend the municipality's claims for debt on those grounds [IC]. The Forum reads this as the largest single question in the plan that no one has yet set out to settle. See [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39]].
 
 **Electricity works differently on each side.** Greyton buys its electricity from the municipality, while Genadendal is supplied directly by Eskom [IC]. The municipality can cut off electricity to collect debt in Greyton. In Genadendal it has no such lever, because it does not sell the electricity there.
 
@@ -174,4 +184,4 @@ If you commented on the draft plan in 2025, or can confirm or correct anything o
 - TimesLive. [Province steps in to avert financial crisis at Theewaterskloof municipality](https://www.timeslive.co.za/news/south-africa/2024-11-13-province-steps-in-to-avert-financial-crisis-at-theewaterskloof-municipality/) (13 November 2024). The MEC for Finance on an administrator.
 - Cape Times. [Financial woes prompt section 139 intervention for Theewaterskloof Municipality](https://iol.co.za/capetimes/news/2024-11-11-financial-woes-prompt-section-139-intervention-for-theewaterskloof-municipality/) (11 November 2024).
 - [Adendorff and Another v Theewaterskloof Municipality (A220/2018) [2019] ZAWCHC 95 (10 May 2019)](https://www.saflii.org/za/cases/ZAWCHC/2019/95.html). Western Cape High Court.
-- Theewaterskloof Municipality. Section 71 and 52 report for the quarter ending 31 March 2026. The Genadendal debtor figure and the collection rate. Link to be added.
+- Theewaterskloof Municipality. Section 71 and 52 reports, outstanding debt per town: [October 2025](https://twk.gov.za/wp-content/uploads/2025/11/WC031_Sec71_2026_M04.pdf); [January 2026](https://twk.gov.za/wp-content/uploads/2026/02/WC031_Sec71_2026_M07.pdf); [March 2026](https://twk.gov.za/wp-content/uploads/2026/04/WC031_Sec71%2052_2026_M09.pdf) (page 25); [May 2026](https://twk.gov.za/wp-content/uploads/2026/06/WC031_Sec71_2026_M11.pdf). The Genadendal debtor figures and the Eskom-area share.

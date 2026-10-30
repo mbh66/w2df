@@ -28,7 +28,7 @@ links:
   - https://www.saflii.org/za/cases/ZAWCHC/2019/95.html
   - https://www.parliament.gov.za/news/committee-receives-briefing-progress-and-challenges-facing-trancraa-communities
   - https://pmg.org.za/committee-question/8475/
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 > [!warning] For the Genadendal Transformasie Komitee to review
@@ -78,9 +78,11 @@ In 2014 the Land Claims Court held that TRANCRAA is a land reform law. It does n
 - The Moravian mission at Genadendal was founded in 1737 [IC]. In 1858 the land was granted to the Moravian Church "for the use of and in trust for such persons as may from time to time be lawfully resident at the institution of Genadendal" [MS].
 - [[history/genadendal-a-long-walk|Balie's history of Genadendal]] says the land was surveyed in November 1857 by J. Kuys, at 5,644 morgen and 289 square roods, and granted in trust to the church's superintendent on 15 February 1858 [MS]. It says many residents rejected the grant because the superintendent was the only trustee, and they held that the land had belonged to their Khoi ancestors [MS]. On one page it dates the grant to 1856 [MS]. It also records a case over land ownership brought against the mission in the Supreme Court at the end of the 1800s, and another brought by a group of residents known as the Magermans in 1924 [MS].
 - In 1909 a new law placed mission land under management boards. Residents kept occupation rights, but could not become owners [IC].
-- In 1927 about 70 hectares at the core of Genadendal and Bereaville, known as the Glebe Lands, were granted to the Moravian Church [IC]. They sit outside the TRANCRAA process [IC].
+- In 1927 title to the core mission areas of Genadendal and Bereaville, known as the Glebe Lands, was granted free of charge to the Moravian Church [IC]. The Ward 2 Forum's 2017 series describes them as "nine portions of land" of 68 hectares [MS], and the consultants' 2010 report gives 70.7795 hectares [MS]. They sit outside the TRANCRAA process [IC]. In the Surveyor-General's records the Glebe Land is Farm 827, Caledon, named "GLEBE LAND", 61.11 hectares [IC]. The Deeds Office report attached to the 2008 order records Portions 3 to 7 of Farm 39 as consolidated into Farm 827 [IC]. The parcel covers Genadendal's mission core; where the Bereaville portions are recorded has not been found [TBV]. See [[villages/farm-827-glebe-land|Farm 827: The Glebe Land]].
+- The state holds Farm 39 under Deed of Grant G19/1952, dated 6 February 1952, which gives its extent as 5,572 morgen and 261 square roods, or 4,772.97 hectares [IC]. The farm is on Surveyor-General diagram B180/128 [IC]. Its extent excludes the Glebe Lands [IC].
 - The size of Farm 39 depends on which record is used. The consultants' 2010 report gives 4,772.97 hectares for the original farm, and 4,641.45 hectares in the title deeds [IC]. A 2019 court judgment gives 4,515.53 hectares [IC]. Forum documents have used "about 4,800 hectares" [MS]. The Surveyor-General's records give 4,498.09 hectares [IC], and this site now uses that figure. The survey of 1857, at 5,644 morgen and 289 square roods [MS], is roughly 4,830 hectares at about 0.857 hectares to the morgen (this page's own conversion).
-- The four township areas cover about 342 hectares [IC]. The rest, about 4,430 hectares, is the Remainder [IC].
+- The four township areas cover about 342 hectares, on 20 approved general plans, of which township registers had been opened for 8 by 2010 [IC]. The rest, about 4,430 hectares, is the Remainder [IC].
+- The consultants identified two properties as subject to the process: the Remainder of Farm 39 (G19/1952, 4,614.56 hectares) and Erf 387 (T75345/95, 26.89 hectares) [MS].
 - A 2005 survey confirmed the fence between Genadendal and Greyton as the boundary [IC].
 
 ## How the process is meant to work
@@ -176,19 +178,27 @@ Each point below gives the positions in the words of the parties' own documents.
 ### 4. The list of residents and a vote
 
 - The residents list compiled in 2005 was rejected by the Committee as incomplete [IC]. The 2008 order required it to be updated [IC].
-- In July 2010 the municipality, the Department, and the consultants decided that updating the list was "not further required" and that there was "no need for a referendum" [IC]. The consultants noted that TRANCRAA does not require a referendum [MS].
+- In July 2010 the municipality, the Department, and the consultants decided that updating the list was "not further required" and that there was "no need for a referendum" [IC]. The consultants noted that TRANCRAA does not require a referendum [MS], and wrote that an updated list "will have no material impact on the Transformation Process" [MS].
+- The Ward 2 Forum's 2017 series says that people who moved in after the qualifying date, "who are considered by a majority of the Transformation Committee members to be in good standing, may be offered the opportunity to be considered as legitimate beneficiaries" [MS].
 
 ### 5. Land sales during the process
 
 - The Committee's 2007 court application objected to the "sale and transfer of trust immovable property" to outsiders [IC]. The 2008 order placed "an immediate moratorium on the sale of Trust Land" [IC].
-- The Ward 2 Forum's 2017 analysis says over 200 residential properties on Farm 39 had been sold and transferred with the municipality's knowledge [MS].
+- The Ward 2 Forum's 2017 analysis says over 200 residential properties on Farm 39 had been sold and transferred "with the knowledge and assistance of TWKM", and that the consultants' land rights report does not record them [MS].
+- The Deeds Office search report attached to the 2008 order (Annexure GT1) lists what had been taken off the farm by 25 April 2007 [IC]. Portions 1 and 2 became Erf 1555 (Gr130/1953) and Erf 68 (T47138/1984), and Portions 3 to 7, about 2.3 hectares, were consolidated into Farm 827 [IC]. Eight erven totalling 206.2451 hectares carry title deeds, and 134.994 hectares of surveyed erven are unregistered [IC]. Handwritten notes on the report name the "Gemeenskap van Genadendal" against most registered erven [MS]. It records a registered remainder of 4,566.72 hectares and an unregistered remainder of 4,431.73 hectares [IC].
+- The sources disagree on Erf 1353. The Ward 2 Forum's series says the municipality owns it (T13058/1996) [MS]. The consultants' lawyers say it was transferred to a private owner [MS].
 
 ### 6. Services and rates
 
-- In 2016 the municipality listed, as the first issue to resolve: "The Rates boycott and the poor collection rate in Genadendal. This can no longer be tolerated" [MS].
+- In 2016 the municipality listed three issues to resolve in the meantime: "The Rates boycott and the poor collection rate in Genadendal. This can no longer be tolerated", "The Waste Water treatment pipeline from Greyton to the Genadendal Waste Water Treatment Works", and "Various issues relating to Town Planning and Building Control" [MS]. It wrote that the delays were "having a serious negative impact on the sustainability of the Municipality" [MS].
 - The municipality's 2025 Financial Recovery Plan says that in Genadendal "the community feels that the land does not belong to the municipality and that they therefore have no obligation to pay for said services" [IC].
 - In 2019 the High Court found that two Genadendal residents had "a substantial defence that is fit for trial" when they argued their land falls under TRANCRAA [IC].
 - Service matters on Farm 39 land where the municipality does not own the land, such as Madiba Park, are covered on [[madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]].
+
+### 7. Garden plots and farm leases
+
+- The consultants' lawyers concluded in 2010 that users of the garden plots (*tuin persele*) hold registerable use rights, and that ownership of the plots stays with the municipality [MS]. They found that the "grondbriewe" the housing department issued for the plots were "not in accordance with the law" [MS].
+- They found that the farm leases on the Remainder had expired, with no record of renewal, and that lessees still have use rights [MS]. The consultants could not verify the lease records, and their 2005 and 2010 surveys list different leases [MS].
 
 ## How the TRANCRAA process proceeded elsewhere
 
@@ -250,6 +260,8 @@ Research in Namaqualand in 2004 found that tenure reform on its own left residen
 - Whether the property transfers made on Farm 39 since 1998 are valid.
 - How residents who are not on any committee will be informed and consulted.
 - What the land cases of the late 1800s and of 1924 decided, and whether their records survive.
+- Where the Bereaville portions of the 1927 Glebe grant are recorded, and why Farm 827 (61.11 hectares) is smaller than the 68 or 70.78 hectares in other sources.
+- Whether the 2008 order has been varied.
 
 ## Needs
 
@@ -295,14 +307,14 @@ If you are a Farm 39 resident, or represent a body named here, and want to add o
 
 ### Court records:
 
-- Order of the High Court of South Africa (Cape of Good Hope Provincial Division), case 926/07, 22 October 2008, with the Agreement of Settlement signed 17 October 2008. Held by the Forum; published on the Ward 2 Forum's [legal reference documents page (archived 2017)](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/).
+- Order of the High Court of South Africa (Cape of Good Hope Provincial Division), case 926/07, 22 October 2008, with the Agreement of Settlement signed 17 October 2008, and Annexure GT1, the Deeds Office search report on Farm 39 as at 25 April 2007 (Deed of Grant G19/1952, deductions, registered and unregistered areas). Held by the Forum; published on the Ward 2 Forum's [legal reference documents page (archived 2017)](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/).
 - [Genadedal Transformation Committee and Others v Theewaterskloof Municipality and Others (LCC64/2014) [2014] ZALCC 14 (10 October 2014)](https://www.saflii.org/za/cases/ZALCC/2014/14.html). Land Claims Court. Finds TRANCRAA is land reform law and strikes the application from the roll.
 - [Adendorff and Another v Theewaterskloof Municipality (A220/2018) [2019] ZAWCHC 95 (10 May 2019)](https://www.saflii.org/za/cases/ZAWCHC/2019/95.html). Western Cape High Court. Sets out the 2008 settlement terms and the size of Farm 39.
 
 ### Process documents 
 (held by the Forum, and listed on the [archived legal reference documents page](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/)):
 
-- Urban Dynamics Western Cape, *Genadendal Transformation: Executive Summary and Recommendations* (October 2010). The consultants' chronology and final recommendation.
+- Urban Dynamics Western Cape, *Genadendal Transformation: Executive Summary and Recommendations* (October 2010). The consultants' chronology and final recommendation, the general plans, title deeds, the Glebe Land area, diagram B180/128, garden plots, leases and the residents list.
 - Theewaterskloof Municipality, *Way Forward in Dealing with the Genadendal Transformation Process: Position of the Theewaterskloof Municipality* (27 September 2016).
 - Theewaterskloof Municipality, letter to the Transformation Committee on unlawful occupiers in Bereaville (18 May 2015).
 - Genadendal Transformation Committee, Constitution and Code of Conduct.
