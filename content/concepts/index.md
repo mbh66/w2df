@@ -60,6 +60,9 @@ Why the Cape Water bond pays for clearing invasive trees, what research says abo
 ### [[concepts/what-must-happen-first|What Must Happen First]]
 An idea in which the Forum would propose, for each party, what appears necessary before development in Ward 2 can move, and ask each party to respond. Sent to the Transformasie Komitee in writing, and tabled at a Forum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
 
+### [[concepts/bevryde-grond-trust|Bevryde Grond Trust]]
+A trust deed, drawn up with Cormac Cullinan, under which land can never be sold or mortgaged, offered as a possible way through the Farm 39 deadlock under TRANCRAA. To be sent to the Transformasie Komitee in writing first, and tabled once it responds or 21 days after it was sent.
+
 ## How these fit together
 
 All thirteen ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
