@@ -5,3 +5,10 @@
 // quartz-hub/styles/network.scss by tools/network-sync.py. Edit it there, not here.
 //
 // Anything below this line applies to this site only. Keep it short.
+
+// A folder index page with `cssclasses: [hide-folder-listing]` in its frontmatter
+// hides Quartz's automatic "N items under this folder" listing. Use it on index
+// pages that already list their pages with a base.
+.popover-hint:has(> article.hide-folder-listing) > .page-listing {
+  display: none;
+}

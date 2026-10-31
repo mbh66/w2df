@@ -18,7 +18,7 @@ properties:
   formula.organisation:
     displayName: Organisation
   formula.side:
-    displayName: In or outside the valley
+    displayName: Location
   formula.what:
     displayName: What it is
   formula.where:

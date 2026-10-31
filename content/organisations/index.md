@@ -2,6 +2,8 @@
 title: Organisations
 description: Every organisation this site describes, in one list. Organisations based in Ward 2 are entries in the Register; banks, funders, government bodies, and non-profits based outside the ward have a page each here.
 type: page
+cssclasses:
+  - hide-folder-listing
 tags:
   - lang/en
 date: 2026-10-14
