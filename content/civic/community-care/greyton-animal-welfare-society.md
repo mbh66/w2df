@@ -2,6 +2,7 @@
 title: Greyton Animal Welfare Society
 description: A volunteer animal welfare group serving the whole valley. It offers sterilisation, rescue, a mobile clinic, cruelty prevention, and a 24-hour emergency service.
 type: entry
+form: organisation
 holon: Civic
 category: Community Care
 tags:

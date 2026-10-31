@@ -2,6 +2,7 @@
 title: Greyton MTB Club
 description: Greyton's mountain-bike club. It looks after seven mountain-bike trails and publishes seven gravel routes around Greyton, sells riding permits, and runs the Greyton MTB Juniors.
 type: entry
+form: organisation
 holon: Cultural
 category: Sport, Heritage, Arts & Culture
 tags:

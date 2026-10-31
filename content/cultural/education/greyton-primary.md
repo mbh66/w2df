@@ -2,6 +2,7 @@
 title: Greyton Primary School
 description: A public primary school in Heuwelkroon, Greyton, for Grade R to Grade 7. It offers sport, music, and environmental education. It is a no-fee school.
 type: entry
+form: organisation
 holon: Cultural
 category: Education
 tags:

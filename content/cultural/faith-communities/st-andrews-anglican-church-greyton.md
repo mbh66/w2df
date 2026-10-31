@@ -2,6 +2,7 @@
 title: St Andrew's Anglican Church, Greyton
 description: The Anglican church in Greyton. Its building is part of the village's historic streetscape.
 type: entry
+form: organisation
 holon: Cultural
 category: Faith Communities
 tags:

@@ -2,6 +2,7 @@
 title: Rotary Club of Greyton
 description: A Rotary service club running eleven community projects across the valley, from food forests and food gardens to natural building, early childhood development, youth media, and a skills centre.
 type: entry
+form: organisation
 holon: Civic
 category: Community Care
 tags:

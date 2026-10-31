@@ -2,6 +2,7 @@
 title: Grace Valley Wildlife Rescue
 description: The wildlife division of Greyton Farm Animal Sanctuary. It rescues and stabilises injured wild animals across the Overberg, trains wildlife first responders, and is building a rehabilitation centre.
 type: entry
+form: organisation
 holon: Civic
 category: Community Care
 tags:

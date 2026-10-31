@@ -13,9 +13,9 @@ draft: false
 right_of_reply: pending
 komitee_review: pending
 aliases:
-  - Challenges
   - Uitdagings
   - The Valley's Challenges
+  - problems
 links:
   - https://twk.gov.za/wp-content/uploads/2026/06/28May26%20Final%20IDP%20-%202026%20Amendment.pdf
   - https://www.westerncape.gov.za/treasury/files/wcg-blob-files?file=2025-08%2Ffinal-draft-theewaterskloof-financial-recovery-plan-final_20250813-published.pdf&type=file

@@ -2,6 +2,7 @@
 title: NG Gemeente Greyton
 description: The Dutch Reformed congregation in Greyton, founded in 1918, with its church on the corner of High and West Streets.
 type: entry
+form: organisation
 holon: Cultural
 category: Faith Communities
 tags:

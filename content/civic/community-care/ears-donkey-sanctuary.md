@@ -2,6 +2,7 @@
 title: EARS Donkey Sanctuary
 description: A sanctuary near Greyton that rescues and cares for donkeys and ponies, teaches children and owners about caring for them, and runs a charity shop on Main Road.
 type: entry
+form: organisation
 holon: Civic
 category: Community Care
 tags:

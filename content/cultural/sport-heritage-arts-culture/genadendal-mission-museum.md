@@ -2,6 +2,7 @@
 title: Genadendal Mission Museum
 description: A museum on Church Square in Genadendal, telling the story of the first Moravian mission in South Africa. It offers guided tours, free school programmes, and access to one of the country's oldest document collections.
 type: entry
+form: organisation
 holon: Cultural
 category: Sport, Heritage, Arts & Culture
 tags:

@@ -2,6 +2,7 @@
 title: Emil Weder Secondary School
 description: The public secondary school in Genadendal, serving learners from across the valley. It has a hostel and offers sport and cultural activities. It is a no-fee school.
 type: entry
+form: organisation
 holon: Cultural
 category: Education
 tags:

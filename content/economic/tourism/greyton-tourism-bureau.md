@@ -2,6 +2,7 @@
 title: Greyton Tourism Bureau
 description: Greyton's visitor information office and website. It lists accommodation, events, outdoor activities, and local businesses, and sells tickets for local events.
 type: entry
+form: organisation
 holon: Economic
 category: Tourism
 tags:

@@ -2,6 +2,7 @@
 title: The Greyton Post
 description: Greyton's free community newspaper, published every two months in print and online. It also runs a business directory, a village map, a community noticeboard, and The Greyton Collective, a shop for local makers.
 type: entry
+form: organisation
 holon: Economic
 category: Business
 tags:

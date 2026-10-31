@@ -2,6 +2,7 @@
 title: Greyton House School
 description: An independent English-medium school in Greyton for pre-primary to Grade 7, with small classes and a focus on creativity, outdoor learning, and learning through play.
 type: entry
+form: organisation
 holon: Cultural
 category: Education
 tags:

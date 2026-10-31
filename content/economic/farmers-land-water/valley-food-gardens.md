@@ -2,6 +2,7 @@
 title: Valley Food Gardens
 description: A food security project of Greyton Transition Town, started in 2020. It supports home and school vegetable gardens through seedling hubs in Genadendal, Heuwelkroon, Bereaville, Voorstekraal, and Greyton.
 type: entry
+form: programme
 holon: Economic
 category: Farmers, Land & Water
 tags:

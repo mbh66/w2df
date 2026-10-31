@@ -2,6 +2,7 @@
 title: Greyton MTB Juniors
 description: A weekly mountain-biking programme for about 75 young people in Greyton, with rides, skills training, and mentorship. It is part of the Greyton Mountain Bike Club.
 type: entry
+form: programme
 holon: Cultural
 category: Sport, Heritage, Arts & Culture
 tags:

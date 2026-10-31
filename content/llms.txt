@@ -20,7 +20,7 @@ Alongside the entries, the site holds the valley's history in `/history/`. Histo
 
 Each entry page has frontmatter and a body in a fixed order.
 
-- Frontmatter: `title`, `description`, `holon` (the sphere: Economic, Civic, or Cultural), `category`, `tags`, `status` (active, planned, dormant, or completed), `location` (a village name or "Whole valley", optionally followed by a street or landmark), `needs`, and optional fields such as `aliases`, `start_date`, `funding_status`, and `links`.
+- Frontmatter: `title`, `description`, `form` (organisation, programme, or matter), `holon` (the sphere: Economic, Civic, or Cultural), `category`, `tags`, `status` (active, planned, dormant, or completed), `location` (a village name or "Whole valley", optionally followed by a street or landmark), `needs`, and optional fields such as `aliases`, `start_date`, `funding_status`, and `links`.
 - Tags use a closed vocabulary: one category tag (for example `economic/farmers-land-water`), theme tags (`theme/youth`, `theme/environment`, `theme/tourism`, `theme/heritage`, `theme/water`, `theme/2038`, `theme/trancraa`, `theme/women`), priority tags (`priority/...`), and one language tag (`lang/en`, `lang/af`, `lang/xh`, or `lang/multi`).
 - `needs` is a list drawn from: volunteers, skills, funding, equipment, premises, members, participants, customers, partners.
 - Body sections: an opening paragraph, then Needs, Offers, How to get involved, and Related.

@@ -2,6 +2,7 @@
 title: Zonderend Water Users Association
 description: The association of water users on the Riviersonderend. Through its Restoring the Riviersonderend project it clears invasive plants along the river and grows indigenous plants for restoration at a nursery in Genadendal.
 type: entry
+form: organisation
 holon: Economic
 category: Farmers, Land & Water
 tags:

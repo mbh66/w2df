@@ -2,6 +2,7 @@
 title: Greyton Christian Fellowship
 description: A non-denominational Christian group that meets for Bible study at De Ontmoeting coffee shop in Genadendal, and holds Christian movie nights.
 type: entry
+form: organisation
 holon: Cultural
 category: Faith Communities
 tags:

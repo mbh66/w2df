@@ -1,31 +1,41 @@
 ---
-title: Organisations Outside the Valley
-description: Banks, funders, government bodies, non-profits, and specialist firms based outside Ward 2 whose work reaches the valley, one page each, described only through what they have said or done in public.
+title: Organisations
+description: Every organisation this site describes, in one list. Organisations based in Ward 2 are entries in the Register; banks, funders, government bodies, and non-profits based outside the ward have a page each here.
 type: page
 tags:
   - lang/en
 date: 2026-10-14
 draft: false
 aliases:
-  - Organisations
+  - Organisations Outside the Valley
   - External organisations
   - Organisasies
+updated: 2026-10-31
 ---
 
-> [!warning] Pages written before anyone was asked
-> None of the organisations in this section have been asked about its page yet. Each page describes the organisation only through what it has said or done in public, with a tag after each fact showing where it comes from. Each page opens with questions for the organisation, and will be corrected when it replies. To correct or add to a page, see [[how-to-submit|How to Submit]].
+This page lists every organisation on this site in one table, in two groups.
 
-This section holds one page for each organisation based outside Ward 2 whose work reaches the valley. They include government bodies with duties over the valley's water, land, and heritage, conservation groups working in the mountains above it, funders of initiatives on the Register, and the banks and funds behind the Cape Water bond. None of them is a Forum initiative, so they do not appear on [[register|The Register]].
+- **In the valley.** Organisations based in Ward 2 are entries in [[register|The Register]], each filed under its category. Each entry says what the organisation needs and what it offers.
+- **Outside the valley.** Organisations based outside Ward 2 whose work reaches the valley have a page each in this section. They include government bodies with duties over the valley's water, land, and heritage, conservation groups working in the mountains above it, funders of initiatives on the Register, and the banks and funds behind the Cape Water bond.
+
+Use the tabs above the table to see one group at a time.
 
 ## The organisations
 
-![[organisations.base]]
+![[all-organisations.base]]
 
-## Cape Town's water supply
+## Organisations outside the valley
+
+> [!warning] Pages written before anyone was asked
+> None of the organisations outside the valley have been asked about their page yet. Each page describes the organisation only through what it has said or done in public, with a tag after each fact showing where it comes from. Each page opens with questions for the organisation, and will be corrected when it replies. To correct or add to a page, see [[how-to-submit|How to Submit]].
+
+None of these organisations is a Forum initiative, so they do not appear on [[register|The Register]].
+
+### Cape Town's water supply
 
 For how Cape Town's dams and tunnels work, and why Theewaterskloof Dam matters to the valley, see [[organisations/cape-towns-water-supply|Cape Town's Water Supply]].
 
-## The Cape Water bond
+### The Cape Water bond
 
 For a plain-language explanation, start with [[organisations/how-the-cape-water-bond-works|How the Cape Water Bond Works]].
 
@@ -46,7 +56,7 @@ Twelve of the organisations in this section are linked by one deal. In April 202
 
 How bonds of this kind work in general is explained on the BioConomy wiki, at [Performance-Based Water Bonds](https://wiki.bioconomy.earth/concepts/performance-based-water-bonds). Why the three co-anchor investors backed the bond is set out in the research brief [Why Three Investors Anchored the Cape Water Bond](https://wiki.bioconomy.earth/research/cape-water-bond-co-anchor-investors).
 
-## How the bond reaches the valley
+### How the bond reaches the valley
 
 Theewaterskloof Dam is the largest dam in the Western Cape Water Supply System, which supplies Cape Town [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the Forum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with CapeNature [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
 
@@ -54,7 +64,7 @@ Three ideas tabled at the Forum build on the bond: [[concepts/from-water-access-
 
 ## What gets a page
 
-An organisation gets a page here when another page on this site names it, and its work reaches the valley through something it has done. An organisation based in Ward 2 has an entry in [[register|The Register]].
+An organisation based in Ward 2 has an entry in [[register|The Register]], and appears in the table above once its entry is published. An organisation based outside Ward 2 gets a page in this section when another page on this site names it, and its work reaches the valley through something it has done.
 
 ## Related
 

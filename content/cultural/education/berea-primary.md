@@ -2,6 +2,7 @@
 title: Berea Primary School
 description: A Moravian primary school in Bereaville for Grade R to Grade 7, serving Bereaville, Voorstekraal, and nearby farms. Founded in 1865. It is a no-fee school.
 type: entry
+form: organisation
 holon: Cultural
 category: Education
 tags:

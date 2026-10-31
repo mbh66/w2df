@@ -1,0 +1,90 @@
+filters:
+  and:
+    - file.ext == "md"
+    - or:
+        - type == "organisation"
+        - and:
+            - type == "entry"
+            - form == "organisation"
+    - draft != true
+    - '!file.inFolder("templates")'
+    - '!file.inFolder("private")'
+formulas:
+  organisation: file.asLink(title)
+  side: if(type == "entry", "In the valley", "Outside the valley")
+  what: if(type == "entry", category, kind)
+  where: if(type == "entry", location, based_in)
+properties:
+  formula.organisation:
+    displayName: Organisation
+  formula.side:
+    displayName: In or outside the valley
+  formula.what:
+    displayName: What it is
+  formula.where:
+    displayName: Where
+  location:
+    displayName: Where
+  needs:
+    displayName: Needs
+  status:
+    displayName: Status
+  kind:
+    displayName: Kind
+  based_in:
+    displayName: Based in
+  connection:
+    displayName: Link to the valley
+  relationship:
+    displayName: Contact with the Forum
+views:
+  - type: table
+    name: All
+    groupBy:
+      property: formula.side
+      direction: ASC
+    order:
+      - formula.organisation
+      - formula.what
+      - formula.where
+    sort:
+      - property: formula.side
+        direction: ASC
+      - property: title
+        direction: ASC
+  - type: table
+    name: In the valley
+    filters:
+      and:
+        - type == "entry"
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - formula.organisation
+      - location
+      - status
+      - needs
+    sort:
+      - property: category
+        direction: ASC
+      - property: title
+        direction: ASC
+  - type: table
+    name: Outside the valley
+    filters:
+      and:
+        - type == "organisation"
+    groupBy:
+      property: kind
+      direction: ASC
+    order:
+      - formula.organisation
+      - connection
+      - relationship
+      - based_in
+    sort:
+      - property: kind
+        direction: ASC
+      - property: title
+        direction: ASC

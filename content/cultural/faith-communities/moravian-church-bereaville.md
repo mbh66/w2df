@@ -2,6 +2,7 @@
 title: Moravian Church Bereaville
 description: The Moravian mission church in Bereaville, a village linked to the Genadendal mission.
 type: entry
+form: organisation
 holon: Cultural
 category: Faith Communities
 tags:

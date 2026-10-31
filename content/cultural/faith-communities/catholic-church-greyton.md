@@ -2,6 +2,7 @@
 title: Catholic Church in Greyton
 description: Catholic mass in Greyton, held on the second and fourth Saturday of each month, served by St Paul's parish in Somerset West.
 type: entry
+form: organisation
 holon: Cultural
 category: Faith Communities
 tags:

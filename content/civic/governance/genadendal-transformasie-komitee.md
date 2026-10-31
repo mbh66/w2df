@@ -2,6 +2,7 @@
 title: Genadendal Transformasie Komitee
 description: The committee elected in 2004 to represent Farm 39 residents in the TRANCRAA land transfer. This page sets out how it was formed, its constitution, its record in the process and in court, and its eight-sector plan for the valley.
 type: entry
+form: organisation
 holon: Civic
 category: Governance
 tags:

@@ -2,6 +2,7 @@
 title: Moravian Church Genadendal
 description: The Moravian congregation of Genadendal, founded as the first Moravian mission in South Africa in 1738. Its church on Church Square houses the oldest pipe organ in the country.
 type: entry
+form: organisation
 holon: Cultural
 category: Faith Communities
 tags:

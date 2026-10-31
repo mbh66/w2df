@@ -2,6 +2,7 @@
 title: "Madiba Park: Land Status and Basic Services"
 description: Madiba Park stands on Farm 39 land, which is part of the unfinished TRANCRAA process. This page sets out the court rulings, official records, and reported service conditions, and invites each party to give its account.
 type: entry
+form: matter
 holon: Civic
 category: Residents Association
 tags:

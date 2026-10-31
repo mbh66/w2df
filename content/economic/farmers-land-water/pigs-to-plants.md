@@ -2,6 +2,7 @@
 title: Pigs to Plants
 description: A Greyton Farm Animal Sanctuary programme that helps backyard pig farmers switch to growing vegetables. Five market gardens are running in the Greyton and Genadendal valley, selling produce as The Graceful Garden.
 type: entry
+form: programme
 holon: Economic
 category: Farmers, Land & Water
 tags:

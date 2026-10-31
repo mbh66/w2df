@@ -2,6 +2,7 @@
 title: Greybos Neighbourhood Watch
 description: A neighbourhood watch in Greyton that runs street patrols and works with the police and private security to prevent crime.
 type: entry
+form: organisation
 holon: Civic
 category: Residents Association
 tags:

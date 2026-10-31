@@ -2,6 +2,7 @@
 title: Greyton Red Cross
 description: The Greyton branch of the South African Red Cross Society. It runs after-school care and an arts programme for children, home-based care, health clinics, first-aid training, and a charity shop.
 type: entry
+form: organisation
 holon: Civic
 category: Community Care
 tags:

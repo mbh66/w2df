@@ -2,6 +2,7 @@
 title: Greyton Conservation Society
 description: A member-based non-profit, active since 1979, that helps care for the Greyton Nature Reserve, the commonage, and the village. It runs the Greyton Nature Programme, a monthly alien hack, and the Saturday village market.
 type: entry
+form: organisation
 holon: Economic
 category: Farmers, Land & Water
 tags:

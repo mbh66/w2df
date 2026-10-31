@@ -2,6 +2,7 @@
 title: Greyton Ratepayers & Residents Organisation (GRRO)
 description: A ratepayers and residents organisation serving Greyton and Heuwelkroon. It shares community notices through its Facebook page and an email newsletter.
 type: entry
+form: organisation
 holon: Civic
 category: Residents Association
 tags:

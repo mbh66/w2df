@@ -2,6 +2,7 @@
 title: Greyton Volunteer Firefighters
 description: A team of volunteer firefighters who respond to fires in Greyton and the Valley of Grace. It is a registered non-profit and public benefit organisation, and needs donations and volunteers.
 type: entry
+form: organisation
 holon: Civic
 category: Residents Association
 tags:

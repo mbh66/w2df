@@ -2,6 +2,7 @@
 title: Greyton Farm Animal Sanctuary
 description: A sanctuary near Greyton caring for about 200 rescued farm animals. It runs humane education in local schools and Pigs to Plants, which helps backyard pig farmers switch to growing vegetables.
 type: entry
+form: organisation
 holon: Civic
 category: Community Care
 tags:

@@ -2,6 +2,7 @@
 title: L.R. Schmidt Primary School
 description: A Moravian primary school in Genadendal for Grade R to Grade 7, teaching in Afrikaans. It traces its history to the school Georg Schmidt started in 1738. It is a no-fee school.
 type: entry
+form: organisation
 holon: Cultural
 category: Education
 tags:

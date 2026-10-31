@@ -2,6 +2,7 @@
 title: Adventure Hub Greyton
 description: A café, outdoor store, and visitor information point on Main Road, Greyton. It books nature, heritage, wine, craft, cycling, and flying experiences, and sells local products and outdoor gear.
 type: entry
+form: organisation
 holon: Economic
 category: Tourism
 tags:

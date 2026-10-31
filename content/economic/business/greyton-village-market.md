@@ -2,6 +2,7 @@
 title: Greyton Village Market
 description: The Saturday morning market on Main Road, Greyton, run by the Greyton Conservation Society. Stallholders live in the Overberg and sell what they grow, bake, brew, or make. Stall fees help fund conservation.
 type: entry
+form: programme
 holon: Economic
 category: Business
 tags:

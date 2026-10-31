@@ -2,6 +2,7 @@
 title: "TRANCRAA and Farm 39: The Land Transfer Process"
 description: Since 1998 a law has required the trust land of Farm 39 to pass from the state to an entity its residents help choose. This page explains the process, its key dates, the points in dispute, how other areas have fared, and where it stands in 2026.
 type: entry
+form: matter
 holon: Civic
 category: Residents Association
 tags:

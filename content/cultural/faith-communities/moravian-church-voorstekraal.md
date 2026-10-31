@@ -2,6 +2,7 @@
 title: Moravian Church Voorstekraal
 description: The Moravian congregation in Voorstekraal, one of the villages linked to the Genadendal mission.
 type: entry
+form: organisation
 holon: Cultural
 category: Faith Communities
 tags:

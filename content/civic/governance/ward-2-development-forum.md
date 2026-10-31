@@ -2,6 +2,7 @@
 title: Ward 2 Development Forum (W2DF)
 description: A community-driven forum for Ward 2 of Theewaterskloof Municipality. It brings residents, businesses, farmers, and government together around five development priorities, and meets every two months.
 type: entry
+form: organisation
 holon: Civic
 category: Governance
 tags:

@@ -2,6 +2,7 @@
 title: Moravian Church Greyton
 description: The small Moravian mission church in Greyton, in a building that was first a Dutch Reformed church.
 type: entry
+form: organisation
 holon: Cultural
 category: Faith Communities
 tags:

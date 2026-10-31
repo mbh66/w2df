@@ -2,6 +2,7 @@
 title: Uitkyk Primary School
 description: A small primary school in Park Street, Greyton, for Grade 1 to Grade 7. Its learners come from many language and faith backgrounds.
 type: entry
+form: organisation
 holon: Cultural
 category: Education
 tags:
