@@ -79,7 +79,7 @@ The Spatial Planning and Land Use Management Act, known as SPLUMA, is the nation
 
 **Spatial justice.** The principle of redressing past spatial imbalances is the one most often cited where two communities with different land histories sit side by side, as Greyton and Genadendal do. See [[villages/next-door-different-rules|Next Door, Different Rules]].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]: the Forum takes practical planning matters, such as land use, zoning, and building plans, to the municipality's officials [MS].
 - [[villages/next-door-different-rules|Next Door, Different Rules]]: three neighbouring places on different land.

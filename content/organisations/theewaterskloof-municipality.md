@@ -115,7 +115,7 @@ Local government elections are due on 4 November 2026 [TBV]. The new council wil
 - **Genadendal accounts.** The recovery plan puts Genadendal at about a fifth of the debt owed to the municipality [IC]. In 2019 the High Court allowed two Genadendal residents to defend the municipality's claims for debt on TRANCRAA grounds [IC].
 - **Provincial support.** The province funded R1.65 million to upgrade the raw water storage at Voorstekraal in 2025/26, and in August 2026 the MEC for Local Government announced further support to continue after the formal intervention [IC]. See [[organisations/western-cape-government|Western Cape Government]].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[rules/theewaterskloof-financial-recovery-plan|Theewaterskloof Financial Recovery Plan]]
 - [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]], an idea not yet agreed. The municipality has not been asked.

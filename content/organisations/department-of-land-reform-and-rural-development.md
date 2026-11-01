@@ -19,6 +19,7 @@ aliases:
   - Department of Agriculture, Land Reform and Rural Development
   - Department of Rural Development and Land Reform
 last_checked: 2026-10-14
+updated: 2026-11-01
 ---
 
 > [!warning] For Department of Land Reform and Rural Development to review
@@ -55,11 +56,11 @@ The department focuses on land reform, land administration, restitution, and rur
 
 ## How its work reaches the valley
 
-- **Farm 39.** TRANCRAA, the law that decides who will own Farm 39, is the responsibility of the national Minister for land reform [IC]. In 2010 the Department of Rural Development and Land Reform published *A to Z of the Transformation of Certain Rural Areas Act* [IC].
+- **Farm 39.** TRANCRAA, the law that decides who will own Farm 39, is the responsibility of the national Minister for land reform, now the [[organisations/minister-of-land-reform-and-rural-development|Minister of Land Reform and Rural Development]] [IC]. In 2010 the Department of Rural Development and Land Reform published *A to Z of the Transformation of Certain Rural Areas Act* [IC].
 - **Madiba Park.** Madiba Park stands on Farm 39 land, and the national department is the custodian of that land [IC]. In January 2019 the municipality said it had "appealed many times to the Department of Rural Development and the GTC to let the residents of Madiba Park stay there temporarily" [MS].
 - **Other laws.** The department is also responsible for the [[rules/communal-property-associations-act|Communal Property Associations Act]], the [[rules/interim-protection-of-informal-land-rights-act|Interim Protection of Informal Land Rights Act]], and the [[rules/spatial-planning-and-land-use-management-act|Spatial Planning and Land Use Management Act]] [IC].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[rules/trancraa|Transformation of Certain Rural Areas Act]] and [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]], which set out the department's part in the transfer of Farm 39.
 - [[civic/residents-association/madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]] and [[villages/next-door-different-rules|Next Door, Different Rules]], on Madiba Park.
@@ -80,6 +81,7 @@ If you know more about Department of Land Reform and Rural Development's work in
 - [[organisations/urban-dynamics-western-cape|Urban Dynamics Western Cape]]
 - [[organisations/legal-resources-centre|Legal Resources Centre]]
 - [[villages/farm-39|Farm 39]]
+- [[organisations/minister-of-land-reform-and-rural-development|Minister of Land Reform and Rural Development]]
 
 ## References
 

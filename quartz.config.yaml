@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Ward 2 Development Forum
+  pageTitle: "W2DF: Ward 2 Development Forum"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true

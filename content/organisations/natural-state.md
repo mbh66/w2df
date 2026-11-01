@@ -57,7 +57,7 @@ Natural State is an organisation that builds technology and training for restori
 
 Wild Restoration names Natural State among its partners, for "bioacoustic monitoring trials" [MS]. Bioacoustic monitoring uses recorders left in the field to pick up the sounds of animals, so that the species present can be counted over time. Wild Restoration says it records sound at its clearing sites in the Riviersonderend mountains [MS]. Natural State's own website does not mention South Africa [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which lists Natural State as a partner.
 - [[organisations/how-the-cape-water-bond-works|How the Cape Water Bond Works]] explains a bond built on the same idea as Natural State's impact bonds, where investors earn according to measured results.

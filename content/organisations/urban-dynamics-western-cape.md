@@ -53,7 +53,7 @@ The firm's general work is not yet described on this site.
 
 The 2010 report gives the consultants' chronology of the transfer process and their final recommendation [MS]. [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]] and the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]] page draw on it.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]] and [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]], which cite the 2010 report.
 

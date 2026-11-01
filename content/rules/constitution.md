@@ -80,7 +80,7 @@ The sections below are the ones that come up most in the valley [IC]:
 
 **For dealing with the municipality.** Section 152 says local government must encourage the involvement of communities [IC]. The [[rules/municipal-systems-act|Municipal Systems Act]] and the [[rules/municipal-structures-act|Municipal Structures Act]] turn that into duties: the IDP, ward committees, and public comment on by-laws and land use applications. Section 33 means a resident affected by a municipal decision can ask for written reasons [IC]. Section 32 lets residents request records held by the state, through the Promotion of Access to Information Act 2 of 2000 [IC].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/residents-association/madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]]: housing, water, and services.
 - [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]]: secure tenure under section 25(6).

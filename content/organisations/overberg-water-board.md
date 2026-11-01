@@ -52,7 +52,7 @@ A water board supplies water in bulk to municipalities and other users in its ar
 - **Releases from the dam.** Some of the water the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]] releases down the Riviersonderend is for the Board to take [IC]. In the 2018 drought, releases to irrigators were limited to 60% of their allocation [IC].
 - **The valley.** The sources found so far do not say where the Board takes its water from the river.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/restoring-the-river|Restoring the River]] and [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]], ideas not yet agreed, which describe who is entitled to water released from the dam.
 

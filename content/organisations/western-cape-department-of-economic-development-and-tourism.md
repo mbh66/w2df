@@ -58,7 +58,7 @@ The Tourism Growth Fund gives co-funded grants for tourism infrastructure, new o
 - **Transport permits.** The first meeting agreed that the municipality's representative would raise delays with tourism transport permits at the next DEDAT session [MS].
 - **Tour guides.** The provincial registrar of tourist guides sits in this department [TBV].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/tourism-growth-fund-application|Valley of Grace Heritage Trail]], an idea not yet agreed, the proposed application to the fund.
 - [[concepts/overberg-leopard-corridor|The Overberg Leopard Corridor]], an idea not yet agreed, which draws on the fund's aims.

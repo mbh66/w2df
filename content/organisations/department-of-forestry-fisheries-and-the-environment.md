@@ -117,7 +117,7 @@ The National Waste Management Strategy of 2020 aims to divert 45% of waste from 
 - **Clearing.** Working for Water is the department's main clearing programme [MS]. The draft national biodiversity plan sets a target of 10,639 square kilometres of invasive plants cleared nationally, and 13,497 square kilometres of fynbos restored, drawn from targets the department sent to the United Nations Convention to Combat Desertification [MS]. It makes the department the lead on new ways to pay for restoration, such as bonds and credits for biodiversity, water, or carbon, and water tariffs [MS]. Whether it clears in the Riviersonderend mountains above the valley today is not known. The clearing that this site records there is done by [[economic/farmers-land-water/wild-restoration|Wild Restoration]] and by [[organisations/capenature|CapeNature]] [MS].
 - **Finance for clearing.** The Biodiversity Finance Plan's ideas of water tariffs that pay for catchments, and of land trusts, are close to ideas raised on this site. The [[organisations/how-the-cape-water-bond-works|Cape Water bond]] is one example already running in the province. The department is not among the parties to the bond that this site lists.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[challenges|Challenges]], [[future-of-the-valley|Future of the Valley]], and [[history/history-of-greyton|History of Greyton]] cite the department's listing of Greyton Shale Fynbos.
 - [[concepts/why-alien-clearing|Why Alien Clearing?]], an idea not yet agreed, on how clearing could be paid for.

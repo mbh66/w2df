@@ -81,7 +81,7 @@ Theewaterskloof Municipality's Zoning Scheme By-law is the land use scheme the [
 
 **The revision.** The municipality published drafts of a revised Zoning Scheme By-law in March 2025 and February 2026 [IC]. A by-law may only be passed after public comment [IC]. Whether the revision has been adopted is not yet known [TBV]. When it comes before the council, the Forum reads it as a chance for the valley's residents bodies and initiatives to check that the zones fit what the valley does.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[economic/tourism/index|Tourism]] and [[economic/business/index|Business]]: guest houses, house shops, and businesses run from homes.
 - [[economic/farmers-land-water/index|Farmers, Land & Water]] and [[concepts/valley-of-grace-agri-heritage-co-operative|Valley of Grace Agri-Heritage Co-operative]]: farm shops and tourist facilities on agricultural land.

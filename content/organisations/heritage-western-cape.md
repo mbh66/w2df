@@ -55,7 +55,7 @@ Heritage Western Cape issues permits under sections 34 to 36 of the Act and rece
 - **The Genadendal heritage precinct.** The [[concepts/tourism-growth-fund-application|Valley of Grace Heritage Trail]] lists its approval for panels inside the precinct [MS], and [[concepts/overberg-leopard-corridor|The Overberg Leopard Corridor]] names it for any work there.
 - **Greyton.** The Stanford Conservation Trust says Heritage Western Cape regards Stanford as the third best preserved village in the Western Cape, after Montagu and "certain areas of Greyton" [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[rules/national-heritage-resources-act|National Heritage Resources Act]], which asks Heritage Western Cape which places in the valley are protected.
 - [[concepts/tourism-growth-fund-application|Valley of Grace Heritage Trail]] and [[concepts/overberg-leopard-corridor|The Overberg Leopard Corridor]], ideas not yet agreed. Heritage Western Cape has not been asked.

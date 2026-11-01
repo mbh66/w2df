@@ -51,7 +51,7 @@ No description from the Trust itself has been gathered for this page yet.
 
 The Agulhas Green Corridor lies south of the valley. [[concepts/ridge-to-river-to-table|Ridge to River to Table]] looks to it as an example for a corridor through the valley's mountains [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/ridge-to-river-to-table|Ridge to River to Table]], an idea not yet agreed, which names the corridor.
 

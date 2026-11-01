@@ -55,7 +55,7 @@ SANBI must manage the national botanical gardens and undertake and promote resea
 - **The water fund.** SANBI is a member of the steering committee of the water fund that clears invasive plants in the catchments of Cape Town's dams [MS].
 - **The Greyton Nature Reserve.** Brian Rycroft, director of Kirstenbosch from 1953 to 1983, established the Greyton Nature Reserve in 1977 [MS]. See [[history/people/brian-rycroft|Brian Rycroft]].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[history/people/brian-rycroft|Brian Rycroft]], which draws on SANBI's history.
 

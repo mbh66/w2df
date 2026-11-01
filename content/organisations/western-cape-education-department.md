@@ -54,7 +54,7 @@ The department manages schools through eight education districts [MS]. It names 
 - **The schools.** Emil Weder Secondary had 556 learners in 2026, L.R. Schmidt Primary 391, Berea Primary 274, and Greyton Primary 257 [IC]. All four are in quintiles 1 to 3, so learners pay no school fees [IC].
 - **A school of skills.** The [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]] idea draws on a school in Bonnievale whose buildings the department helped pay for [TBV]. Whether the department would open a school of skills in the valley is an open question there.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - The school entries: [[cultural/education/emil-weder-secondary|Emil Weder Secondary]], [[cultural/education/greyton-primary|Greyton Primary]], [[cultural/education/lr-schmidt-primary|L.R. Schmidt Primary]], [[cultural/education/berea-primary|Berea Primary]].
 - [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]], an idea not yet agreed. The department has not been asked.

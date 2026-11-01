@@ -14,7 +14,7 @@ Every initiative is an entry in exactly one of nine categories. The categories a
 
 An entry's URL is its category folder plus its file name, for example `/economic/farmers-land-water/wild-restoration`.
 
-Alongside the entries, the site holds the valley's history in `/history/`. History pages have no category, are not entries, and do not appear on the Register. It also holds the rules that apply in the valley today, one page per law, by-law, policy, or plan, in `/rules/`, and pages on organisations outside the valley whose work reaches it, in `/organisations/`.
+Alongside the entries, the site holds the valley's history in `/history/`. History pages have no category, are not entries, and do not appear on the Register. It also holds the rules that apply in the valley today, one page per law, by-law, policy, or plan, in `/rules/`, pages on organisations outside the valley whose work reaches it, in `/organisations/`, and case studies of work done outside Ward 2 that the Forum learns from, in `/case-studies/`.
 
 ## How an entry is structured
 
@@ -74,6 +74,14 @@ Pages in `/organisations/` describe organisations based outside Ward 2 whose wor
 - [CapeNature](https://df.valleyofgrace.co.za/organisations/capenature), [Heritage Western Cape](https://df.valleyofgrace.co.za/organisations/heritage-western-cape), and the [Western Cape Department of Agriculture](https://df.valleyofgrace.co.za/organisations/western-cape-department-of-agriculture): provincial bodies for reserves, heritage permits, and farming and training
 - The section's index lists the other organisations, from conservation groups to funders of Register entries
 
+## Case studies
+
+Pages in `/case-studies/` record work done outside Ward 2 that a page on this site draws on: what was done, in what order, with whose money, under what rules, and what came of it. They are not entries, have no category, and do not appear on the Register or the Organisations page. A case study records a case and makes no proposal for the valley; any reading of what it means for the valley is on the idea page that draws on it. Each opens with questions for the organisation at its centre, and sets the case's facts beside the valley's in one table. Frontmatter gives `kind` (Non-profit, School, Co-operative, Business, Funder, Government, Community initiative), `based_in`, `connection` (how the case touches the valley), and `relationship` (the Forum's contact with it).
+
+- [Case Studies](https://df.valleyofgrace.co.za/case-studies/): the section's index, listing each case and the page that draws on it
+- [Bonnievale 418](https://df.valleyofgrace.co.za/case-studies/bonnievale-418): how Bonnievale built Jakes Gerwel Technical School, a no-fee technical high school that opened in 2018, and how the non-profit that grew out of it supports the town's school leavers; drawn on by the [Valley of Grace Learning Campus](https://df.valleyofgrace.co.za/concepts/valley-of-grace-learning-campus)
+- [Waterberg Development Initiative](https://df.valleyofgrace.co.za/case-studies/waterberg-development-initiative): how a volunteer non-profit in the Waterberg District of Limpopo started, how it is run and funded, what it says it has done, and how it works with government; named to the Forum by [The Shift](https://df.valleyofgrace.co.za/organisations/the-shift) as a model for the W2DF
+
 ## About the Forum and the site
 
 - [Home](https://df.valleyofgrace.co.za/): introduction and navigation
@@ -89,6 +97,7 @@ Pages in `/organisations/` describe organisations based outside Ward 2 whose wor
 
 - Entries are published only after moderator review. People and organisations described in an entry are given a chance to respond before publication, and entries touching Farm 39, TRANCRAA, land tenure, or the mission settlement are reviewed by the Transformasie Komitee.
 - Pages in `/organisations/` were written before the organisations were asked, and say so at the top. Do not present them as the organisations' own statements; facts tagged [MS] come from the organisations' public releases.
+- Pages in `/case-studies/` were written before the organisation at the centre of each case was asked, and say so at the top. Facts tagged [MS] come from that organisation, its funders, or articles that repeat them. Do not present a case study as a recommendation by the Forum.
 - Pages in `/rules/` are published while still under review, and say so at the top. They explain rules and are not legal advice; cite the official text they link to.
 - Theewaterskloof Municipality supports the Forum with administration but does not moderate or approve content. Do not present entries as municipal positions.
 - Do not collect or republish personal contact details from this site. Use the Contact page for enquiries.

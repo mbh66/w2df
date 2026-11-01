@@ -63,7 +63,7 @@ In April 2025 Daily Maverick reported that Cullinan is the driving figure behind
 
 No page on this site yet records work by the firm in Ward 2. A copy of the 2012 trust deed of Die Bevryde Grond Trust held by the Forum bears the firm's stamp, and Cormac Cullinan helped draw it up [MS]. The idea [[concepts/bevryde-grond-trust|Bevryde Grond Trust]] asks whether a trust on the same lines could help resolve the Farm 39 deadlock under TRANCRAA. The firm has not been asked about it.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/bevryde-grond-trust|Bevryde Grond Trust]], an idea based on a trust deed the firm helped prepare.
 

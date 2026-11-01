@@ -67,7 +67,7 @@ The Local Government: Municipal Structures Act sets up the kinds of municipality
 
 **For residents.** Matters of service delivery (water, roads, refuse) in Greyton, Heuwelkroon, Genadendal, and the other settlements can be raised with the ward councillor and the ward committee. On [[villages/farm-39|Farm 39]], some services depend on who owns the land, which this Act does not change. See [[rules/trancraa|Transformation of Certain Rural Areas Act]].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]: how the Forum sits beside the ward committee.
 - [[civic/governance/why-the-forum-shapes-proposals-together|Why the Forum Shapes Proposals Together]].

@@ -62,7 +62,7 @@ FSD Africa calls itself "a specialist development agency working to strengthen A
 
 **Earlier work.** Before this bond, FSDAi's work in bond markets went through funds and facilities, such as £10 million to a Nigerian facility that shares the risk of local infrastructure bonds [MS]. FSD Africa also runs a pilot of nature-related financial reporting that includes FirstRand [MS]. FSD Africa does not say whether that pilot led to the investment.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/ridge-to-river-to-table|Ridge to River to Table]], an idea not yet agreed, which proposes that the valley prepare for a later bond in RMB's series.
 - [[cultural/education/project/teachers|the teachers' guide]] and [[cultural/education/project/students/evan|Evan]], from the Silverwood school project, which follow the bond and its investors.

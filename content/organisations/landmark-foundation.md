@@ -53,7 +53,7 @@ The Foundation's work focuses on reducing conflict between leopards and livestoc
 - **Cameras.** The leopard corridor idea reports the Foundation's cameras in the Greyton Nature Reserve and the Genadendal mountains [MS].
 - **A collared leopard.** A landowner has written that a male leopard collared by the Foundation in 2014 was later caught in a trap and shot by a farmer near the Rooihoogte pass [TBV].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/overberg-leopard-corridor|The Overberg Leopard Corridor]] and [[concepts/ridge-to-river-to-table|Ridge to River to Table]], ideas not yet agreed, which name the Foundation among organisations whose views are needed. It has not been asked.
 

@@ -53,7 +53,7 @@ The Society lists programmes in community and youth development, restoring famil
 
 The [[civic/community-care/greyton-red-cross|Greyton Red Cross]] is the Society's branch in the valley [MS]. The [[civic/community-care/rotary-club-of-greyton|Rotary Club of Greyton]] lists the South African Red Cross as a partner [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/community-care/greyton-red-cross|Greyton Red Cross]], the Greyton branch.
 - [[civic/community-care/rotary-club-of-greyton|Rotary Club of Greyton]].

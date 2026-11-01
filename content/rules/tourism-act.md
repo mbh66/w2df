@@ -69,7 +69,7 @@ The Tourism Act is the national law for tourism in South Africa [IC]. Among othe
 
 **Learning pathways.** The rule links tourism to education: a guide qualification is a skills pathway that the [[priorities/education-skills|Education and Skills]] priority could support.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/tourism-growth-fund-application|Valley of Grace Heritage Trail]]: heritage guide training.
 - [[concepts/overberg-leopard-corridor|Overberg Leopard Corridor]]: nature-based tourism.

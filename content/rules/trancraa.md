@@ -6,7 +6,7 @@ level: National
 instrument: Act
 subject: Land and tenure
 citation: "Act 94 of 1998"
-administered_by: National Department of Agriculture, Land Reform and Rural Development
+administered_by: Minister of Land Reform and Rural Development
 in_force: 1998-11-02
 tags:
   - theme/trancraa
@@ -24,6 +24,7 @@ links:
   - https://www.saflii.org/za/legis/num_act/tocraa1998376/
   - https://biohubs.bioconomy.earth/afrotropic/at12-vog/research/trancraa
 last_checked: 2026-10-01
+updated: 2026-11-01
 ---
 
 > [!warning] A working page, open for review
@@ -53,7 +54,7 @@ The Transformation of Certain Rural Areas Act, known as TRANCRAA, is the nationa
 | Full name | Transformation of Certain Rural Areas Act, 1998 |
 | Citation | Act 94 of 1998 |
 | Made by | Parliament |
-| Administered by | The national Minister responsible for land reform, through the [[organisations/department-of-land-reform-and-rural-development\|Department of Agriculture, Land Reform and Rural Development]] |
+| Administered by | The national [[organisations/minister-of-land-reform-and-rural-development\|Minister of Land Reform and Rural Development]], through the [[organisations/department-of-land-reform-and-rural-development\|Department of Land Reform and Rural Development]] |
 | In force since | 2 November 1998 |
 | Official text | [Government of South Africa](https://www.gov.za/documents/transformation-certain-rural-areas-act); [SAFLII](https://www.saflii.org/za/legis/num_act/tocraa1998376/) |
 
@@ -79,7 +80,7 @@ The Transformation of Certain Rural Areas Act, known as TRANCRAA, is the nationa
 
 **In Greyton and Heuwelkroon.** The Act does not apply. That land was sold as freehold from 1854 and has never been mission trust land [IC]. See [[villages/next-door-different-rules|Next Door, Different Rules]].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]]: the full history of the process on Farm 39.
 - [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]]: the committee residents elected in 2004 to take part in the process.
@@ -110,6 +111,7 @@ If you can confirm or correct anything on this page, or hold documents about the
 - [[rules/interim-protection-of-informal-land-rights-act|Interim Protection of Informal Land Rights Act]]
 - [[rules/western-cape-land-use-planning-act|Western Cape Land Use Planning Act]]
 - [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]]
+- [[organisations/minister-of-land-reform-and-rural-development|Minister of Land Reform and Rural Development]]
 
 ## References
 

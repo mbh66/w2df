@@ -64,7 +64,7 @@ Aluwani's 2026 Stewardship Report calls the investment "a deliberate effort to a
 
 **How the bond works.** [[organisations/firstrand-bank|FirstRand Bank]] issued one R2.5 billion senior unsecured note, arranged by [[organisations/rand-merchant-bank|Rand Merchant Bank]], and listed it on the Johannesburg Stock Exchange on 17 April 2026 [IC]. Noteholders earn a base return plus a success premium [MS]. The premium is paid by outcome funders, led by the FirstRand Foundation, only when independently checked clearing of invasive plants is achieved [MS]. [[organisations/conservation-alpha|Conservation Alpha]] checks the results, and [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy South Africa]] does the clearing through the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]] [MS]. The JSE, FSD Africa, and IFC all describe the co-anchors as buyers of the notes, separate from the outcome funders [IC].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/ridge-to-river-to-table|Ridge to River to Table]], an idea not yet agreed, which proposes that the valley prepare for a later bond in RMB's series.
 - [[cultural/education/project/teachers|the teachers' guide]] and [[cultural/education/project/students/evan|Evan]], from the Silverwood school project, which follow the bond and its investors.

@@ -20,7 +20,7 @@ aliases:
   - Leerkampus
 links:
   - https://hs.valleyofgrace.co.za/options/long-term/learning-campus
-updated: 2026-09-28
+updated: 2026-11-01
 ---
 
 > **This idea is not yet agreed.** No organisation has signed up to it yet, and some of the stakeholders have not yet been approached to participate, only because this is unfolding quite rapidly. **Please do not share anything here publicly**. This page exists to keep the conversation flowing. It shows what the valley **could** build if we worked together. The details will be tabled at the Forum's November 2026 meeting, and it will change as more people see this early invitation to dialogue and respond.
@@ -40,14 +40,28 @@ updated: 2026-09-28
 
 ## Why the valley needs it
 
-- The valley has one high school, [[emil-weder-secondary|Emil Weder Secondary]] in Genadendal, which teaches in Afrikaans [IC]. English-speaking families send their children out of the valley for high school [MS].
+- The valley has one high school, [[cultural/education/emil-weder-secondary|Emil Weder Secondary]] in Genadendal, which teaches in Afrikaans [IC]. English-speaking families send their children out of the valley for high school [MS].
 - At the Forum's first meeting, farmers and tourism businesses said they need more skilled workers: mechanics, machine operators, and people with computer and hospitality skills [MS]. The meeting also asked for life skills [MS].
 - There is no place in the valley where school leavers or adults can train for work in tourism and conservation [MS].
 - The valley does not have enough English-speaking children to fill a new day secondary school on its own [MS].
 
+## The principle beneath it: Vorming
+
+The campus would be built on [[concepts/vorming|Vorming]], the valley's own variation of Bildung, the tradition of lifelong formation [MS]. Vorming is based on care for the valley and on ecological restoration at a large scale [MS]. For the campus this means one thing above all: learners would be formed by real work on the valley's land and water, and would take on more responsibility for it as they grow.
+
+Every part of the campus would carry this principle:
+
+- **The boarding school** would send its learners onto the land beside valley learners. Restoring a river together is one of the few things that brings young people from every settlement, and from outside the valley, to the same place.
+- **The school of skills and the training centre** would teach their trades through restoration work, such as clearing, nursery work, building leaky dams and keeping records of a river's recovery.
+- **The Bioregional Learning Centre** would gather what the valley learns through Vorming and offer it to others (see *Sharing what the valley learns* on the [[concepts/vorming|Vorming]] page).
+- **Mentorship would be built in.** Experienced clearing teams, farmers, nursery workers and teachers would work beside young people, so that skill and responsibility pass on together.
+- **Formation would come before funding.** Before the campus takes on a large project, it would ask the three questions of [[organisations/the-shift|The Shift]]'s Formation First Economy model: "Who are we becoming?", "What are we ready to carry?" and "What can we be trusted to steward?" [MS]
+
+The valley has done this before. South Africa's first teachers' training college opened in Genadendal in 1838 [IC], and the government closed it in 1926 [IC]. The campus would take up that history.
+
 ## The idea
 
-Two principles would shape the design. The first is that the campus must pay its way. The second is that it should offer a more flexible way of learning that still meets high academic standards.
+Vorming underlies the whole design. Two further principles would shape it. The first is that the campus must pay its way. The second is that it should offer a more flexible way of learning that still meets high academic standards.
 
 A campus with four parts, sharing land, buildings, and staff:
 
@@ -56,7 +70,7 @@ A campus with four parts, sharing land, buildings, and staff:
 | An English-medium boarding school | A fee-paying school that rents its site on the campus. Its rent helps pay for the rest of the campus. | Families from across South Africa and beyond, plus valley learners on bursaries |
 | A school of skills | A public school with a practical, hands-on curriculum | Valley learners who want a practical path |
 | A vocational training centre | Courses and qualifications for work in tourism, conservation, and farming | School leavers, adults, and high school learners |
-| A Bioregional Learning Centre | Further study and research about the valley's land, water, and heritage | Young people from all the valley's schools after they finish school |
+| A Bioregional Learning Centre | Further study and research about the valley's land, water, and heritage, and the place where the valley gathers and shares what it learns through Vorming | Young people from all the valley's schools after they finish school, and learners from other places |
 
 Emil Weder would remain the valley's Afrikaans high school, with its own heritage and governing body. Its learners would be welcome at the training centre and the Bioregional Learning Centre. Emil Weder's principal supports exploring the idea, based on early discussions with Bonnievale [MS]. Whether the school links with the campus, and how, would still be for its governing body to decide. The campus would first ask the governing body what the school would want from such a link.
 
@@ -64,7 +78,7 @@ Emil Weder would remain the valley's Afrikaans high school, with its own heritag
 
 The campus would be built around project-based learning. A class spends several weeks on one real question, often about the valley itself, and learns its subjects by working on that question. At the end, learners produce a piece of work and present it.
 
-For example, a Grade 10 class might spend four weeks on the Riviersonderend catchment. Learners would walk the river, test the water, identify fynbos and invasive plants, and map how water moves through the valley. From that fieldwork they would cover what the national Life Sciences curriculum requires on ecosystems and biodiversity.
+For example, a Grade 10 class might spend four weeks on the Riviersonderend catchment. Learners would walk the river, test the water, identify fynbos and invasive plants, and map how water moves through the valley. From that fieldwork they would cover what the national Life Sciences curriculum requires on ecosystems and biodiversity. The class could then adopt a stretch of the river under [[concepts/the-palmiet-principle|The Palmiet Principle]], and keep caring for it for the rest of their school years. Their responsibility for it would outlast the project.
 
 Families who pay high fees want to know their children will get into university. So the campus would have to show that a project-based school meets the same standards as any other. That means holding a careful balance:
 
@@ -83,6 +97,8 @@ There are also reasons for care. A 2017 review of research on project-based lear
 The campus depends on the boarding school earning more than it costs to run. Its rent and learner fees would pay for the bursaries, the training centre, and the Bioregional Learning Centre. The higher those fees, the more the valley's own young people gain.
 
 Families pay high fees for a qualification that opens doors to universities and employers in South Africa and abroad. The recognition the campus offers therefore sets what it can charge. This is how the valley would earn the income that pays for the rest of the campus.
+
+Vorming would give the campus something few schools can offer. Learners from outside the valley would spend their school years helping to restore a living catchment, beside young people who live in it. That experience, and the record of what changed, would be part of what families pay for.
 
 For comparison, boarding schools elsewhere in South Africa charge from about R100,000 to more than R450,000 a year [TBV]. See the research done on https://hs.valleyofgrace.co.za/research/top-schools
 
@@ -117,11 +133,22 @@ The Forum's [[long-term-goal|long-term goal]] groups the valley's life into thre
 - **Equality (civic).** The trust holds the campus for the whole ward. Every valley learner has the same access to the training centre and the learning centre. Bursary places go to learners from every village. No path is second class.
 - **Cooperation (economic).** The boarding school hires and buys in the valley first. Employers work with the training centre as partners.
 
+Beneath all three sits [[concepts/vorming|Vorming]]: each learner grows in responsibility for the valley, and the valley's restored land and rivers show it.
+
 It also serves three of the Forum's [[priorities/index|priorities]]: [[priorities/education-skills|Education and Skills]], [[priorities/tourism-development|Tourism Development]], and [[priorities/conservation-environment|Conservation and Environment]]. The boarding school's kitchen and suppliers could also support [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]] and [[priorities/business-procurement|Business Development and Local Procurement]].
 
 ## Learning from Bonnievale
 
-In Bonnievale, community leaders began planning a new public high school in 2016, because the town had too few high school places and many learners left school or the town after Grade 7 [IC]. The school, Jakes Gerwel Technical School, teaches academic subjects and practical skills on one campus [IC]. The year it opened has not been confirmed [TBV]. It charges no school fees, and the non-profit organisation that helps run it holds half the seats on its governing body [TBV]. The [[organisations/western-cape-education-department|Western Cape Education Department]] helped pay for the buildings, and the town raised the rest together [TBV]. People from Bonnievale have visited Emil Weder Secondary to share their experience [MS].
+Bonnievale is a farming town on the Breede River, in Langeberg Municipality [IC]. Its community built a new high school, and the full record of how it did so is on [[case-studies/bonnievale-418|Bonnievale 418]]. The main facts:
+
+- **The gap.** Before 2016, Bonnievale had one public high school, which sources say had about 350 places [MS]. About 200 learners a year were bussed to high schools in other towns [MS].
+- **The plan.** In 2016, residents began planning a new no-fee high school, and set up the JGE Funding Trust to raise money for it [MS].
+- **The school.** Jakes Gerwel Technical School opened in January 2018 with Grades 8 and 9 [IC]. Its first matric class wrote in 2021 [IC]. It had 773 learners in 2025, and charges no school fees [IC].
+- **What it teaches.** Technical, agricultural and vocational subjects on one campus [IC]. Its School of Skills stream teaches trades and food production over four years [MS].
+- **The rules it runs under.** It is a collaboration school: a public school run by the [[organisations/western-cape-education-department|Western Cape Education Department]] with a non-profit partner [IC]. The trust holds eight of the 16 seats on its governing body [IC].
+- **The money.** The founders say the department paid 40% of the cost of the buildings and the town raised the rest [MS]. The totals in the sources range from R85 million to R154 million, and the department's own figure has not been found [MS].
+- **After school.** In 2020 the trust started Bonnievale 418, which helps the town's school leavers into study, training or work [MS].
+- **Contact with the valley.** People from Bonnievale 418 have presented at Emil Weder Secondary and the Genadendal Mission Museum [MS].
 
 ## What is not known/decided
 
@@ -134,6 +161,7 @@ In Bonnievale, community leaders began planning a new public high school in 2016
 - Whether the Western Cape Education Department would open a school of skills here.
 - How the campus would work with Emil Weder, if Emil Weder wants to.
 - What it would cost.
+- How Vorming would shape the timetable and teacher training. [[organisations/the-shift|The Shift]] and [[organisations/meritus-international|Meritus International]] have not been asked whether they would take part.
 
 ## What happens next
 
@@ -150,16 +178,23 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the Novem
 ## Related
 
 - [[long-term-goal|Our Long-Term Goal]]
-- [[emil-weder-secondary|Emil Weder Secondary School]]
+- [[cultural/education/emil-weder-secondary|Emil Weder Secondary School]]
+- [[concepts/vorming|Vorming]]
+- [[concepts/the-palmiet-principle|The Palmiet Principle]]
 - [[concepts/restoring-the-river|Restoring the River: Water Skills at the Learning Campus]]
 - [[priorities/education-skills|Education and Skills]]
+- [[case-studies/bonnievale-418|Bonnievale 418]]
 - [[concepts/index|Ideas for the Valley]]
 
 ## References
 
-Sources on the Bonnievale school, Jakes Gerwel Technical School:
+Sources on the Bonnievale school, Jakes Gerwel Technical School (the full list is on [[case-studies/bonnievale-418|Bonnievale 418]]):
 
-- [IPASA Collaboration Case Study: Jakes Gerwel Technical School and Bonnievale 418 (November 2023)](https://ipa-sa.org.za/wp-content/uploads/2023/11/IPASA-Collaboration-Case-Study_Jakes-Gerwel-Technical-School-and-Bonnievale-418_November-2023.pdf). How the school was set up, its operating partner's seats on the governing body, and how the building was paid for.
+- Western Cape Provincial Parliament. [Oversight visit to Jakes Gerwel Technical High School](https://www.wcpp.gov.za/sites/default/files/EDU%20-%20Oversight%20visit%20to%20Jakes%20Gerwel%20Technical%20High%20School%20-%2015%20Nov%202019docx.pdf) (15 November 2019). Collaboration school status, the governing body, the opening date and the subjects.
+- Department of Basic Education. [Western Cape No Fee Schools 2025](https://www.education.gov.za/Portals/0/Documents/Publications/2023/WC%20No%20Fee%20Schools%202025%20list.pdf) (2025). Learner numbers and no-fee status.
+- Food For Mzansi. [Miracle agri-school produces first crop of matrics](https://www.foodformzansi.co.za/miracle-agri-school-produces-first-crop-of-matrics/) (19 January 2022). The first matric class.
+- Financial Mail, republished by the Jakes Gerwel Foundation. [New schooling model offers hope](https://paulethousestories.jgf.org.za/new-schooling-model-offers-hope/) (23 June 2022). The deal with the department and the bussed learners.
+- [IPASA Collaboration Case Study: Jakes Gerwel Technical School and Bonnievale 418 (November 2023)](https://ipa-sa.org.za/wp-content/uploads/2023/11/IPASA-Collaboration-Case-Study_Jakes-Gerwel-Technical-School-and-Bonnievale-418_November-2023.pdf). How the school was set up, and how the building was paid for.
 - [SA3: Jakes Gerwel Tegniese Hoërskool Bonnievale](https://sa3.co.za/social_projects/jakes-gerwel-tegniese-hoerskool-bonnievale/). Why the town needed the school, and how it combines academic subjects with technical training.
 - [ASLA Foundation: Skills Development and Training, Jakes Gerwel School of Skills](https://aslafoundation.org.za/skills-development-and-training-jakes-gerwel-school-of-skills-bonnievale/). A construction company's support for technical training at the school.
 - [ASLA Foundation: Kruispad Huise](https://aslafoundation.org.za/the-jakes-gerwel-school-of-skills-bonnievale-kruispad-huise/). Two homes renovated as safe places to live for vulnerable learners.

@@ -85,7 +85,7 @@ The National Veld and Forest Fire Act sets out how veldfires are to be prevented
 
 **Municipal rules too.** Theewaterskloof Municipality's Community Fire Safety By-law, published in the Provincial Gazette (PG 7488) on 11 September 2015, adds local rules, for example on burning and fire hazards on properties [TBV].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/residents-association/greyton-volunteer-firefighters|Greyton Volunteer Firefighters]].
 - [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]]: the nature reserve and commonage.

@@ -79,7 +79,7 @@ The National Heritage Resources Act sets out how South Africa identifies and pro
 
 **For rock art and burial sites.** Sites known to residents are protected by this Act whether or not they are recorded. This site never publishes their locations, and asks residents to share them with the moderators privately.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[cultural/sport-heritage-arts-culture/genadendal-mission-museum|Genadendal Mission Museum]] and [[cultural/faith-communities/moravian-church-genadendal|Moravian Church Genadendal]].
 - [[concepts/tourism-growth-fund-application|Valley of Grace Heritage Trail]]: heritage guides and heritage home hosts.

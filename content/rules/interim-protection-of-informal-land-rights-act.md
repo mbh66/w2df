@@ -75,7 +75,7 @@ The Interim Protection of Informal Land Rights Act, known as IPILRA, protects pe
 
 **In Greyton and on private farms.** The Act protects informal rights, and title-deed owners in Greyton hold formal ones. People living on farms with the owner's consent are mainly protected by a different law, the Extension of Security of Tenure Act 62 of 1997 [IC].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]].
 - [[civic/residents-association/madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]]: the relocation plans described there would touch any informal rights people hold.

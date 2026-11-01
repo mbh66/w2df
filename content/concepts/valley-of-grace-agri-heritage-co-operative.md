@@ -22,7 +22,7 @@ aliases:
 links:
   - https://www.cipc.co.za/?page_id=2197
   - https://www.cogta.gov.za/ddm/
-updated: 2026-09-28
+updated: 2026-11-01
 ---
 
 > **This idea is not yet agreed.** It comes from a group of growers in Genadendal [MS]. The other growers, organisations, and government offices it mentions have not been asked about it yet. It will be tabled at the Forum's November 2026 meeting. **Please do not share this page publicly yet.**
@@ -76,7 +76,7 @@ Each activity would feed the next. Member farms would supply the kitchen and the
 
 The national Department of Cooperative Governance and Traditional Affairs (CoGTA) leads the District Development Model, introduced in 2019 [IC]. Under it, national, provincial, and local government plan and budget together for each of the country's 44 districts and 8 metros, through a single plan for each district, called the One Plan [IC]. One of its aims is local economic development through local buying and job creation that supports local businesses [IC].
 
-In the Western Cape, this joint planning runs through the provincial Joint District and Metro Approach (JDMA), endorsed by the Premier's Coordinating Forum in June 2019 [IC]. Each of the province's five districts has an interface team of officials from different departments, led by the provincial Department of Local Government [IC]. Garden Route District, for example, calls its plan the "JDMA Implementation Plan (One Plan)" [IC]. Theewaterskloof is one of the municipalities in the Overberg District [IC].
+In the Western Cape, this joint planning runs through the provincial Joint District and Metro Approach (JDMA), endorsed by the [[organisations/premier-of-the-western-cape|Premier]]'s Coordinating Forum in June 2019 [IC]. Each of the province's five districts has an interface team of officials from different departments, led by the provincial Department of Local Government [IC]. Garden Route District, for example, calls its plan the "JDMA Implementation Plan (One Plan)" [IC]. Theewaterskloof is one of the municipalities in the Overberg District [IC].
 
 In these terms, the co-operative would be a primary co-operative: the ground level of farm production, owned by the people who do the farming. It would fit the district model in these ways:
 

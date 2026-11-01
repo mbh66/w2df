@@ -17,12 +17,12 @@ aliases:
   - Wes-Kaapse Regering
   - Provincial Treasury
   - Western Cape Department of Local Government
-  - Premier of the Western Cape
 website: https://www.westerncape.gov.za
 last_checked: 2026-10-21
 links:
   - https://www.westerncape.gov.za
   - https://www.westerncape.gov.za/treasury/article/western-cape-government-approves-theewaterskloof-financial-recovery-plan
+updated: 2026-11-01
 ---
 
 > [!warning] For the Western Cape Government to review
@@ -34,7 +34,7 @@ links:
 > 4. Does the support plan announced in August 2026 include work with residents, and how could Ward 2 take part?
 > 5. Should readers reach you through the moderators, or through a public contact?
 
-The Western Cape Government is the provincial government of the Western Cape, with its seat in Cape Town [IC]. Its Cabinet, called the Provincial Executive, is chaired by the Premier [IC]. Several of its departments reach the valley, through schools, farming, tourism, and heritage. This page is about its role in [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]]. The Provincial Executive decided the intervention in the municipality in November 2024, and its ministers for local government and for finance oversee the [[rules/theewaterskloof-financial-recovery-plan|Financial Recovery Plan]] [IC].
+The Western Cape Government is the provincial government of the Western Cape, with its seat in Cape Town [IC]. Its Cabinet, called the Provincial Executive, is chaired by the [[organisations/premier-of-the-western-cape|Premier of the Western Cape]] [IC]. Several of its departments reach the valley, through schools, farming, tourism, and heritage. This page is about its role in [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]]. The Provincial Executive decided the intervention in the municipality in November 2024, and its ministers for local government and for finance oversee the [[rules/theewaterskloof-financial-recovery-plan|Financial Recovery Plan]] [IC].
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -50,7 +50,7 @@ The Western Cape Government is the provincial government of the Western Cape, wi
 | Kind | Government, provincial |
 | Based in | Cape Town |
 | Website | [westerncape.gov.za](https://www.westerncape.gov.za) |
-| Premier | Alan Winde, since May 2019; re-elected in June 2024 [IC] |
+| [[organisations/premier-of-the-western-cape\|Premier]] | Alan Winde, since May 2019; re-elected in June 2024 [IC] |
 | MEC for Local Government | Anton Bredell [IC] |
 | MEC for Finance | Deidré Baartman [IC] |
 | Link to the valley | Direct. It oversees the municipality's recovery |
@@ -61,7 +61,7 @@ The Western Cape Government is the provincial government of the Western Cape, wi
 - **The Provincial Executive** decides whether to intervene in a municipality under section 139 of the [[rules/constitution|Constitution]]. It approved the intervention in Theewaterskloof on 6 November 2024 [IC], and it adopts each progress report on the recovery plan [IC]. The Premier chairs it [IC].
 - **The MEC for Local Government**, Anton Bredell, gave the municipality formal notice of serious financial problems on 16 September 2024 [IC]. In August 2026 he announced a further support plan for the municipality, under section 154 of the Constitution, meant to continue after the formal intervention ends [IC].
 - **The MEC for Finance**, Deidré Baartman, and **Provincial Treasury** receive the municipality's monthly reports, track the plan, and publish its progress [IC]. The plan was approved under her portfolio on 7 October 2025 [IC]. She has said the municipality's finances "could be stabilised within approximately five years" if the plan is followed with discipline [IC].
-- **The Premier.** Alan Winde became Premier in May 2019 and was re-elected on 13 June 2024 [IC]. His term runs to the next general election, due in 2029 [TBV]. In February 2024, before the intervention, he said he would ask for a full investigation into service delivery in four municipalities, Theewaterskloof among them [TBV].
+- **The [[organisations/premier-of-the-western-cape|Premier]].** Alan Winde became Premier in May 2019 and was re-elected on 13 June 2024 [IC]. His term runs to the next general election, due in 2029 [TBV]. In February 2024, before the intervention, he said he would ask for a full investigation into service delivery in four municipalities, Theewaterskloof among them [TBV].
 
 ## How its work reaches the valley
 
@@ -71,7 +71,7 @@ The Western Cape Government is the provincial government of the Western Cape, wi
 - **Departments.** The province's departments of [[organisations/western-cape-department-of-agriculture|Agriculture]], [[organisations/western-cape-department-of-economic-development-and-tourism|Economic Development and Tourism]], and [[organisations/western-cape-education-department|Education]] each have their own page.
 - **Planning law.** The province made the [[rules/western-cape-land-use-planning-act|Western Cape Land Use Planning Act]], under which the municipality's planning rules sit.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], the municipality under intervention.
 - [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]], an idea not yet agreed, which proposes that the Forum offer Ward 2's evidence to the province's monitoring of the plan. The province has not been asked.
@@ -89,6 +89,7 @@ If you know more about the province's work in the valley, contact the moderators
 ## Related
 
 - [[organisations/index|Organisations Outside the Valley]]
+- [[organisations/premier-of-the-western-cape|Premier of the Western Cape]]
 - [[organisations/overberg-district-municipality|Overberg District Municipality]]
 - [[history/institutions/municipality|The Municipality]]
 

@@ -91,7 +91,7 @@ Appendix 1 also summarises issues raised in "Greyton & Genadendal" (pages 314 to
 
 **The next IDP.** The current plan ends in 2027, and a new council term begins after the local government elections, so a new five-year IDP will be drawn up [TBV]. That process is the larger opening for the valley's priorities.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]]: timing a valley survey to reach the municipality before each review.
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]] and [[priorities/index|Forum Priorities]]: the Forum's five priorities, which could be put to the IDP.

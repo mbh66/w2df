@@ -63,7 +63,7 @@ Donations to the Fund may qualify for a Section 18A tax certificate [MS].
 
 The valley lies inside the Cape Floristic Region, the area the Fund covers [IC]. Wild Restoration names the Fund among its partners, for "developing the invasive clearing action network" [MS]. That network is open to local and volunteer clearing groups across the Cape Floristic Region, and Wild Restoration says more than 100 groups take part [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which lists the Fund as a partner.
 

@@ -53,7 +53,7 @@ Wesgro markets the province to visitors and investors, and publishes research on
 - **Visitors.** Wesgro collected 7,588 survey responses from visitors at Overberg tourism offices in 2024 [MS]. It does not publish these figures for each municipality [MS].
 - **Targets.** Wesgro's five-year plan describes the provincial target as doubling tourism by 2035 [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/overberg-leopard-corridor|The Overberg Leopard Corridor]], an idea not yet agreed, which leaves marketing with Wesgro and the local tourism offices. Wesgro has not been asked.
 

@@ -58,7 +58,7 @@ Elsenburg offers a B.Agric degree, a Diploma in Agriculture, and Equine Studies,
 - **Host farms.** The [[economic/farmers-land-water/index|Farmers, Land & Water]] category lists host-farm openings for Elsenburg learners among the things it holds.
 - **Co-operatives.** [[concepts/starting-a-co-operative|Starting a Co-operative in the Valley]] names the department's Overberg office as the government office a farming group asks first, and Elsenburg as a possible training partner.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/governance/minutes/2026-09-16-inaugural-meeting|Inaugural Meeting, 16 September 2026]], which records the department's attendance and its action.
 - [[priorities/education-skills|Education and Skills]], which notes the discussion of Elsenburg qualifications.

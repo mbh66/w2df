@@ -97,7 +97,7 @@ The Theewaterskloof Spatial Development Framework (SDF) is the municipality's pl
 
 **Using the SDF.** A proposal that fits the SDF has an easier path through the planning system than one that does not. Ideas tabled at the Forum that need land can be checked against the relevant chapter before they are taken further.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[villages/next-door-different-rules|Next Door, Different Rules]]: draws on the Greyton chapter.
 - [[civic/residents-association/madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]].

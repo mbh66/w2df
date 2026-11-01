@@ -70,7 +70,7 @@ The Local Government: Municipal Systems Act sets out how a municipality must pla
 
 **Accounts and debt.** Under Chapter 9 the municipality has a Credit Control and Debt Collection By-law, published in the Provincial Gazette (PG 7326) on 7 November 2014 [TBV]. In 2019 two Genadendal residents won the right to defend municipal claims for unpaid accounts on TRANCRAA land, and the question of title was left for trial [IC]. The municipality's Financial Recovery Plan of August 2025 reports that Genadendal accounts for about a fifth of its outstanding debt [IC]. Households that cannot afford services may apply for indigent support under the municipality's policy [TBV].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]]: an idea for feeding the valley's own figures into the yearly IDP review.
 - [[civic/residents-association/madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]]: basic services on land the municipality does not own.

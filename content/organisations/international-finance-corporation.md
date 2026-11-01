@@ -67,7 +67,7 @@ IFC says its mission is "promoting development by providing debt and equity to t
 
 **Other World Bank nature bonds.** The World Bank's lending arm, a separate part of the group, issued its own outcome bonds for rhino conservation in 2022 and Amazon reforestation in 2024, and priced a Spekboom Restoration Outcome Bond in South Africa on 23 April 2026 [MS]. In those, the World Bank is the issuer. In the Cape Water bond, IFC is an investor. IFC does not link the Cape Water bond to them.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/ridge-to-river-to-table|Ridge to River to Table]], an idea not yet agreed, which proposes that the valley prepare for a later bond in RMB's series.
 - [[cultural/education/project/teachers|the teachers' guide]] and [[cultural/education/project/students/evan|Evan]], from the Silverwood school project, which follow the bond and its investors.

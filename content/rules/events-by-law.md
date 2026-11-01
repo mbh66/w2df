@@ -73,7 +73,7 @@ Theewaterskloof Municipality's By-law relating to the Holding of Events says whe
 
 **Forum meetings.** A meeting of the Forum at a hall used for meetings is the kind of gathering the exemptions appear to cover [TBV].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[economic/business/greyton-village-market|Greyton Village Market]].
 - [[cultural/sport-heritage-arts-culture/greyton-mtb-club|Greyton MTB Club]] and [[cultural/sport-heritage-arts-culture/greyton-mtb-juniors|Greyton MTB Juniors]].

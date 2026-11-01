@@ -26,7 +26,7 @@ links:
   - https://www.westerncape.gov.za/treasury/article/western-cape-government-approves-theewaterskloof-financial-recovery-plan
   - https://www.westerncape.gov.za/treasury/article/financial-recovery-plans-show-varied-progress-across-beaufort-west-kannaland-and
 last_checked: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 > [!warning] A working page, open for review
@@ -139,10 +139,10 @@ In May 2026 Greyton's municipal-supply area owed R7,981,241 (1.75%), and the Esk
 
 **Heritage and tourism.** The plan links Genadendal's heritage to tourism in Greyton as an opportunity the municipality has not used [IC].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]]: the municipality today, its audits, and the investigations into it.
-- [[organisations/western-cape-government|Western Cape Government]]: the Premier, the two provincial ministers, and Provincial Treasury, who oversee the plan.
+- [[organisations/western-cape-government|Western Cape Government]]: the [[organisations/premier-of-the-western-cape|Premier]], the two provincial ministers, and Provincial Treasury, who oversee the plan.
 - [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]]: an idea, not yet agreed, for how the Forum could help.
 - [[history/institutions/municipality|The Municipality]]: how the valley has been governed since 1909.
 - [[civic/residents-association/madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]].

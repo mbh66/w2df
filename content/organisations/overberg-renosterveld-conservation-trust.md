@@ -59,7 +59,7 @@ Renosterveld is the shrubland that once covered the Overberg's lowlands. The Tru
 
 Wild Restoration names the Trust among its partners, for "effective invasive clearing and biodiversity protection within Renosterveld areas" [MS]. Whether the Trust works on any land in Ward 2 is not known.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which lists the Trust as a partner.
 

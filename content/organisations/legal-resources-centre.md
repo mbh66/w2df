@@ -54,7 +54,7 @@ The LRC has offices in Johannesburg, Cape Town, Durban, and Makhanda, and became
 
 The LRC's advice of 26 May 2009 is recorded on [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]] [IC]. The [[rules/interim-protection-of-informal-land-rights-act|Interim Protection of Informal Land Rights Act]] page names it as a legal aid organisation that works on land rights [IC].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]], which records the 2009 advice.
 - [[rules/interim-protection-of-informal-land-rights-act|Interim Protection of Informal Land Rights Act]].

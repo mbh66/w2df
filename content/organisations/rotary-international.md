@@ -52,7 +52,7 @@ Each Rotary district is led by a district governor elected for one year [MS].
 
 The Rotary Club of Greyton runs community projects across the valley, from food forests and gardens to early childhood development and a skills centre [MS]. It attended the Forum's first meeting [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/community-care/rotary-club-of-greyton|Rotary Club of Greyton]], the valley's Rotary club.
 - [[civic/community-care/greyton-red-cross|Greyton Red Cross]], which lists the Rotary club as a partner.

@@ -34,11 +34,11 @@ updated: 2026-10-31
 
 ## The goal
 
-> Hold the land of Farm 39 in a form that no one can sell or mortgage, so that the argument about who owns it can give way to agreement on who cares for it.
+> Hold the land of [[villages/farm-39|Farm 39]] and [[erf-595-greyton|Erf 595]] in a form that no one can sell or mortgage, so that the argument about who owns it can give way to agreement on who cares for it.
 
 ## Why the valley needs it
 
-The Transformation of Certain Rural Areas Act of 1998 (TRANCRAA) provides for the Remainder of Farm 39, mostly commonage and farmland, to pass from the national Minister to an entity [IC]. The Act names the municipality and a Communal Property Association (CPA), or another body the Minister approves [IC]. The Minister may only transfer the land once satisfied that the receiving body's rules balance the tenure and use rights of residents, members, and present and future users [IC].
+The Transformation of Certain Rural Areas Act of 1998 ([[rules/trancraa|TRANCRAA]]) provides for the Remainder of Farm 39, mostly commonage and farmland, to pass from the national Minister to an entity [IC]. The Act names the municipality and a Communal Property Association (CPA), or another body the Minister approves [IC]. The Minister may only transfer the land once satisfied that the receiving body's rules balance the tenure and use rights of residents, members, and present and future users [IC].
 
 The process for Farm 39 began in 2002 [IC]. Its 18-month transitional period ended in January 2011 without a transfer, so the land stayed with the Minister [IC]. The record on [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]] shows the parties divided on several points that bear on this idea:
 
@@ -50,7 +50,7 @@ The Ward 2 Development Forum agreed on 16 September 2026 that other platforms al
 
 ## The trust deed
 
-Die Bevryde Grond Trust ("the Freed Land Trust") was first set up on 14 September 1995 as the Leerkrans Trust, which owns a farm called Hoekiesdam [MS]. Its founder and trustees adopted a new deed in October 2012 "to create a vehicle to conserve and safeguard access to land for public benefit", and renamed the trust [MS]. The copy held by the Forum bears the stamp of the Master of the Western Cape High Court, dated 15 November 2012, and the stamp of [[organisations/cullinan-and-associates|Cullinan & Associates Inc]] [MS]. Cormac Cullinan, a director of that firm, helped draw up the deed [MS].
+Die Bevryde Grond Trust ("the Freed Land Trust") was first set up on 14 September 1995 as the Leerkrans Trust, which owns a farm called Hoekiesdam in Wolseley, WC [MS]. Its founder and trustees adopted a new deed in October 2012 "to create a vehicle to conserve and safeguard access to land for public benefit", and renamed the trust [MS]. The copy held by the Forum bears the stamp of the Master of the Western Cape High Court, dated 15 November 2012, and the stamp of [[organisations/cullinan-and-associates|Cullinan & Associates Inc]] [MS]. Cormac Cullinan, a director of that firm, helped draw up the deed [MS].
 
 The deed's main provisions are these:
 
@@ -79,10 +79,36 @@ Each route speaks to one of the points in dispute. A permanent ban on sale would
 
 The deed in its present form would not meet TRANCRAA's test, and could not be copied as it stands:
 
+- **Rights over the land.** The deed bars the trustees from granting "any option, lien, restriction, right to acquire, right of pre-emption, third party right or interest or security interest of any kind" over the trust's land [MS]. That would rule out the registered rights described under *What residents would hold*. A Farm 39 version would need to allow registered leases and use rights for residents, while keeping the ban on selling or mortgaging the land itself.
 - **Who appoints the trustees.** The present trustees appoint new ones, after consulting named organisations [MS]. TRANCRAA requires rules that balance residents' tenure and use rights [IC]. A Farm 39 version would need residents to elect or confirm trustees, and a way to remove them.
 - **Trustees' discretion.** The deed gives trustees "a complete and unfettered discretion" over the assets, and frees them from giving reasons for their decisions [MS]. Residents would need written rights the trustees could not override.
 - **Public benefit or residents' benefit.** To keep its tax status, the trust must carry out its activities "for the benefit of the general public" [MS]. Farm 39 is held in trust for its residents [IC]. A lawyer would need to say whether one trust can do both, or whether the valley would need a different form.
 - **Existing rights.** Users of the garden plots and holders of farm leases would each need a settled place in the new arrangement, as would the owners of properties already transferred off the farm.
+
+## What residents would hold
+
+Many residents want a title deed to the land they live on and use [TBV]. A trust that can never sell its land cannot hand out freehold deeds to all of it. It could still give households secure, registered rights, and in some forms it could sit beside full title. The routes below are proposals for discussion, and each needs a lawyer's opinion before it is put to residents.
+
+**Title for homes, the trust for the commons.** Under TRANCRAA, trust land inside a proclaimed township passes to the municipality [IC], which could then give households title to their erven. The trust would hold only the Remainder, mostly commonage and farmland [IC]. It would then never stand between a family and the deed to its house. This route touches the oldest point in the dispute. The 2008 court order says "there shall be no distinction" between the inner and outer commonage [IC], and the Komitee holds that the whole of the land is subject to TRANCRAA [MS]. It could only be raised with the Komitee as a question.
+
+**Registered long leases on trust land.** The trust would keep the land, and each household would hold a long lease or use right registered in the Deeds Office. The right could be inherited, and sold to another qualifying resident, and it would bind anyone who later controls the trust. The consultants' lawyers concluded in 2010 that users of the garden plots already hold registerable use rights [MS], so the record offers a starting point. Whether banks would lend against such rights is not known.
+
+**A choice for each household.** Residents who want full title to their residential erf could take it. Those who prefer the protection of the trust could place their plot in it, or hold a lease from it. The trust could hold a right of first refusal when a titled property comes up for sale, so that land returns to common care over time.
+
+**Properties already sold.** The Ward 2 Forum's 2017 analysis says over 200 residential properties on Farm 39 had been sold and transferred [MS]. Their owners would keep their title, and the trust would hold only land that remains unsold. That sets aside the question of who would undo those sales.
+
+**People who arrived after 1998.** TRANCRAA counts as a resident anyone who ordinarily lived in the area on 2 November 1998 [IC]. A trust could offer leases to later arrivals whom the community accepts, without changing anyone's status under the Act. The Forum's 2017 series proposed that people who arrived later and are "in good standing" may be considered as beneficiaries [MS].
+
+## Conversations it could open
+
+Even where the trust is not the answer, raising it could start conversations the process has lacked.
+
+- **With the Komitee, about what a title deed is for.** Residents may want security of tenure, the right to leave land to their children, the right to borrow against it, or the right to sell. Some may want protection against outsiders buying in. Freehold title gives most of these, along with the risk of land passing to outsiders. A registered lease from a trust gives several of them without that risk. Asking which matter most to families, perhaps through [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]], would move the talk from who owns the land to what households need from it.
+- **About the history of the land.** In 1858 the land was granted in trust to the church's superintendent as sole trustee, and many residents rejected the grant, holding that the land had belonged to their Khoi ancestors [MS]. A trust whose trustees are chosen by residents would reverse that arrangement. Seen this way, the idea mends the 1858 trust, and could be heard in the valley on those terms.
+- **With the municipality, about rates and services.** The municipality's 2025 Financial Recovery Plan records that in Genadendal "the community feels that the land does not belong to the municipality and that they therefore have no obligation to pay for said services" [IC]. Clear, registered rights for each household could give both sides a footing for an agreement on rates and services.
+- **With the Department, about the third route.** Asking whether a trust controlled by residents could be approved under TRANCRAA would test the Minister's discretion without anyone setting aside the CPA.
+- **With funders.** Land that can never be sold, held by a public benefit organisation and conserved by its users, is the kind of asset that conservation and outcome funders back. This links the idea to [[concepts/ridge-to-river-to-table|Ridge to River to Table: Investing in the Whole Valley]] and [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]].
+- **Towards 2038.** Genadendal turns 300 in 2038 [IC]. Land that will still belong to the valley at the tricentenary is a goal residents could hold to, whatever legal form carries it.
 
 ## Who would benefit
 
@@ -108,6 +134,9 @@ The idea touches the [[priorities/conservation-environment|Conservation and Envi
 - **Cormac Cullinan's view.** Whether he or his firm would advise on a version for Farm 39. Neither has been asked.
 - **The law.** Whether a trust can be approved as a receiving entity under TRANCRAA, and whether a trust for residents can also be a public benefit organisation.
 - **The municipality's and the Department's views.** Neither has been asked.
+- **Residents' wishes.** How many residents want freehold title, and how many would accept a registered lease or use right. Nobody has asked.
+- **Leases and lending.** How long leases and use rights on trust land would be registered, and whether banks would lend against them.
+- **The inner and outer commonage.** Whether the Komitee would discuss treating residential erven differently from the commonage, given its position and the 2008 order.
 - **How the trust deed has worked.** How Die Bevryde Grond Trust has run since 2012, and whether it registered as a public benefit organisation as it intended [MS].
 
 ## What happens next
@@ -131,6 +160,10 @@ To comment on this idea, see [[how-to-submit|How to Submit]] or raise it at the 
 - [[villages/farm-39|Farm 39]]
 - [[organisations/cullinan-and-associates|Cullinan & Associates Inc]]
 - [[concepts/consent-consensus|Consent vs Consensus]]
+- [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]]
+- [[concepts/ridge-to-river-to-table|Ridge to River to Table: Investing in the Whole Valley]]
+- [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]]
+- [[history/genadendal-a-long-walk|Genadendal: A Long Walk]]
 
 ## References
 

@@ -60,7 +60,7 @@ Its programmes include [MS]:
 
 The website gives the non-profit company registration number 2018/586498/08 and the public benefit organisation number 930064449 [MS].
 
-## How its work reaches the valley
+## Relevance to the valley
 
 - **7 October 2026.** Henk Swanepoel presented *The Shift | Formation First Economy: Human formation as an underlying infrastructure for flourishing* to the Forum [MS]. Read the slides: [[the-shift-formation-first-economy-2026-10-07.pdf|Formation First Economy (PDF)]].
 - **29 October 2026.** He visited the valley for a day of talks [MS].
@@ -84,7 +84,7 @@ The slides place Formation First beneath the Forum's own approach. The Forum map
 
 The Forum's convenor reads Formation First as close to Bildung, the European tradition of lifelong formation in which a person takes on ever wider responsibility as their freedom grows. The BioConomy wiki treats Bildung as the ground a place-based economy's foundation is built on: [Bildung](https://wiki.bioconomy.earth/concepts/bildung). The two share a sequence, in which formation comes before responsibility, and a circle of responsibility that widens from the person out to the territory. Both also warn that money given to people who are not ready to steward it can do harm. The Shift has not been asked whether it agrees with this reading.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[organisations/meritus-international|Meritus International]], the company Henk Swanepoel co-founded, named in the title of the 7 October presentation.
 - [[register|The Register]], whose needs-and-offers approach the presentation builds on.

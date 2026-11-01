@@ -70,7 +70,7 @@ The Western Cape Land Use Planning Act, known as LUPA, is the province's own pla
 
 **In Greyton and Heuwelkroon.** Land here was already zoned under the older schemes, and those zonings carried over [TBV].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[villages/farm-39|Farm 39]] and [[villages/next-door-different-rules|Next Door, Different Rules]].
 - [[civic/residents-association/madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]].

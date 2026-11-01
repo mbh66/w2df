@@ -56,7 +56,7 @@ The municipality states its mission as rendering "sustainable, client directed s
 - **Fire.** The fire emergency number on Greyton Volunteer Firefighters' website is the number of the district's fire control room [IC]. Greyton Volunteer Firefighters began with a borrowed trailer and tank, and later used an old fire truck from the district municipality [IC].
 - **Planning.** The district is the level above Theewaterskloof in the [[rules/index|The Rules the Valley Lives By]] table, where no district rule has a page yet.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/residents-association/greyton-volunteer-firefighters|Greyton Volunteer Firefighters]], the valley's volunteer fire service.
 - [[rules/national-veld-and-forest-fire-act|National Veld and Forest Fire Act]], which names the district fire services as the emergency contact.

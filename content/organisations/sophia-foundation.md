@@ -50,7 +50,7 @@ No public description from the Foundation itself has been found yet.
 
 The Greyton Nature Programme covers reserve management, trails and signs, rangers who help people and wildlife (including baboons) live side by side, environmental education, clearing of invasive plants, and biodiversity monitoring [MS]. Every donation to it is matched by the Foundation [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]].
 

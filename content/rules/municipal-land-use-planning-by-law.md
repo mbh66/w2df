@@ -77,7 +77,7 @@ Theewaterskloof Municipality's By-law on Municipal Land Use Planning sets out ho
 
 **For ideas tabled at the Forum.** Ideas that would need a building or a change of use, such as the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]] or a farm shop for the [[concepts/valley-of-grace-agri-heritage-co-operative|Agri-Heritage Co-operative]], would pass through this by-law. The Forum has said it will take practical planning matters to the municipality's operational officials [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]].
 - [[economic/business/index|Business]] and [[economic/tourism/index|Tourism]]: accommodation and other businesses run from homes.

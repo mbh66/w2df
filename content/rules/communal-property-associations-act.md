@@ -89,7 +89,7 @@ These findings cover the country as a whole. Officials name government support a
 
 **For other groups.** A CPA is meant for a community holding land. Groups in the valley that want to run a business together use other forms, such as a co-operative (see [[concepts/starting-a-co-operative|Starting a Co-operative]]) or a non-profit company.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]]: the CPA as the proposed receiving entity.
 - [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]].

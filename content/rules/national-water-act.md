@@ -81,7 +81,7 @@ The National Water Act is the law that governs all water in South Africa [IC]. I
 
 **Households.** Collecting rainwater and taking water for household use and a small food garden from a source on one's own land is Schedule 1 use and needs no authorisation [IC]. A food garden that sells its produce is commercial, and is not covered by Schedule 1 [TBV].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]].
 - [[history/leiwater|Greyton's Leiwater]].

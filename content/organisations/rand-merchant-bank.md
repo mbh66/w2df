@@ -63,7 +63,7 @@ RMB is the corporate and investment banking arm of FirstRand Bank [IC]. RMB's ow
 
 **The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the Forum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with [[organisations/capenature|CapeNature]] [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/ridge-to-river-to-table|Ridge to River to Table]], an idea not yet agreed, proposes that the valley prepare for a later bond in RMB's series, and that the idea be put to RMB only after the Forum and the Transformasie Komitee have considered it. RMB has not been approached.
 - [[concepts/restoring-the-river|Restoring the River]], an idea not yet agreed, explains the water fund and the bond as an example of what cities pay for clean water.

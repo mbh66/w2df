@@ -58,7 +58,7 @@ A catchment management agency carries out parts of the National Water Act for on
 - **Water use and licences.** The [[rules/national-water-act|National Water Act]] page names the agency as the body for water use registration and licences in the Breede catchment [IC].
 - **Earlier work.** Its predecessor, the Breede-Gouritz Catchment Management Agency, was a partner in the Breede Catchment Water Stewardship Programme led by [[organisations/wwf-south-africa|WWF South Africa]] [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[rules/national-water-act|National Water Act]], where the agency is one of the two bodies that administer the Act in the valley.
 - [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]], an idea not yet agreed, which would ask the agency whether water added below the dam could be counted. The agency has not been asked.

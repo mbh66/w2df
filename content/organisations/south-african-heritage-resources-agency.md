@@ -55,7 +55,7 @@ SAHRA manages heritage resources of national significance, while each province's
 - **Genadendal.** The Genadendal Moravian Mission Complex was declared a national monument in 1980 [IC], and the museum collection a National Cultural Treasure on 8 March 1991 [IC]. In 2000 SAHRA changed the status of the collection and the Church Square monuments from national to provincial [MS].
 - **The museum.** From 2011 to 2012 an assistant auditor from SAHRA worked on an inventory of the museum's collections [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[cultural/sport-heritage-arts-culture/genadendal-mission-museum|Genadendal Mission Museum]], [[history/institutions/moravian-church|Moravian Church]], [[history/genadendal-a-long-walk|Genadendal: A Long Walk]], and [[history/history-of-the-valley|History of the Valley]], which record the change of status in 2000.
 - [[contributors/isaac-balie|Isaac Balie]], who led the inventory project.

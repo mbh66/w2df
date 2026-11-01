@@ -56,7 +56,7 @@ The European Outdoor Conservation Association (EOCA) is a charity that funds con
 
 Wild Restoration's project "Be wild and rewild the mountains in the Cape Floral Kingdom" was chosen in the public vote in the autumn 2023 round [IC]. It was entered in the Wild Places category [MS]. The Hermanus Times reported in December 2023 that the grant runs for two years [MS]. EOCA says the project will clear 280 hectares of invasive pines from the mountains of the Greyton Nature Reserve, and will include education, training, and awareness work [MS]. In October 2025, as part of this project, a team of 19 felled more than 10,000 pines across 21 hectares on the upper slopes of the Uitkyk [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[economic/farmers-land-water/wild-restoration|Wild Restoration]], whose clearing in the Greyton Nature Reserve the association funds.
 

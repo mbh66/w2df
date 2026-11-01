@@ -56,7 +56,7 @@ Its South African team works on care for street dogs, ending cosmetics testing o
 - **Schools.** A programme started in 2015 reached all six schools in the valley, about 2,500 children in Genadendal, Bereaville, Voorstekraal, and Greyton, with funding from Humane Society International [MS].
 - **Relief.** It gave the sanctuary a disaster relief grant during the Covid lockdown [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/community-care/greyton-farm-animal-sanctuary|Greyton Farm Animal Sanctuary]] and [[economic/farmers-land-water/pigs-to-plants|Pigs to Plants]].
 

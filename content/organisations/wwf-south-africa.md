@@ -55,7 +55,7 @@ WWF South Africa leads the Breede Catchment Water Stewardship Programme, whose f
 - **The Riviersonderend.** WWF South Africa started the clearing project that the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]] now runs [MS].
 - **The Breede catchment.** The stewardship programme led by WWF and [[organisations/woolworths|Woolworths]] reports releasing 200 million litres of water a year back into the catchment [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]], which took over WWF's clearing project.
 - [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]], an idea not yet agreed, which cites the Breede programme and asks whether WWF would be interested. WWF has not been asked.

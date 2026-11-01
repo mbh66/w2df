@@ -22,7 +22,7 @@ links:
   - https://www.saflii.org/za/cases/ZAWCHC/2019/95.html
   - https://www.westerncape.gov.za/eadp/files/wcg-blob-files?file=2025-09%2F2014_ba-ea_1084-24-greyton.pdf&type=file
   - https://groundup.org.za/article/greyton-families-still-in-limbo-five-years-after-protests/
-updated: 2026-09-23
+updated: 2026-11-01
 ---
 
 Madiba Park is a settlement in Ward 2 [MS]. It borders Heuwelkroon, which is part of Greyton [MS]. It stands on Farm 39 land [IC], the land on which Genadendal, Bereaville, Voorstekraal, and Boschmanskloof also stand [MS]. Theewaterskloof Municipality does not provide full basic services in Madiba Park [MS]. Its land and service matters fall to the Transformasie Komitee as a result [MS]. People have lived there for more than ten years [TBV].
@@ -35,7 +35,7 @@ Madiba Park sits where Greyton and Genadendal meet. On the ground it lies next t
 
 - Farm 39 Genadendal is a former mission station of about 4,515 hectares [IC].
 - It is one of the rural areas covered by the Transformation of Certain Rural Areas Act of 1998, known as TRANCRAA [IC].
-- The national Minister responsible for land reform holds the part of Genadendal that lies outside the township area in trust [IC].
+- The national Minister responsible for land reform (now the [[organisations/minister-of-land-reform-and-rural-development|Minister of Land Reform and Rural Development]]) holds the part of Genadendal that lies outside the township area in trust [IC].
 - The [[organisations/department-of-land-reform-and-rural-development|national Department of Agriculture, Land Reform and Rural Development]] acts as custodian of the land at Madiba Park [IC].
 - The land is to pass to the Genadendal community through a Communal Property Association, and this has not been finalised [TBV]. In 2024 a department spokesperson told GroundUp that "certain issues" were still outstanding [MS].
 - News reports often call this a land restitution process. In 2014 the Land Claims Court held that TRANCRAA is a land reform law, and that it does not deal with land restitution [IC].

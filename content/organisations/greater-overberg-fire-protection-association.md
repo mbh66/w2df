@@ -56,7 +56,7 @@ goFPA helps landowners plan firebreaks and sign agreements with neighbours, trai
 
 The [[rules/national-veld-and-forest-fire-act|National Veld and Forest Fire Act]] page names goFPA as the body for membership, Fire Management Units, firebreaks, and burn permits [MS]. Whether its members include landowners in Ward 2 is not yet known.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[rules/national-veld-and-forest-fire-act|National Veld and Forest Fire Act]], which asks goFPA how its membership covers Ward 2.
 - [[civic/residents-association/greyton-volunteer-firefighters|Greyton Volunteer Firefighters]], which asks how it works with goFPA on a call.

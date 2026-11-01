@@ -53,7 +53,7 @@ The centre has an emergency clinic, recovery and rehabilitation spaces, and flig
 
 [[civic/community-care/grace-valley-wildlife-rescue|Grace Valley Wildlife Rescue]] stabilises injured wild animals from the valley before they go to a permitted rehabilitation centre or a vet [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/community-care/grace-valley-wildlife-rescue|Grace Valley Wildlife Rescue]].
 

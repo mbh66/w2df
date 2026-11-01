@@ -52,7 +52,7 @@ The stewardship programme works with farmers who supply retailers, clears invasi
 
 Whether the programme works along the Riviersonderend or near the valley is not yet known.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]], an idea not yet agreed, which cites the programme as an example of paying for water results.
 

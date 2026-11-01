@@ -63,9 +63,15 @@ An idea in which the Forum would propose, for each party, what appears necessary
 ### [[concepts/bevryde-grond-trust|Bevryde Grond Trust]]
 A trust deed, drawn up with Cormac Cullinan, under which land can never be sold or mortgaged, offered as a possible way through the Farm 39 deadlock under TRANCRAA. To be sent to the Transformasie Komitee in writing first, and tabled once it responds or 21 days after it was sent.
 
+### [[concepts/the-palmiet-principle|The Palmiet Principle]]
+A way to notice and reward any act that helps the valley's rivers move from Category A to Category B, modelled on the palmiet stretch the Zonderend Water Users Association has restored upstream. To be sent to the Transformasie Komitee in writing first, and tabled once it responds or 21 days after it was sent.
+
+### [[concepts/vorming|Vorming]]
+The valley's own variation of Bildung, the tradition of lifelong formation, built on care for the valley and on ecological restoration at a large scale. The design principle behind The Palmiet Principle. Not yet set down for a Forum meeting.
+
 ## How these fit together
 
-All thirteen ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
+All sixteen ideas serve the Forum's [[long-term-goal|long-term goal]] for 2038 and its five [[priorities/index|priorities]].
 
 ## Have your say
 

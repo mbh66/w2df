@@ -63,7 +63,7 @@ CapeNature describes itself as the province's chief custodian of the natural env
 - **Clearing for water.** CapeNature sat on the steering committee of the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]] in 2020 [MS]. Wild Restoration lists CapeNature as a partner [MS], and has told the Forum that the water fund supports clearing in the Riviersonderend mountains through a partnership with CapeNature [TBV].
 - **The Forum.** The minutes of the Forum's first meeting, on 16 September 2026, give "Elsenburg and CapeNature representatives" the action of sharing information on Elsenburg qualifications, host farms, and dates [MS]. CapeNature is not among the organisations listed as attending [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/overberg-leopard-corridor|The Overberg Leopard Corridor]], an idea not yet agreed, draws on CapeNature's plan for the Riviersonderend Complex and leaves reserves and trails with CapeNature. CapeNature has not been asked about it.
 - [[concepts/restoring-the-river|Restoring the River]] and [[concepts/ridge-to-river-to-table|Ridge to River to Table]], ideas not yet agreed, name CapeNature among organisations whose views are needed.

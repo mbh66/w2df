@@ -55,7 +55,7 @@ Kwaxala's investors buy Living Forest Shares, which it describes as perpetual un
 - **The offer.** The aim discussed would be to take existing water rights and turn them into rights to regenerate the river's flow, in the way Kwaxala turned logging rights into rights to regenerate forests [MS]. Nobody has yet worked out how its model would fit South African water law.
 - **The BioHub.** The Valley of Grace BioHub already names Kwaxala as a model to learn from [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]], an idea not yet agreed, which describes Kwaxala's model and its offer.
 - [[concepts/restoring-the-river|Restoring the River]] and [[concepts/ridge-to-river-to-table|Ridge to River to Table]], ideas not yet agreed, which build on it.

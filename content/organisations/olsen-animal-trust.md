@@ -49,7 +49,7 @@ No public description from the Trust itself has been found yet.
 
 [[economic/farmers-land-water/pigs-to-plants|Pigs to Plants]] helps households in the valley move from keeping pigs to growing vegetables [MS]. The University of the Western Cape will help measure its results [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/community-care/greyton-farm-animal-sanctuary|Greyton Farm Animal Sanctuary]] and [[economic/farmers-land-water/pigs-to-plants|Pigs to Plants]].
 

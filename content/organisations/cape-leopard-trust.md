@@ -53,7 +53,7 @@ The 2025 Boland survey covered about 2,500 square kilometres with 90 pairs of ca
 - **The valley's mountains.** Leopard has been recorded on trail cameras at Wild Restoration's clearing sites in the Riviersonderend mountains [MS], but no survey like the Boland one has covered them.
 - **Corridors.** To the south, the Trust, the [[organisations/endangered-wildlife-trust|Endangered Wildlife Trust]], and the [[organisations/grootbos-foundation|Grootbos Foundation]] are building the Agulhas Green Corridor [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/overberg-leopard-corridor|The Overberg Leopard Corridor]] and [[concepts/ridge-to-river-to-table|Ridge to River to Table]], ideas not yet agreed, which draw on the Trust's survey and suggest asking it to help survey the valley's mountains. The Trust has not been asked.
 

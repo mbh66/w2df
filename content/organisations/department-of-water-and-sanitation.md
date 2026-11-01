@@ -59,7 +59,7 @@ Under the National Water Act the national government, acting through the departm
 - **Releases down the river.** Farmers along the Riviersonderend and the [[organisations/overberg-water-board|Overberg Water Board]] are entitled to water released from the dam [IC]. In the 2018 drought the department limited releases to irrigators to 60% of their allocation [IC].
 - **The Reserve.** In August 2022 the department published the Reserve for the rivers of the Breede-Gouritz water management area, with figures for the Riviersonderend, the Baviaans, and the Gobos [IC]. The Reserve is the share of water the law keeps for people's basic needs and for the river itself [IC].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[rules/national-water-act|National Water Act]], which names the department as the body that administers the Act, with its Western Cape regional office as the place to ask.
 - [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]], an idea not yet agreed, which would ask the department whether water added below the dam could be counted. The department has not been asked.

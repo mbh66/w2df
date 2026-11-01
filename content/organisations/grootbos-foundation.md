@@ -53,7 +53,7 @@ The Foundation works to link isolated patches of conservation land into corridor
 
 The corridor lies south of the valley. [[concepts/ridge-to-river-to-table|Ridge to River to Table]] looks to it as an example [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[concepts/ridge-to-river-to-table|Ridge to River to Table]], an idea not yet agreed, which names the corridor.
 

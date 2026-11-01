@@ -24,7 +24,7 @@ links:
   - https://westerncape.gov.za/infrastructure/western-cape-infrastructure-framework-strategy-and-implementation-plan-2050
   - https://wcis.co.za/deal-book/overberg-dam-potential-water-security-project-in-the-overberg-district-2/
   - https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy
-updated: 2026-10-28
+updated: 2026-11-01
 ---
 
 > **This idea is not yet agreed.** None of the bodies named on this page has been asked about it. They include the [[organisations/western-cape-government|Western Cape Government]] (its Department of Infrastructure), the [[organisations/overberg-district-municipality|Overberg District Municipality]], [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], Swellendam Municipality, the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the [[organisations/overberg-water-board|Overberg Water Board]], the Zonderend Water Users Association, and the Transformasie Komitee. **Please do not share this page publicly yet.** It is proposed for the Forum's November 2026 meeting, with the other water ideas.
@@ -57,7 +57,7 @@ A project enters the pipeline in four steps [MS]:
 3. It tests them against a set of principles it calls the Panoptic Principles.
 4. It packages the ones that pass into portfolios that banks and investors can fund.
 
-Projects that pass get a one-page summary, called an elevator pitch, for investors [MS]. In July 2026 the Minister of Infrastructure said the pipeline held 52 priority projects worth R132 billion [MS]. Earlier in 2026 the province gave other totals: R131 billion in February, and R152 billion in the Premier's State of the Province Address [MS].
+Projects that pass get a one-page summary, called an elevator pitch, for investors [MS]. In July 2026 the Minister of Infrastructure said the pipeline held 52 priority projects worth R132 billion [MS]. Earlier in 2026 the province gave other totals: R131 billion in February, and R152 billion in the [[organisations/premier-of-the-western-cape|Premier]]'s State of the Province Address [MS].
 
 ### Ward 2 is not on the list
 

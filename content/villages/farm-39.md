@@ -7,7 +7,7 @@ draft: false
 komitee_review: pending
 links:
   - https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 > [!warning] For the Genadendal Transformasie Komitee to review
@@ -37,7 +37,7 @@ The status of the land also affects services. The municipality does not provide 
 | Surveyor-General code | C01300000000003900000 [IC] |
 | Area on the current record | 4,498.09 hectares on the Forum's map [IC] |
 | Original extent | 4,772.97 hectares (5,572 morgen and 261 square roods) under Deed of Grant G19/1952, on diagram B180/128 [IC] |
-| Held by | The national Minister responsible for land reform, in trust for residents [IC] |
+| Held by | The national [[organisations/minister-of-land-reform-and-rural-development\|Minister of Land Reform and Rural Development]], in trust for residents [IC] |
 | Not included | The Glebe Land, now [[villages/farm-827-glebe-land\|Farm 827]] [IC] |
 
 *Inference:* the current Surveyor-General parcel is smaller than the original farm because surveyed township land and other erven have been taken off it. On the Forum's map, the points for Bereaville and Boschmanskloof fall outside the current parcel [MS].
@@ -72,5 +72,6 @@ The full story, with each party's position in its own words, is on [[civic/resid
 - [[villages/madiba-park|Madiba Park]]
 - [[villages/farm-827-glebe-land|Farm 827: The Glebe Land]]
 - [[villages/farm-32-langgezocht|Farm 32: Langgezocht]]
+- [[organisations/minister-of-land-reform-and-rural-development|Minister of Land Reform and Rural Development]]
 - [[2026-09-16-inaugural-meeting|Inaugural Meeting, 16 September 2026]]
 - [[villages/index|All villages]]

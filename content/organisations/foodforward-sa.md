@@ -51,7 +51,7 @@ In 2023 FoodForward SA said the organisations it supplies had grown from 500 to 
 
 The [[civic/community-care/rotary-club-of-greyton|Rotary Club of Greyton]] is bringing fallow gardens back into use, with surplus food going to soup kitchens, old-age homes, and schools, alongside FoodForward SA [MS].
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[civic/community-care/rotary-club-of-greyton|Rotary Club of Greyton]].
 

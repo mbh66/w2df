@@ -52,7 +52,7 @@ In July 2026 the President approved a plan that sets up a separate state-owned c
 
 Eskom electricity reached Genadendal in the 1960s [MS]. Which parts of the ward Eskom supplies directly, and which the municipality supplies, is not yet recorded on this site.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[history/genadendal-a-long-walk|Genadendal: A Long Walk]], which records the arrival of electricity.
 

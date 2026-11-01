@@ -66,7 +66,7 @@ The foundation gives money to nature conservation [TBV]. No website of its own h
 
 **The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the Forum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with CapeNature [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
 
-## Where it touches this site
+## Relevance to W2DF
 
 - [[organisations/how-the-cape-water-bond-works|How the Cape Water Bond Works]] lists the foundation among the bond's bonus payers.
 - [[organisations/ranyaka-places-conversation|Ranyaka Places Conversation: Offers and Needs]] notes a possible link to a Rupert foundation, which that page describes as already active in the valley. No public source found so far says so.
