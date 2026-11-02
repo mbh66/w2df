@@ -1,5 +1,5 @@
 ---
-title: Reading this wiki in your language
+title: Reading in Your Language
 description: How to read this wiki in another language, and how to change the language later.
 tags:
   - help

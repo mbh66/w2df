@@ -27,6 +27,12 @@ A learning campus that gives every young person in the ward a path from school i
 ### [[concepts/restoring-the-river|Restoring the River: Water Skills at the Learning Campus]]
 A core theme for the Learning Campus: training young people to restore the Riviersonderend catchment and to be paid for the water it gives, once others have checked the results. To be tabled with the Learning Campus at the November 2026 meeting.
 
+### [[concepts/learning-campus-site-study|Where the Learning Campus Could Stand: A Site Study]]
+A desk study of possible sites for the Learning Campus on Farm 39 and Erf 595, made from the national contour map. It ranks the five proposed sites and three more found by a search. To be tabled with the Learning Campus at the November 2026 meeting.
+
+### [[concepts/south-bank-bypass|A South-Bank Bypass Road]]
+A road on the south bank of the river, from the R406 to the Krige Road, to take heavy farm trucks off Greyton's streets. A desk study redraws its route. To be tabled at the November 2026 meeting.
+
 ### [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]]
 An idea to move the valley's water question from access to agency: regenerating the flow its land gives the Riviersonderend, being paid for it, and easing what Theewaterskloof Dam must send downstream. [[organisations/kwaxala|Kwaxala]] wants to help turn water rights into rights to regenerate flow. To be tabled at the November 2026 meeting.
 
