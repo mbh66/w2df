@@ -55,7 +55,7 @@ Zilvermyn is Dutch for "silver mine". Whether silver was ever mined or looked fo
 
 ## History
 
-- **The mountain commonage.** Greyton's histories say [[history/people/herbert-vigne|Herbert Vigne]] left the land around the village to its plot owners as a commonage [TBV]. On 13 May 1977 the Greyton Nature Reserve, about 2,200 hectares, was proclaimed on the "mountain commonage", up to the peaks of Uitkyk, Wa en Osse and Perdekop [IC].
+- **The mountain commonage.** Greyton's histories say [[history/people/herbert-vigne|Herbert Vigne]] left the land around the village to its plot owners as a commonage [TBV]. On 13 May 1977 the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]], about 2,200 hectares, was proclaimed on the "mountain commonage", up to the peaks of Uitkyk, Wa en Osse and Perdekop [IC].
 - **Who manages the mountain.** The register's sources do not agree. One records that the [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]] helps Theewaterskloof Municipality manage the reserve [MS]. The Forum's land table lists Farms 32 to 38 as CapeNature land, with the reserve covering about 2,200 hectares of them [MS]. Whether Farm 36 is part of the reserve, the commonage, or other CapeNature land has not been confirmed [TBV].
 - **The 2019 fire.** A fire burned about 5,950 hectares on the mountain slopes above Greyton in December 2019 [IC]. Whether it reached Farm 36 has not been checked.
 - **Extension.** The Greyton Conservation Society says CapeNature's stewardship panel has approved a proposed extension of the reserve [MS].

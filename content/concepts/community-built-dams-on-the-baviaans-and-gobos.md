@@ -133,7 +133,7 @@ Nothing has been costed [MS]. Leaky dams cost little more than labour and local 
 ## Who would decide
 
 - **On the Baviaans:** the kloof above Genadendal lies on Farm 39 land or on Langgezocht (Farm 32), now CapeNature land [TBV]. Work on Farm 39 goes to the Transformasie Komitee first. Work on Langgezocht needs CapeNature's approval [MS]. See [[villages/farm-39|Farm 39]].
-- **On the Gobos:** the kloof northeast of Greyton may lie inside the Greyton Nature Reserve, which Theewaterskloof Municipality manages with support from the Greyton Conservation Society [TBV]. Holders of Greyton's leiwater rights draw on the same river [MS].
+- **On the Gobos:** the kloof northeast of Greyton may lie inside the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]], which Theewaterskloof Municipality manages with support from the Greyton Conservation Society [TBV]. Holders of Greyton's leiwater rights draw on the same river [MS].
 - **Water use:** the Breede-Olifants Catchment Management Agency and the Department of Water and Sanitation, under the National Water Act.
 
 ## How it fits the Forum's goal

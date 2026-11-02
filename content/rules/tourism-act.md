@@ -63,7 +63,7 @@ The Tourism Act is the national law for tourism in South Africa [IC]. Among othe
 
 ## What it means in the valley
 
-**For heritage and nature guides.** A resident who leads paying visitors through Genadendal's Church Square, along Greyton's leiwater, or into the nature reserve is acting as a tourist guide, and needs to be registered. Training that does not lead to registration leaves guides unable to work lawfully on their own account. The Forum reads this as a reason for any guide training tabled at the Forum, including the Heritage Trail's, to be planned around a recognised qualification from the start.
+**For heritage and nature guides.** A resident who leads paying visitors through Genadendal's Church Square, along Greyton's leiwater, or into the [[economic/farmers-land-water/greyton-nature-reserve|nature reserve]] is acting as a tourist guide, and needs to be registered. Training that does not lead to registration leaves guides unable to work lawfully on their own account. The Forum reads this as a reason for any guide training tabled at the Forum, including the Heritage Trail's, to be planned around a recognised qualification from the start.
 
 **For tourism businesses.** Businesses that sell guided experiences, such as those marketed through the [[economic/tourism/adventure-hub-greyton|Adventure Hub Greyton]], need their guides to be registered [TBV]. A host who welcomes guests to a home or a farm is not a guide simply by doing so; the line is drawn by what the guide does and is paid for [TBV].
 

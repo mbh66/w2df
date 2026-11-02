@@ -26,7 +26,7 @@ last_checked: 2026-10-31
 > 2. How much was the grant to Wild Restoration, and over what dates does it run?
 > 3. Should readers reach you through the moderators, or through a public contact?
 
-The European Outdoor Conservation Association (EOCA) is a charity that funds conservation projects around the world with money from companies in the outdoor industry [MS]. The European Outdoor Group set it up in 2006, and it is registered as a not-for-profit association in the canton of Zug, Switzerland [MS]. In late 2023 it gave [[economic/farmers-land-water/wild-restoration|Wild Restoration]] a grant to clear invasive pines in the Greyton Nature Reserve [IC].
+The European Outdoor Conservation Association (EOCA) is a charity that funds conservation projects around the world with money from companies in the outdoor industry [MS]. The European Outdoor Group set it up in 2006, and it is registered as a not-for-profit association in the canton of Zug, Switzerland [MS]. In late 2023 it gave [[economic/farmers-land-water/wild-restoration|Wild Restoration]] a grant to clear invasive pines in the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] [IC].
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.

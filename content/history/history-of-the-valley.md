@@ -142,7 +142,7 @@ The Group Areas Act of 1950 divided land by race [IC]. In Greyton, coloured fami
 
 In the 1950s and 1960s members of the Teachers' League of South Africa met in the Genadendal parsonage loft to oppose apartheid, and became known as the *Solder-beweging* (Loft Movement) [MS]. One of them, Rev Daniel Wessels, was placed under house arrest for five years in 1962 [MS]. In the 1950s co-operative laws forced farmers to send their wheat to licensed co-operatives, and the water mill closed [MS]. Electricity and piped water reached Genadendal in the 1960s [MS].
 
-On 13 May 1977 the Greyton Nature Reserve, established by [[history/people/brian-rycroft|Brian Rycroft]], was proclaimed on the mountain commonage [IC]. It covers about 2,200 hectares [IC].
+On 13 May 1977 the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]], established by [[history/people/brian-rycroft|Brian Rycroft]], was proclaimed on the mountain commonage [IC]. It covers about 2,200 hectares [IC].
 
 In 1987 the Rural Areas Act 9 of 1987 took over the former mission areas, and Genadendal was added to it in 1989 [IC]. In 1980 the buildings on Church Square were declared national monuments [MS]. In 1986 the Moravian Church started the Mission Trust Fund to restore them, and in 1987 the Mission Museum opened in the college building of 1838 [MS]. On 8 March 1991 the Mission Museum's collection was declared a National Cultural Treasure [MS]. In 1992 the water mill was restored and began milling again [MS].
 

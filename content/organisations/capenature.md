@@ -31,7 +31,7 @@ last_checked: 2026-10-14
 > 4. Does CapeNature work with the Greater Cape Town Water Fund on clearing in the Riviersonderend mountains? If so, on which slopes?
 > 5. Should readers reach you through the moderators, or through a public contact?
 
-CapeNature is the Western Cape's public entity for nature conservation, governed by a board under the Western Cape Biodiversity Act 6 of 2021 [MS]. In the mountains above the valley it manages the Riviersonderend Complex, about 28,580 hectares of protected areas that include Vrolijkheid Nature Reserve [IC]. Its stewardship panel has approved a proposed extension of the Greyton Nature Reserve [MS], and it sits on the steering committee of the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]] [MS].
+CapeNature is the Western Cape's public entity for nature conservation, governed by a board under the Western Cape Biodiversity Act 6 of 2021 [MS]. In the mountains above the valley it manages the Riviersonderend Complex, about 28,580 hectares of protected areas that include Vrolijkheid Nature Reserve [IC]. Its stewardship panel has approved a proposed extension of the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] [MS], and it sits on the steering committee of the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]] [MS].
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -89,6 +89,7 @@ If you know more about CapeNature's work in the valley, contact the moderators v
 - [[organisations/cape-leopard-trust|Cape Leopard Trust]]
 - [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]]
 - [[economic/farmers-land-water/wild-restoration|Wild Restoration]]
+- [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]]
 
 ## References
 

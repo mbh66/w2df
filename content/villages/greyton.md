@@ -6,7 +6,7 @@ date: 2026-09-22
 updated: 2026-09-24
 ---
 
-Greyton was founded in 1854 by Herbert Vigne on the farm Weltevreden, and named after Sir George Grey, then Governor of the Cape. The village still uses its original leiwater system of street furrows for irrigation. The Greyton Nature Reserve, established in 1977, covers about 2,200 hectares up to the peaks above the village. Greyton's fuller story, from the farm Weltevreden to the removals to Heuwelkroon, is on [[history/history-of-greyton|History of Greyton]].
+Greyton was founded in 1854 by Herbert Vigne on the farm Weltevreden, and named after Sir George Grey, then Governor of the Cape. The village still uses its original leiwater system of street furrows for irrigation. The [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]], established in 1977, covers about 2,200 hectares up to the peaks above the village. Greyton's fuller story, from the farm Weltevreden to the removals to Heuwelkroon, is on [[history/history-of-greyton|History of Greyton]].
 
 The list below includes entries in Heuwelkroon, which is part of Greyton. Heuwelkroon also has [[villages/heuwelkroon|its own page]].
 
@@ -23,3 +23,4 @@ This list fills itself from the register. The second tab shows initiatives that 
 - [[greyton-conservation-society|Greyton Conservation Society]]
 - [[greyton-village-market|Greyton Village Market]]
 - [[villages/index|All villages]]
+- [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]]

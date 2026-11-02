@@ -174,7 +174,7 @@ On 29 October 2026 Henk Swanepoel visited the valley and named WDI to the Forum'
 | Municipalities | One district, five local [IC] | Part of Modimolle-Mookgophong [IC] | One ward of Theewaterskloof, which has 14 wards [IC] |
 | Main towns | Modimolle, Bela-Bela, Lephalale, Thabazimbi, Mokopane [IC] | Vaalwater and Leseding [TBV] | Genadendal, Greyton, Heuwelkroon, Madiba Park, Bereaville, Voorstekraal, Boschmanskloof [MS] |
 | Main parts of the economy | Mining, agriculture, tourism [IC]; game farming and hunting [MS] | Tourism, game farming [MS] | Not found |
-| Protected areas | Waterberg Biosphere Reserve (2001), Marakele National Park [IC] | Near the biosphere reserve [TBV] | Greyton Nature Reserve, about 2,200 ha (1977) [IC] |
+| Protected areas | Waterberg Biosphere Reserve (2001), Marakele National Park [IC] | Near the biosphere reserve [TBV] | [[economic/farmers-land-water/greyton-nature-reserve\|Greyton Nature Reserve]], about 2,200 ha (1977) [IC] |
 | Distance from the nearest metro | Marakele about 250 km from Johannesburg [TBV] | About 2.5 hours from Johannesburg [TBV] | Not found |
 | Latest audit | District clean, 2023/24 [IC] | Modimolle-Mookgophong qualified with findings, 2023/24 [IC] | Theewaterskloof qualified, 2024/25 [IC] |
 | Founded | WDI about 2019 [MS] | Same as district | W2DF first met 16 September 2026; an earlier forum ran 2016 to 2019 [MS] |

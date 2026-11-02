@@ -157,7 +157,7 @@ This section follows the eras of [[history/history-of-the-valley|History of the 
 - **In the words of those affected.** The *Herri* essay says that before the removals Greyton's residents "lived together irrespective of 'race'", and that afterwards "a community of subsistence farmers who owned their own farms were overnight reduced to having to work as gardeners and domestics for white people" [MS].
 - **In Genadendal.** Balie's history says fear of removal spread to Genadendal, and many residents stopped maintaining their houses [MS]. Members of the Teachers' League met in the parsonage loft to oppose apartheid, and one was placed under house arrest in 1962 [MS].
 - **The water mill.** In the 1950s co-operative laws forced farmers to send their wheat to licensed co-operatives, and the water mill closed [MS]. It was restored in 1992 [MS].
-- **The mountain.** On 13 May 1977 the [[economic/farmers-land-water/greyton-conservation-society|Greyton Nature Reserve]], about 2,200 hectares, was proclaimed on the mountain commonage [IC].
+- **The mountain.** On 13 May 1977 the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]], about 2,200 hectares, was proclaimed on the mountain commonage [IC].
 - **Act 9 of 1987.** The Rural Areas Act 9 of 1987 took over the former mission areas, with most of the land held by the state in trust for residents [IC]. Genadendal was added in 1989 [IC].
 - **What carried through.** The [[cultural/sport-heritage-arts-culture/genadendal-mission-museum|Mission Museum]] opened in the 1838 college building in 1987 [MS].
 

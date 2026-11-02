@@ -53,7 +53,7 @@ Wild Restoration is a non-profit based in Greyton, registered as Wild Restoratio
 
 Its work in and around the valley [MS]
 
-- **The Riviersonderend mountains.** The range covers more than 28,000 hectares, including the Greyton and Riviersonderend nature reserves. It is an important water catchment and a habitat for leopard. Pines have invaded the higher slopes. The current focus is the high-altitude wetlands of the Greyton Nature Reserve and nearby [[organisations/capenature|CapeNature]] land. Crews reach these areas on foot, by 4x4, and by helicopter.
+- **The Riviersonderend mountains.** The range covers more than 28,000 hectares, including the Greyton and Riviersonderend nature reserves. It is an important water catchment and a habitat for leopard. Pines have invaded the higher slopes. The current focus is the high-altitude wetlands of the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] and nearby [[organisations/capenature|CapeNature]] land. Crews reach these areas on foot, by 4x4, and by helicopter.
 - **The Greyton Sandpit.** A 230-hectare site near Greyton that links the mountains to the Riviersonderend River. Local people use it for grazing, woodcutting, and harvesting, and for cycling, running, and swimming. Wild Restoration has been clearing it since 2023 with an experienced local team, working with the [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]], and clears along the river with the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]].
 - **Private land.** Helping landowners between the Riviersonderend mountains and the Kleinriviersberg to plan and oversee clearing, firebreaks, and fire management, and to assess and protect biodiversity on their land.
 
@@ -94,3 +94,4 @@ Sign up as a volunteer, join the Invasive Clearing Action Network, or donate thr
 - [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]], its partner on clearing along the river
 - [[organisations/capenature|CapeNature]], which manages the nature reserves where it clears
 - [[organisations/cape-leopard-trust|Cape Leopard Trust]], which studies leopards in the neighbouring mountains
+- [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]], where its EOCA project clears pines

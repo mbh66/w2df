@@ -28,18 +28,18 @@ updated: 2026-10-30
 
 ## Greyton at a glance
 
-| Year | What happened |
-| --- | --- |
-| 1669 | Dutch travellers find rich grazing at the Huis River, where Greyton now stands [IC] |
-| 1791 | Marthinus Theunissen holds Weltevreden as a loan farm [IC] |
-| 1846 | Herbert Vigne buys Weltevreden [IC] |
+| Year         | What happened                                                                               |
+| ------------ | ------------------------------------------------------------------------------------------- |
+| 1669         | Dutch travellers find rich grazing at the Huis River, where Greyton now stands [IC]         |
+| 1791         | Marthinus Theunissen holds Weltevreden as a loan farm [IC]                                  |
+| 1846         | Herbert Vigne buys Weltevreden [IC]                                                         |
 | 1852 to 1854 | Greyton is laid out as a village of smallholders, and the first plots are sold in 1854 [IC] |
-| 1854 | The leiwater furrows begin carrying water from the Gobos River to the plots [MS] |
-| 1860 | The Post House and a trading store are built [IC] |
-| 1910 | Greyton becomes a municipality [IC] |
-| 1968 to 1974 | Coloured families are forced out of Greyton to Heuwelkroon [TBV] |
-| 1977 | The Greyton Nature Reserve is proclaimed [IC] |
-| 2000 | Greyton becomes part of Theewaterskloof Municipality [IC] |
+| 1854         | The leiwater furrows begin carrying water from the Gobos River to the plots [MS]            |
+| 1860         | The Post House and a trading store are built [IC]                                           |
+| 1910         | Greyton becomes a municipality [IC]                                                         |
+| 1968 to 1974 | Coloured families are forced out of Greyton to Heuwelkroon [TBV]                            |
+| 1977         | The Greyton Nature Reserve is proclaimed [IC]                                               |
+| 2000         | Greyton becomes part of Theewaterskloof Municipality [IC]                                   |
 
 ## Before Greyton
 
@@ -102,7 +102,7 @@ In the mid-1990s, a transitional council replaced Greyton's white municipal coun
 
 ## Mountain and commonage
 
-On 13 May 1977 the Greyton Nature Reserve was proclaimed on the mountain commonage [IC]. It was established by Professor [[history/people/brian-rycroft|Brian Rycroft]], then Director of Kirstenbosch [IC]. It covers about 2,200 hectares, up to the peaks of Uitkyk, Wa en Osse, and Perdekop [IC]. The [[greyton-conservation-society|Greyton Conservation Society]] has helped look after it since 1979 [MS].
+On 13 May 1977 the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] was proclaimed on the mountain commonage [IC]. It was established by Professor [[history/people/brian-rycroft|Brian Rycroft]], then Director of Kirstenbosch [IC]. It covers about 2,200 hectares, up to the peaks of Uitkyk, Wa en Osse, and Perdekop [IC]. The [[greyton-conservation-society|Greyton Conservation Society]] has helped look after it since 1979 [MS].
 
 The reserve protects Greyton Shale Fynbos, a plant community named after the village, which was listed as Critically Endangered in 2022 [IC]. In December 2019 a fire burned about 5,950 hectares on the mountain slopes above Greyton [IC].
 
@@ -158,6 +158,7 @@ If your family was moved from Greyton, or you hold photographs, deeds, or storie
 - [[ng-gemeente-greyton|NG Gemeente Greyton]]
 - [[moravian-church-greyton|Moravian Church Greyton]]
 - [[st-andrews-anglican-church-greyton|St Andrew's Anglican Church]]
+- [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]]
 
 ## References
 

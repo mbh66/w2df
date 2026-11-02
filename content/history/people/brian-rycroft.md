@@ -19,7 +19,7 @@ links:
   - https://www.sanbi.org/1950s/
 ---
 
-Brian Rycroft was a South African botanist who led the National Botanic Gardens at Kirstenbosch for thirty years, until 1983 [IC]. In 1977, while still Director of Kirstenbosch, he established the Greyton Nature Reserve on the mountain commonage above [[villages/greyton|Greyton]] [IC]. The reserve covers about 2,200 hectares, and its trails, fynbos, and water sources are among the valley's most valued places today [IC].
+Brian Rycroft was a South African botanist who led the National Botanic Gardens at Kirstenbosch for thirty years, until 1983 [IC]. In 1977, while still Director of Kirstenbosch, he established the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] on the mountain commonage above [[villages/greyton|Greyton]] [IC]. The reserve covers about 2,200 hectares, and its trails, fynbos, and water sources are among the valley's most valued places today [IC].
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -72,6 +72,7 @@ Whether Rycroft lived in Greyton, or how he came to take up the reserve, is not 
 - [[greyton-conservation-society|Greyton Conservation Society]]
 - [[villages/greyton|Greyton]]
 - [[history/people/herbert-vigne|Herbert Vigne]]
+- [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]]
 
 ## References
 

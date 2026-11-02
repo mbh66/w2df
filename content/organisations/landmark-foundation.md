@@ -24,7 +24,7 @@ last_checked: 2026-10-14
 > 3. Is the account of a leopard collared in 2014 and later shot near the Rooihoogte pass correct?
 > 4. Should readers reach you through the moderators, or through a public contact?
 
-The Landmark Foundation is a conservation organisation that works with stock farmers on wildlife-friendly land management [MS]. It says it catches and collars leopards blamed for livestock losses before releasing them, and pays farmers compensation linked to collared leopards [MS]. The people putting forward [[concepts/overberg-leopard-corridor|The Overberg Leopard Corridor]] say it runs leopard cameras in the Greyton Nature Reserve and the Genadendal mountains [MS].
+The Landmark Foundation is a conservation organisation that works with stock farmers on wildlife-friendly land management [MS]. It says it catches and collars leopards blamed for livestock losses before releasing them, and pays farmers compensation linked to collared leopards [MS]. The people putting forward [[concepts/overberg-leopard-corridor|The Overberg Leopard Corridor]] say it runs leopard cameras in the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] and the Genadendal mountains [MS].
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.

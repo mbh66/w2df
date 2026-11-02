@@ -81,6 +81,7 @@ Pages in `/case-studies/` record work done outside Ward 2 that a page on this si
 - [Case Studies](https://df.valleyofgrace.co.za/case-studies/): the section's index, listing each case and the page that draws on it
 - [Bonnievale 418](https://df.valleyofgrace.co.za/case-studies/bonnievale-418): how Bonnievale built Jakes Gerwel Technical School, a no-fee technical high school that opened in 2018, and how the non-profit that grew out of it supports the town's school leavers; drawn on by the [Valley of Grace Learning Campus](https://df.valleyofgrace.co.za/concepts/valley-of-grace-learning-campus)
 - [Waterberg Development Initiative](https://df.valleyofgrace.co.za/case-studies/waterberg-development-initiative): how a volunteer non-profit in the Waterberg District of Limpopo started, how it is run and funded, what it says it has done, and how it works with government; named to the Forum by [The Shift](https://df.valleyofgrace.co.za/organisations/the-shift) as a model for the W2DF
+- [Mafube Business Forum](https://df.valleyofgrace.co.za/case-studies/mafube-business-forum): how a forum of business owners and farmers in Mafube Local Municipality, Free State, took the municipality and province to court, drafted a Stakeholders Compact that government did not sign, and supports a private company running the electricity under a 25-year agreement; raised in valley discussions as a possible case for Ward 2
 
 ## About the Forum and the site
 

@@ -103,7 +103,7 @@ This section holds the history of the valley and the people who shaped it. It is
 - [[history/people/de-villiers-family|The De Villiers Family of Greyton]] (from 1860). Greyton's first traders.
 - [[history/people/louis-rudolph-schmidt|Louis Rudolph Schmidt]] (1872 to 1963). Missionary, surveyor, and healer at Genadendal for forty years, after whom the primary school is named.
 - [[history/people/emil-weder|Emil Weder]] (1881 to 1969). Manager of the Mission Store, after whom Emil Weder Secondary is named.
-- [[history/people/brian-rycroft|Brian Rycroft]] (1910 to 1990). Director of Kirstenbosch, who established the Greyton Nature Reserve in 1977.
+- [[history/people/brian-rycroft|Brian Rycroft]] (1910 to 1990). Director of Kirstenbosch, who established the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] in 1977.
 
 More pages can be added. If you know of someone whose story belongs here, see *Help write this history* below.
 

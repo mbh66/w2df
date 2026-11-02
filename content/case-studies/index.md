@@ -18,6 +18,9 @@ A case study records a case. It does not say whether the valley should do the sa
 ### [[case-studies/bonnievale-418|Bonnievale 418]]
 How Bonnievale built Jakes Gerwel Technical School, a no-fee technical high school that opened in 2018, and how the non-profit that grew out of it helps the town's school leavers into study, training or work. Drawn on by the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]].
 
+### [[case-studies/mafube-business-forum|Mafube Business Forum]]
+How a forum of business owners and farmers in Mafube Local Municipality, Free State, took the municipality and province to court, drafted a Stakeholders Compact that government did not sign, and supports a private company that has run the town's electricity under a 25-year agreement since 2011. Raised in valley discussions as a possible case for Ward 2. No page on this site draws on it yet.
+
 ### [[case-studies/waterberg-development-initiative|Waterberg Development Initiative]]
 How a volunteer non-profit in the Waterberg District of Limpopo started, how it is run and funded, what it says it has done, and how it works with government. Named to the Forum by [[organisations/the-shift|The Shift]] as a model for the W2DF. No page on this site draws on it yet.
 

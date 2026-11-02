@@ -75,7 +75,7 @@ The Theewaterskloof Spatial Development Framework (SDF) is the municipality's pl
 - An urban conservation area covers the original town layout of 1854, and many buildings are named as worthy of a heritage register.
 - Heuwelkroon is planned as an area for business and for medium- to high-density housing, to integrate the town.
 - Boschmanskloof is described as spatially isolated, to be linked to Greyton by roads and public spaces, with two heritage precincts of Cape vernacular cottages.
-- The Greyton Nature Reserve is to be expanded through the formal statutory process, and ecological corridors along the Gobos and Bosjemanskloof rivers protected.
+- The [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] is to be expanded through the formal statutory process, and ecological corridors along the Gobos and Bosjemanskloof rivers protected.
 - Madiba Park is not mentioned.
 
 **Genadendal, Bereaville, and Voorstekraal (Chapter 12)** [IC]:
@@ -124,6 +124,7 @@ If you can confirm or correct anything on this page, contact the moderators thro
 - [[rules/theewaterskloof-integrated-development-plan|Theewaterskloof Integrated Development Plan]]
 - [[rules/zoning-scheme-by-law|Zoning Scheme By-law]]
 - [[rules/spatial-planning-and-land-use-management-act|Spatial Planning and Land Use Management Act]]
+- [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]]
 
 ## References
 

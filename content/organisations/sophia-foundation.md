@@ -39,7 +39,7 @@ The Sophia Foundation matches community donations to the Greyton Nature Programm
 | Based in | Not yet known |
 | Website | Not yet known |
 | Role | Matched funding for the Greyton Nature Programme [MS] |
-| Link to the valley | Direct. It funds work in the Greyton Nature Reserve |
+| Link to the valley | Direct. It funds work in the [[economic/farmers-land-water/greyton-nature-reserve\|Greyton Nature Reserve]] |
 | Contact with the Forum | Not approached |
 
 ## What it does

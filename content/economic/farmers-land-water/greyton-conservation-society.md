@@ -36,7 +36,7 @@ catchment: Riviersonderend
 > 4. When is the next monthly alien hack, and where do volunteers meet?
 > 5. Should readers reach you through the moderators, or would you like a public contact listed?
 
-The Greyton Conservation Society (GCS) is a member-based non-profit and public benefit organisation with its own constitution [MS]. Since 1979 it has worked to protect Greyton's plants and wildlife, the natural landscape around the village, and the village's character [MS]. It supports Theewaterskloof Municipality in managing the Greyton Nature Reserve and the commonage around the village [MS].
+The Greyton Conservation Society (GCS) is a member-based non-profit and public benefit organisation with its own constitution [MS]. Since 1979 it has worked to protect Greyton's plants and wildlife, the natural landscape around the village, and the village's character [MS]. It supports Theewaterskloof Municipality in managing the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] and the commonage around the village [MS].
 
 The Greyton Nature Reserve was established on 13 May 1977 and covers about 2,200 hectares, up to the peaks of Uitkyk, Wa en Osse, and Perdekop [MS]. CapeNature's stewardship panel has approved a proposed extension of the reserve, but further steps are needed before it is final [MS].
 
@@ -61,3 +61,4 @@ Join a monthly hack, become a member, or donate through the [society's website](
 ## Related
 - [[wild-restoration|Wild Restoration]], a clearing partner in the Greyton Sandpit and the reserve
 - [[greyton-tourism-bureau|Greyton Tourism Bureau]]
+- [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]], which the society helps care for

@@ -43,7 +43,7 @@ The South African National Biodiversity Institute (SANBI) works under the Nation
 | Based in | Pretoria |
 | Website | [sanbi.org](https://www.sanbi.org) |
 | Role | National biodiversity research and gardens [MS] |
-| Link to the valley | Indirect. Through the water fund and its history with the Greyton Nature Reserve |
+| Link to the valley | Indirect. Through the water fund and its history with the [[economic/farmers-land-water/greyton-nature-reserve\|Greyton Nature Reserve]] |
 | Contact with the Forum | Not approached |
 
 ## What it does

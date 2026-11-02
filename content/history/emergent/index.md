@@ -25,7 +25,7 @@ In the Forum's reading, Emergent is not yet the most dominant form anywhere in t
 
 ## What is still open
 
-- Whether older shared arrangements belong in this section, such as [[history/leiwater|Greyton's Leiwater]] and the commonage that later became the nature reserve (see [[history/history-of-greyton|History of Greyton]]).
+- Whether older shared arrangements belong in this section, such as [[history/leiwater|Greyton's Leiwater]] and the commonage that later became the [[economic/farmers-land-water/greyton-nature-reserve|nature reserve]] (see [[history/history-of-greyton|History of Greyton]]).
 - Whether the Forum adopts the [[history/the-time-model|TIME]] reading of the valley's history.
 
 ## Have your say

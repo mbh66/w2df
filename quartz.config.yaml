@@ -233,12 +233,13 @@ plugins:
   - source: "./plugins/custom-footer"
     enabled: true
     options:
-      copyrightHolder: null
-      licence: null
+      copyrightHolder: Ward 2 Development Forum
+      licence: 
+      notice: "We're a community-run forum for TWK Ward 2 that helps our valley grow in all three spheres of life: economic, civic and cultural."
       links:
+        About Us: ./about/
+        About Ward 2: ./about-ward-2/
         Valley of Grace: https://valleyofgrace.co.za
-        Learning Campus: https://hs.valleyofgrace.co.za
-        BioConomy: https://wiki.bioconomy.earth
         AI Page: https://df.valleyofgrace.co.za/llms.txt
         Contact via WhatsApp: https://wa.link/oukixd
     layout:

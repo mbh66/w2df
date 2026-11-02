@@ -42,7 +42,7 @@ The Adventure Hub is a café, outdoor store, and information centre at 29 Main R
 - Listing on the Theewaterskloof Municipality website as a tourism information point. The Forum recorded this as an action at its first meeting, with the date still to be confirmed [IC].
 
 ## Offers
-- **Nature experiences.** Bird walks and nature walks in the Greyton Nature Reserve led by a local expert, and half-day birding trips on farm roads beyond the village [MS]
+- **Nature experiences.** Bird walks and nature walks in the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] led by a local expert, and half-day birding trips on farm roads beyond the village [MS]
 - **Heritage walks.** A historic walk through Greyton, a walk through Genadendal's mission buildings and museum area, and a combined Genadendal and Greyton route with traditional food [MS]
 - **Wine outings.** A picnic at a boutique farm near Greyton, and day trips to farms in Botrivier and the Hemel-en-Aarde Valley, with transport provided [MS]
 - **Creative workshops.** Clay and ceramic-painting sessions for groups [MS]

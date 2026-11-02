@@ -79,7 +79,7 @@ The National Veld and Forest Fire Act sets out how veldfires are to be prevented
 
 **For volunteers.** [[civic/residents-association/greyton-volunteer-firefighters|Greyton Volunteer Firefighters]] responded to about 50 wildfires across six villages in the Overberg in the months before February 2026 [IC]. The Act does not create volunteer teams, but the readiness it asks of landowners is part of what such teams supply.
 
-**For clearing and restoration.** Invasive pines and wattles carry more fuel than fynbos [TBV]. Clearing work by [[economic/farmers-land-water/wild-restoration|Wild Restoration]] and the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]] also lowers fire risk, and planned burns in the nature reserve are a tool the Act and the FPA system allow for [TBV].
+**For clearing and restoration.** Invasive pines and wattles carry more fuel than fynbos [TBV]. Clearing work by [[economic/farmers-land-water/wild-restoration|Wild Restoration]] and the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]] also lowers fire risk, and planned burns in the [[economic/farmers-land-water/greyton-nature-reserve|nature reserve]] are a tool the Act and the FPA system allow for [TBV].
 
 **On Farm 39 and the commonage.** On land held in trust by the Minister, or owned by the municipality, the duties of the "owner" fall on bodies that are not on site every day. Who answers for firebreaks on [[villages/farm-39|Farm 39]] land and the Greyton commonage is an open question this site would like answered.
 

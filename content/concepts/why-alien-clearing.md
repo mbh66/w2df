@@ -85,7 +85,7 @@ The land this idea covers is about 11,194 hectares, made up of these farms and e
 
 The areas come from the Surveyor-General's records [IC]. Farm 39 is about 40% of the total.
 
-Farms 32 to 38 are [[organisations/capenature|CapeNature]] land, together 5,230.29 hectares, close to half the total [MS]. The Greyton Nature Reserve covers about 2,200 hectares [MS]. The rest of the five farms is further CapeNature land in the reserve's mountains [MS]. Farm 32 is Langgezocht, the mountain farm the Moravian Church bought in 1899 to protect Genadendal's water sources [MS]. Work on Langgezocht needs CapeNature's approval [MS].
+Farms 32 to 38 are [[organisations/capenature|CapeNature]] land, together 5,230.29 hectares, close to half the total [MS]. The [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] covers about 2,200 hectares [MS]. The rest of the five farms is further CapeNature land in the reserve's mountains [MS]. Farm 32 is Langgezocht, the mountain farm the Moravian Church bought in 1899 to protect Genadendal's water sources [MS]. Work on Langgezocht needs CapeNature's approval [MS].
 
 A small part of Erf 595, in Heuwelkroon, has approval for 333 homes [IC]. Most of the erf lies outside that housing site [MS]. See [[civic/residents-association/madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]].
 

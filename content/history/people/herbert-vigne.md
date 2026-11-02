@@ -47,7 +47,7 @@ Vigne laid out a village on Weltevreden. Sources date its founding to 1852, with
 
 South African History Online says the plots came with title deeds, water rights, and grazing rights, and were sold to buyers of any race, nationality, or religion [TBV]. It calls Greyton the only town in the Cape where such land was for sale to anyone [TBV]. This claim matters for the valley's later history, because a century later the Group Areas Act forced coloured families out of Greyton to [[villages/heuwelkroon|Heuwelkroon]] [IC]. It has not been checked against the deeds.
 
-Greyton's histories say Vigne kept two small portions for himself and left the rest of the farm to the owners of the plots as a commonage, shared land for grazing [TBV]. The same wording appears in many sources, which suggests they share one origin [MS]. His will or deed of gift has not been found [TBV]. Part of the commonage is now the Greyton Nature Reserve, proclaimed on 13 May 1977 [IC].
+Greyton's histories say Vigne kept two small portions for himself and left the rest of the farm to the owners of the plots as a commonage, shared land for grazing [TBV]. The same wording appears in many sources, which suggests they share one origin [MS]. His will or deed of gift has not been found [TBV]. Part of the commonage is now the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]], proclaimed on 13 May 1977 [IC].
 
 ## Links to other figures
 
