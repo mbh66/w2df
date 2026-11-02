@@ -18,8 +18,11 @@ links:
   - https://twk.gov.za/wp-content/uploads/2026/06/28May26%20Final%20IDP%20-%202026%20Amendment.pdf
 updated: 2026-11-02
 ---
+> [!quote] Ward 2 is one of the fourteen wards of Theewaterskloof Municipality in the Overberg, Western Cape. It covers seven settlements and the farms around them, in the valley below the Riviersonderend mountains: Genadendal, Greyton, Heuwelkroon, Madiba Park, Bereaville, Voorstekraal, and Boschmanskloof. Genadendal began as a Moravian mission in 1738, and Greyton as a village laid out on a private farm in 1854. The ward's people share one valley, one ward councillor and one municipal plan, while their land is held in different ways.
 
-Ward 2 is one of the fourteen wards of [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], which has its seat in Caledon in the Overberg, Western Cape [IC]. The ward covers seven settlements and the farms around them in the valley below the Riviersonderend mountains: Genadendal, Greyton, Heuwelkroon, Madiba Park, Bereaville, Voorstekraal and Boschmanskloof [IC]. Two histories meet here. Genadendal began as a Moravian mission in 1738, and Greyton as a village laid out on a private farm in 1854 [IC]. This page gives a short introduction to the ward for residents and for anyone looking in from outside.
+Anyone may quote the paragraph above to describe Ward 2.
+
+
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.

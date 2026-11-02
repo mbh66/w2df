@@ -1,5 +1,5 @@
 ---
-title: "Challenges: The Record and the Present State"
+title: Challenges
 description: "The challenges Ward 2 has faced from before 1652 to 2026: where each came from, who bore it, what was tried, and where it stands now. A research record for Forum review, first of two runs. Not adopted by the Forum."
 type: page
 tags:
