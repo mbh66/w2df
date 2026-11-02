@@ -36,33 +36,41 @@ var footer_css = `footer {
   margin-bottom: 4rem;
   opacity: 0.7;
 }
+footer p {
+  margin: 0.5rem 0;
+}
+footer .notice {
+  margin-bottom: 1rem;
+}
 footer ul {
   list-style: none;
-  margin: 0;
+  margin: 0 0 1rem;
   padding: 0;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   gap: 1rem;
-  margin-top: -1rem;
 }
-footer .licence,
-footer .notice {
+footer .licence {
   font-size: 0.85em;
-  margin-top: -0.5rem;
 }`;
 
 var Footer_default = ((opts) => {
   const version = getQuartzVersion();
   const Footer = ({ displayClass, cfg }) => {
     const year = new Date().getFullYear();
-    const links = opts?.links ?? {};
+    const links = opts?.links ?? {}; // `links:` left empty in YAML gives null
     // copyrightHolder: null hides the copyright line; licence: null hides the licence line.
-    // notice: optional free text shown as its own line under the copyright line.
+    // notice: optional free text shown as the first line of the footer.
     const holder = opts?.copyrightHolder === undefined ? "Michael Haupt & Associates" : opts.copyrightHolder;
     const notice = opts?.notice ?? null;
     const licence = opts?.licence === undefined ? { name: "CC BY-SA 4.0", url: "https://creativecommons.org/licenses/by-sa/4.0/" } : opts.licence;
+    // Render order: notice, links, copyright, licence.
+    const linkEntries = Object.entries(links);
     return u2("footer", { class: `${displayClass ?? ""}`, children: [
-      u2("p", { children: [
+      notice ? u2("p", { class: "notice", children: notice }) : null,
+      linkEntries.length > 0 ? u2("ul", { children: linkEntries.map(([text, link]) => u2("li", { children: u2("a", { href: link, children: text }) })) }) : null,
+      u2("p", { class: "copyright", children: [
         "Created with ",
         u2("a", { href: "https://quartz.jzhao.xyz/", children: [
           "Quartz",
@@ -70,13 +78,11 @@ var Footer_default = ((opts) => {
         ] }),
         holder ? ` © ${holder} ${year}` : ""
       ] }),
-      notice ? u2("p", { class: "notice", children: notice }) : null,
       licence ? u2("p", { class: "licence", children: [
         "Content licensed under ",
         u2("a", { href: licence.url, rel: "license", children: licence.name }),
         " unless otherwise noted."
-      ] }) : null,
-      u2("ul", { children: Object.entries(links).map(([text, link]) => u2("li", { children: u2("a", { href: link, children: text }) })) })
+      ] }) : null
     ] });
   };
   Footer.css = footer_css;
