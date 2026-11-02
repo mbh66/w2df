@@ -1,6 +1,6 @@
 {
   "name": "custom-footer",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Shared footer for the Quartz network: notice, links, copyright and licence",
   "type": "module",
   "license": "MIT",
@@ -18,7 +18,7 @@
     "name": "custom-footer",
     "displayName": "Custom Footer",
     "category": "component",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "quartzVersion": ">=5.0.0",
     "dependencies": [],
     "defaultOrder": 50,
