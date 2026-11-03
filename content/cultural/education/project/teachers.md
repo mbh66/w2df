@@ -142,7 +142,7 @@ The guided session is on Wednesday. The children's own work follows in the days 
 | 5 | 11 November | Make the Plan | Read the plan aloud and agree it. Gather Part 8. Finish the map and its key | Practise telling their part in two minutes. Field Book page 5 |
 | 6 | To be set | Show the Valley | Show the map and tell the plan to families and the school | The last Field Book page: what we still don't know |
 
-**This week (26 to 28 October).** The Week 2 homework was a letter draft. That task is withdrawn. If a child has started a letter, it stays in their Field Book as a record of what they wanted to ask. In its place, each child sketches their map layer on a sheet of paper and brings it on Wednesday 28 October, with Field Book page 2.
+**This week (Week 4, 2 to 4 November).** Before Wednesday 4 November, pin every child's leaky dam site in the shared Google Earth project from the numbers they send you. Each child brings their pencil plan card, the result of their hands-first task and Field Book page 3. Have the ball of wool ready for the promise round and a red marker for the wall.
 
 ### Week 3: Lay Out the Valley (Wednesday 28 October)
 
