@@ -12,6 +12,7 @@ aliases:
   - Jan de Villiers
 links:
   - https://en.wikipedia.org/wiki/Greyton
+updated: 2026-11-04
 ---
 
 The De Villiers family were among [[villages/greyton|Greyton]]'s first traders [TBV]. Greyton's histories say they built a trading store at the village's original entrance in 1860, a few years after the first plots were sold [TBV]. A later account says Jan de Villiers opened a shop in his home in the 1920s [MS]. This page covers the family as a group, because the records do not yet say which members did what.
@@ -38,10 +39,13 @@ Greyton was founded as a village of smallholders, with the first plots sold in 1
 
 A walking guide to Greyton says that Jan de Villiers opened the first shop in his home in the 1920s [MS]. This does not fit easily with a store in 1860. There may have been more than one generation of the family in trade, or the two accounts may describe different shops [TBV].
 
+[[history/people/helen-robinson|Helen Robinson]]'s 1986 study of Greyton gives another date. It says the De Villiers family arrived in Greyton in 1879, and that a school for white children only was started in the front room of their home, with Caterina Mays teaching the three De Villiers children and others [TBV]. It also says a J. de Villiers surveyed the route of the Boesmanskloof pass in 1927 [TBV]. A family that arrived in 1879 could not have built a store in 1860, so one of the accounts may be wrong, or they may describe different branches of the family [TBV].
+
 Other traders followed. The same walking guide says the grandfather of the Osman family came to Greyton in 1920, and that A.G. Osman and Sons moved to its present building in 1934 [MS].
 
 ## What is still open
 
+- Whether the family came to Greyton by 1860, or in 1879 as Robinson says.
 - Which member of the family built the store of 1860, and where exactly it stood.
 - Whether the store of 1860 and Jan de Villiers's shop of the 1920s were run by the same family line.
 - Whether the De Villiers traders were affected by the Group Areas removals of the late 1960s and early 1970s.
@@ -58,3 +62,4 @@ Other traders followed. The same walking guide says the grandfather of the Osman
 - Wikipedia. [Greyton](https://en.wikipedia.org/wiki/Greyton). The De Villiers family's trading store of 1860.
 - GoGreyton. [Greyton Village Walk](https://gogreyton.co.za/greyton-village-walk/). Jan de Villiers's shop in the 1920s, and the Osman family's arrival in 1920.
 - Viatu. [The Post House](https://www.viatu.com/en/p/the-post-house-hotel). The Post House as a trading post and lodging from 1860.
+- Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. The family's arrival in 1879, the school in their home, and J. de Villiers's survey of 1927.

@@ -9,6 +9,7 @@ date: 2026-09-28
 draft: false
 aliases:
   - Johannes Ruiters
+updated: 2026-11-04
 ---
 
 Johannes Ruiter was a resident of Genadendal who, in 1849, became the first person from the village appointed as its policeman [MS]. He had served in almost all the wars on the Eastern Frontier [MS]. Farmers in the district petitioned against a Khoekhoe man holding the post, and four months later he was replaced by a European constable [MS]. His short time in office shows how the colony's race order reached into the mission village.
@@ -37,9 +38,11 @@ He was described as "honest with superior intellect and resolution that secured 
 
 [[history/genadendal-a-long-walk|Balie's history]] also says, on another page, that Ruiter was appointed in 1854 and reported to the field-cornet [[history/people/herbert-vigne|Herbert Vigne]], the founder of Greyton [MS].
 
+[[history/people/helen-robinson|Helen Robinson]]'s 1986 study of Greyton, drawing on Bernhard Krüger's history of the Moravian missions (1966), says Ruiter was replaced after a few months by a white policeman under the supervision of Herbert Vigne, the field-cornet [MS]. On that reading, Vigne supervised Ruiter's successor. Robinson adds that the change offended people in Genadendal, who saw it as a slight to Ruiter [MS].
+
 ## Links to other figures
 
-- [[history/people/herbert-vigne|Herbert Vigne]], field-cornet and founder of Greyton, was his superior, according to one page of Balie's history.
+- [[history/people/herbert-vigne|Herbert Vigne]], field-cornet and founder of Greyton, was his superior, according to one page of Balie's history. Robinson's study says Vigne supervised the policeman who replaced him.
 - [[history/people/hans-peter-hallbeck|Hans Peter Hallbeck]] was succeeded as superintendent by Teutsch, who appointed Ruiter.
 
 ## What is still open
@@ -59,3 +62,4 @@ He was described as "honest with superior intellect and resolution that secured 
 ## References
 
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. His appointment, the farmers' petition, his replacement, and the two dates. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].
+- Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. His replacement under the supervision of the field-cornet Herbert Vigne, and how Genadendal received it, drawing on Krüger (1966).

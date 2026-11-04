@@ -26,7 +26,7 @@ links:
   - https://greytonconservationsociety.com/nature-programme/
   - https://greytonconservationsociety.com/outdoor-activities/
   - https://www.capenature.co.za/uploads/files/Reserves/Maps/Boesmanskloof-Map-and-Brochure.pdf
-updated: 2026-11-02
+updated: 2026-11-04
 hectares: 2200
 catchment: Riviersonderend
 ---
@@ -52,7 +52,7 @@ The Greyton Nature Reserve is a municipal nature reserve on the steep southern s
 
 - **A local authority reserve.** A Western Cape Government list of conservation areas in the Overberg, published in 2005, gives the Greyton Nature Reserve as a local authority nature reserve of 2,069 hectares [IC]. The Greyton Conservation Society gives about 2,200 hectares [MS]. The difference has not been explained [TBV].
 - **The law behind it.** Which law the reserve was proclaimed under in 1977 is not yet known [TBV].
-- **The commonage.** Greyton's histories say [[history/people/herbert-vigne|Herbert Vigne]] left the land around the village to its plot owners as a commonage [TBV]. Which properties the reserve stands on is still open. See [[villages/erf-595-greyton|Erf 595, Greyton]] and [[villages/farm-38-boschmans-kloof|Farm 38, Boschmans Kloof]].
+- **The commonage.** Greyton's histories say [[history/people/herbert-vigne|Herbert Vigne]] left the land around the village to its plot owners as a commonage [TBV]. [[history/people/helen-robinson|Helen Robinson]]'s 1986 study quotes the conditions of sale of 1854, which cede the rest of Vigne's estate as a town commonage, to "remain forever inalienably apportioned" to it [TBV]. It also says that servitudes on the commonage were cancelled when the village boundaries were extended onto it in 1973 and 1976 [TBV]. Which properties the reserve stands on is still open. See [[villages/erf-595-greyton|Erf 595, Greyton]] and [[villages/farm-38-boschmans-kloof|Farm 38, Boschmans Kloof]].
 - **Day-to-day care.** The Greyton Conservation Society runs the Greyton Nature Programme in the reserve, with a conservation manager and a team of rangers [MS]. The rangers maintain the trails and signs, greet visitors at the gate, and work to help people and baboons live side by side [MS]. The [[organisations/sophia-foundation|Sophia Foundation]] matches community donations to the programme Rand for Rand, up to R500,000 a year [MS].
 - **The mountains beyond.** Above and east of the reserve lies [[organisations/capenature|CapeNature]]'s Riviersonderend Complex, about 28,580 hectares of protected areas managed from Vrolijkheid Nature Reserve near Robertson [IC].
 
@@ -105,3 +105,4 @@ To join a hack or donate, see the [Greyton Conservation Society's website](https
 - The Saunter. [Greyton Nature Reserve](https://www.thesaunter.co.za/listing/greyton-nature-reserve/). The Platkloof and Hardepeerkloof trails and the Boesmanskloof route.
 - Xplorio Greyton. [Greyton Nature Reserve history 1977](https://xplorio.com/greyton/en/blog/general/130585/greyton-nature-reserve-history-1977/). Brian Rycroft and the invasive plant work.
 - The fire of December 2019, the Riviersonderend Complex and the Spatial Development Framework: see the sources on [[challenges|Challenges: The Record and the Present State]], [[organisations/capenature|CapeNature]] and [[rules/theewaterskloof-spatial-development-framework|Theewaterskloof Spatial Development Framework]].
+- Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. The commonage clause of the conditions of sale of 1854, and the extensions of 1973 and 1976.

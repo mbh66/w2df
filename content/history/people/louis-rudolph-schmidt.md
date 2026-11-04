@@ -16,6 +16,7 @@ aliases:
   - De Heer Schmidt
 born: "1872-09-07"
 died: "1963-05-28"
+updated: 2026-11-04
 ---
 
 > [!warning] Died in living memory
@@ -43,7 +44,7 @@ Louis Rudolph Schmidt was a Moravian missionary who served at Genadendal for abo
 
 Schmidt was born at Elim, where his parents were missionaries [MS]. At nine he was sent with other German missionaries' children to school at Klein-Welka in Saxony [MS]. He trained as a locksmith and art metalworker at Niesky, and worked in Wiesbaden, Stuttgart, Zürich, and Bern [MS]. In 1895 he came back to South Africa and worked at the Phoenix Ironworks in Port Elizabeth [MS]. During a typhus epidemic in 1896 he fell critically ill, and on his sickbed committed his life to Christ and vowed to preach [MS]. He entered the mission's service in 1901 and was sent to Genadendal [MS]. The church's list of missionaries gives his years there as 1902 to 1942, and marks him as superintendent [MS].
 
-On 13 October 1902 he married Anna Helena Schmitt, a music teacher from Germany who had taught at the girls' school in Paarl [MS]. At Genadendal she taught music to the students of the training college and needlework to the girls [MS]. Their two children, Theodore and Margarethe, died young, and Anna died on 15 December 1947 [MS]. Schmidt retired to Greyton, where he died on 28 May 1963 [MS]. The *Cape Times* reported his death under the heading "Death of Schweitzer of South Africa" [MS].
+On 13 October 1902 he married Anna Helena Schmitt, a music teacher from Germany who had taught at the girls' school in Paarl [MS]. At Genadendal she taught music to the students of the training college and needlework to the girls [MS]. Their two children, Theodore and Margarethe, died young, and Anna died on 15 December 1947 [MS]. Schmidt retired to Greyton, where he died on 28 May 1963 [MS]. [[history/people/helen-robinson|Helen Robinson]]'s 1986 study of Greyton says he settled there in 1948 [TBV]. It says he wrote several books in German about the mission, and a short history of Greyton for a brochure of the Dutch Reformed Church in 1956 [TBV]. Robinson used his history, and notes that much of it came from people born in the late 1800s [TBV]. She writes that he cared for people of every church, and that stories of his healing were told beside the tales of how Greyton began [TBV]. The *Cape Times* reported his death under the heading "Death of Schweitzer of South Africa" [MS].
 
 ## Surveyor, doctor, and dentist
 
@@ -66,6 +67,8 @@ In November 1917 he was assaulted one night on his way back to his office, and t
 
 - Where his maps are kept, and whether they are among the records used in the TRANCRAA process.
 - Who attacked him in 1917, and why.
+- When he moved to Greyton. The church's list ends his service at Genadendal in 1942, and Robinson says he settled in Greyton in 1948.
+- Where copies of his short history of Greyton (1956) and his German books are held.
 - How residents who knew him remember him. The moderators would welcome their accounts.
 
 ## Have your say
@@ -83,3 +86,4 @@ If you remember Mr Schmidt, or hold photographs, letters, or maps of his, contac
 ## References
 
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. His life, marriage, maps, medical work, the assault of 1917, the story of the fire, and the *Cape Times* report of 31 May 1963. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].
+- Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. His move to Greyton, his writings, and his short history of Greyton.

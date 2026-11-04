@@ -15,8 +15,7 @@ The Forum has one long-term goal. In 2038, Genadendal turns 300. By then, we wan
 
 We also want the gap between villages to close. A good result in one village doesn't count if another village is left behind.
 
-A proposal now before the Forum, [[concepts/vorming|Vorming]], would add a fourth line: *We care for our land and water, and it shows in us and in the valley.* It has not yet been agreed.
-
+A fourth proposal the DevForum is considering is [[concepts/vorming|Vorming]]: *We take pride in ourselves and our land and water, and it shows in the beauty of every part of the valley.* This proposal hasn't yet been agreed upon.
 ## Three parts of life, three values
 
 This site sorts the valley's work into three spheres of life. Each sphere has its own value:

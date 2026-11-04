@@ -19,6 +19,7 @@ aliases:
 links:
   - https://greytonleiwater.co.za/
   - https://greyt.co.za/get-involved/
+updated: 2026-11-04
 ---
 
 Greyton's leiwater ("led water") is a network of open furrows that carries water by gravity from the Gobos River to the village's gardens [MS]. It has served [[villages/greyton|Greyton]] since the village was founded in 1854, and it still works [MS]. It is described as one of the last working heritage irrigation systems of its kind in South Africa [MS]. It is run today by volunteer water bailiffs and street wardens [MS].
@@ -50,7 +51,7 @@ Today the water alternates, week by week, between two zones fed from the Bo Lei 
 
 The leiwater was part of Greyton's design from the start. [[history/people/herbert-vigne|Herbert Vigne]] laid the village out on the farm Weltevreden, and the surveyor [[history/people/j-g-rietz|J.G. Rietz]] drew a plan of long, narrow plots [IC]. Each plot had room for a house and a strip of land behind it for vegetables, fruit trees, and a few animals [IC]. Water from the mountain made those gardens possible [MS]. When the first plots were sold in 1854, they came with title deeds, water rights, and grazing rights on the commonage [IC]. Residents grew onions, pumpkins, apricots, and pears [MS].
 
-Who dug the first furrows and dams, and how the water rights were written into the first title deeds, has not yet been found [TBV].
+Who dug the first furrows and dams has not yet been found [TBV]. [[history/people/helen-robinson|Helen Robinson]]'s 1986 study of Greyton quotes the conditions of sale of December 1854, which show how the water was shared [TBV]. Every inhabitant could take water from the village stream for cooking and household use [TBV]. Only the blocks listed in the conditions could use water from the Naauwkloof and the Bosjesmanskloof for irrigation, "in fair and equal proportions, according to the extent of each" [TBV]. Irrigation was a separate right from the plot itself, and the seller was not responsible when the supply changed with the seasons [TBV]. Robinson describes the main furrow running along the top of the plots on the Crescent and down to Vigne's home farm at the other end of the village [TBV].
 
 ## A Cape tradition
 
@@ -66,7 +67,7 @@ The valley's first water furrow is older than Greyton. In 1738 [[history/people/
 
 ## Water rights and the law
 
-Under older Cape law, water rights could be attached to land, and written into title deeds [IC]. The National Water Act of 1998 changed this. It made the nation's water a public trust held by the state, and water use now needs a licence or another authorisation under the Act [IC]. Water uses that were lawfully exercised in the two years before the Act came into force may continue as "existing lawful uses" until they are licensed [IC]. In Montagu, the old title-deed water rights were replaced by the Act [IC]. How the Act applies to Greyton's leiwater rights has not yet been checked [TBV].
+Under older Cape law, water rights could be attached to land, and written into title deeds [IC]. The National Water Act of 1998 changed this. It made the nation's water a public trust held by the state, and water use now needs a licence or another authorisation under the Act [IC]. Water uses that were lawfully exercised in the two years before the Act came into force may continue as "existing lawful uses" until they are licensed [IC]. In Montagu, the old title-deed water rights were replaced by the Act [IC]. How the Act applies to Greyton's leiwater rights has not yet been checked [TBV]. Robinson writes that when the village boundaries were extended onto the commonage in 1973 and 1976, old servitudes on water rights in the first title deeds were cancelled [TBV]. Which rights this affected has not been checked.
 
 ## Why it matters
 
@@ -75,7 +76,7 @@ The leiwater is one of the things that began in this valley and still works [MS]
 ## What is still open
 
 - Who built the first furrows and dams, and when the Bo Lei Dam and Mid Lei Dam were built.
-- How the water rights were written into Greyton's first title deeds.
+- Whether the conditions of sale of 1854, as Robinson quotes them, match the first title deeds, and which water servitudes were cancelled in 1973 and 1976.
 - How the National Water Act of 1998 affects the leiwater rights attached to Greyton's plots.
 - Whether plots in Heuwelkroon have leiwater rights, and what happened to the rights of families forced to sell their plots in the removals.
 - How much water the leiwater uses, and how the flow of the Gobos River has changed.
@@ -106,3 +107,4 @@ If you hold old title deeds, schedules, photographs, or memories of the leiwater
 - Theewaterskloof Municipality. [Greyton](https://twk.gov.za/greyton/). Long plots and leiwater channels.
 - Greyton Today. [History](https://greytontoday.wordpress.com/about/). The first residents, their gardens, and the leiwater.
 - [[history/history-of-greyton|History of Greyton]], and the sources listed there. The plan, the plots, and the first crops.
+- Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. The water clauses of the conditions of sale of 1854, the course of the main furrow, and the cancelled servitudes.
