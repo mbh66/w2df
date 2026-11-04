@@ -13,6 +13,7 @@ komitee_review: pending
 aliases:
   - Genadendal economy
   - Sending-ekonomie
+updated: 2026-11-04
 ---
 
 Genadendal was a village with its own economy, mixing gardens, crafts, trade, and wage work [MS]. It was also a place where money and land ownership were kept apart: residents could live on the land and work it, but not own it [IC]. This page describes how people made a living at the mission. See [[history/markets/money-and-land|Money and Land]].
@@ -76,7 +77,7 @@ In the second half of the 1800s, factory-made goods arriving by steamship underc
 
 - Wikipedia. [Genadendal](https://en.wikipedia.org/wiki/Genadendal). The forge, the mill, and Kühnel's knives.
 - Genadendal Project. [History of Genadendal and Surrounds](https://genadendalproject.objectecologies.co.za/history-of-genadendal-and-surrounds/). Schmidt's first years and the buildings of 1739.
-- Links, C. and Green, E. (2025). ["Wages, Gender, and Coercion"](https://www.cambridge.org/core/journals/international-review-of-social-history/article/wages-gender-and-coercion-socioeconomic-stratification-and-labour-practices-among-the-khoe-in-early-nineteenth-century-cape-colony/53E1AA04C81E31CD6D29CB8AEF6F5545). *International Review of Social History*. Khoe wages in kind and in cash, 1801 to 1810.
-- Studia Historiae Ecclesiasticae. ["I Will Gather All Nations and Tongues"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-01902005000100005). Genadendal's population from 1837 to 1840, and farmers' hostility to the missions.
-- Viljoen, R. (1995). "Moravian Missionaries, Khoisan Labour and the Overberg Colonists at the End of the VOC Era, 1792 to 1795." In Bredekamp and Ross (eds), *Missions and Christianity in South African History.* Witwatersrand University Press. Not yet read.
+- Links, C. and Green, E. (2025). ["Wages, Gender, and Coercion"](https://www.cambridge.org/core/journals/international-review-of-social-history/article/wages-gender-and-coercion-socioeconomic-stratification-and-labour-practices-among-the-khoe-in-early-nineteenth-century-cape-colony/53E1AA04C81E31CD6D29CB8AEF6F5545). *International Review of Social History*. Khoe wages in kind and in cash, 1801 to 1810. Register entry: [[research/links-green-wages-gender-and-coercion|Wages, Gender, and Coercion]].
+- Studia Historiae Ecclesiasticae. ["I Will Gather All Nations and Tongues"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-01902005000100005). Genadendal's population from 1837 to 1840, and farmers' hostility to the missions. Register entry: [[research/watson-i-will-gather-all-nations|I Will Gather All Nations and Tongues]].
+- Viljoen, R. (1995). "Moravian Missionaries, Khoisan Labour and the Overberg Colonists at the End of the VOC Era, 1792 to 1795." In Bredekamp and Ross (eds), *Missions and Christianity in South African History.* Witwatersrand University Press. Not yet read. Register entry: [[research/viljoen-moravian-missionaries-khoisan-labour|Moravian Missionaries, Khoisan Labour and the Overberg]].
 - [[trancraa-process-farm-39|TRANCRAA and Farm 39]], and the sources listed there. The 1858 grant and the 1909 Act.

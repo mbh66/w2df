@@ -14,7 +14,7 @@ aliases:
   - Wat hier begin het
   - The valley's firsts
   - The developmental arc
-updated: 2026-09-28
+updated: 2026-11-04
 links:
   - https://bioconomy.earth
 ---
@@ -138,12 +138,12 @@ To add a first, correct a fact, or tell the story from your side, contact the mo
 - South African History Online. [Genadendal Historic Village and Museum](https://sahistory.org.za/place/genadendal-historic-village-museum). The school, the library, the teachers' college and its closure in 1926, and the 1995 renaming.
 - Wikipedia. [Genadendal](https://en.wikipedia.org/wiki/Genadendal). The forge, the mill, the library, and the college.
 - South African History Online. [Afrikaans: the Language of Black and Coloured Dissent](https://sahistory.org.za/article/afrikaans-language-black-and-coloured-dissent). *De Bode van Genadendal* and written Afrikaans.
-- Studia Historiae Ecclesiasticae. ["I Will Gather All Nations and Tongues"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-01902005000100005). Genadendal's population from 1837 to 1840.
-- du Preez, H. and others (eds) (2009). [The Challenge of Genadendal](https://ebooks.iospress.nl/book/the-challenge-of-genadendal). Mandela's foreword on the naming of the residence and his visit.
+- Studia Historiae Ecclesiasticae. ["I Will Gather All Nations and Tongues"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-01902005000100005). Genadendal's population from 1837 to 1840. Register entry: [[research/watson-i-will-gather-all-nations|I Will Gather All Nations and Tongues]].
+- du Preez, H. and others (eds) (2009). [The Challenge of Genadendal](https://ebooks.iospress.nl/book/the-challenge-of-genadendal). Mandela's foreword on the naming of the residence and his visit. Register entry: [[research/du-preez-the-challenge-of-genadendal|The Challenge of Genadendal]].
 - greyt.co.za. [Get Involved](https://greyt.co.za/get-involved/). Greyton's leiwater and its volunteer bailiffs.
 - McGregor Village. [The Road to Nowhere](http://www.mcgregorvillage.co.za/index.php/history/76-the-road-to-nowhere). The three attempts at the Boesmanskloof road.
 - Getaway. [Traversing the Road to Nowhere](https://www.getaway.co.za/things-to-do/hiking-activities/traversing-the-road-to-nowhere/). The unfinished road and today's trail.
-- Hutton, J.E. (1909). *A History of the Moravian Church*, chapter 16, ["Comenius and the Hidden Seed"](https://www.ccel.org/ccel/hutton/moravian.iv.xvi.html). The Hidden Seed and the villages the first exiles came from.
+- Hutton, J.E. (1909). *A History of the Moravian Church*, chapter 16, ["Comenius and the Hidden Seed"](https://www.ccel.org/ccel/hutton/moravian.iv.xvi.html). The Hidden Seed and the villages the first exiles came from. Register entry: [[research/hutton-a-history-of-the-moravian-church|A History of the Moravian Church]].
 - BioConomy Wiki. [The Comenius-to-Schmidt Chain](https://wiki.bioconomy.earth/research/comenius-to-schmidt-chain/). How a tradition survived the loss of its institutions.
 - BioConomy. [bioconomy.earth](https://bioconomy.earth). The BioConomy framework, its origin in the valley, and the idea of moving from needy to needed.
 - Forum research notes, held by the Forum: *A Global Inventory of Bioregional and Place-Based Ecological-Economic Projects* (2026), on the Design School for Regenerating Earth.

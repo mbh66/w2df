@@ -17,6 +17,7 @@ aliases:
   - WWF-SA
 website: https://www.wwf.org.za
 last_checked: 2026-10-14
+updated: 2026-11-04
 ---
 
 > [!warning] For WWF South Africa to review
@@ -78,6 +79,6 @@ If you know more about WWF South Africa's work in the valley, contact the modera
 ## References
 
 - WWF South Africa. [Partnering for a nature positive solution](https://africa.panda.org/?uNewsID=45284) (August 2023). The Breede programme with Woolworths.
-- CEO Water Mandate. [Breede Catchment Water Stewardship Programme summary report](https://ceowatermandate.org/resources/breede-catchment-water-stewardship-programme-summary-report-2016/) (2016). The programme's lead, partners, and phases.
+- CEO Water Mandate. [Breede Catchment Water Stewardship Programme summary report](https://ceowatermandate.org/resources/breede-catchment-water-stewardship-programme-summary-report-2016/) (2016). The programme's lead, partners, and phases. Register entry: [[research/ceo-water-mandate-breede-catchment-stewardship|Breede Catchment Water Stewardship Programme]].
 - Greater Cape Town Water Fund. [Fact sheet](https://panorama.solutions/sites/default/files/gctwf_fact_sheet_september_2020_0.pdf) (September 2020). The steering committee.
 - Ward 2 Development Forum. [Zonderend Water Users Association](https://df.valleyofgrace.co.za/economic/farmers-land-water/zonderend-water-users-association). The handover of the project, from the association's own account.

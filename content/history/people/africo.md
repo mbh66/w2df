@@ -12,7 +12,7 @@ aliases:
   - Africo (Christian)
 links:
   - https://genadendalproject.objectecologies.co.za/history-of-genadendal-and-surrounds/
-updated: 2026-09-28
+updated: 2026-11-04
 ---
 
 Africo was the leader of a Khoekhoe clan living near the Sonderend River in 1737 [MS]. When Georg Schmidt arrived in the area that year, he pitched his tent at Africo's kraal [MS]. Africo became one of Schmidt's best students, and in 1742 he was among the first people Schmidt baptised, with the name Christian [MS]. The meeting of 1738 that the valley will mark in 2038 began, in practice, as a welcome at his kraal.
@@ -73,8 +73,8 @@ Nothing is known of his later life. He had died by the time the missionaries ret
 ## References
 
 - Genadendal Project. [History of Genadendal and Surrounds](https://genadendalproject.objectecologies.co.za/history-of-genadendal-and-surrounds/). His kraal near Soetmelksvlei, his house, the move of 1738, the clay wall of 1739, and his baptismal name.
-- Millard, J.A. (1999). [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Dictionary of African Christian Biography. Schmidt's four best students, and Africo as the first convert baptised.
+- Millard, J.A. (1999). [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Dictionary of African Christian Biography. Schmidt's four best students, and Africo as the first convert baptised. Register entry: [[research/millard-tikhuie-vehettge-magdalena|Tikhuie, Vehettge Magdalena]].
 - Moravian Church in America. [Coffee with Moravian Ancestors: Georg Schmidt](https://www.moravian.org/ccd/2021/02/20/coffee-with-moravian-ancestors-georg-schmidt/) (2021). The five baptisms and the names given.
-- Muatze (Mansell Upham). [Moravian missionary Georg Schmidt (1709 to 1785) prohibited (1742) from baptising Cape of Good Hope aborigines](https://mansellupham.wordpress.com/2022/04/03/moravian-missionary-georg-schmidt-1709-1785-prohibited-1742-from-baptising-cape-of-good-hope-aborigines/) (2022). Willem as Africo's brother-in-law, and the date of Willem's baptism.
+- Muatze (Mansell Upham). [Moravian missionary Georg Schmidt (1709 to 1785) prohibited (1742) from baptising Cape of Good Hope aborigines](https://mansellupham.wordpress.com/2022/04/03/moravian-missionary-georg-schmidt-1709-1785-prohibited-1742-from-baptising-cape-of-good-hope-aborigines/) (2022). Willem as Africo's brother-in-law, and the date of Willem's baptism. Register entry: [[research/upham-georg-schmidt-prohibited-from-baptising|Georg Schmidt Prohibited from Baptising]].
 - Wikipedia. [Genadendal](https://en.wikipedia.org/wiki/Genadendal). The first converts and their baptismal names.
 - Schmidt, G. and others (1981). *Das Tagebuch und die Briefe von Georg Schmidt, dem ersten Missionar in Südafrika (1737 to 1744).* Bellville: Wes-Kaaplandse Instituut vir Historiese Navorsing (Western Cape Institute for Historical Research). See [[history/georg-schmidts-diary|Georg Schmidt's Diary]]. The primary source for his life.

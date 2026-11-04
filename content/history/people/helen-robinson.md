@@ -66,7 +66,7 @@ The tribute gives the degree as a master's of 1985 [MS]. The thesis's title page
 
 ## Her publications
 
-- *Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village* (1986). Thesis, Department of Social Anthropology, University of Cape Town. A study of Greyton from its founding to 1986, centred on the Group Areas Act and its effects on residents classified coloured. ![[thesis_hum_1986_robinson_helen.pdf]]
+- *[[research/robinson-invisible-villagers|Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village]]* (1986). Thesis, Department of Social Anthropology, University of Cape Town. A study of Greyton from its founding to 1986, centred on the Group Areas Act and its effects on residents classified coloured. ![[thesis_hum_1986_robinson_helen.pdf]]
 - *Beyond the City Limits: People and Property at Wynberg, 1795 to 1927* (1998). Her PhD thesis, published in Cape Town. The history of land and its owners in Wynberg.
 - *Wynberg: A Special Place* (2001). A history of Wynberg.
 - *Shakespeare at Maynardville* (2005). A history of the Shakespeare season at the Maynardville Open Air Theatre, for its fiftieth year.
@@ -107,6 +107,7 @@ If you knew Dr Robinson, took part in her study, or hold letters or photographs 
 
 ## Related
 
+- [[research/index|Research Register]]
 - [[history/index|Valley History]]
 - [[history/history-of-greyton|History of Greyton]]
 - [[villages/heuwelkroon|Heuwelkroon]]
@@ -114,7 +115,7 @@ If you knew Dr Robinson, took part in her study, or hold letters or photographs 
 
 ## References
 
-- Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. Her fieldwork, sources, supervisor, funders, and the subjects the thesis covers.
+- Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. Her fieldwork, sources, supervisor, funders, and the subjects the thesis covers. Register entry: [[research/robinson-invisible-villagers|Invisible Villagers]].
 - University of Cape Town Libraries. [OpenUCT record for the thesis](https://open.uct.ac.za/items/c1f940e1-8416-49e6-8807-b517679e1f21). The library's title, year, department, and document type.
 - Plainsman. [Wynberg remembers historian and author Dr Helen Robinson](https://plainsman.co.za/news/2026-09-18-wynberg-remembers-historian-and-author-dr-helen-robinson/) (18 September 2026). Her death and age, her move to Wynberg, her work in theatre and teaching, her degrees, Maynardville, and her books.
 - ESAT, Stellenbosch University. [Helen Robinson](https://esat.sun.ac.za/index.php/Helen_Robinson). Her books on Wynberg, the Liesbeeck, and Maynardville, and her novel.

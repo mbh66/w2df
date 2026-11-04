@@ -15,6 +15,7 @@ aliases:
   - Boesmans
 links:
   - https://en.wikipedia.org/wiki/San_peoples
+updated: 2026-11-04
 ---
 
 The San are the hunter-gatherer peoples of southern Africa [IC]. Their ancestors have lived in the region for tens of thousands of years, and theirs is among the oldest continuous cultures in the world [IC]. In the south-western Cape, including this valley, the Khoekhoe called them the [[history/tribes/soaqua|Soaqua]] [IC]. Their rock art survives in the Riviersonderend mountains [IC].
@@ -77,4 +78,4 @@ If you are of San descent, or hold knowledge of this history, contact the modera
 
 - Wikipedia. [San peoples](https://en.wikipedia.org/wiki/San_peoples). Names, way of life, rock art, languages, numbers in 1652, frontier violence, and communities today.
 - Wikipedia. [Khoisan](https://en.wikipedia.org/wiki/Khoisan). Khoekhoe part in the commandos against the Cape San.
-- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5, citing Humphreys (1989), Le Roux (1984), and Clift (2001). The Soaqua, rock art, and cave sites in the mountains.
+- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5, citing Humphreys (1989), Le Roux (1984), and Clift (2001). The Soaqua, rock art, and cave sites in the mountains. Register entry: [[research/capenature-riviersonderend-complex-management-plan|Riviersonderend Complex Management Plan]].

@@ -17,6 +17,7 @@ aliases:
   - Erfpag
 links:
   - https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1021-545X2019000100005
+updated: 2026-11-04
 ---
 
 Before 1652, land in this valley was held by groups, and nobody owned it [IC]. Over two hundred years, the [[history/institutions/dutch-east-india-company|Dutch East India Company]] and then British governors turned it into property: land that could be surveyed, registered, rented, sold, and used as security for a loan [IC]. This page follows that change, and shows how the valley ended up with two ways of holding land side by side. See [[history/markets/money-and-land|Money and Land]].
@@ -82,8 +83,8 @@ Residents therefore had homes, gardens, and grazing, but no title deeds [IC]. Th
 
 ## References
 
-- McLachlan, J.N. (2019). ["History of the dispossession of the rights in land of pastoral indigenous communities in the Cape Colony from 1652 to 1910"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1021-545X2019000100005). *Fundamina* 25(1). Khoekhoe land law, freehold grants, loan farms, Cradock's quitrent, auctions from 1843, and tickets of occupation.
-- Muatze (Mansell Upham). [Sir John Cradock: Cape Governor and Land Reformer](https://mansellupham.wordpress.com/2020/09/25/sir-john-cradock-cape-governor-and-land-reformer/) (2020). The quitrent reform of 1813 and its effects.
+- McLachlan, J.N. (2019). ["History of the dispossession of the rights in land of pastoral indigenous communities in the Cape Colony from 1652 to 1910"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1021-545X2019000100005). *Fundamina* 25(1). Khoekhoe land law, freehold grants, loan farms, Cradock's quitrent, auctions from 1843, and tickets of occupation. Register entry: [[research/mclachlan-dispossession-of-pastoral-communities|Dispossession of Pastoral Indigenous Communities]].
+- Muatze (Mansell Upham). [Sir John Cradock: Cape Governor and Land Reformer](https://mansellupham.wordpress.com/2020/09/25/sir-john-cradock-cape-governor-and-land-reformer/) (2020). The quitrent reform of 1813 and its effects. Register entry: [[research/upham-sir-john-cradock|Sir John Cradock: Cape Governor and Land Reformer]].
 - South African History Online. [San hunter-gatherer society in the Later Stone Age](https://sahistory.org.za/article/san-hunter-gatherer-society-later-stone-age). San ideas of land.
 - [[history/history-of-greyton|History of Greyton]], and the sources listed there. The owners of Weltevreden and the sale of plots.
 - [[trancraa-process-farm-39|TRANCRAA and Farm 39]], and the sources listed there. The 1858 grant and the 1909 Act.

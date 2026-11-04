@@ -13,7 +13,7 @@ right_of_reply: pending
 komitee_review: pending
 aliases:
   - TIME reference table
-updated: 2026-09-28
+updated: 2026-11-04
 links:
   - https://github.com/mbh66/genadendal-diaries
 ---
@@ -245,7 +245,7 @@ To correct a fact, suggest an entry, or read an event differently, contact the m
 
 ## References
 
-- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which the [[history/the-time-model|TIME model]] builds.
+- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which the [[history/the-time-model|TIME model]] builds. Register entry: [[research/ronfeldt-tribes-institutions-markets-networks|Tribes, Institutions, Markets, Networks]].
 - Garcés Pérez, J.L. and Lasch, A. (2025). [Multilingual working and reading versions of the "Genadendal Diaries" from the Utrecht Archives](https://doi.org/10.5281/zenodo.18095167). Zenodo, version 0.3. The transcriptions of the four diaries.
 - Genadendal Diaries repository. [Genadendal Diaries](https://github.com/mbh66/genadendal-diaries). The English translations, 1792 to 1805, cited here by file and line number. Unreviewed machine translations.
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The rows citing [[history/genadendal-a-long-walk|Genadendal: A Long Walk]], where the page numbers are given.

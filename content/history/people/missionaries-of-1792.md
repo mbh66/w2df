@@ -16,6 +16,7 @@ aliases:
   - The three missionaries
 links:
   - https://archive.org/details/genadendaldiarie0000mars
+updated: 2026-11-04
 ---
 
 On 24 December 1792, three Moravian missionaries arrived at Baviaanskloof: Hendrik Marsveld, Daniel Schwinn, and Johann Christian Kühnel [IC]. It was 48 years since [[history/people/georg-schmidt|Georg Schmidt]] had been forced to leave [IC]. They found [[history/people/magdalena|Magdalena]] still keeping his New Testament [MS]. Like Schmidt, they were craftsmen who earned their own living [MS]. Within a few years they had reopened the school and built a chapel, a forge, and a water mill, and the mission grew into Genadendal [IC]. This page covers all three, because they arrived, worked, and wrote their diaries together.
@@ -108,6 +109,6 @@ The three kept a diary of daily life at the mission. It records who came, what w
 - Wikipedia. [Genadendal](https://en.wikipedia.org/wiki/Genadendal). The arrival on Christmas Eve 1792, Kühnel's trade, the chapel, forge, and mill, and the building permit.
 - Genadendal Project. [History of Genadendal and Surrounds](https://genadendalproject.objectecologies.co.za/history-of-genadendal-and-surrounds/). The arrival date, the chapel of 1796, the forge of 1797, and Kühnel's knives.
 - Wikipedia. [List of heritage sites in Caledon](https://en.wikipedia.org/wiki/List_of_heritage_sites_in_Caledon). Kühnel House as a Provincial Heritage Site.
-- Viljoen, R. (1995). "Moravian Missionaries, Khoisan Labour and the Overberg Colonists at the End of the VOC Era, 1792 to 1795." In Bredekamp, H. and Ross, R. (eds), *Missions and Christianity in South African History.* Witwatersrand University Press. The conflict with the colonists.
-- Krüger, B. (1966). *The Pear Tree Blossoms: A History of the Moravian Mission Stations in South Africa, 1737 to 1869.* Genadendal Printing Works. The missionaries' trades, the first lessons, and the road to permission.
+- Viljoen, R. (1995). "Moravian Missionaries, Khoisan Labour and the Overberg Colonists at the End of the VOC Era, 1792 to 1795." In Bredekamp, H. and Ross, R. (eds), *Missions and Christianity in South African History.* Witwatersrand University Press. The conflict with the colonists. Register entry: [[research/viljoen-moravian-missionaries-khoisan-labour|Moravian Missionaries, Khoisan Labour and the Overberg]].
+- Krüger, B. (1966). *The Pear Tree Blossoms: A History of the Moravian Mission Stations in South Africa, 1737 to 1869.* Genadendal Printing Works. The missionaries' trades, the first lessons, and the road to permission. Register entry: [[research/kruger-the-pear-tree-blossoms|The Pear Tree Blossoms]].
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The birth and death dates of the three men, the chapel of 1798, and their later lives. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].

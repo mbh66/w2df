@@ -12,6 +12,7 @@ aliases:
   - Christina (1742)
 links:
   - https://mansellupham.wordpress.com/2022/04/03/moravian-missionary-georg-schmidt-1709-1785-prohibited-1742-from-baptising-cape-of-good-hope-aborigines/
+updated: 2026-11-04
 ---
 
 Christina was one of the five Khoekhoe people [[history/people/georg-schmidt|Georg Schmidt]] baptised at Baviaanskloof in 1742 [MS]. With [[history/people/magdalena|Magdalena]], she was one of the first two women baptised in the valley [MS]. She is the least known of the five. The records give only her baptismal name and say that she was the sister of a man called Moses [MS]. Her page exists so that her place among the first Christians of Genadendal is not forgotten, and so that anyone who knows more can add to it.
@@ -66,6 +67,6 @@ On 4 September 1742 the VOC's Council of Policy at the Cape ruled that Schmidt w
 
 ## References
 
-- Muatze (Mansell Upham). [Moravian missionary Georg Schmidt (1709 to 1785) prohibited (1742) from baptising Cape of Good Hope aborigines](https://mansellupham.wordpress.com/2022/04/03/moravian-missionary-georg-schmidt-1709-1785-prohibited-1742-from-baptising-cape-of-good-hope-aborigines/) (2022). The five people baptised, their names before and after baptism, Christina as the sister of Moses, and the Council of Policy ruling of 4 September 1742, citing Cape Archives C 120.
+- Muatze (Mansell Upham). [Moravian missionary Georg Schmidt (1709 to 1785) prohibited (1742) from baptising Cape of Good Hope aborigines](https://mansellupham.wordpress.com/2022/04/03/moravian-missionary-georg-schmidt-1709-1785-prohibited-1742-from-baptising-cape-of-good-hope-aborigines/) (2022). The five people baptised, their names before and after baptism, Christina as the sister of Moses, and the Council of Policy ruling of 4 September 1742, citing Cape Archives C 120. Register entry: [[research/upham-georg-schmidt-prohibited-from-baptising|Georg Schmidt Prohibited from Baptising]].
 - Moravian Church in America. [Coffee with Moravian Ancestors: Georg Schmidt](https://www.moravian.org/ccd/2021/02/20/coffee-with-moravian-ancestors-georg-schmidt/) (2021). The five baptisms and the names given, including Christina.
 - Wikipedia. [Genadendal](https://en.wikipedia.org/wiki/Genadendal). The first converts and their baptismal names.

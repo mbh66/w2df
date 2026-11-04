@@ -14,6 +14,7 @@ aliases:
   - Currency at the Cape
 links:
   - https://econrsa.org/wp-content/uploads/2022/06/working_paper_511.pdf
+updated: 2026-11-04
 ---
 
 Money came to the Cape with the [[history/institutions/dutch-east-india-company|Dutch East India Company]] in 1652, but for a long time there was never enough of it, and much of the colony's trade was done by barter and on credit [IC]. This page follows money at the Cape from the first coins to the Overberg's own banks, and shows how, from 1793, money became tied to land: owning property meant being able to borrow. See [[history/markets/money-and-land|Money and Land]].
@@ -75,9 +76,9 @@ In the 1850s and 1860s, country towns opened their own banks. The Swellendam Ban
 
 ## References
 
-- Havemann, R. and Fourie, J. [Colonial Africa's first financial crash, 1788 to 1793](https://econrsa.org/wp-content/uploads/2022/06/working_paper_511.pdf). Economic Research Southern Africa. Paper money from 1782, the crash, and the Bank van Leening.
+- Havemann, R. and Fourie, J. [Colonial Africa's first financial crash, 1788 to 1793](https://econrsa.org/wp-content/uploads/2022/06/working_paper_511.pdf). Economic Research Southern Africa. Paper money from 1782, the crash, and the Bank van Leening. Register entry: [[research/havemann-fourie-colonial-africas-first-financial-crash|Colonial Africa's First Financial Crash]].
 - Dictionary of South African English. [Rix-dollar](https://dsae.co.za/entry/rixdollar/e06026). Its value, its fall, its withdrawal in 1841, and its later use in speech.
 - UK Parliament (Hansard). [Currency at the Cape of Good Hope](https://api.parliament.uk/historic-hansard/commons/1826/may/19/currency-at-the-cape-of-good-hope) (19 May 1826). The rixdollar's fall from 4s to 1s 6d.
 - Western Cape Numismatic Society. [South African numismatic firsts since 1652](https://www.wcnumsoc.com/south-african-numismatic-firsts-since-1652). Paper money in 1782 and sterling from 1 January 1826.
-- Ekama, K. (2025). ["Emancipation and the Business of Compensation in the Cape Colony"](https://www.cambridge.org/core/journals/enterprise-and-society/article/emancipation-and-the-business-of-compensation-in-the-cape-colony/70AA747AF1C3D76FAA13DF9958E03191). *Enterprise and Society*.
+- Ekama, K. (2025). ["Emancipation and the Business of Compensation in the Cape Colony"](https://www.cambridge.org/core/journals/enterprise-and-society/article/emancipation-and-the-business-of-compensation-in-the-cape-colony/70AA747AF1C3D76FAA13DF9958E03191). *Enterprise and Society*. Register entry: [[research/ekama-emancipation-and-the-business-of-compensation|Emancipation and the Business of Compensation]].
 - The Heritage Portal. [Victorian-era banknotes of towns of the south-western Cape](https://www.theheritageportal.co.za/article/victorian-era-banknotes-towns-south-western-cape). The Swellendam and Caledon banks.

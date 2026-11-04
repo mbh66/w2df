@@ -29,7 +29,7 @@ links:
   - https://www.saflii.org/za/cases/ZAWCHC/2019/95.html
   - https://www.parliament.gov.za/news/committee-receives-briefing-progress-and-challenges-facing-trancraa-communities
   - https://pmg.org.za/committee-question/8475/
-updated: 2026-10-30
+updated: 2026-11-04
 ---
 
 > [!warning] For the Genadendal Transformasie Komitee to review
@@ -337,7 +337,7 @@ If you are a Farm 39 resident, or represent a body named here, and want to add o
 ### Ward 2 Forum series 
 *Farm 39 Transformation: The Lost 18 Years* (2017, archived):
 
-- [Part 1: Contents and History (28 March 2017)](https://web.archive.org/web/20230803030459/https://ward2forum.org/wp-content/uploads/2017/04/Farm-39-lost-18-years-Part-1-Contents-and-History.pdf)
+- [Part 1: Contents and History (28 March 2017)](https://web.archive.org/web/20230803030459/https://ward2forum.org/wp-content/uploads/2017/04/Farm-39-lost-18-years-Part-1-Contents-and-History.pdf) Register entry: [[research/ward-2-forum-farm-39-the-lost-18-years|Farm 39 Transformation: The Lost 18 Years]].
 - [Parts 2 and 3: Role of the DRDLR; Act 9 of 1987 (22 April 2017)](https://web.archive.org/web/20210119125640/https://ward2forum.org/wp-content/uploads/2017/04/FARM-39-Parts-2-and-3.pdf)
 - [Part 4: Act 94 (TRANCRAA) (1 May 2017)](https://web.archive.org/web/20221123180455/https://ward2forum.org/wp-content/uploads/2017/04/FARM-39-PART-4.1-FINAL.pdf)
 - [Parts 5 and 6: The Beneficiaries; Existing Property and Land Use Rights (8 May 2017)](https://web.archive.org/web/20230922172542/ward2forum.org/wp-content/uploads/2017/05/FARM-39-Parts-5-6-1.pdf)

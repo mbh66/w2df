@@ -24,6 +24,7 @@ official_text: https://www.saflii.org/za/legis/consol_act/cpaa1996362/
 links:
   - https://lawlibrary.org.za/akn/za/act/2018/20/eng@2024-10-08
 last_checked: 2026-10-07
+updated: 2026-11-04
 ---
 
 > [!warning] A working page, open for review
@@ -128,4 +129,4 @@ If you can confirm or correct anything on this page, contact the moderators thro
 - Parliament of South Africa. [Committee Receives Briefing on Progress and Challenges Facing TRANCRAA Communities (31 October 2024)](https://www.parliament.gov.za/news/committee-receives-briefing-progress-and-challenges-facing-trancraa-communities). CPAs in the TRANCRAA areas.
 - Parliament of South Africa. [Rural Development and Land Affairs Committee disappointed with CPS's non-compliance with the law (01 November 2024)](https://parliament.gov.za/news/rural-development-and-land-affairs-committee-disappointed-cpas-non-compliance-law). Confirmation that 82% of the registered Communal Property Associations (CPAs) are non-compliant.
 - Peoples Assembly - Response from the Minister of Land Reform and Rural Development. [What plans are in place to address the challenge of the reported 90% of communal property associations that are dysfunctional? (03 January 2025)](https://pa.org.za/speeches/questions/questions-asked-to-the-minister-of-land-reform-and/2025-w1963-03-january-2025#s410291237)
-- [Communal land tenure after 20 years of democracy in South Africa](https://www.kas.de/documents/252038/253252/7_dokument_dok_pdf_42265_1.pdf/4baa4ab1-ad53-e2e4-1cda-d51814a6ed7c?version=1.0&t=1539659330364#46#39) by Tara Weinberg, Researcher, Centre for Law and Society, University of Cape Town. SADC LAW JOURNAL, Volume Four, Number 1, 2014/15, page 164
+- [Communal land tenure after 20 years of democracy in South Africa](https://www.kas.de/documents/252038/253252/7_dokument_dok_pdf_42265_1.pdf/4baa4ab1-ad53-e2e4-1cda-d51814a6ed7c?version=1.0&t=1539659330364#46#39) by Tara Weinberg, Researcher, Centre for Law and Society, University of Cape Town. SADC LAW JOURNAL, Volume Four, Number 1, 2014/15, page 164 Register entry: [[research/communal-land-tenure-after-20-years|Communal Land Tenure after 20 Years of Democracy]].

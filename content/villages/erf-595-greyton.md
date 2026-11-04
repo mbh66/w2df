@@ -17,7 +17,7 @@ aliases:
 links:
   - https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing
   - https://www.westerncape.gov.za/eadp/files/wcg-blob-files?file=2025-09%2F2014_ba-ea_1084-24-greyton.pdf&type=file
-updated: 2026-10-30
+updated: 2026-11-04
 ---
 
 > [!warning] For Theewaterskloof Municipality, the Department of Land Reform and Greyton's residents bodies to review
@@ -106,7 +106,7 @@ If you hold records of the commonage or of Erf 595, contact the moderators via [
 - Chief Surveyor-General. Cadastral record for the Remainder of Erf 595, Greyton, shown on the Forum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The property, code, parcels and area.
 - Western Cape DEADP. [Environmental Authorisation, Integrated Housing Development on Erf 595, Heuwelkroon, Greyton (10 July 2025)](https://www.westerncape.gov.za/eadp/files/wcg-blob-files?file=2025-09%2F2014_ba-ea_1084-24-greyton.pdf&type=file).
 - Ohana Environmental Consulting. [Environmental Management Programme, Erf 595 (May 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/Environmental-Management-Plan_-Greyton-Erf-595_May-2022.pdf).
-- ACO Associates. [Heritage Impact Assessment, Erf 595 (April 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf).
+- ACO Associates. [Heritage Impact Assessment, Erf 595 (April 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). Register entry: [[research/aco-heritage-impact-assessment-erf-595|Heritage Impact Assessment, Erf 595, Greyton]].
 - Department of Agriculture, Land Reform and Rural Development. Tenders [SSC WC Q11](https://www.nda.gov.za/images/tenders/advertised-bids/advertised-bids2022-23/ssc-wc-q11-2022-2023-dalrrd.pdf) and [SSC WC Q12](https://www.nda.gov.za/images/tenders/advertised-bids/advertised-bids2022-23/ssc-wc-q12-2022-2023-dalrrd.pdf) (2022/23). Read only in part.
 - Theewaterskloof Municipality. Section 71 and 52 reports, [October 2025](https://twk.gov.za/wp-content/uploads/2025/11/WC031_Sec71_2026_M04.pdf) and [March 2026](https://twk.gov.za/wp-content/uploads/2026/04/WC031_Sec71%2052_2026_M09.pdf). The capital programme.
 - Theewaterskloof Municipality. [IDP 2022 to 2027, 2026 amendment](https://twk.gov.za/wp-content/uploads/2026/06/28May26%20Final%20IDP%20-%202026%20Amendment.pdf), Appendix 1. The Ward 2 Community Needs List.

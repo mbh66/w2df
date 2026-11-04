@@ -13,6 +13,7 @@ aliases:
   - Surveyor Rietz
 links:
   - https://sahistory.org.za/place/greyton-western-province
+updated: 2026-11-04
 ---
 
 J.G. Rietz was the senior surveyor who designed and set out the village of [[villages/greyton|Greyton]] for [[history/people/herbert-vigne|Herbert Vigne]] in the 1850s [IC]. The layout he drew has changed little since, and it is one reason Greyton looks the way it does today [IC]. Only his initials, his title, and this work are recorded in the sources found so far.
@@ -62,5 +63,5 @@ The village still keeps this pattern. Its oak-lined streets, its long plots, and
 - Wikipedia. [Greyton](https://en.wikipedia.org/wiki/Greyton). Rietz as the senior surveyor who designed and set out the village.
 - South African History Online. [Greyton, Western Province](https://sahistory.org.za/place/greyton-western-province). The layout by J.G. Rietz.
 - Xplorio Greyton. [History of Greyton and Genadendal](https://xplorio.com/greyton/en/about/history/). Rietz's layout, largely unchanged today.
-- ACO Associates for Ohana Environmental Consulting (2022). [Heritage Impact Assessment, Erf 595, Greyton](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). The plots and the town plan.
+- ACO Associates for Ohana Environmental Consulting (2022). [Heritage Impact Assessment, Erf 595, Greyton](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). The plots and the town plan. Register entry: [[research/aco-heritage-impact-assessment-erf-595|Heritage Impact Assessment, Erf 595, Greyton]].
 - Greyton Today. [History](https://greytontoday.wordpress.com/about/). Houses on the street, gardens behind, the leiwater, and the commonage.

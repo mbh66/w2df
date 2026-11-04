@@ -30,6 +30,7 @@ links:
   - https://biohubs.bioconomy.earth/afrotropic/at12-vog/services/biodiversity-data
   - https://capeleopard.org.za/research
   - https://www.landmark.foundation/leopards
+updated: 2026-11-04
 ---
 
 > **This idea is not yet agreed.** At its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]], the Forum agreed that the leopard corridor concept be sent to the Transformasie Komitee in writing [MS]. None of the other organisations named on this page have been approached. They include the [[organisations/cape-leopard-trust|Cape Leopard Trust]], the [[organisations/landmark-foundation|Landmark Foundation]], [[organisations/capenature|CapeNature]], the Greyton Conservation Society, Wild Restoration, the Greyton Tourism Bureau, [[organisations/wesgro|Wesgro]], the [[organisations/overberg-district-municipality|Overberg District Municipality]], and Theewaterskloof Municipality. **Please do not share this page publicly yet.** The idea will be tabled at a Forum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
@@ -193,14 +194,14 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the next 
 On leopards in the Overberg:
 
 - Cape Leopard Trust. [Back to the Boland: spotting leopards and highlighting biodiversity](https://capeleopard.org.za/updates/back-to-the-boland-spotting-leopards-and-highlighting-biodiversity) (22 November 2025). The 2025 survey's area, 90 stations, 72% detection, 38 leopards, and school lessons.
-- Hinde, K., Wilkinson, A., Tokota, S., Amin, R., O'Riain, M. J., and Williams, K. S. [Leopard density and the ecological and anthropogenic factors influencing density in a mixed-use landscape in the Western Cape, South Africa](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293445). *PLOS ONE* 18(10), 2023. The Overberg density estimate and the recommendation to build corridors with landowners.
+- Hinde, K., Wilkinson, A., Tokota, S., Amin, R., O'Riain, M. J., and Williams, K. S. [Leopard density and the ecological and anthropogenic factors influencing density in a mixed-use landscape in the Western Cape, South Africa](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293445). *PLOS ONE* 18(10), 2023. The Overberg density estimate and the recommendation to build corridors with landowners. Register entry: [[research/hinde-leopard-density-in-a-mixed-use-landscape|Leopard Density in a Mixed-Use Landscape]].
 - Cape Leopard Trust. [Research](https://capeleopard.org.za/research). The Trust's surveys and connectivity work.
 - Landmark Foundation. [Leopards](https://www.landmark.foundation/leopards). Its work with farmers on livestock losses, and its compensation scheme.
 - Simonskloof Retreat. [Posts on the Landmark Foundation](https://simonskloof.co.za/tag/landmark-foundation/). A landowner's account (November 2014) of a collared leopard later trapped and shot near the Rooihoogte pass.
 
 On the valley's mountains:
 
-- CapeNature. [Riviersonderend Complex Protected Area Management Plan](https://www.capenature.co.za/uploads/files/Reports/Riviersonderend-Complex-PAMP.pdf) (2021 to 2031). The Complex's area and make-up, and the klipspringer as a sign of connected habitat.
+- CapeNature. [Riviersonderend Complex Protected Area Management Plan](https://www.capenature.co.za/uploads/files/Reports/Riviersonderend-Complex-PAMP.pdf) (2021 to 2031). The Complex's area and make-up, and the klipspringer as a sign of connected habitat. Register entry: [[research/capenature-riviersonderend-complex-management-plan|Riviersonderend Complex Management Plan]].
 - CapeNature. [Vrolijkheid Nature Reserve](https://www.capenature.co.za/reserves/vrolijkheid-nature-reserve). The reserve from which the Boesmanskloof trail is managed.
 - CapeNature. [Boesmanskloof Hiking Trail map and brochure](https://www.capenature.co.za/uploads/files/Reserves/Maps/Boesmanskloof-Map-and-Brochure.pdf). The trail between McGregor and Greyton.
 

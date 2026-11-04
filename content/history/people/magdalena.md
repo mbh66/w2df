@@ -16,7 +16,7 @@ aliases:
   - Lena
   - Ou Lena
 died: 1800-01-03
-updated: 2026-09-28
+updated: 2026-11-04
 links:
   - https://dacb.org/stories/southafrica/tikhuie-vmagdalena/
 ---
@@ -100,10 +100,10 @@ She died on 3 January 1800 [IC], five days before the first service in the missi
 
 ## References
 
-- Millard, J.A. (1999). [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Dictionary of African Christian Biography, reproduced from *Malihambe: Let the Word Spread* (Unisa Press). Her origins, husband, schooling, the quarrel of 1739, her baptism, the 48 years, the missionaries' account, and her death.
+- Millard, J.A. (1999). [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Dictionary of African Christian Biography, reproduced from *Malihambe: Let the Word Spread* (Unisa Press). Her origins, husband, schooling, the quarrel of 1739, her baptism, the 48 years, the missionaries' account, and her death. Register entry: [[research/millard-tikhuie-vehettge-magdalena|Tikhuie, Vehettge Magdalena]].
 - Moravian Church in South Africa. [Women's Month and Pilgrimage of Grace](https://www.moravianchurch.co.za/womens-month-and-pilgrimage-of-grace/). How the church remembers her.
 - Moravian Church in America. [Coffee with Moravian Ancestors: Georg Schmidt](https://www.moravian.org/ccd/2021/02/20/coffee-with-moravian-ancestors-georg-schmidt/) (2021). The New Testament kept under the pear tree.
-- Bredekamp, H.C. (1987). "Vehettge Tikkuie, alias Moeder Lena van Genadendal (1737 to 1800)." *Quarterly Bulletin of the South African Library* 41(4).
-- Landman, C. (1996). "The Story of Vehettge Tikkuie." In *Digging Up Our Foremothers.* Unisa Press. Also *Missionalia* 26(3), 1998.
+- Bredekamp, H.C. (1987). "Vehettge Tikkuie, alias Moeder Lena van Genadendal (1737 to 1800)." *Quarterly Bulletin of the South African Library* 41(4). Register entry: [[research/bredekamp-vehettge-tikkuie|Vehettge Tikkuie, alias Moeder Lena van Genadendal]].
+- Landman, C. (1996). "The Story of Vehettge Tikkuie." In *Digging Up Our Foremothers.* Unisa Press. Also *Missionalia* 26(3), 1998. Register entry: [[research/landman-the-story-of-vehettge-tikkuie|The Story of Vehettge Tikkuie]].
 - Marsveld, H., Schwinn, D. and Kühnel, J.C. (1992). *The Genadendal Diaries, Volume I (1792 to 1794).* University of the Western Cape Institute for Historical Research. The missionaries' own record of meeting her.
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The New Testament of 1694 and its case, the 28 converts, the three pear trees, her burial, and the baptism year 1739. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].

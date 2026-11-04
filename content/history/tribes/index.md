@@ -11,6 +11,7 @@ right_of_reply: pending
 aliases:
   - "T: Tribes"
   - Peoples of the valley
+updated: 2026-11-04
 ---
 
 This section holds one page for each people or nation in the valley's story. It takes its name from the Tribes form of the [[history/the-time-model|TIME model]], in which people organise through kinship and belonging, so that what you give and get depends on your family and your people. The pages themselves call each group a people ("the Chainoqua, a Khoekhoe people"), because some readers hear "tribe" as a colonial word. Only the folder keeps the model's name.
@@ -56,4 +57,4 @@ If you are a descendant of the Khoekhoe or San, or hold family stories or docume
 ## References
 
 - BioConomy wiki. [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework). The general definition of the four forms.
-- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which the [[history/the-time-model|TIME model]] builds.
+- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which the [[history/the-time-model|TIME model]] builds. Register entry: [[research/ronfeldt-tribes-institutions-markets-networks|Tribes, Institutions, Markets, Networks]].

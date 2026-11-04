@@ -20,6 +20,7 @@ links:
   - https://www.capenature.co.za/who-we-are
   - https://www.capenature.co.za/uploads/files/Reports/Riviersonderend-Complex-PAMP.pdf
 last_checked: 2026-10-14
+updated: 2026-11-04
 ---
 
 > [!warning] For CapeNature to review
@@ -94,7 +95,7 @@ If you know more about CapeNature's work in the valley, contact the moderators v
 ## References
 
 - CapeNature. [Who we are](https://www.capenature.co.za/who-we-are). Its board, legal basis, and role.
-- CapeNature. [Riviersonderend Complex Protected Area Management Plan](https://www.capenature.co.za/uploads/files/Reports/Riviersonderend-Complex-PAMP.pdf) (2021 to 2031). The Complex's area and make-up, and the klipspringer.
+- CapeNature. [Riviersonderend Complex Protected Area Management Plan](https://www.capenature.co.za/uploads/files/Reports/Riviersonderend-Complex-PAMP.pdf) (2021 to 2031). The Complex's area and make-up, and the klipspringer. Register entry: [[research/capenature-riviersonderend-complex-management-plan|Riviersonderend Complex Management Plan]].
 - CapeNature. [Boesmanskloof Hiking Trail map and brochure](https://www.capenature.co.za/uploads/files/Reserves/Maps/Boesmanskloof-Map-and-Brochure.pdf). The trail between McGregor and Greyton.
 - Greater Cape Town Water Fund. [Fact sheet](https://panorama.solutions/sites/default/files/gctwf_fact_sheet_september_2020_0.pdf) (September 2020). The fund's steering committee.
 - Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). CapeNature as a partner.

@@ -15,7 +15,7 @@ aliases: []
 links:
   - https://github.com/mbh66/w2df
   - https://github.com/mbh66/genadendal-diaries
-updated: 2026-09-30
+updated: 2026-11-04
 ---
 
 Michael Haupt convenes the [[civic/governance/ward-2-development-forum|Ward 2 Development Forum]] [IC]. He built this site, drafted its first pages from published sources, and keeps the Forum's records [MS]. He lives in Greyton, and has worked on community projects across the valley for about ten years [MS].
@@ -75,6 +75,6 @@ Email [hello@michaelhaupt.com](mailto:hello@michaelhaupt.com), or use the [[cont
 
 - Ward 2 Development Forum. [[civic/governance/minutes/2026-09-16-inaugural-meeting|Minutes of the inaugural meeting]], 16 September 2026. The meeting's conveners, date, and place, and the two-monthly cycle.
 - Ward 2 Development Forum. [[data-policy|Data Policy]]. His role in keeping the Forum's records.
-- Haupt, M. (2026). [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions). Framer OS, 27 September 2026.
+- Haupt, M. (2026). [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions). Framer OS, 27 September 2026. Register entry: [[research/haupt-using-time-for-difficult-decisions|Using TIME for Difficult Decisions]].
 - GitHub. [mbh66/w2df](https://github.com/mbh66/w2df). The site's repository.
 - GitHub. [mbh66/genadendal-diaries](https://github.com/mbh66/genadendal-diaries). The diaries repository.

@@ -14,6 +14,7 @@ aliases:
   - Soeswa's people
 links:
   - https://www.archaeology.org.za/sites/default/files/attachments/publications/2015/12/31/vol_6_no_3.pdf
+updated: 2026-11-04
 ---
 
 The Chainoqua were a [[history/tribes/khoekhoe|Khoekhoe]] people of the Overberg [IC]. Their land stretched from the Hottentots Holland mountains towards Cape Agulhas and inland to the Riviersonderend mountains, some 12,000 square kilometres [IC]. It took in this valley. Some of their kraals stood near present-day Genadendal and Riviersonderend [IC]. The Breede River divided them from their eastern neighbours, the [[history/tribes/hessequa|Hessequa]] [IC].
@@ -75,7 +76,7 @@ If you are of Chainoqua descent, or hold knowledge of this history, contact the 
 ## References
 
 - The Digging Stick, volume 6, number 3 (November 1989). [Archaeological Society of South Africa](https://www.archaeology.org.za/sites/default/files/attachments/publications/2015/12/31/vol_6_no_3.pdf). Chainoqua land and its boundary with the Hessequa, first contact, the name "Soeswa's people", and the cattle trade.
-- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5, citing Le Roux (1984), Humphreys (1989), and Clift (2001). The four kraal groups, Soeswa, Dorha, the cattle posts, and the kraals near Genadendal.
+- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5, citing Le Roux (1984), Humphreys (1989), and Clift (2001). The four kraal groups, Soeswa, Dorha, the cattle posts, and the kraals near Genadendal. Register entry: [[research/capenature-riviersonderend-complex-management-plan|Riviersonderend Complex Management Plan]].
 - Wikipedia. [Khoikhoi–Dutch Wars](https://en.wikipedia.org/wiki/Khoikhoi%E2%80%93Dutch_Wars). The Chainoqua alliance with the Dutch in 1673 to 1677.
 - Wikipedia. [Groenland mountains](https://en.wikipedia.org/wiki/Groenland_mountains). Chainoqua resistance and loss of land.
 - Moravian Church in South Africa. [Women's Month and Pilgrimage of Grace](https://www.moravianchurch.co.za/womens-month-and-pilgrimage-of-grace/). Janneke Tikkuie as Chainoqua.

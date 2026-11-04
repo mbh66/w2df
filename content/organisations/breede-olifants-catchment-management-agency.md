@@ -19,6 +19,7 @@ aliases:
 links:
   - https://www.gov.za/documents/notices/national-water-act-establishment-breede-olifants-catchment-management-agency-0
 last_checked: 2026-10-14
+updated: 2026-11-04
 ---
 
 > [!warning] For Breede-Olifants Catchment Management Agency to review
@@ -84,5 +85,5 @@ If you know more about Breede-Olifants Catchment Management Agency's work in the
 
 - Republic of South Africa. [National Water Act: Establishment of Breede-Olifants Catchment Management Agency](https://www.gov.za/documents/notices/national-water-act-establishment-breede-olifants-catchment-management-agency-0). The notice extending the Breede-Gouritz agency's area.
 - Department of Water and Sanitation. [Business case for the establishment of the Breede-Olifants Catchment Management Agency](https://www.dws.gov.za/io/Docs/Business%20Case%20for%20establishment%20of%20Breede%20Olifants%20Catchment%20Management%20Agency%202021%20V1.pdf) (2021).
-- CEO Water Mandate. [Breede Catchment Water Stewardship Programme summary report](https://ceowatermandate.org/resources/breede-catchment-water-stewardship-programme-summary-report-2016/) (2016). The agency as a partner.
+- CEO Water Mandate. [Breede Catchment Water Stewardship Programme summary report](https://ceowatermandate.org/resources/breede-catchment-water-stewardship-programme-summary-report-2016/) (2016). The agency as a partner. Register entry: [[research/ceo-water-mandate-breede-catchment-stewardship|Breede Catchment Water Stewardship Programme]].
 - Wikipedia. [Breede River](https://en.wikipedia.org/wiki/Breede_River). Where the Riviersonderend joins the Breede.

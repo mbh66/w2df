@@ -16,6 +16,7 @@ aliases:
   - Kwaxala Living Forest Shares
 website: https://www.kwaxala.com
 last_checked: 2026-10-14
+updated: 2026-11-04
 ---
 
 > [!warning] For Kwaxala to review
@@ -77,5 +78,5 @@ If you know more about Kwaxala's work in the valley, contact the moderators via 
 ## References
 
 - Kwaxala. [Home page](https://www.kwaxala.com) and [About](https://www.kwaxala.com/about). Its model, Living Forest Shares, ownership, and revenue share.
-- Ecosystem Marketplace. [State of Private Investment in Nature 2026: Kwaxala](https://www.ecosystemmarketplace.com/publications/gaining-ground-state-of-private-investment-in-nature-2026/kwaxala/). How Kwaxala turns a forest licence into an asset.
+- Ecosystem Marketplace. [State of Private Investment in Nature 2026: Kwaxala](https://www.ecosystemmarketplace.com/publications/gaining-ground-state-of-private-investment-in-nature-2026/kwaxala/). How Kwaxala turns a forest licence into an asset. Register entry: [[research/ecosystem-marketplace-private-investment-in-nature|State of Private Investment in Nature 2026]].
 - Conversation between Kwaxala's Director of Vision and Leadership and the Forum's convenors, September 2026. Kwaxala's wish to work with the valley.

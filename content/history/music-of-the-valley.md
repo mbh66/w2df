@@ -12,7 +12,7 @@ aliases:
   - Musiek van die Vallei
   - Genadendal music
   - Genadendal brass band
-updated: 2026-09-28
+updated: 2026-11-04
 links:
   - https://genadendalmusicarchive.co.za/about-genadendal/
   - https://moravianbrass.co.za/history/overview/
@@ -110,9 +110,9 @@ If you play in a band or sing in a choir in the valley, or hold music, photograp
 - Genadendal Music Archive. [About Genadendal](https://genadendalmusicarchive.co.za/about-genadendal/). Schmidt's songs, the hymns of 1792, the training school's music teaching, the organ, the Basuinfees, and the museum's collection.
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The organ's purchase in 1830 and use to 1890, the Rixdorf organ of 1893, music at the college and the press, and the band in the 1970s. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].
 - Genadendal Music Archive. [About GMA](https://genadendalmusicarchive.co.za/about/). The archive's start in 2020, its funders, and its partners.
-- Froehlich, A. and Engelbrecht, I. [Essay in *Herri*, issue 5](https://herri.org.za/5/anke-froehlich-inge-engelbrecht/). The training school's music teaching, the instruction book of 1853, hand-copied scores, and the composers Sacks Williams, Dan Apolles, and Dan Ulster.
-- Boonzaaier, D. and De Villiers, A.C. (2019). ["The Moravian heritage of community musicking"](https://td-sa.net/index.php/td/article/download/641/1137). *The Journal for Transdisciplinary Research in Southern Africa* 15(1). The organ of 1832, Francke and the choirs, the hymnal of 1880, and Daniel Ulster.
-- ["Addressing the pipework in South Africa's oldest playable organ: a materialist-political history"](https://www.tandfonline.com/doi/abs/10.2989/18121004.2023.2289312). *Journal of the Musical Arts in Africa* 20(1), 2023. Not yet read in full.
+- Froehlich, A. and Engelbrecht, I. [Essay in *Herri*, issue 5](https://herri.org.za/5/anke-froehlich-inge-engelbrecht/). The training school's music teaching, the instruction book of 1853, hand-copied scores, and the composers Sacks Williams, Dan Apolles, and Dan Ulster. Register entry: [[research/froehlich-engelbrecht-herri-essay|Froehlich and Engelbrecht in Herri]].
+- Boonzaaier, D. and De Villiers, A.C. (2019). ["The Moravian heritage of community musicking"](https://td-sa.net/index.php/td/article/download/641/1137). *The Journal for Transdisciplinary Research in Southern Africa* 15(1). The organ of 1832, Francke and the choirs, the hymnal of 1880, and Daniel Ulster. Register entry: [[research/boonzaaier-moravian-heritage-of-community-musicking|The Moravian Heritage of Community Musicking]].
+- ["Addressing the pipework in South Africa's oldest playable organ: a materialist-political history"](https://www.tandfonline.com/doi/abs/10.2989/18121004.2023.2289312). *Journal of the Musical Arts in Africa* 20(1), 2023. Not yet read in full. Register entry: [[research/pipework-of-south-africas-oldest-playable-organ|The Pipework of South Africa's Oldest Playable Organ]].
 - Moravian Bands. [Overview](https://moravianbrass.co.za/history/overview/). The start of brass playing with the training school of 1838, Hallbeck and Marx, Easter morning, and the band union of 1951.
 - Moravian Bands. [Bands in the union](https://moravianbrass.co.za/?menu_id=4&page_name=more&submenu_id=16). Genadendal among the historic Overberg bands.
 - Moravian Music Foundation. [Brass Band Festival South Africa](https://moravianmusic.org/brass-band-festival-south-africa/). The union's 70th anniversary in 2021.

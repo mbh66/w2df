@@ -17,7 +17,7 @@ links:
   - https://www.amazon.com/dp/B0CCJ3S45K/
   - https://search.worldcat.org/title/geskiedenis-van-genadendal-1738-1988/oclc/638603076
   - https://theronbooks.com/books/geskiedenis-genadendal-1738-1988/
-updated: 2026-09-30
+updated: 2026-11-04
 ---
 
 > [!warning] For Isaac Balie to review
@@ -92,7 +92,7 @@ Contact Isaac Balie through the moderators via [[how-to-submit|How to Submit]].
 
 ## References
 
-- Balie, I. (1988). [Die Geskiedenis van Genadendal, 1738-1988](https://search.worldcat.org/title/geskiedenis-van-genadendal-1738-1988/oclc/638603076). Cape Town: Perskor. WorldCat record. The title, publisher, and year.
+- Balie, I. (1988). [Die Geskiedenis van Genadendal, 1738-1988](https://search.worldcat.org/title/geskiedenis-van-genadendal-1738-1988/oclc/638603076). Cape Town: Perskor. WorldCat record. The title, publisher, and year. Register entry: [[research/balie-die-geskiedenis-van-genadendal|Die Geskiedenis van Genadendal, 1738 to 1988]].
 - Theron Books. [Die Geskiedenis van Genadendal 1738-1988](https://theronbooks.com/books/geskiedenis-genadendal-1738-1988/). The publisher, year, and page count, the thesis behind the book, and a description of its contents.
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). Bloomington, Indiana: AuthorHouse. First published by the author in September 2020. The museums of 1963 and 1987, the declaration of 1991, and the author's upbringing in Genadendal.
 - Western Cape Provincial Parliament. [Oversight reports, Announcements, Tablings and Committee Reports 67-2021, 28 June 2021](https://www.wcpp.gov.za/sites/default/files/Final%20Atc%2067-2021%2028%20June%202021%20Oversight%20Reports-Genadendal%20ComSafety-Cultural-Edu.pdf). The committee's visit of 12 February 2021, and his title as former museum manager.
@@ -102,5 +102,5 @@ Contact Isaac Balie through the moderators via [[how-to-submit|How to Submit]].
 - Daily Maverick. [The path less travelled: From Genadendal to Greyton through the mountains](https://www.dailymaverick.co.za/article/2020-05-06-the-path-less-travelled-from-genadendal-to-greyton-through-the-mountains/). 6 May 2020. Describes him as a former curator of the museum and a local historian, and his account of the renaming of Westbrooke.
 - Genadendal Music Archive. [About GMA](https://genadendalmusicarchive.co.za/about/). The inventory project of 2011 to 2012, the digitisation team, and the description of him as the museum's founder.
 - Genadendal Music Archive. [About Genadendal](https://genadendalmusicarchive.co.za/about-genadendal/). Describes him as the museum's founder and its director for 50 years.
-- Du Preez, H. and others (eds) (2009). [The Challenge of Genadendal](https://ebooks.iospress.nl/book/the-challenge-of-genadendal). IOS Press. Nelson Mandela's preface, dated April 2008, on the renaming of Westbrooke and his visit of 10 October 1995.
+- Du Preez, H. and others (eds) (2009). [The Challenge of Genadendal](https://ebooks.iospress.nl/book/the-challenge-of-genadendal). IOS Press. Nelson Mandela's preface, dated April 2008, on the renaming of Westbrooke and his visit of 10 October 1995. Register entry: [[research/du-preez-the-challenge-of-genadendal|The Challenge of Genadendal]].
 - *Valley of Grace: Significant Dates* (2026). Forum research notes, held by the Forum. The 1995 letter and the report in *Die Burger*.

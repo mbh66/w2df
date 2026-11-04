@@ -16,6 +16,7 @@ born: "1777-12-14"
 died: "1839-04-08"
 links:
   - https://en.wikipedia.org/wiki/Du_Pr%C3%A9_Alexander,_2nd_Earl_of_Caledon
+updated: 2026-11-04
 ---
 
 Du Pré Alexander, 2nd Earl of Caledon, was the first civil governor of the Cape after Britain took it for the second time in 1806 [IC]. He governed from 1807 to 1811 [IC]. His proclamation of 1 November 1809, known as the [[history/markets/caledon-code|Caledon Code]] or the Hottentot Proclamation, required every Khoekhoe person to have a fixed place of abode and to carry a pass to move about the colony [IC]. It shaped the lives of Khoekhoe families in this valley for almost twenty years. He also gave Genadendal's missionaries leave to found a second mission, at Groenekloof, in 1808 [IC]. The town of Caledon, and the district that took in Genadendal and Greyton, were named after him [IC]. He never saw the valley's later history, but his name is still on its map.
@@ -128,7 +129,7 @@ Diaries: [A363595, lines 2747 to 2792](https://github.com/mbh66/genadendal-diari
 ## References
 
 - Wikipedia. [Du Pré Alexander, 2nd Earl of Caledon](https://en.wikipedia.org/wiki/Du_Pr%C3%A9_Alexander,_2nd_Earl_of_Caledon). His dates, family, education, Irish career, governorship, resignation, and later life.
-- Dooling, W. (2005). ["The Origins and Aftermath of the Cape Colony's 'Hottentot Code' of 1809"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-01902005000100003). *Kronos* 31. The date and terms of the code, and Caledon's stated reasons.
+- Dooling, W. (2005). ["The Origins and Aftermath of the Cape Colony's 'Hottentot Code' of 1809"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-01902005000100003). *Kronos* 31. The date and terms of the code, and Caledon's stated reasons. Register entry: [[research/dooling-the-hottentot-code-of-1809|The Origins and Aftermath of the Hottentot Code]].
 - Wikipedia. [Hottentot Proclamation](https://en.wikipedia.org/wiki/Hottentot_Proclamation). The pass rule, and its repeal by Ordinance 50 of 1828.
 - South African History Online. [General South African History Timeline: 1800s](https://sahistory.org.za/article/general-south-african-history-timeline-1800s). The second British occupation, the end of the slave trade, Groenekloof, the code's purpose, and the circuit courts.
 - South African History Online. [Louis van Mauritius and the Slave Revolt of 1808](https://sahistory.org.za/article/louis-van-mauritius-and-slave-revolt-1808). The rising of October 1808.

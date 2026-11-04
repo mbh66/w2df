@@ -112,3 +112,5 @@ More pages can be added. If you know of someone whose story belongs here, see *H
 ## Help write this history
 
 Much of what is written about the valley comes from mission records and Greyton sources. If you hold family stories, photographs, or documents, or can tell part of the story from another side, contact the moderators via [[how-to-submit|How to Submit]].
+
+Before you offer a source, check the [[research/index|Research Register]], which lists the research the site already uses.

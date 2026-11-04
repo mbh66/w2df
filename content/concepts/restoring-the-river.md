@@ -21,6 +21,7 @@ links:
   - https://wiki.bioconomy.earth/concepts/water-as-compound-asset
   - https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy
   - https://wiki.bioconomy.earth/research/bioprecipitation
+updated: 2026-11-04
 ---
 
 > **This idea is not yet agreed.** It is part of the thinking behind the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]. None of the organisations named on this page have been asked about it yet. They include the Zonderend Water Users Association, Wild Restoration, the Greyton Conservation Society, the Transformasie Komitee, [[organisations/capenature|CapeNature]], and [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy]]. **Please do not share this page publicly yet.** The idea will be tabled with the Learning Campus at the Forum's November 2026 meeting.
@@ -169,7 +170,7 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the Novem
 
 On invasive plants and water:
 
-- Le Maitre, D., Görgens, A., Howard, G., and Walker, N. [Impacts of alien plant invasions on water resources and yields from the Western Cape Water Supply System (WCWSS)](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1816-79502019000400004). *Water SA* 45(4), 2019. The estimates of water lost to invasive plants now and in 45 years.
+- Le Maitre, D., Görgens, A., Howard, G., and Walker, N. [Impacts of alien plant invasions on water resources and yields from the Western Cape Water Supply System (WCWSS)](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1816-79502019000400004). *Water SA* 45(4), 2019. The estimates of water lost to invasive plants now and in 45 years. Register entry: [[research/le-maitre-alien-plants-and-the-western-cape-water-supply|Alien Plants and the Western Cape Water Supply System]].
 - The Nature Conservancy. [In quest to save water, Cape Town turns up the heat on invasives](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/cape-town-africa-water-fund/). The Greater Cape Town Water Fund, its start after the 2018 drought, and its cost compared with desalination and groundwater.
 
 On the Cape Water Performance-Based Bond:

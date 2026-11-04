@@ -21,7 +21,7 @@ links:
   - https://wiki.bioconomy.earth/concepts/bildung
   - https://cusp.ac.uk/themes/m/essay-m1-9/
   - https://www.nordicsecret.org/the-secret/
-updated: 2026-11-01
+updated: 2026-11-04
 ---
 
 > **This idea is not yet agreed.** Nobody named on this page has been asked about it yet. That includes [[organisations/the-shift|The Shift]], [[organisations/meritus-international|Meritus International]], the [[history/institutions/moravian-church|Moravian Church]], the valley's schools, and the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]]. **Please do not share this page publicly yet.** No date has been set for tabling it at a Forum meeting.
@@ -181,9 +181,9 @@ To comment on this idea, see [[how-to-submit|How to Submit]] or raise it at the 
 
 ## References
 
-- Rowson, J. (2019). [Bildung in the 21st Century: Why sustainable prosperity depends upon reimagining education](https://cusp.ac.uk/themes/m/essay-m1-9/). Centre for the Understanding of Sustainable Prosperity, essay series no. 9. The meaning of Bildung, the Nordic folk high schools, and the warning about its past.
-- Andersen, L. R., and Björkman, T. (2017). *The Nordic Secret*. Fri Tanke. Definition quoted on [The Nordic Secret website](https://www.nordicsecret.org/the-secret/) and by Rowson.
-- Freinacht, H. (2019). [*Nordic Ideology: A Guide to Metamodern Politics, Book Two*](https://metamoderna.org). Metamoderna. Gemeinschaft Politics and Existential Politics.
+- Rowson, J. (2019). [Bildung in the 21st Century: Why sustainable prosperity depends upon reimagining education](https://cusp.ac.uk/themes/m/essay-m1-9/). Centre for the Understanding of Sustainable Prosperity, essay series no. 9. The meaning of Bildung, the Nordic folk high schools, and the warning about its past. Register entry: [[research/rowson-bildung-in-the-21st-century|Bildung in the 21st Century]].
+- Andersen, L. R., and Björkman, T. (2017). *The Nordic Secret*. Fri Tanke. Definition quoted on [The Nordic Secret website](https://www.nordicsecret.org/the-secret/) and by Rowson. Register entry: [[research/andersen-bjorkman-the-nordic-secret|The Nordic Secret]].
+- Freinacht, H. (2019). [*Nordic Ideology: A Guide to Metamodern Politics, Book Two*](https://metamoderna.org). Metamoderna. Gemeinschaft Politics and Existential Politics. Register entry: [[research/freinacht-nordic-ideology|Nordic Ideology]].
 - Swanepoel, H. *The Shift | Formation First Economy: Human formation as an underlying infrastructure for flourishing*. Presentation to the Ward 2 Development Forum, 7 October 2026: [[the-shift-formation-first-economy-2026-10-07.pdf|PDF]].
 - Meritus International. [Steps of Engagement](https://www.meritusinternational.co.za/img/Meritus_International-Steps_of_Engagement.pdf). Its mentorship function.
 - BioConomy wiki. [Bildung: a BioConomy perspective](https://wiki.bioconomy.earth/concepts/bildung). The general idea and its place in a place-based economy.

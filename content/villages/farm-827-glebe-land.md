@@ -17,7 +17,7 @@ aliases:
   - Mission land in Genadendal
 links:
   - https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing
-updated: 2026-10-30
+updated: 2026-11-04
 ---
 
 > [!warning] For the Moravian Church and the Transformasie Komitee to review
@@ -96,6 +96,6 @@ If you hold records of the Glebe Land, contact the moderators via [[how-to-submi
 - Chief Surveyor-General. Cadastral record for Farm 827, Caledon ("GLEBE LAND"), shown on the Forum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The name, number, code and area.
 - Order of the High Court, case 926/07, 22 October 2008, with Annexure GT1, the Deeds Office search report on Farm 39 as at 25 April 2007. Held by the Forum; listed on the [archived legal reference page](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/). Portions 3 to 7 consolidated into Farm 827, and Deed of Grant G19/1952.
 - Urban Dynamics Western Cape. *Genadendal Transformation: Executive Summary and Recommendations* (October 2010). Held by the Forum. The Glebe Land of 70.7795 hectares.
-- Ward 2 Forum. [Farm 39 Transformation: The Lost 18 Years, Part 1](https://web.archive.org/web/20230803030459/https://ward2forum.org/wp-content/uploads/2017/04/Farm-39-lost-18-years-Part-1-Contents-and-History.pdf) (28 March 2017). The nine portions and the 1858 grant.
+- Ward 2 Forum. [Farm 39 Transformation: The Lost 18 Years, Part 1](https://web.archive.org/web/20230803030459/https://ward2forum.org/wp-content/uploads/2017/04/Farm-39-lost-18-years-Part-1-Contents-and-History.pdf) (28 March 2017). The nine portions and the 1858 grant. Register entry: [[research/ward-2-forum-farm-39-the-lost-18-years|Farm 39 Transformation: The Lost 18 Years]].
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. The 1909 Act. See [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].
 - [[history/history-of-the-valley|History of the Valley]], and the sources listed there.

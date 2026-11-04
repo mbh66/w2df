@@ -22,7 +22,7 @@ links:
   - https://www.saflii.org/za/cases/ZAWCHC/2019/95.html
   - https://www.westerncape.gov.za/eadp/files/wcg-blob-files?file=2025-09%2F2014_ba-ea_1084-24-greyton.pdf&type=file
   - https://groundup.org.za/article/greyton-families-still-in-limbo-five-years-after-protests/
-updated: 2026-11-01
+updated: 2026-11-04
 ---
 
 Madiba Park is a settlement in Ward 2 [MS]. It borders Heuwelkroon, which is part of Greyton [MS]. It stands on Farm 39 land [IC], the land on which Genadendal, Bereaville, Voorstekraal, and Boschmanskloof also stand [MS]. Theewaterskloof Municipality does not provide full basic services in Madiba Park [MS]. Its land and service matters fall to the Transformasie Komitee as a result [MS]. People have lived there for more than ten years [TBV].
@@ -135,7 +135,7 @@ Official publications:
 
 - [Western Cape DEADP: Environmental Authorisation, Integrated Housing Development on Erf 595, Heuwelkroon, Greyton (ref. 16/3/3/1/E4/12/1084/24; 10 July 2025)](https://www.westerncape.gov.za/eadp/files/wcg-blob-files?file=2025-09%2F2014_ba-ea_1084-24-greyton.pdf&type=file). Authorisation granted to Theewaterskloof Municipality for 333 homes.
 - [Environmental Management Programme, Greyton Erf 595 (May 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/Environmental-Management-Plan_-Greyton-Erf-595_May-2022.pdf). Prepared for Theewaterskloof Municipality. About 548 residential erven.
-- [Heritage Impact Assessment, Erf 595, Greyton (ACO Associates, April 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). Heritage study for the same site.
+- [Heritage Impact Assessment, Erf 595, Greyton (ACO Associates, April 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). Heritage study for the same site. Register entry: [[research/aco-heritage-impact-assessment-erf-595|Heritage Impact Assessment, Erf 595, Greyton]].
 - [Theewaterskloof Municipality: Capital Programme, First Quarter 2022/23](https://twk.gov.za/wp-content/uploads/2022_2023/Budget/Monthly%20Reports/WC031_Sec71%20&%2052_2023_M03.pdf). "Electrification of Greyton Madiba Park", R1.6 million; tender closed 23 September 2022.
 - [Theewaterskloof Municipality: Adjustment Budget 2022/23 (23 February 2023)](https://twk.gov.za/wp-content/uploads/2022_2023/Budget/Adjustment%20Budget%204/WC031_Adjustment%20Budget%20Item_23%20February%202023.pdf). Records the decrease to the Madiba Park electrification project.
 - [Theewaterskloof Municipality: Financial Report, Fourth Quarter 2022/23](https://twk.gov.za/wp-content/uploads/2022_2023/Budget/Monthly%20Reports/WC031_Sec71%20&%2052_2023_M12.pdf). Year-end spending on the electrification project.

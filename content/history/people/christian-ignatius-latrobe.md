@@ -16,6 +16,7 @@ died: "1836-05-06"
 links:
   - https://en.wikipedia.org/wiki/Christian_Ignatius_Latrobe
   - https://www.rct.uk/collection/1141470/journal-of-a-visit-to-south-africa-in-1815-and-1816-by-the-rev-c-i-latrobe
+updated: 2026-11-04
 ---
 
 Christian Ignatius Latrobe was an English clergyman of the Moravian Church, and a painter and composer [IC]. In 1815 his church sent him to the Cape to visit its mission stations, and he spent much of the next year at Genadendal [IC]. While he was there, he and the missionaries drew up rules for the village, which its residents accepted as a "Brotherly Agreement" [MS]. His *Journal of a Visit to South Africa in 1815 and 1816*, published in London in 1818 with his own coloured illustrations, is one of the fullest accounts of Genadendal in those years [IC].
@@ -77,5 +78,5 @@ He painted Genadendal and its buildings, and his pictures are among the earliest
 ## References
 
 - Wikipedia. [Christian Ignatius Latrobe](https://en.wikipedia.org/wiki/Christian_Ignatius_Latrobe). His birth, death, ordination, music, friendship with Haydn, and journey to the Cape.
-- Royal Collection Trust. [Journal of a visit to South Africa in 1815 and 1816, by the Rev. C.I. Latrobe](https://www.rct.uk/collection/1141470/journal-of-a-visit-to-south-africa-in-1815-and-1816-by-the-rev-c-i-latrobe). The published journal of 1818.
+- Royal Collection Trust. [Journal of a visit to South Africa in 1815 and 1816, by the Rev. C.I. Latrobe](https://www.rct.uk/collection/1141470/journal-of-a-visit-to-south-africa-in-1815-and-1816-by-the-rev-c-i-latrobe). The published journal of 1818. Register entry: [[research/latrobe-journal-of-a-visit-to-south-africa|Latrobe: Journal of a Visit to South Africa]].
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The rules of 1816, Genadendal Dutch, Captain Koopman, the wagon, his paintings, his farewell, and the portrait. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].

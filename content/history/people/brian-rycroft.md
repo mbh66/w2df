@@ -17,6 +17,7 @@ born: 1910-07-26
 died: 1990-12-01
 links:
   - https://www.sanbi.org/1950s/
+updated: 2026-11-04
 ---
 
 Brian Rycroft was a South African botanist who led the National Botanic Gardens at Kirstenbosch for thirty years, until 1983 [IC]. In 1977, while still Director of Kirstenbosch, he established the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] on the mountain commonage above [[villages/greyton|Greyton]] [IC]. The reserve covers about 2,200 hectares, and its trails, fynbos, and water sources are among the valley's most valued places today [IC].
@@ -77,7 +78,7 @@ Whether Rycroft lived in Greyton, or how he came to take up the reserve, is not 
 ## References
 
 - SANBI. [1950s](https://www.sanbi.org/1950s/). Rycroft as the first South African-born Director of Kirstenbosch, succeeding Compton, and his part in expanding the national gardens.
-- *South African Journal of Science* (2013). [Kirstenbosch: A unique blend of beauty and science](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0038-23532013000300002). His thirty-year tenure, ending in 1983.
+- *South African Journal of Science* (2013). [Kirstenbosch: A unique blend of beauty and science](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0038-23532013000300002). His thirty-year tenure, ending in 1983. Register entry: [[research/sajs-kirstenbosch|Kirstenbosch: A Unique Blend of Beauty and Science]].
 - Namibiana Buchdepot. [H.B. Rycroft](https://www.namibiana.de/namibia-information/who-is-who/autoren/infos-zur-person/h-b-rycroft.html). His full name, birth, parents, appointment in 1953, retirement in July 1983, and death on 1 December 1990.
 - Country Life. [Greyton's better nature](https://www.countrylife.co.za/lifestyle/hiking/greytons-better-nature). The reserve established by Prof. Brian Rycroft in 1977.
 - Xplorio Greyton. [Greyton Nature Reserve](https://xplorio.com/greyton/en/blog/general/19768/greyton-nature-reserve/). The reserve established in 1977 while he was Director of Kirstenbosch.

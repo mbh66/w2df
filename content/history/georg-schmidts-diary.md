@@ -14,6 +14,7 @@ aliases:
   - Schmidt's diary
 links:
   - https://searchworks.stanford.edu/view/331174
+updated: 2026-11-04
 ---
 
 [[history/people/georg-schmidt|Georg Schmidt]] kept a diary and wrote letters to his church during his years at the Cape, from 1737 to 1744 [MS]. They are the earliest written record of the mission at Baviaanskloof, now Genadendal, and most of what is known about his first students, among them [[history/people/magdalena|Magdalena]], [[history/people/africo|Africo]], and [[history/people/kupido-and-willem|Kupido and Willem]], comes from them [MS]. In 1981 the diary and letters were published in print, in the languages they were written in, with an Afrikaans translation [IC]. This page describes that edition, what it could settle for this wiki, and how it relates to [[history/the-genadendal-diaries|The Genadendal Diaries]] kept by the missionaries who came after him.
@@ -83,6 +84,7 @@ If you have a copy of this book, can read the old German or French hand, or can 
 
 ## Related
 
+- [[research/index|Research Register]]
 - [[history/index|Valley History]]
 - [[history/the-genadendal-diaries|The Genadendal Diaries]]
 - [[history/people/georg-schmidt|Georg Schmidt]]
@@ -97,5 +99,5 @@ If you have a copy of this book, can read the old German or French hand, or can 
 - Stanford Libraries, SearchWorks. [Das Tagebuch und die Briefe von Georg Schmidt, dem ersten Missionar in Südafrika (1737–1744)](https://searchworks.stanford.edu/view/331174). The catalogue record: editors, translator, publisher, place, year, length, languages, series, ISBN, and call number. Consulted 28 September 2026.
 - AbeBooks. [ISBN 9780909075712](https://www.abebooks.com/9780909075712/Tagebuch-Briefe-Georg-Schmidt-1737-1744-0909075719/plp). Second-hand listings of the edition. Consulted 28 September 2026.
 - ZVAB. [ISBN 9780909075712](https://www.zvab.com/9780909075712/Tagebuch-Briefe-Georg-Schmidt-ersten-0909075719/plp). Second-hand listings of the edition. Consulted 28 September 2026.
-- Millard, J.A. (1999). [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Dictionary of African Christian Biography. An account of Magdalena drawn from Schmidt's records, including the quarrel of 1739.
+- Millard, J.A. (1999). [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Dictionary of African Christian Biography. An account of Magdalena drawn from Schmidt's records, including the quarrel of 1739. Register entry: [[research/millard-tikhuie-vehettge-magdalena|Tikhuie, Vehettge Magdalena]].
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The date of 25 April 1738 and the dates of the first baptisms, and the diary in its bibliography. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].

@@ -20,7 +20,7 @@ aliases:
   - Leerkampus
 links:
   - https://hs.valleyofgrace.co.za/options/long-term/learning-campus
-updated: 2026-11-01
+updated: 2026-11-04
 ---
 
 > **This idea is not yet agreed.** No organisation has signed up to it yet, and some of the stakeholders have not yet been approached to participate, only because this is unfolding quite rapidly. **Please do not share anything here publicly**. This page exists to keep the conversation flowing. It shows what the valley **could** build if we worked together. The details will be tabled at the Forum's November 2026 meeting, and it will change as more people see this early invitation to dialogue and respond.
@@ -194,7 +194,7 @@ Sources on the Bonnievale school, Jakes Gerwel Technical School (the full list i
 - Department of Basic Education. [Western Cape No Fee Schools 2025](https://www.education.gov.za/Portals/0/Documents/Publications/2023/WC%20No%20Fee%20Schools%202025%20list.pdf) (2025). Learner numbers and no-fee status.
 - Food For Mzansi. [Miracle agri-school produces first crop of matrics](https://www.foodformzansi.co.za/miracle-agri-school-produces-first-crop-of-matrics/) (19 January 2022). The first matric class.
 - Financial Mail, republished by the Jakes Gerwel Foundation. [New schooling model offers hope](https://paulethousestories.jgf.org.za/new-schooling-model-offers-hope/) (23 June 2022). The deal with the department and the bussed learners.
-- [IPASA Collaboration Case Study: Jakes Gerwel Technical School and Bonnievale 418 (November 2023)](https://ipa-sa.org.za/wp-content/uploads/2023/11/IPASA-Collaboration-Case-Study_Jakes-Gerwel-Technical-School-and-Bonnievale-418_November-2023.pdf). How the school was set up, and how the building was paid for.
+- [IPASA Collaboration Case Study: Jakes Gerwel Technical School and Bonnievale 418 (November 2023)](https://ipa-sa.org.za/wp-content/uploads/2023/11/IPASA-Collaboration-Case-Study_Jakes-Gerwel-Technical-School-and-Bonnievale-418_November-2023.pdf). How the school was set up, and how the building was paid for. Register entry: [[research/ipasa-jakes-gerwel-and-bonnievale-418|Jakes Gerwel Technical School and Bonnievale 418]].
 - [SA3: Jakes Gerwel Tegniese Hoërskool Bonnievale](https://sa3.co.za/social_projects/jakes-gerwel-tegniese-hoerskool-bonnievale/). Why the town needed the school, and how it combines academic subjects with technical training.
 - [ASLA Foundation: Skills Development and Training, Jakes Gerwel School of Skills](https://aslafoundation.org.za/skills-development-and-training-jakes-gerwel-school-of-skills-bonnievale/). A construction company's support for technical training at the school.
 - [ASLA Foundation: Kruispad Huise](https://aslafoundation.org.za/the-jakes-gerwel-school-of-skills-bonnievale-kruispad-huise/). Two homes renovated as safe places to live for vulnerable learners.

@@ -20,7 +20,7 @@ links:
   - https://twk.gov.za/wp-content/uploads/2026/06/28May26%20Final%20IDP%20-%202026%20Amendment.pdf
   - https://www.westerncape.gov.za/treasury/files/wcg-blob-files?file=2025-08%2Ffinal-draft-theewaterskloof-financial-recovery-plan-final_20250813-published.pdf&type=file
   - https://www.westerncape.gov.za/eadp/files/wcg-blob-files?file=2025-09%2F2014_ba-ea_1084-24-greyton.pdf&type=file
-updated: 2026-10-30
+updated: 2026-11-04
 ---
 
 > [!warning] A research record for the Forum to review
@@ -517,17 +517,17 @@ Only what published sources show is recorded here. Household spending is not est
 ### The Forum and the register
 
 - Ward 2 Development Forum. Minutes of the inaugural meeting, 16 September 2026: [PDF](https://drive.google.com/file/d/1tKMUdwSYZZpDZyhp8Cz-YWirFEVM5Fv3/view?usp=sharing). Every row in Section 2.
-- Ranyaka Community Transformation. [Genadendal Valley report, draft (November 2024)](https://drive.google.com/file/d/1x8R-Q9CAxKEOlTWo4tIgz_xdRmUxuE9H/view?usp=sharing). The 2024 sessions, the THRIVE score, and the 2023 draft spatial plan quotes.
+- Ranyaka Community Transformation. [Genadendal Valley report, draft (November 2024)](https://drive.google.com/file/d/1x8R-Q9CAxKEOlTWo4tIgz_xdRmUxuE9H/view?usp=sharing). The 2024 sessions, the THRIVE score, and the 2023 draft spatial plan quotes. Register entry: [[research/ranyaka-genadendal-valley-report|Genadendal Valley Report (Draft)]].
 - W2DF register pages linked under *Related*, and [[history/genadendal-a-long-walk|Genadendal: A Long Walk]], [[history/from-farm-to-classroom|From Farm to Classroom]], [[history/markets/caledon-code|Caledon Code]], [[history/markets/mission-economy|The Mission Economy]], [[history/leiwater|Greyton's Leiwater]] and [[history/institutions/municipality|The Municipality]], with the sources each lists.
-- Ward 2 Forum. *Farm 39 Transformation: The Lost 18 Years* (2017): [Part 1](https://web.archive.org/web/20230803030459/https://ward2forum.org/wp-content/uploads/2017/04/Farm-39-lost-18-years-Part-1-Contents-and-History.pdf); [Parts 5 and 6](https://web.archive.org/web/20230922172542/ward2forum.org/wp-content/uploads/2017/05/FARM-39-Parts-5-6-1.pdf). The 200 properties.
+- Ward 2 Forum. *Farm 39 Transformation: The Lost 18 Years* (2017): [Part 1](https://web.archive.org/web/20230803030459/https://ward2forum.org/wp-content/uploads/2017/04/Farm-39-lost-18-years-Part-1-Contents-and-History.pdf); [Parts 5 and 6](https://web.archive.org/web/20230922172542/ward2forum.org/wp-content/uploads/2017/05/FARM-39-Parts-5-6-1.pdf). The 200 properties. Register entry: [[research/ward-2-forum-farm-39-the-lost-18-years|Farm 39 Transformation: The Lost 18 Years]].
 
 ### Land and housing
 
 - Chief Surveyor-General. Cadastral records for Farms 32 to 39, Farm 827 (the Glebe Land) and Erf 595, on the Forum's [Google Earth map](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing).
 - Western Cape DEADP. [Environmental Authorisation, Erf 595, Heuwelkroon (10 July 2025)](https://www.westerncape.gov.za/eadp/files/wcg-blob-files?file=2025-09%2F2014_ba-ea_1084-24-greyton.pdf&type=file). The 333 homes, layouts, vegetation and beneficiaries.
 - Ohana Environmental Consulting. [Environmental Management Programme, Erf 595 (May 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/Environmental-Management-Plan_-Greyton-Erf-595_May-2022.pdf). About 548 erven; about 1,425 hectares.
-- ACO Associates. [Heritage Impact Assessment, Erf 595 (April 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). Heritage findings; Heuwelkroon about 1970.
-- [Botanical Assessment, Erf 595 (January 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/Botanical-assessment-Greyton-development-Jan-22.pdf). Site condition and the waiting list.
+- ACO Associates. [Heritage Impact Assessment, Erf 595 (April 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). Heritage findings; Heuwelkroon about 1970. Register entry: [[research/aco-heritage-impact-assessment-erf-595|Heritage Impact Assessment, Erf 595, Greyton]].
+- [Botanical Assessment, Erf 595 (January 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/Botanical-assessment-Greyton-development-Jan-22.pdf). Site condition and the waiting list. Register entry: [[research/botanical-assessment-erf-595|Botanical Assessment, Erf 595, Greyton]].
 - Department of Agriculture, Land Reform and Rural Development. Tenders [SSC WC Q11](https://www.nda.gov.za/images/tenders/advertised-bids/advertised-bids2022-23/ssc-wc-q11-2022-2023-dalrrd.pdf) and [SSC WC Q12](https://www.nda.gov.za/images/tenders/advertised-bids/advertised-bids2022-23/ssc-wc-q12-2022-2023-dalrrd.pdf) (2022/23). Erf 1723 and Erf 1724. Read only in part.
 - Department of Forestry, Fisheries and the Environment. National List of Threatened Terrestrial Ecosystems, Government Gazette 47526, GN 2747 (November 2022). Greyton Shale Fynbos.
 
@@ -544,7 +544,7 @@ Only what published sources show is recorded here. Household spending is not est
 - PMG. [CPA Annual Report and TRANCRAA briefing (October 2024)](https://pmg.org.za/committee-meeting/39779/); [CPA Annual Report 2024/25](https://static.pmg.org.za/Community_Property_Association_CPA_Annual_Report_2024-25.pdf); [committee meeting, 2026](https://pmg.org.za/committee-meeting/43755/). The 2026/27 target and CPA findings.
 - Government of South Africa. [Minister hands over title deeds in Namakwa (August 2025)](https://www.gov.za/news/media-advisories/government-activities/minister-mzwanele-nyhontso-hands-over-title-deeds-land).
 - Deputy Minister Skwatsha. [Budget Vote 2021/22](https://www.gov.za/news/speeches/deputy-minister-mcebisi-skwatsha-agriculture-land-reform-and-rural-development-dept). Haarlem, Mamre and Ebenhaeser.
-- Wisborg and Rohde. [Contested land tenure reform in South Africa: the Namaqualand experience (2004)](https://uwcscholar.uwc.ac.za:8443/server/api/core/bitstreams/f9d3ad85-654e-4448-a151-2493768449ab/content).
+- Wisborg and Rohde. [Contested land tenure reform in South Africa: the Namaqualand experience (2004)](https://uwcscholar.uwc.ac.za:8443/server/api/core/bitstreams/f9d3ad85-654e-4448-a151-2493768449ab/content). Register entry: [[research/wisborg-rohde-contested-land-tenure-reform|Contested Land Tenure Reform in South Africa]].
 
 ### Municipal plans and finance
 
@@ -561,7 +561,7 @@ Only what published sources show is recorded here. Household spending is not est
 
 - Department of Water and Sanitation. [Reserve determination, Breede-Gouritz (Gazette 46798, 26 August 2022)](https://www.gov.za/sites/default/files/gcis_document/202208/46798gon2428.pdf). Figures for the Gobos, Baviaans and Riviersonderend.
 - [National Water Act 36 of 1998](https://www.saflii.org/za/legis/consol_act/nwa1998161/). Section 32, existing lawful use.
-- CapeNature. [Riviersonderend Complex Protected Area Management Plan 2021 to 2031](https://www.capenature.co.za/uploads/files/Reports/Riviersonderend-Complex-PAMP.pdf). The Complex and the 2019 fire.
+- CapeNature. [Riviersonderend Complex Protected Area Management Plan 2021 to 2031](https://www.capenature.co.za/uploads/files/Reports/Riviersonderend-Complex-PAMP.pdf). The Complex and the 2019 fire. Register entry: [[research/capenature-riviersonderend-complex-management-plan|Riviersonderend Complex Management Plan]].
 
 ### News and statements
 
@@ -579,9 +579,9 @@ Only what published sources show is recorded here. Household spending is not est
 ### History
 
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. The 1858 grant, the 1909 Act, the land cases, the crafts, the water mill and the printing works.
-- Dooling, W. (2005). [The Origins and Aftermath of the Cape Colony's "Hottentot Code" of 1809](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-01902005000100003). *Kronos* 31.
+- Dooling, W. (2005). [The Origins and Aftermath of the Cape Colony's "Hottentot Code" of 1809](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-01902005000100003). *Kronos* 31. Register entry: [[research/dooling-the-hottentot-code-of-1809|The Origins and Aftermath of the Hottentot Code]].
 - The O'Malley Archives. [Ordinance No 50 of 1828](https://omalley.nelsonmandela.org/index.php/site/q/03lv01538/04lv01646/05lv01658.htm).
-- Williams, R. ["Hoekom soek ons nog altyd *Kos Klere en Blyplek* in die nuwe dispensasie?"](https://herri.org.za/2/rafieka-williams/). *Herri*, issue 2 (no date given). A personal essay built around a reggae song by Country Conquerors, by a Capetonian writer who came to Greyton in May 2017 and spoke with residents. *Herri* is an online arts and culture journal published by Stephanus Muller for the Africa Open Institute and edited by Aryan Kaganof (see [Review: herri is a rare new arts and culture journal from South Africa](https://www.modernghana.com/amp/news/1003294/review-herri-is-a-rare-new-arts-and-culture-journ.html)). Used here for the dates of the removals, 1968 to 1974, and the words of those affected.
+- Williams, R. ["Hoekom soek ons nog altyd *Kos Klere en Blyplek* in die nuwe dispensasie?"](https://herri.org.za/2/rafieka-williams/). *Herri*, issue 2 (no date given). A personal essay built around a reggae song by Country Conquerors, by a Capetonian writer who came to Greyton in May 2017 and spoke with residents. *Herri* is an online arts and culture journal published by Stephanus Muller for the Africa Open Institute and edited by Aryan Kaganof (see [Review: herri is a rare new arts and culture journal from South Africa](https://www.modernghana.com/amp/news/1003294/review-herri-is-a-rare-new-arts-and-culture-journ.html)). Used here for the dates of the removals, 1968 to 1974, and the words of those affected. Register entry: [[research/williams-kos-klere-en-blyplek|Hoekom soek ons nog altyd Kos Klere en Blyplek]].
 - South African History Online. [Genadendal Historic Village and Museum](https://sahistory.org.za/place/genadendal-historic-village-museum); [Greyton](https://sahistory.org.za/place/greyton-western-province).
 - Genadendal.info. [The Genadendal Mission Station](https://www.genadendal.info/genadendal-mission-station/). The press of 1837 and its closure in 2003.
 - Statistics South Africa. Census 2011 main-place figures for Genadendal and Greyton, compiled at [census2011.adrianfrith.com](https://census2011.adrianfrith.com/).

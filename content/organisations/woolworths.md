@@ -15,6 +15,7 @@ aliases:
   - Woolworths Holdings
 website: https://www.woolworths.co.za
 last_checked: 2026-10-14
+updated: 2026-11-04
 ---
 
 > [!warning] For Woolworths to review
@@ -72,5 +73,5 @@ If you know more about Woolworths's work in the valley, contact the moderators v
 ## References
 
 - WWF South Africa. [Partnering for a nature positive solution](https://africa.panda.org/?uNewsID=45284) (August 2023). The programme with Woolworths.
-- CEO Water Mandate. [Breede Catchment Water Stewardship Programme summary report](https://ceowatermandate.org/resources/breede-catchment-water-stewardship-programme-summary-report-2016/) (2016).
+- CEO Water Mandate. [Breede Catchment Water Stewardship Programme summary report](https://ceowatermandate.org/resources/breede-catchment-water-stewardship-programme-summary-report-2016/) (2016). Register entry: [[research/ceo-water-mandate-breede-catchment-stewardship|Breede Catchment Water Stewardship Programme]].
 - Wikipedia. [Breede River](https://en.wikipedia.org/wiki/Breede_River). The Riviersonderend as part of the Breede catchment.

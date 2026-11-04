@@ -15,6 +15,7 @@ aliases:
 died: "1663"
 links:
   - https://www.archaeology.org.za/sites/default/files/attachments/publications/2015/12/31/vol_6_no_3.pdf
+updated: 2026-11-04
 ---
 
 Soeswa was the leading chief of the Chainoqua, the Khoekhoe people who lived in the Overberg when the Dutch East India Company (VOC) came to the Cape [IC]. Their land ran from the Hottentots Holland mountains towards Cape Agulhas and inland to the Riviersonderend mountains, and some of their kraals stood near where Genadendal is today [IC]. Soeswa was so well known that within twenty years of first contact with the Dutch, the Chainoqua were often called by his name [IC]. He is the earliest leader of the valley's people whose name has come down to us.
@@ -81,6 +82,6 @@ When [[history/people/georg-schmidt|Georg Schmidt]] arrived in 1737, the people 
 
 - The Digging Stick, volume 6, number 3 (November 1989). [Archaeological Society of South Africa](https://www.archaeology.org.za/sites/default/files/attachments/publications/2015/12/31/vol_6_no_3.pdf). Chainoqua territory, first contact on 14 November 1657, the people known by Soeswa's name, and the cattle trade of 1662 to 1713.
 - Wikipedia. [Groenland mountains](https://en.wikipedia.org/wiki/Groenland_mountains). The Chainoqua under Soeswa and later Dorha, and their loss of land.
-- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5, citing Le Roux (1984) and Clift (2001). The four kraal groups, Soeswa's group in the Villiersdorp valley, the meeting of 1661, and his death in 1663.
-- Bredekamp, H.C. ["Die lewe van 'n Khoikhoi-kaptein: Dorha alias Klaas"](https://journals.co.za/doi/pdf/10.10520/AJA02590190_288). On a later Chainoqua leader.
+- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5, citing Le Roux (1984) and Clift (2001). The four kraal groups, Soeswa's group in the Villiersdorp valley, the meeting of 1661, and his death in 1663. Register entry: [[research/capenature-riviersonderend-complex-management-plan|Riviersonderend Complex Management Plan]].
+- Bredekamp, H.C. ["Die lewe van 'n Khoikhoi-kaptein: Dorha alias Klaas"](https://journals.co.za/doi/pdf/10.10520/AJA02590190_288). On a later Chainoqua leader. Register entry: [[research/bredekamp-dorha-alias-klaas|Die lewe van 'n Khoikhoi-kaptein: Dorha alias Klaas]].
 - Elphick, R. *Khoikhoi and the Founding of White South Africa.* The standard history of the Khoekhoe and the early Cape.

@@ -23,6 +23,7 @@ official_text: https://lawlibrary.org.za/akn/za/act/1999/25
 links:
   - https://www.hwc.org.za/
 last_checked: 2026-10-01
+updated: 2026-11-04
 ---
 
 > [!warning] A working page, open for review
@@ -113,6 +114,6 @@ If you can confirm or correct anything on this page, contact the moderators thro
 - Planning Institute. [NHRA 25 of 1999: A Few Important Points](https://www.pia.org.za/wp-content/uploads/2021/07/02.-NHRA-25-of-1999-A-Few-Important-Points.pdf). The 60-year rule and the section 38 triggers.
 - The Heritage Portal. [Genadendal Moravian Mission Complex](https://www.theheritageportal.co.za/node/925). Declared a national monument in 1980.
 - Western Cape Government. [Genadendal Mission Museum](https://www.westerncape.gov.za/dept/99/facilities/714/23796). The collection declared a National Cultural Treasure on 8 March 1991.
-- ACO Associates for Ohana Environmental Consulting. [Heritage Impact Assessment, Erf 595, Greyton (April 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf).
+- ACO Associates for Ohana Environmental Consulting. [Heritage Impact Assessment, Erf 595, Greyton (April 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). Register entry: [[research/aco-heritage-impact-assessment-erf-595|Heritage Impact Assessment, Erf 595, Greyton]].
 - Theewaterskloof Municipality. [Spatial Development Framework, Chapter 12: Genadendal (final, November 2019)](https://twk.gov.za/wp-content/uploads/2022_2023/Town%20Planning/SDF%202020/12%20GENADENDAL.pdf). Heritage precincts.
 - Heritage Western Cape. [Website](https://www.hwc.org.za/). Application forms and guidelines.

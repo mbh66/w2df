@@ -17,6 +17,7 @@ aliases:
 links:
   - https://www.sabc.co.za/sabc/media-statement-sabc2-introduces-the-khoekhoe-saga-the-legacy-of-the-forgotten-people/
   - https://www.youtube.com/watch?v=z7oX-BBtwN8
+updated: 2026-11-04
 ---
 
 *The Khoekhoe Saga* is a documentary series about the [[history/tribes/khoekhoe|Khoekhoe]]. It was first shown on SABC2 on 8 January 2023 [IC]. Johann Abrahams wrote and directed it, and says he is a direct descendant of the Khoekhoe [IC]. The series sets out to answer the idea that the Khoekhoe died out, and follows their story from their origins to the present day [IC]. It includes [[genadendal|Genadendal]] among the mission villages it covers [MS]. This page sets out what the series covers, where it touches this valley's story, and how the wiki uses it as a source.
@@ -136,6 +137,7 @@ If you have seen the full series, took part in it, or know the places and people
 
 ## Related
 
+- [[research/index|Research Register]]
 - [[history/index|Valley History]]
 - [[history/tribes/khoekhoe|Khoekhoe]]
 - [[history/tribes/hessequa|Hessequa]]
@@ -157,7 +159,7 @@ If you have seen the full series, took part in it, or know the places and people
 - Wikipedia. [Adam Kok III](https://en.wikipedia.org/wiki/Adam_Kok_III). The trek from Philippolis across Ongeluksnek.
 - Wikipedia. [Griqua people](https://en.wikipedia.org/wiki/Griqua_people). The number who crossed the Drakensberg.
 - Camissa Museum. [Adam Kok I (circa 1710 to 1795)](https://camissamuseum.co.za/index.php/7-tributaries/3-free-blacks-of-the-cape/adam-kok-i). The move north into Little Namaqualand.
-- Boezak, W. (2017). _Struggle of an Ancient Faith: the Khoi-San of South Africa_. Cape Town: Bidvest Data.
+- Boezak, W. (2017). _Struggle of an Ancient Faith: the Khoi-San of South Africa_. Cape Town: Bidvest Data. Register entry: [[research/boezak-struggle-of-an-ancient-faith|Struggle of an Ancient Faith]].
 	- **Sunrise symbols**
 		1. [The Cape Wild Dog](https://riverlands.capetown/culture/the-cape-wild-dog/)
 		2. [The Khoi Pot](https://riverlands.capetown/culture/the-khoi-pot/)

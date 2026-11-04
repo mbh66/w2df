@@ -13,7 +13,7 @@ aliases:
   - Georg Schmidt (missionary)
 born: 1709-09-30
 died: 1785-08-01
-updated: 2026-09-28
+updated: 2026-11-04
 links:
   - https://dacb.org/stories/southafrica/schmidt-georg/
   - https://sahistory.org.za/people/georg-schmidt
@@ -106,9 +106,9 @@ Schmidt was born 39 years after Comenius died, so the two never met [IC]. The li
 - Dictionary of African Christian Biography. [Schmidt, Georg](https://dacb.org/stories/southafrica/schmidt-georg/). Birth, imprisonment, teaching from 1737, the founding in 1738, departure in 1744, and death at Niesky.
 - South African History Online. [Georg Schmidt](https://sahistory.org.za/people/georg-schmidt). Birth date and place, Herrnhut, six years in prison, the voyage, departure on 5 March 1744, Niesky, and death on 1 August 1785.
 - Moravian Church in America. [Coffee with Moravian Ancestors: Georg Schmidt](https://www.moravian.org/ccd/2021/02/20/coffee-with-moravian-ancestors-georg-schmidt/) (2021). The mission with Melchior Nitschmann, his recanting, the five baptisms, departure on 6 January 1744, and his later years.
-- Dictionary of African Christian Biography. [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Magdalena's baptism and her 48 years.
+- Dictionary of African Christian Biography. [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Magdalena's baptism and her 48 years. Register entry: [[research/millard-tikhuie-vehettge-magdalena|Tikhuie, Vehettge Magdalena]].
 - Genadendal Project. [History of Genadendal and Surrounds](https://genadendalproject.objectecologies.co.za/history-of-genadendal-and-surrounds/). His first months near Africo's kraal, and the buildings of 1739.
-- Hutton, J.E. (1909). *A History of the Moravian Church*, chapter 16, ["Comenius and the Hidden Seed, 1627 to 1672"](https://www.ccel.org/ccel/hutton/moravian.iv.xvi.html). The villages behind Comenius's catechism, and the line of bishops.
+- Hutton, J.E. (1909). *A History of the Moravian Church*, chapter 16, ["Comenius and the Hidden Seed, 1627 to 1672"](https://www.ccel.org/ccel/hutton/moravian.iv.xvi.html). The villages behind Comenius's catechism, and the line of bishops. Register entry: [[research/hutton-a-history-of-the-moravian-church|A History of the Moravian Church]].
 - Wikipedia. [Daniel Ernst Jablonski](https://en.wikipedia.org/wiki/Daniel_Ernst_Jablonski) and [Nicolaus Zinzendorf](https://en.wikipedia.org/wiki/Nicolaus_Zinzendorf). The consecrations of 1735 and 1737.
 - Schmidt, G. and others (1981). *Das Tagebuch und die Briefe von Georg Schmidt, dem ersten Missionar in Südafrika (1737 to 1744).* Bellville: Wes-Kaaplandse Instituut vir Historiese Navorsing (Western Cape Institute for Historical Research). See [[history/georg-schmidts-diary|Georg Schmidt's Diary]]. His own diary and letters.
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The date of 25 April 1738, the lot, the neighbouring farms, the wheat, the dates of the first baptisms, and the manner of his death. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].

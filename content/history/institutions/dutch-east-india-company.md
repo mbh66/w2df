@@ -15,6 +15,7 @@ aliases:
 links:
   - https://en.wikipedia.org/wiki/Dutch_East_India_Company
   - https://en.wikipedia.org/wiki/Dutch_Cape_Colony
+updated: 2026-11-04
 ---
 
 The Dutch East India Company, known by its Dutch initials VOC (*Vereenigde Oostindische Compagnie*), was a trading company that ruled the Cape from 1652 to 1795 [IC]. It came to the Cape to supply its ships sailing to and from Asia, and stayed to build a colony [IC]. For almost 150 years it shaped what happened in this valley. It traded for the cattle of the [[history/tribes/chainoqua|Chainoqua]] and [[history/tribes/hessequa|Hessequa]], gave out their grazing land as farms, and decided whether missionaries could work among the [[history/tribes/khoekhoe|Khoekhoe]].
@@ -84,5 +85,5 @@ By the late 1700s the company was deep in debt, weakened by corruption, smugglin
 - Wikipedia. [Khoikhoi–Dutch Wars](https://en.wikipedia.org/wiki/Khoikhoi%E2%80%93Dutch_Wars). The wars of 1659 to 1660 and 1673 to 1677.
 - Wikipedia. [San peoples](https://en.wikipedia.org/wiki/San_peoples). The frontier commandos and the policy of 1777.
 - The Digging Stick, volume 6, number 3 (November 1989). [Archaeological Society of South Africa](https://www.archaeology.org.za/sites/default/files/attachments/publications/2015/12/31/vol_6_no_3.pdf). The company's contact and cattle trade with the Chainoqua.
-- Muatze (Mansell Upham). [Moravian missionary Georg Schmidt prohibited (1742) from baptising](https://mansellupham.wordpress.com/2022/04/03/moravian-missionary-georg-schmidt-1709-1785-prohibited-1742-from-baptising-cape-of-good-hope-aborigines/) (2022). The Council of Policy ruling of 4 September 1742, citing Cape Archives C 120.
-- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5. The company's Overberg expeditions and cattle posts.
+- Muatze (Mansell Upham). [Moravian missionary Georg Schmidt prohibited (1742) from baptising](https://mansellupham.wordpress.com/2022/04/03/moravian-missionary-georg-schmidt-1709-1785-prohibited-1742-from-baptising-cape-of-good-hope-aborigines/) (2022). The Council of Policy ruling of 4 September 1742, citing Cape Archives C 120. Register entry: [[research/upham-georg-schmidt-prohibited-from-baptising|Georg Schmidt Prohibited from Baptising]].
+- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5. The company's Overberg expeditions and cattle posts. Register entry: [[research/capenature-riviersonderend-complex-management-plan|Riviersonderend Complex Management Plan]].

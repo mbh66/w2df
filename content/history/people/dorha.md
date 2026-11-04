@@ -15,6 +15,7 @@ aliases:
 died: "1701"
 links:
   - https://en.wikipedia.org/wiki/Groenland_mountains
+updated: 2026-11-04
 ---
 
 Dorha, whom the Dutch called Klaas, was the head of a Chainoqua clan in the late 1600s [IC]. The Chainoqua were the Khoekhoe people whose land took in this valley [IC]. Dorha traded cattle with the Dutch East India Company (VOC) and, from 1679 to 1693, acted as its go-between with the Chainoqua and Hessequa [IC]. His life shows how hard it was for Khoekhoe leaders to hold their ground as the colony grew. He worked with the VOC, fought alongside it, and was later imprisoned by it.
@@ -72,7 +73,7 @@ Historians describe Dorha in different ways. Some sources call him an ally of th
 
 ## References
 
-- Bredekamp, H.C. ["Die lewe van 'n Khoikhoi-kaptein: Dorha alias Klaas"](https://journals.co.za/doi/pdf/10.10520/AJA02590190_288). The main study of his life. Not yet read in full for this page.
-- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5, citing Le Roux (1984) and Clift (2001). His role from 1679 to 1693, his kraal at Knoflokskloof, and the VOC cattle posts.
+- Bredekamp, H.C. ["Die lewe van 'n Khoikhoi-kaptein: Dorha alias Klaas"](https://journals.co.za/doi/pdf/10.10520/AJA02590190_288). The main study of his life. Not yet read in full for this page. Register entry: [[research/bredekamp-dorha-alias-klaas|Die lewe van 'n Khoikhoi-kaptein: Dorha alias Klaas]].
+- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5, citing Le Roux (1984) and Clift (2001). His role from 1679 to 1693, his kraal at Knoflokskloof, and the VOC cattle posts. Register entry: [[research/capenature-riviersonderend-complex-management-plan|Riviersonderend Complex Management Plan]].
 - Wikipedia. [Groenland mountains](https://en.wikipedia.org/wiki/Groenland_mountains). Dorha and Soeswa as Chainoqua leaders who resisted the colony's spread.
-- Muatze (Mansell Upham). [Dorha, Chainoqua chieftain and Dutch collaborator](https://mansellupham.wordpress.com/2026/03/04/dorha-chainoqua-chieftain-dutch-collaborator-attacks-aboriginal-bushmen-for-murdering-some-dutch-colonists/) (2026). His first appearance, the war with Gonnema, the attack of 1686, Robben Island, and his death, citing the VOC records edited by E.E. Mossop.
+- Muatze (Mansell Upham). [Dorha, Chainoqua chieftain and Dutch collaborator](https://mansellupham.wordpress.com/2026/03/04/dorha-chainoqua-chieftain-dutch-collaborator-attacks-aboriginal-bushmen-for-murdering-some-dutch-colonists/) (2026). His first appearance, the war with Gonnema, the attack of 1686, Robben Island, and his death, citing the VOC records edited by E.E. Mossop. Register entry: [[research/upham-dorha-chainoqua-chieftain|Dorha, Chainoqua Chieftain]].

@@ -15,7 +15,7 @@ aliases:
   - KhoiSan
 links:
   - https://en.wikipedia.org/wiki/Khoekhoe
-updated: 2026-09-25
+updated: 2026-11-04
 ---
 
 The Khoekhoe are the herding peoples of southern Africa, who kept sheep and cattle [IC]. They arrived in the Cape about 2,000 years ago [IC]. In this part of the Overberg, the two main Khoekhoe peoples were the [[history/tribes/chainoqua|Chainoqua]] and the [[history/tribes/hessequa|Hessequa]] [IC]. When [[history/people/georg-schmidt|Georg Schmidt]] opened his school at Baviaanskloof in 1738, his students were Khoekhoe, among them [[history/people/africo|Africo]] and [[history/people/magdalena|Vehettge (Magdalena)]] [IC].
@@ -108,7 +108,7 @@ If you are of Khoekhoe descent, or hold knowledge of this history, contact the m
 - Wikipedia. [Khoikhoi–Dutch Wars](https://en.wikipedia.org/wiki/Khoikhoi%E2%80%93Dutch_Wars). The wars of 1659 to 1660 and 1673 to 1677, and the Chainoqua alliance.
 - Wikipedia. [Dutch Cape Colony](https://en.wikipedia.org/wiki/Dutch_Cape_Colony). Smallpox in 1713 and 1755.
 - South African Government. [Traditional and Khoi-San Leadership Act 3 of 2019](https://www.gov.za/documents/acts/traditional-and-khoi-san-leadership-act-3-2019-english-afrikaans-28-nov-2019). The law recognising Khoi-San communities and leaders.
-- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5. Khoekhoe arrival, kraals, and land in the Overberg.
+- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5. Khoekhoe arrival, kraals, and land in the Overberg. Register entry: [[research/capenature-riviersonderend-complex-management-plan|Riviersonderend Complex Management Plan]].
 - Elphick, R. *Khoikhoi and the Founding of White South Africa.* The standard history of the Khoekhoe and the early Cape.
 - Wikipedia. [Sarah Baartman](https://en.wikipedia.org/wiki/Sarah_Baartman). Her birth, life in Cape Town, exhibition in London and Paris, death, and return in 2002.
 - South African History Online. [Sara "Saartjie" Baartman](https://sahistory.org.za/people/sara-saartjie-baartman). Her life and the return of her remains.

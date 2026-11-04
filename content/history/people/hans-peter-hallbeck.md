@@ -13,7 +13,7 @@ aliases:
   - Bishop Hallbeck
 born: "1784-03-18"
 died: "1840"
-updated: 2026-09-28
+updated: 2026-11-04
 links:
   - https://scholar.ufs.ac.za/items/eb49d455-5f54-4ad4-bec5-de1cbca59a3c
 ---
@@ -85,7 +85,7 @@ The government closed the college in 1926, arguing that coloured people did not 
 
 ## References
 
-- Boon, P.G. [Hans Peter Hallbeck and the Cradle of Missions in South Africa: A Theological-Critical Study](https://scholar.ufs.ac.za/items/eb49d455-5f54-4ad4-bec5-de1cbca59a3c). University of the Free State. His birth in Sweden, studies at Lund, years as superintendent, the seminary, and his role as the first bishop in South Africa.
+- Boon, P.G. [Hans Peter Hallbeck and the Cradle of Missions in South Africa: A Theological-Critical Study](https://scholar.ufs.ac.za/items/eb49d455-5f54-4ad4-bec5-de1cbca59a3c). University of the Free State. His birth in Sweden, studies at Lund, years as superintendent, the seminary, and his role as the first bishop in South Africa. Register entry: [[research/boon-hans-peter-hallbeck|Hans Peter Hallbeck and the Cradle of Missions]].
 - Svenskt Biografiskt Lexikon. [Hans Peter Hallbeck](https://sok.riksarkivet.se/sbl/Presentation.aspx?id=12408). Swedish biographical dictionary entry. Not yet read for this page.
 - *Moravian Mission Education in the Nineteenth Century* ([PDF](https://d-nb.info/1229512152/34)). Quotes his letter of 27 September 1838 from the Moravian *Periodical Accounts*.
 - South African History Online. [Genadendal Historic Village and Museum](https://sahistory.org.za/place/genadendal-historic-village-museum). The college founded in 1838 and closed in 1926.

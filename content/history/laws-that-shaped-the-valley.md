@@ -208,12 +208,12 @@ The diaries:
 
 Company and British rule:
 
-- McLachlan, J.N. (2019). ["History of the dispossession of the rights in land of pastoral indigenous communities in the Cape Colony from 1652 to 1910"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1021-545X2019000100005). *Fundamina* 25(1). Khoekhoe land law, freehold grants, loan farms, and quitrent.
+- McLachlan, J.N. (2019). ["History of the dispossession of the rights in land of pastoral indigenous communities in the Cape Colony from 1652 to 1910"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1021-545X2019000100005). *Fundamina* 25(1). Khoekhoe land law, freehold grants, loan farms, and quitrent. Register entry: [[research/mclachlan-dispossession-of-pastoral-communities|Dispossession of Pastoral Indigenous Communities]].
 - Wikipedia. [Sebastiaan Cornelis Nederburgh](https://en.wikipedia.org/wiki/Sebastiaan_Cornelis_Nederburgh). The Commissioners-General of 1792 to 1793 and their new taxes.
-- Havemann, R. and Fourie, J. [Colonial Africa's first financial crash, 1788 to 1793](https://econrsa.org/wp-content/uploads/2022/06/working_paper_511.pdf). Economic Research Southern Africa. The Bank van Leening.
+- Havemann, R. and Fourie, J. [Colonial Africa's first financial crash, 1788 to 1793](https://econrsa.org/wp-content/uploads/2022/06/working_paper_511.pdf). Economic Research Southern Africa. The Bank van Leening. Register entry: [[research/havemann-fourie-colonial-africas-first-financial-crash|Colonial Africa's First Financial Crash]].
 - The O'Malley Archives. [Ordinance No 50 of 1828](https://omalley.nelsonmandela.org/index.php/site/q/03lv01538/04lv01646/05lv01658.htm), [Masters and Servants Ordinance No 1 of 1841](https://omalley.nelsonmandela.org/index.php/site/q/03lv01538/04lv01646/05lv01668.htm), and [Masters and Servants Act No 15 of 1856](https://omalley.nelsonmandela.org/index.php/site/q/03lv01538/04lv01646/05lv01672.htm).
-- Pretorius, D.M. (2019). ["Private schools in South African legal history"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1021-545X2019000200005). *Fundamina* 25(2). The education system of 1839, grants to mission schools, and the School Board Act of 1905.
-- Soudien, C. (2019). ["Institutionalising racial segregation in the South African school: the School Board Act, 1905"](https://eric.ed.gov/?id=EJ1207875). *Paedagogica Historica*.
+- Pretorius, D.M. (2019). ["Private schools in South African legal history"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1021-545X2019000200005). *Fundamina* 25(2). The education system of 1839, grants to mission schools, and the School Board Act of 1905. Register entry: [[research/pretorius-private-schools-in-south-african-legal-history|Private Schools in South African Legal History]].
+- Soudien, C. (2019). ["Institutionalising racial segregation in the South African school: the School Board Act, 1905"](https://eric.ed.gov/?id=EJ1207875). *Paedagogica Historica*. Register entry: [[research/soudien-institutionalising-racial-segregation|Institutionalising Racial Segregation in the School]].
 
 The franchise:
 
@@ -247,6 +247,6 @@ Market signals:
 - Rand Merchant Bank. [RMB launches Africa's first nature-linked outcomes-based bond](https://www.rmb.co.za/news/rmb-launches-africas-first-naturelinked-outcomesbased-bond) (1 April 2026). Size, term, partners, and the outcomes that set investors' returns.
 - Johannesburg Stock Exchange. [The JSE welcomes Africa's first nature-linked performance-based bond](https://www.jse.co.za/news/news/jse-welcomes-africas-first-naturelinked-performancebased-bond). The listing of 17 April 2026 and the ticker FR31PB.
 - Bioconomy Wiki. [RMB Cape Water Bond launch](https://wiki.bioconomy.earth/sources/rmb-cape-water-bond-launch). A summary of the bond, its funders, and its investors.
-- Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. The dates of the Group Areas proclamation and removals in Greyton, and the number of owners affected.
+- Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. The dates of the Group Areas proclamation and removals in Greyton, and the number of owners affected. Register entry: [[research/robinson-invisible-villagers|Invisible Villagers]].
 
 Other pages of this wiki give the sources for the rows drawn from them, especially [[history/markets/caledon-code|The Caledon Code]], [[history/markets/money-and-banks|Money and Banks]], [[history/from-farm-to-classroom|From the Farm to the Classroom]], and [[history/history-of-greyton|History of Greyton]].

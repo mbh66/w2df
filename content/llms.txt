@@ -33,6 +33,7 @@ Each entry page has frontmatter and a body in a fixed order.
 - [Villages](https://df.valleyofgrace.co.za/villages/): one page per village, each listing the entries located there and those that serve the whole valley
 - [Forum Priorities](https://df.valleyofgrace.co.za/priorities/): the Forum's five development priorities, each with a page listing the entries tagged with it
 - [Forum Minutes](https://df.valleyofgrace.co.za/civic/governance/minutes/): summaries of Forum meetings, with links to the official minutes
+- [Research Register](https://df.valleyofgrace.co.za/research/): every piece of research the site cites (theses, books, articles, studies, archival editions), with the pages that use each one
 
 ## Valley history
 

@@ -14,7 +14,7 @@ aliases:
   - Brother Kühnel
 born: "1762-06-10"
 died: "1813-04-20"
-updated: 2026-09-28
+updated: 2026-11-04
 links:
   - https://github.com/mbh66/genadendal-diaries
   - https://archive.org/details/genadendaldiarie0000mars
@@ -126,6 +126,6 @@ What is known of Kühnel comes almost entirely from the diaries he and his fello
 - Genadendal.info. [The Genadendal Mission Station](https://www.genadendal.info/genadendal-mission-station/). His trade, and his age of 30 in November 1792.
 - Wikipedia. [Genadendal](https://en.wikipedia.org/wiki/Genadendal). The forge of March 1797 and Kühnel's knives.
 - Wikipedia. [List of heritage sites in Caledon](https://en.wikipedia.org/wiki/List_of_heritage_sites_in_Caledon). Kühnel House as a Provincial Heritage Site.
-- De Wet, T., Teugels, J.L. and Van Deventer, P. (2014). ["Historic bells in Moravian Missions in South Africa's Western Cape"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0018-229X2014000200007). *Historia* 59(2). Kühnel's first bell of 1793.
+- De Wet, T., Teugels, J.L. and Van Deventer, P. (2014). ["Historic bells in Moravian Missions in South Africa's Western Cape"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0018-229X2014000200007). *Historia* 59(2). Kühnel's first bell of 1793. Register entry: [[research/de-wet-historic-bells-in-moravian-missions|Historic Bells in Moravian Missions]].
 - Genadendal Diaries repository. [Genadendal Diaries](https://github.com/mbh66/genadendal-diaries). English translations of the Utrecht copies of the diaries, cited here by file and line number. Unreviewed machine translations.
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. His birth, training, marriage, and death, and the naming of Kühnel House. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].

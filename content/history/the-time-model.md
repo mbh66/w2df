@@ -13,6 +13,7 @@ aliases:
   - TIMN
 links:
   - https://wiki.bioconomy.earth/frameworks/time-framework
+updated: 2026-11-04
 ---
 
 TIME is the model this wiki uses to read the valley's history. It asks one question of each period: how did people organise themselves to share land and work? Its name comes from the first letters of the four forms of organisation it describes.
@@ -50,5 +51,5 @@ This page gives the short version. The full framework, including the organising 
 ## References
 
 - BioConomy wiki. [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework). The full framework.
-- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The model applied to a decision at the Forum's first meeting.
-- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which TIME builds.
+- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The model applied to a decision at the Forum's first meeting. Register entry: [[research/haupt-using-time-for-difficult-decisions|Using TIME for Difficult Decisions]].
+- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which TIME builds. Register entry: [[research/ronfeldt-tribes-institutions-markets-networks|Tribes, Institutions, Markets, Networks]].

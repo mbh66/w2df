@@ -16,6 +16,7 @@ aliases:
   - A Long Walk Through Genadendal
 links:
   - https://www.amazon.com/dp/B0CCJ3S45K/
+updated: 2026-11-04
 ---
 
 > [!warning] For Isaac Balie to review
@@ -209,6 +210,7 @@ If you know this book, can correct a row, or hold records that settle one of the
 
 ## Related
 
+- [[research/index|Research Register]]
 - [[history/index|Valley History]]
 - [[history/history-of-the-valley|History of the Valley]]
 - [[history/the-valley-through-time|The Valley Through TIME]]

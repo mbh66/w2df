@@ -11,6 +11,7 @@ right_of_reply: pending
 aliases:
   - Cattle barter
   - Veeruilhandel
+updated: 2026-11-04
 ---
 
 The cattle trade was the first market in the valley's story. From 1652 the [[history/institutions/dutch-east-india-company|Dutch East India Company]] needed fresh meat for its ships, and bartered for [[history/tribes/khoekhoe|Khoekhoe]] cattle and sheep [IC]. No money changed hands. The company paid in goods: iron, copper, beads, tobacco, and brandy [IC]. For the Khoekhoe of the Overberg, the trade began as an exchange between equals and ended with most of their herds, and their land, in colonial hands [IC]. See [[history/markets/money-and-land|Money and Land]].
@@ -60,4 +61,4 @@ The trade took breeding animals out of Khoekhoe herds faster than the herds coul
 - Britannica. [Southern Africa: European and African interaction](https://www.britannica.com/place/Southern-Africa/European-and-African-interaction-from-the-15th-through-the-18th-century). The goods bartered, Khoekhoe traders, and the effect of the trade.
 - The Digging Stick, volume 6, number 3 (November 1989). [Archaeological Society of South Africa](https://www.archaeology.org.za/sites/default/files/attachments/publications/2015/12/31/vol_6_no_3.pdf). First contact with the Chainoqua and the trade of 1662 to 1713.
 - Wikipedia. [Isaq Schrijver](https://en.wikipedia.org/wiki/Isaq_Schrijver). The expedition of 1689.
-- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5. Soeswa's trade agreement, Dorha, and the cattle posts.
+- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5. Soeswa's trade agreement, Dorha, and the cattle posts. Register entry: [[research/capenature-riviersonderend-complex-management-plan|Riviersonderend Complex Management Plan]].

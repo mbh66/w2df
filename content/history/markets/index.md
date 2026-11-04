@@ -10,6 +10,7 @@ draft: false
 aliases:
   - "M: Markets"
   - Markte
+updated: 2026-11-04
 ---
 
 This section holds one page for each way the valley came to exchange goods, labour, money, and land. It takes its name from the Markets form of the [[history/the-time-model|TIME model]], in which people organise through exchange at a price. [[history/markets/money-and-land|Money and Land]] is the main story that ties the pages together, so it is the best place to start.
@@ -51,4 +52,4 @@ If you hold records of trade, wages, or land in the valley, or family stories ab
 ## References
 
 - BioConomy wiki. [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework). The general definition of the four forms.
-- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which the [[history/the-time-model|TIME model]] builds.
+- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which the [[history/the-time-model|TIME model]] builds. Register entry: [[research/ronfeldt-tribes-institutions-markets-networks|Tribes, Institutions, Markets, Networks]].

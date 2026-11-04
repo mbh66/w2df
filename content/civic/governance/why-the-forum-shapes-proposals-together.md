@@ -12,7 +12,7 @@ links:
   - https://www.parliament.gov.za/news/committee-receives-briefing-progress-and-challenges-facing-trancraa-communities
   - https://pmg.org.za/committee-question/8475/
   - https://wiki.bioconomy.earth/frameworks/time-framework
-updated: 2026-09-27
+updated: 2026-11-04
 ---
 
 At our first meeting in September 2026, the Ward 2 Development Forum agreed that proposals should involve the communities they affect from the start [MS]. This page explains why we think that rule matters. It uses an example many people in the valley know: the Transformation of Certain Rural Areas Act of 1998, known as TRANCRAA. Across South Africa, most of the 23 areas covered by this law have waited more than twenty years for their land, and many are still waiting [IC]. We think part of the reason lies in the different ways communities reach decisions. The same pattern can show up in any room where the valley decides together, including ours.
@@ -144,7 +144,7 @@ The draft will be tabled as the first item at the Forum's November 2026 meeting.
 - Government of South Africa. [Deputy Minister Mcebisi Skwatsha: Budget Vote 2021/22](https://www.gov.za/news/speeches/deputy-minister-mcebisi-skwatsha-agriculture-land-reform-and-rural-development-dept) (13 May 2021). Transfers of Haarlem, Mamre, and Ebenhaeser, and the 2022/23 target.
 - Politicsweb. [Minister Mzwanele Nyhontso: Budget Vote 2024/25](https://www.politicsweb.co.za/documents/access-to-land-with-secure-tenure-rights-limited-t) (16 July 2024). CPA problems in the Minister's words.
 - Government of South Africa. [Minister Mzwanele Nyhontso hands over title deeds in Namakwa](https://www.gov.za/news/media-advisories/government-activities/minister-mzwanele-nyhontso-hands-over-title-deeds-land) (28 to 29 August 2025).
-- University of the Western Cape. [Contested land tenure reform in South Africa: the Namaqualand experience](https://uwcscholar.uwc.ac.za:8443/server/api/core/bitstreams/f9d3ad85-654e-4448-a151-2493768449ab/content) (2004), by Poul Wisborg and Rick Rohde.
+- University of the Western Cape. [Contested land tenure reform in South Africa: the Namaqualand experience](https://uwcscholar.uwc.ac.za:8443/server/api/core/bitstreams/f9d3ad85-654e-4448-a151-2493768449ab/content) (2004), by Poul Wisborg and Rick Rohde. Register entry: [[research/wisborg-rohde-contested-land-tenure-reform|Contested Land Tenure Reform in South Africa]].
 
 ### Joint bodies elsewhere
 
@@ -156,4 +156,4 @@ The draft will be tabled as the first item at the Forum's November 2026 meeting.
 ### The TIME model
 
 - BioConomy wiki. [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework). The full framework behind the four ways of deciding.
-- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The essay that first set out this reading of the Forum's work.
+- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The essay that first set out this reading of the Forum's work. Register entry: [[research/haupt-using-time-for-difficult-decisions|Using TIME for Difficult Decisions]].

@@ -17,6 +17,7 @@ died: 1670-11-15
 links:
   - https://en.wikipedia.org/wiki/John_Amos_Comenius
   - https://www.ccel.org/ccel/hutton/moravian.iv.xvi.html
+updated: 2026-11-04
 ---
 
 Jan Amos Comenius was a Czech teacher, writer, and church leader [IC]. He was the last bishop of the Unity of the Brethren before it was driven underground, the church later renewed as the Moravian Church [IC]. He is often called the father of modern education [IC]. He died 67 years before Georg Schmidt reached the Cape, so the two men never met [IC]. Still, the line from Comenius to [[history/people/georg-schmidt|Georg Schmidt]] runs through a village, a church order, and a chain of bishops. This page sets out that line.
@@ -120,8 +121,8 @@ flowchart TD
 - Wikipedia. [John Amos Comenius](https://en.wikipedia.org/wiki/John_Amos_Comenius). Birth, studies, exile, travels, works, death, and his grandson Daniel Ernst Jablonski.
 - Wikipedia. [Daniel Ernst Jablonski](https://en.wikipedia.org/wiki/Daniel_Ernst_Jablonski). His descent from Comenius, his consecration in 1699, and his consecration of David Nitschmann in 1735.
 - Wikipedia. [Nicolaus Zinzendorf](https://en.wikipedia.org/wiki/Nicolaus_Zinzendorf). Zinzendorf's use of the *Ratio Disciplinae*, and his consecration on 20 May 1737.
-- Hutton, J.E. (1909). *A History of the Moravian Church*, chapter 16, ["Comenius and the Hidden Seed, 1627 to 1672"](https://www.ccel.org/ccel/hutton/moravian.iv.xvi.html). The 1628 prayer, the catechism for the secret believers, the villages behind its initials, and the line of bishops.
+- Hutton, J.E. (1909). *A History of the Moravian Church*, chapter 16, ["Comenius and the Hidden Seed, 1627 to 1672"](https://www.ccel.org/ccel/hutton/moravian.iv.xvi.html). The 1628 prayer, the catechism for the secret believers, the villages behind its initials, and the line of bishops. Register entry: [[research/hutton-a-history-of-the-moravian-church|A History of the Moravian Church]].
 - Christian History Institute. [Between Hus and Herrnhut](https://christianhistoryinstitute.org/magazine/article/between-hus-and-herrnhut). Zinzendorf's reading of the *Ratio Disciplinae* and the renewal of 1727.
 - South African History Online. [Georg Schmidt](https://sahistory.org.za/people/georg-schmidt). Schmidt's birth at Kunewalde on 30 September 1709.
 - BioConomy Wiki. [The Comenius-to-Schmidt Chain](https://wiki.bioconomy.earth/research/comenius-to-schmidt-chain/). The case for a link between Comenius's ideas and Schmidt's teaching.
-- Clauser, J.K. (1961). *Comenian Pedagogy and the Moravian School Curriculum (1740 to 1850).* D.Ed. dissertation, Pennsylvania State University. Not yet read.
+- Clauser, J.K. (1961). *Comenian Pedagogy and the Moravian School Curriculum (1740 to 1850).* D.Ed. dissertation, Pennsylvania State University. Not yet read. Register entry: [[research/clauser-comenian-pedagogy|Comenian Pedagogy and the Moravian School Curriculum]].

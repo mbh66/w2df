@@ -9,6 +9,7 @@ date: 2026-09-27
 draft: false
 aliases:
   - "E: Emergent"
+updated: 2026-11-04
 ---
 
 This section is for the Emergent form of the [[history/the-time-model|TIME model]], the newest of its four forms. In the Emergent form, people organise by sharing what they hold in common and caring for the land together, linked to similar places around the world. The BioConomy wiki's page on [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework) describes it as "coordination through pooled commitments toward outcomes no single actor can produce alone."
@@ -45,4 +46,4 @@ If you know of an arrangement in the valley through which people pool what they 
 ## References
 
 - BioConomy wiki. [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework). The general definition of the four forms, and the description of Emergent quoted above.
-- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which the [[history/the-time-model|TIME model]] builds.
+- Ronfeldt, D. (1996). [Tribes, Institutions, Markets, Networks: A Framework About Societal Evolution](https://www.rand.org/pubs/papers/P7967.html). RAND. The TIMN framework on which the [[history/the-time-model|TIME model]] builds. Register entry: [[research/ronfeldt-tribes-institutions-markets-networks|Tribes, Institutions, Markets, Networks]].

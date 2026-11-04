@@ -19,6 +19,7 @@ aliases:
   - DEA
 website: https://www.dffe.gov.za
 last_checked: 2026-10-31
+updated: 2026-11-04
 ---
 
 > [!warning] For the Department of Forestry, Fisheries and the Environment to review
@@ -147,7 +148,7 @@ If you know more about the Department of Forestry, Fisheries and the Environment
 - ￼￼[South Africa's National Biodiversity Strategy and Action Plan 2026-2035](https://static.pmg.org.za/260805NBSAP_.pdf) (5 August 2026). The official government gazette.
 - BIOFIN. [Acting locally, financing globally: South Africa celebrates Biodiversity Day and the role of finance](https://www.biofin.org/news-and-media/acting-locally-financing-globally-south-africa-celebrates-biodiversity-day-and-role/) (22 May 2026). The new draft finance plan.
 - UNDP South Africa. [South Africa's biodiversity funding gap: rethinking the stewardship financing model](https://www.undp.org/node/483631) (17 September 2024). The tax incentive and the cost of stewardship.
-- SANBI. [National Biodiversity Assessment 2025, key message C3](https://sanbi-nba.github.io/nba-website/content/key-messages/kmc3.html). Spending trends and finance sources.
+- SANBI. [National Biodiversity Assessment 2025, key message C3](https://sanbi-nba.github.io/nba-website/content/key-messages/kmc3.html). Spending trends and finance sources. Register entry: [[research/sanbi-national-biodiversity-assessment-2025|National Biodiversity Assessment 2025]].
 - Global Environment Facility. [South Africa country profile](https://www.thegef.org/projects-operations/country-profiles/south-africa). Focal points, projects, and the biodiversity allocation.
 - The Citizen. [DFFE to stretch R9bn budget amid fiscal constraints, minister warns](https://www.citizen.co.za/news/south-africa/dffe-to-stretch-r9bn-budget-amid-fiscal-constraints-minister-warns) (28 June 2025). The 2025/26 budget.
 - South African Government. [Deputy Minister Narend Singh: Forestry, Fisheries and the Environment Budget Vote 2025/26](https://www.gov.za/news/speeches/deputy-minister-narend-singh-forestry-fisheries-and-environment-dept-budget-vote-0) (27 June 2025). Public works funding and hectares cleared.
@@ -156,5 +157,5 @@ If you know more about the Department of Forestry, Fisheries and the Environment
 - Department of Forestry, Fisheries and the Environment. [South Africa's National Biodiversity Strategy and Action Plan 2026–2035, draft](https://www.dffe.gov.za/sites/default/files/docs/strategy.framework/biodiversity/draft.nbsap202636.pdf) - link not currently working. Government Gazette 55141 (5 August 2026). Spending figures, the finance target and actions, the needs assessment, the new finance plan, and the waste and clearing targets.
 - Department of Forestry, Fisheries and the Environment. National List of Threatened Terrestrial Ecosystems, Government Gazette 47526, GN 2747 (November 2022). Greyton Shale Fynbos.
 - BIOFIN. [South Africa creates map for nature-positive action](https://www.biofin.org/news-and-media/south-africa-creates-map-nature-positive-action/) (11 April 2022). The Resource Mobilisation Action Plan and the action map.
-- Learning for Nature. [Essential Life Support Action Areas, South Africa: mapping for resource mobilisation](https://www.learningfornature.org/wp-content/uploads/2022/10/South-Africa-Mapping-for-resource-mobilisation-for-nature-positive-actions_final-1.pdf) (2022). How the map is used, and its scale.
+- Learning for Nature. [Essential Life Support Action Areas, South Africa: mapping for resource mobilisation](https://www.learningfornature.org/wp-content/uploads/2022/10/South-Africa-Mapping-for-resource-mobilisation-for-nature-positive-actions_final-1.pdf) (2022). How the map is used, and its scale. Register entry: [[research/learning-for-nature-essential-life-support-areas|Essential Life Support Areas, South Africa]].
 - BIOFIN South Africa. [Biodiversity Finance Plan](https://www.biofin.org/sites/default/files/content/knowledge_products/BIOFIN%20SA_BFP_Min%20Approved.pdf) (February 2018). The 16 finance solutions, the funding need, and 2016 spending.

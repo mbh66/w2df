@@ -16,7 +16,7 @@ aliases:
   - Kybbodo
   - Kibido
   - Kubido
-updated: 2026-09-28
+updated: 2026-11-04
 links:
   - https://dacb.org/stories/southafrica/tikhuie-vmagdalena/
 ---
@@ -84,10 +84,10 @@ The Dutch Reformed ministers at the Cape objected to Schmidt's baptisms, and thi
 
 ## References
 
-- Millard, J.A. (1999). [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Dictionary of African Christian Biography. Schmidt's four best students, the language of teaching, and the first baptisms.
+- Millard, J.A. (1999). [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Dictionary of African Christian Biography. Schmidt's four best students, the language of teaching, and the first baptisms. Register entry: [[research/millard-tikhuie-vehettge-magdalena|Tikhuie, Vehettge Magdalena]].
 - Genadendal Project. [History of Genadendal and Surrounds](https://genadendalproject.objectecologies.co.za/history-of-genadendal-and-surrounds/). The baptismal names Josua and Jonas, and the name Kybbodo.
 - Moravian Church in America. [Coffee with Moravian Ancestors: Georg Schmidt](https://www.moravian.org/ccd/2021/02/20/coffee-with-moravian-ancestors-georg-schmidt/) (2021). The five baptisms and the names given.
-- Muatze (Mansell Upham). [Moravian missionary Georg Schmidt (1709 to 1785) prohibited (1742) from baptising Cape of Good Hope aborigines](https://mansellupham.wordpress.com/2022/04/03/moravian-missionary-georg-schmidt-1709-1785-prohibited-1742-from-baptising-cape-of-good-hope-aborigines/) (2022). Willem's baptism on 2 April 1742, Africo as his brother-in-law, the name Kibido or Cupido, and the Council of Policy ruling.
+- Muatze (Mansell Upham). [Moravian missionary Georg Schmidt (1709 to 1785) prohibited (1742) from baptising Cape of Good Hope aborigines](https://mansellupham.wordpress.com/2022/04/03/moravian-missionary-georg-schmidt-1709-1785-prohibited-1742-from-baptising-cape-of-good-hope-aborigines/) (2022). Willem's baptism on 2 April 1742, Africo as his brother-in-law, the name Kibido or Cupido, and the Council of Policy ruling. Register entry: [[research/upham-georg-schmidt-prohibited-from-baptising|Georg Schmidt Prohibited from Baptising]].
 - Place for Truth. [George Schmidt, Magdalena, and the Bible Beneath the Pear Tree](https://placefortruth.org/george-schmidt-magdalena-and-the-bible-beneath-the-pear-tree/). Kupido and Willem among the first converts, and their deaths before 1792.
 - Schmidt, G. and others (1981). *Das Tagebuch und die Briefe von Georg Schmidt, dem ersten Missionar in Südafrika (1737 to 1744).* Bellville: Wes-Kaaplandse Instituut vir Historiese Navorsing (Western Cape Institute for Historical Research). See [[history/georg-schmidts-diary|Georg Schmidt's Diary]]. The primary source.
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The spelling Kibido, the baptism date of 12 April 1742, Haidt's painting, Hanna (Anna Maria Mauritz), and the genealogy project. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].

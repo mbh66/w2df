@@ -14,6 +14,7 @@ aliases:
   - Jantjie
 links:
   - https://dacb.org/stories/southafrica/tikhuie-vmagdalena/
+updated: 2026-11-04
 ---
 
 Janneke Tikkuie was the husband of Vehettge Tikkuie, who was baptised [[history/people/magdalena|Magdalena]] in 1742 [MS]. The two were married according to Khoekhoe custom [MS]. He helped [[history/people/georg-schmidt|Georg Schmidt]]'s mission in its first years by fetching supplies and hunting to feed the community [MS]. The Moravian Church in South Africa says he was Chainoqua and his wife Hessequa [MS]. If that is right, their marriage joined the two main Khoekhoe peoples of the Overberg.
@@ -69,5 +70,5 @@ After Schmidt left in 1744, Magdalena went back to the Sergeants River area and 
 
 ## References
 
-- Millard, J.A. (1999). [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Dictionary of African Christian Biography. His name as Janneke or Jantjie, his work for the mission, and why he was not baptised with his wife.
+- Millard, J.A. (1999). [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Dictionary of African Christian Biography. His name as Janneke or Jantjie, his work for the mission, and why he was not baptised with his wife. Register entry: [[research/millard-tikhuie-vehettge-magdalena|Tikhuie, Vehettge Magdalena]].
 - Moravian Church in South Africa. [Women's Month and Pilgrimage of Grace](https://www.moravianchurch.co.za/womens-month-and-pilgrimage-of-grace/). His name as Jaktie, the customary marriage, and the couple's Chainoqua and Hessequa origins.

@@ -16,6 +16,7 @@ aliases:
 links:
   - https://journals.open.tudelft.nl/iphs/article/download/1223/1826/4310
   - https://www.montaguleiwater.co.za/timeline.html
+updated: 2026-11-04
 ---
 
 It is often said in [[villages/greyton|Greyton]] that the village "was one of the very first fully town planned developments in the Cape Colony and possibly in Southern Africa", and that "it was planned and developed as an agricultural village" [MS]. This page tests the saying against the record. It compares Greyton with the towns laid out in the Cape before it and alongside it, and sets out what can be said with confidence. Greyton's own story is on [[history/history-of-greyton|History of Greyton]], and the story of the whole valley is on [[history/history-of-the-valley|History of the Valley]].
@@ -142,7 +143,7 @@ Planned towns before Greyton:
 - Wikipedia. [Graaff-Reinet](https://en.wikipedia.org/wiki/Graaff-Reinet). Its founding in 1786.
 - Karoo South Africa. [History of Graaff-Reinet](https://www.karoo-southafrica.com/camdeboo/graaff-reinet/history-of-graaff-reinet/). The furrows and garden plots of the early town.
 - Tulbagh Museum. [Our Town: From Establishment to the Present](https://www.tulbaghmuseum.co.za/our-town-from-establishment-to-the-present/). The plots along Church Street.
-- Peters, W. [The resilience of the Karoo townscapes of South Africa: conserving what the Group Areas Act, 1950, spared](https://journals.open.tudelft.nl/iphs/article/download/1223/1826/4310). 17th International Planning History Society Conference, Delft, 2016. The Karoo church towns: water, grids, squares, and *leivore*. Graaff-Reinet dated to 1785.
+- Peters, W. [The resilience of the Karoo townscapes of South Africa: conserving what the Group Areas Act, 1950, spared](https://journals.open.tudelft.nl/iphs/article/download/1223/1826/4310). 17th International Planning History Society Conference, Delft, 2016. The Karoo church towns: water, grids, squares, and *leivore*. Graaff-Reinet dated to 1785. Register entry: [[research/peters-the-resilience-of-the-karoo-townscapes|The Resilience of the Karoo Townscapes]].
 - Herholdt, A. [Uitenhage's Evolution 1804 to 1910](https://www.theheritageportal.co.za/article/uitenhages-evolution-1804-1910). The Heritage Portal, October 2016. Uitenhage's grid of wide streets, and its one-morgen plots with water channels.
 - Wikipedia. [George, South Africa](https://en.wikipedia.org/wiki/George,_South_Africa). The proclamation of 1811 and the furrow to the first 36 plots.
 - Wikipedia. [Worcester, South Africa](https://en.wikipedia.org/wiki/Worcester,_South_Africa). The two farms, surveyed in 1819, and the sale of plots in 1820.
@@ -163,5 +164,5 @@ Greyton's own group:
 
 Not yet read for this page:
 
-- Fransen, H. [*Old Towns and Villages of the Cape: A Survey of the Origin and Development of Towns, Villages and Hamlets at the Cape of Good Hope*](https://www.amazon.com/gp/product/1868422275/). Jonathan Ball Publishers, 2006. A survey of nearly a hundred older Cape towns, with particular reference to their physical planning, including water erven, *leibeurte*, and the role of surveyors in their layout ([description at Theron Books](https://theronbooks.com/books/old-towns-and-villages-cape/)). Likely to settle several open questions.
-- Kemp, J.T. ["Greyton: A Unique Overberg Village"](https://journals.co.za/doi/pdf/10.10520/AJA10113053_740). A journal article that may say where the saying comes from.
+- Fransen, H. [*Old Towns and Villages of the Cape: A Survey of the Origin and Development of Towns, Villages and Hamlets at the Cape of Good Hope*](https://www.amazon.com/gp/product/1868422275/). Jonathan Ball Publishers, 2006. A survey of nearly a hundred older Cape towns, with particular reference to their physical planning, including water erven, *leibeurte*, and the role of surveyors in their layout ([description at Theron Books](https://theronbooks.com/books/old-towns-and-villages-cape/)). Likely to settle several open questions. Register entry: [[research/fransen-old-towns-and-villages-of-the-cape|Old Towns and Villages of the Cape]].
+- Kemp, J.T. ["Greyton: A Unique Overberg Village"](https://journals.co.za/doi/pdf/10.10520/AJA10113053_740). A journal article that may say where the saying comes from. Register entry: [[research/kemp-greyton-a-unique-overberg-village|Greyton: A Unique Overberg Village]].

@@ -16,7 +16,7 @@ aliases:
 links:
   - https://groundup.org.za/article/greyton-families-still-in-limbo-five-years-after-protests/
   - https://www.westerncape.gov.za/treasury/files/wcg-blob-files?file=2025-08%2Ffinal-draft-theewaterskloof-financial-recovery-plan-final_20250813-published.pdf&type=file
-updated: 2026-10-30
+updated: 2026-11-04
 ---
 
 > **This idea is not yet agreed.** Nobody named on this page has been asked about it, including the Transformasie Komitee, Theewaterskloof Municipality, national Departments, the Western Cape Government, the Moravian Church, CapeNature, the Greyton Ratepayers and Residents Organisation, and the residents of Madiba Park and Heuwelkroon. **Please do not share this page publicly yet.** It goes to the Komitee in writing, and to a Forum meeting once the Komitee responds or 21 days after it was sent, whichever comes first. At that meeting, anyone can question it, change it, or reject it.
@@ -127,7 +127,7 @@ To respond to the Forum's proposal for your organisation or community, or to nam
 
 - GroundUp. [Conditions in Greyton settlement worsen as land restitution process drags on](https://groundup.org.za/article/greyton-families-still-in-limbo-five-years-after-protests/) (30 May 2024). The Madiba Park resident, the Komitee office-bearer, the Department's spokesperson and the municipality's 2024 statements.
 - GroundUp. [Tensions over land in picturesque Cape village](https://groundup.org.za/article/tensions-over-land-picturesque-cape-village/) (January 2019). The removal of toilets and water at Madiba Park.
-- Williams, R. ["Hoekom soek ons nog altyd *Kos Klere en Blyplek* in die nuwe dispensasie?"](https://herri.org.za/2/rafieka-williams/). *Herri*, issue 2. The account of the removals to Heuwelkroon.
+- Williams, R. ["Hoekom soek ons nog altyd *Kos Klere en Blyplek* in die nuwe dispensasie?"](https://herri.org.za/2/rafieka-williams/). *Herri*, issue 2. The account of the removals to Heuwelkroon. Register entry: [[research/williams-kos-klere-en-blyplek|Hoekom soek ons nog altyd Kos Klere en Blyplek]].
 - Western Cape Provincial Treasury. [Final Draft Theewaterskloof Financial Recovery Plan](https://www.westerncape.gov.za/treasury/files/wcg-blob-files?file=2025-08%2Ffinal-draft-theewaterskloof-financial-recovery-plan-final_20250813-published.pdf&type=file) (August 2025). The statement on Genadendal.
 - Western Cape Government. [Approval of the Theewaterskloof Financial Recovery Plan](https://www.westerncape.gov.za/treasury/article/western-cape-government-approves-theewaterskloof-financial-recovery-plan) (7 October 2025).
 - Western Cape DEADP. [Environmental Authorisation, Erf 595, Heuwelkroon](https://www.westerncape.gov.za/eadp/files/wcg-blob-files?file=2025-09%2F2014_ba-ea_1084-24-greyton.pdf&type=file) (10 July 2025). The 333 homes.

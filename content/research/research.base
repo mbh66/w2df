@@ -1,0 +1,64 @@
+filters:
+  and:
+    - file.ext == "md"
+    - type == "source"
+    - draft != true
+    - '!file.inFolder("templates")'
+    - '!file.inFolder("private")'
+formulas:
+  work: file.asLink(title)
+properties:
+  formula.work:
+    displayName: Work
+  author:
+    displayName: Author
+  year:
+    displayName: Year
+  source_kind:
+    displayName: Kind
+  field:
+    displayName: Field
+  read:
+    displayName: Read in full
+views:
+  - type: table
+    name: By field
+    groupBy:
+      property: field
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - source_kind
+      - read
+    sort:
+      - property: year
+        direction: ASC
+  - type: table
+    name: By kind
+    groupBy:
+      property: source_kind
+      direction: ASC
+    order:
+      - formula.work
+      - author
+      - year
+      - field
+      - read
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Not yet read
+    filters:
+      and:
+        - read == "no"
+    order:
+      - formula.work
+      - author
+      - year
+      - field
+    sort:
+      - property: title
+        direction: ASC

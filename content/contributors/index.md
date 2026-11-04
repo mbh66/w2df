@@ -10,6 +10,7 @@ draft: false
 aliases:
   - Contributors
   - Bydraers
+updated: 2026-11-04
 ---
 
 Much of what this wiki says about the valley comes from people who have studied it for years. Some are archaeologists and historians. Others are residents who hold family records, stories, or knowledge of the land. This section names the living researchers who help write the wiki, with their agreement, and the research projects whose published work it draws on most.
@@ -25,6 +26,8 @@ There are three ways a researcher's work can appear on this site.
 A researcher who checks a page does not, by doing so, support the Forum or any idea on the site. A credit says only what they did on that page.
 
 ## Research projects
+
+Every piece of research the site cites, with the pages that use it, is listed on the [[research/index|Research Register]].
 
 These projects have published their work, so the wiki cites it without asking. Listing a project here does not mean its makers have checked any page on this site, or that they support the Forum or any idea on it.
 
@@ -44,6 +47,7 @@ If you know where rock art or burial sites are, please share their locations wit
 
 ## Related
 
+- [[research/index|Research Register]]
 - [[history/index|Valley History]]
 - [[how-to-submit|How to Submit]]
 - [[data-policy|Data Policy]]

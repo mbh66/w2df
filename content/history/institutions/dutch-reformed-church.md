@@ -15,6 +15,7 @@ aliases:
   - DRC
 links:
   - https://en.wikipedia.org/wiki/Dutch_Reformed_Church_in_South_Africa_(NGK)
+updated: 2026-11-04
 ---
 
 The Dutch Reformed Church (in Afrikaans, the Nederduitse Gereformeerde Kerk or NG Kerk) came to the Cape with the [[history/institutions/dutch-east-india-company|Dutch East India Company]] in 1652 [IC]. It was the church of the company and of the colony's Dutch-speaking farmers [IC]. In this valley, its ministers opposed Georg Schmidt's baptisms in 1742, and its congregation in Greyton, [[ng-gemeente-greyton|NG Gemeente Greyton]], was founded in 1918 [IC]. This page tells its history in the valley.
@@ -70,6 +71,6 @@ Before 1918, Dutch Reformed members in Greyton received communion once a month f
 - Wikipedia. [Dutch Reformed Church in South Africa (NGK)](https://en.wikipedia.org/wiki/Dutch_Reformed_Church_in_South_Africa_(NGK)). The first minister, the 1824 synod, 1857, 1881, 1982, 1986, and membership.
 - Wikipedia. [Uniting Reformed Church in Southern Africa](https://en.wikipedia.org/wiki/Uniting_Reformed_Church_in_Southern_Africa). The 1857 decision, the Mission Church, Belhar, and union in 1994.
 - Dictionary of African Christian Biography. [Schmidt, Georg](https://dacb.org/stories/southafrica/schmidt-georg/). The dispute over his baptisms.
-- Muatze (Mansell Upham). [Georg Schmidt prohibited (1742) from baptising](https://mansellupham.wordpress.com/2022/04/03/moravian-missionary-georg-schmidt-1709-1785-prohibited-1742-from-baptising-cape-of-good-hope-aborigines/) (2022). The Council of Policy ruling of 4 September 1742.
+- Muatze (Mansell Upham). [Georg Schmidt prohibited (1742) from baptising](https://mansellupham.wordpress.com/2022/04/03/moravian-missionary-georg-schmidt-1709-1785-prohibited-1742-from-baptising-cape-of-good-hope-aborigines/) (2022). The Council of Policy ruling of 4 September 1742. Register entry: [[research/upham-georg-schmidt-prohibited-from-baptising|Georg Schmidt Prohibited from Baptising]].
 - GoGreyton. [Greyton Village Walk](https://gogreyton.co.za/greyton-village-walk/). The church of 1964.
 - NG Gemeente Greyton's entry in the Register, drawing on the congregation's own history. The founding date and monthly communion before 1918.

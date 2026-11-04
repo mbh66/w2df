@@ -19,6 +19,7 @@ aliases:
   - DWAF
 website: https://www.dws.gov.za
 last_checked: 2026-10-14
+updated: 2026-11-04
 ---
 
 > [!warning] For Department of Water and Sanitation to review
@@ -88,4 +89,4 @@ If you know more about Department of Water and Sanitation's work in the valley, 
 - Department of Water and Sanitation. [Reserve determination for water resources of the Breede-Gouritz Water Management Area](https://www.gov.za/sites/default/files/gcis_document/202208/46798gon2428.pdf). Government Gazette 46798, Notice 2428, 26 August 2022.
 - Wikipedia. [Theewaterskloof Dam](https://en.wikipedia.org/wiki/Theewaterskloof_Dam). Its river, its owner, and its place in the Western Cape Water Supply System.
 - Republic of South Africa. [National Water Act 36 of 1998](https://lawlibrary.org.za/akn/za/act/1998/36). LawLibrary. The Reserve and the duties of the department.
-- Department of Water Affairs and Forestry. [Western Cape Water Supply System Reconciliation Strategy Study](https://www.circleofblue.org/wp-content/uploads/2018/06/Reconciliation-Strategy.pdf) (June 2007).
+- Department of Water Affairs and Forestry. [Western Cape Water Supply System Reconciliation Strategy Study](https://www.circleofblue.org/wp-content/uploads/2018/06/Reconciliation-Strategy.pdf) (June 2007). Register entry: [[research/dwaf-western-cape-water-supply-reconciliation-strategy|Western Cape Water Supply Reconciliation Strategy]].

@@ -23,7 +23,7 @@ links:
   - https://biohubs.bioconomy.earth/afrotropic/at12-vog/services/water-yield
   - https://wiki.bioconomy.earth/concepts/water-as-compound-asset
   - https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy
-updated: 2026-10-28
+updated: 2026-11-04
 ---
 
 > **This idea is not yet agreed.** [[organisations/kwaxala|Kwaxala]] has been approached and has said it wants to work with the valley (see below). The other organisations named on this page have not yet been asked. They include the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the Zonderend Water Users Association, the [[organisations/city-of-cape-town|City of Cape Town]], the Transformasie Komitee, the Moravian Church, and [[organisations/capenature|CapeNature]]. **Please do not share this page publicly yet.** The idea will be tabled at the Forum's November 2026 meeting, with the [[concepts/valley-of-grace-learning-campus|Learning Campus]] and [[concepts/restoring-the-river|Restoring the River]].
@@ -222,7 +222,7 @@ On Theewaterskloof and the water supply system:
 - Department of Water and Sanitation. [Misinformation about water from Theewaterskloof Dam](https://www.gov.za/news/media-statements/water-and-sanitation-misinformation-about-water-theewaterskloof-dam-07-jan) (January 2018). Releases to irrigators along the Riviersonderend and to the Overberg Water Board, and the 60% curtailment.
 - Wikipedia. [Western Cape Water Supply System](https://en.wikipedia.org/wiki/Western_Cape_Water_Supply_System). Theewaterskloof's capacity and its link to Cape Town.
 - Saldanha Bay Municipality. [Description and layout of the Western Cape Water Supply System](https://sbm.gov.za/wp-content/uploads/Pages/E-Library/Council_Item_BRVAS/BRVAS-Annexure-A.pdf). The users supplied from Theewaterskloof, by release and through the tunnel.
-- Department of Water Affairs and Forestry. [Western Cape Water Supply System Reconciliation Strategy Study](https://www.circleofblue.org/wp-content/uploads/2018/06/Reconciliation-Strategy.pdf) (June 2007). Phasing in the Reserve, and support for water trading.
+- Department of Water Affairs and Forestry. [Western Cape Water Supply System Reconciliation Strategy Study](https://www.circleofblue.org/wp-content/uploads/2018/06/Reconciliation-Strategy.pdf) (June 2007). Phasing in the Reserve, and support for water trading. Register entry: [[research/dwaf-western-cape-water-supply-reconciliation-strategy|Western Cape Water Supply Reconciliation Strategy]].
 - Daily Maverick. [Water crisis: Western Cape's declining inland water resources pose challenge](https://www.dailymaverick.co.za/article/2024-11-10-water-crisis-western-capes-inland-water-resources-are-in-decline/) (10 November 2024). Officials of the provincial environment department and the national water department on over-allocation.
 
 On the Breede and its estuary:
@@ -232,7 +232,7 @@ On the Breede and its estuary:
 
 On invasive plants and water:
 
-- Le Maitre, D.C., Forsyth, G.G., Dzikiti, S., and Gush, M.B. [Estimates of the impacts of invasive alien plants on water flows in South Africa](https://www.scielo.org.za/scielo.php?pid=S1816-79502016000400017&script=sci_arttext). *Water SA* 42(4), 2016. Flow losses by catchment.
+- Le Maitre, D.C., Forsyth, G.G., Dzikiti, S., and Gush, M.B. [Estimates of the impacts of invasive alien plants on water flows in South Africa](https://www.scielo.org.za/scielo.php?pid=S1816-79502016000400017&script=sci_arttext). *Water SA* 42(4), 2016. Flow losses by catchment. Register entry: [[research/le-maitre-invasive-alien-plants-and-water-flows|Invasive Alien Plants and Water Flows in South Africa]].
 
 On paying for water results:
 
@@ -244,6 +244,6 @@ On Kwaxala:
 - Kwaxala. [Home page](https://www.kwaxala.com). Its model, Living Forest Shares, and its pilot with the Kwiakah First Nation.
 - Kwaxala. [About](https://www.kwaxala.com/about). Its ownership, the share of revenue kept by communities, and its founding team.
 - Corke, P. Conversation with the Forum's convenors, September 2026. Kwaxala's wish to work with the valley on water rights.
-- Ecosystem Marketplace. [State of Private Investment in Nature 2026: Kwaxala](https://www.ecosystemmarketplace.com/publications/gaining-ground-state-of-private-investment-in-nature-2026/kwaxala/). A case study of how Kwaxala turns a forest licence into an asset.
+- Ecosystem Marketplace. [State of Private Investment in Nature 2026: Kwaxala](https://www.ecosystemmarketplace.com/publications/gaining-ground-state-of-private-investment-in-nature-2026/kwaxala/). A case study of how Kwaxala turns a forest licence into an asset. Register entry: [[research/ecosystem-marketplace-private-investment-in-nature|State of Private Investment in Nature 2026]].
 - BioConomy Wiki. [Needed vs. Needy](https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy). The move from asking for help to offering a service others depend on.
 - Valley of Grace BioHub. [Water Yield](https://biohubs.bioconomy.earth/afrotropic/at12-vog/services/water-yield). The valley's water service as its proposers describe it.

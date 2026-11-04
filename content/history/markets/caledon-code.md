@@ -15,6 +15,7 @@ aliases:
   - Code of 1809
 links:
   - https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-01902005000100003
+updated: 2026-11-04
 ---
 
 On 1 November 1809 the governor of the Cape, [[history/people/lord-caledon|Lord Caledon]], issued a proclamation on the Khoekhoe people of the colony [IC]. It required every Khoekhoe person to have a fixed place of abode, to carry a pass to move about, and to work for a farmer only under a written contract registered with an official [IC]. It also gave Khoekhoe workers the right to be paid and to complain against a master who withheld wages [IC]. It is known as the Caledon Code. For almost twenty years it decided where Khoekhoe families in the colony could live, whom they could work for, and whether they could leave. This page belongs with the *Markets* pages because the code governed a trading function: the exchange of work for wages. See [[history/markets/money-and-land|Money and Land]].
@@ -124,7 +125,7 @@ If your family holds stories or papers from the years of passes and contracts, c
 
 ## References
 
-- Dooling, W. (2005). ["The Origins and Aftermath of the Cape Colony's 'Hottentot Code' of 1809"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-01902005000100003). *Kronos* 31. The background, the terms of the code, its enforcement, the apprenticeship law and its numbers, the circuit courts, and the case of Smit.
+- Dooling, W. (2005). ["The Origins and Aftermath of the Cape Colony's 'Hottentot Code' of 1809"](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-01902005000100003). *Kronos* 31. The background, the terms of the code, its enforcement, the apprenticeship law and its numbers, the circuit courts, and the case of Smit. Register entry: [[research/dooling-the-hottentot-code-of-1809|The Origins and Aftermath of the Hottentot Code]].
 - Wikipedia. [Hottentot Proclamation](https://en.wikipedia.org/wiki/Hottentot_Proclamation). The date and main terms, the amendment of 1812, and repeal by Ordinance 50.
 - Wikipedia. [Ordinance 50](https://en.wikipedia.org/wiki/Ordinance_50). Its terms and significance.
 - Britannica. [Ordinance 50](https://www.britannica.com/topic/Ordinance-50). Its terms, the settlers' opposition, and the Masters and Servants Ordinance of 1841.

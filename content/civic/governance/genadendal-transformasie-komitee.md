@@ -26,7 +26,7 @@ needs: []
 links:
   - https://www.saflii.org/za/cases/ZALCC/2014/14.html
   - https://www.saflii.org/za/cases/ZAWCHC/2019/95.html
-updated: 2026-09-23
+updated: 2026-11-04
 ---
 
 The Genadendal Transformasie Komitee is the committee elected by residents of Farm 39 to take part in the transfer of their land under the Transformation of Certain Rural Areas Act of 1998 ([[trancraa-process-farm-39|TRANCRAA]]) [IC]. [[farm-39|Farm 39]] is the land on which [[villages/genadendal|Genadendal]], [[villages/bereaville|Bereaville]], [[villages/voorstekraal|Voorstekraal]], and [[villages/boschmanskloof|Boschmanskloof]] stand [IC]. The Komitee was elected on 9 November 2004 [IC]. Court papers call it the Genadendal Transformation Committee [IC]. It takes part in the [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]] as a stakeholder, and has an eight-sector plan for the valley [MS].
@@ -206,7 +206,7 @@ The Komitee's documents (held by the Forum, and listed on the Ward 2 Forum's [le
 ### Ward 2 Forum series: 
 *Farm 39 Transformation: The Lost 18 Years* (2017, archived):
 
-- [Part 7: Choice of Entity (17 May 2017)](https://web.archive.org/web/20230204061021/https://ward2forum.org/wp-content/uploads/2017/05/FARM-39-PART-7-FINAL.pdf)
+- [Part 7: Choice of Entity (17 May 2017)](https://web.archive.org/web/20230204061021/https://ward2forum.org/wp-content/uploads/2017/05/FARM-39-PART-7-FINAL.pdf) Register entry: [[research/ward-2-forum-farm-39-the-lost-18-years|Farm 39 Transformation: The Lost 18 Years]].
 - [Part 8: Agreements and Disagreements (24 May 2017)](https://web.archive.org/web/20230204050814/https://ward2forum.org/wp-content/uploads/2017/05/FARM-39-PART-8-FINAL.pdf). Summary of the Komitee's constitution, the Houw Hoek agreement, and the 2010 interdict.
 
 ### Forum records:

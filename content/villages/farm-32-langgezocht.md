@@ -18,7 +18,7 @@ aliases:
   - Farm 32
 links:
   - https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing
-updated: 2026-10-30
+updated: 2026-11-04
 ---
 
 > [!warning] For CapeNature, the Moravian Church and the Transformasie Komitee to review
@@ -90,6 +90,6 @@ If you hold records of Langgezocht, or remember how it was used, contact the mod
 ## References
 
 - Chief Surveyor-General. Cadastral record for Farm 32, Caledon, shown on the Forum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The name, number, code and area.
-- Ward 2 Forum. [Farm 39 Transformation: The Lost 18 Years, Part 1](https://web.archive.org/web/20230803030459/https://ward2forum.org/wp-content/uploads/2017/04/Farm-39-lost-18-years-Part-1-Contents-and-History.pdf) (28 March 2017). The 1899 purchase and 1,881 hectares.
+- Ward 2 Forum. [Farm 39 Transformation: The Lost 18 Years, Part 1](https://web.archive.org/web/20230803030459/https://ward2forum.org/wp-content/uploads/2017/04/Farm-39-lost-18-years-Part-1-Contents-and-History.pdf) (28 March 2017). The 1899 purchase and 1,881 hectares. Register entry: [[research/ward-2-forum-farm-39-the-lost-18-years|Farm 39 Transformation: The Lost 18 Years]].
 - [[history/history-of-the-valley|History of the Valley]] and [[history/institutions/moravian-church|The Moravian Church]], and the sources listed there.
 - [[concepts/why-alien-clearing|Why Alien Clearing?]] The Forum's land table.

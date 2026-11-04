@@ -18,6 +18,7 @@ aliases:
   - Winstanley Attorneys
 website: https://cullinans.co.za
 last_checked: 2026-10-31
+updated: 2026-11-04
 ---
 
 > [!warning] For Cullinan & Associates Inc to review
@@ -92,4 +93,4 @@ If you know more about Cullinan & Associates Inc's work in the valley, contact t
 - International Rights of Nature Tribunal. [Cormac Cullinan](https://www.rightsofnaturetribunal.org/judges/cormac-cullinan/). His role as a judge.
 - Vermont Law and Graduate School. [Cormac Cullinan](https://www.vermontlaw.edu/directory/person/cullinan-cormac). Faculty profile.
 - Kevin Bloom. [Towards the recognition of Table Mountain as a living entity, in law and beyond](https://www.dailymaverick.co.za/article/2025-04-22-towards-the-recognition-of-table-mountain-as-a-living-entity-in-law-and-beyond/). Daily Maverick, 22 April 2025.
-- Cormac Cullinan. *Wild Law: A Manifesto for Earth Justice*. Green Books, 2011 edition.
+- Cormac Cullinan. *Wild Law: A Manifesto for Earth Justice*. Green Books, 2011 edition. Register entry: [[research/cullinan-wild-law|Wild Law]].

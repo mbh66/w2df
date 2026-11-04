@@ -17,6 +17,7 @@ aliases:
   - B418
 website: https://bonnievale418.co.za
 last_checked: 2026-11-01
+updated: 2026-11-04
 ---
 
 > [!warning] For Bonnievale 418 to review
@@ -170,7 +171,7 @@ If you know more about Bonnievale 418's work in the valley, contact the moderato
 - Western Cape Provincial Treasury. [Langeberg Socio-economic Profile 2018](https://www.westerncape.gov.za/provincial-treasury/files/atoms/files/WC026%20Langeberg%202018%20Socio-economic%20Profile%20%28SEP-LG%29.pdf) (2018). Langeberg drop-out and job figures for 2015 to 2017.
 - Western Cape Provincial Treasury. [Langeberg Socio-economic Profile 2023](https://www.westerncape.gov.za/provincial-treasury/files/atoms/files/Langeberg%20Municipality%20SEP-LG%202023.pdf) (2023). Langeberg unemployment and school retention in 2022.
 - Statistics South Africa, Census 2011, via Adrian Frith. [Bonnievale](https://census.adrianfrith.com/place/169007) and [Theewaterskloof](https://census.adrianfrith.com/place/171) (2011). Population figures.
-- IPASA. [Collaboration Case Study: Jakes Gerwel Technical School and Bonnievale 418](https://ipa-sa.org.za/wp-content/uploads/2023/11/IPASA-Collaboration-Case-Study_Jakes-Gerwel-Technical-School-and-Bonnievale-418_November-2023.pdf) (November 2023). Funding totals, funders and the land.
+- IPASA. [Collaboration Case Study: Jakes Gerwel Technical School and Bonnievale 418](https://ipa-sa.org.za/wp-content/uploads/2023/11/IPASA-Collaboration-Case-Study_Jakes-Gerwel-Technical-School-and-Bonnievale-418_November-2023.pdf) (November 2023). Funding totals, funders and the land. Register entry: [[research/ipasa-jakes-gerwel-and-bonnievale-418|Jakes Gerwel Technical School and Bonnievale 418]].
 - Financial Mail, republished by the Jakes Gerwel Foundation. [New schooling model offers hope](https://paulethousestories.jgf.org.za/new-schooling-model-offers-hope/) (23 June 2022). The deal with the department, the streams and quotes.
 - News24. [How a tiny rural village came together to build a top Cape high school](https://www.news24.com/parent/Learn/High-school/how-a-tiny-rural-village-came-together-to-build-a-top-cape-high-school-20191016) (16 October 2019). Planning and the 40% share.
 - Wines of South Africa. [Disrupting a vicious cycle: Bonnievale builds a "miracle" school](https://www.wosa.co.za/WOSA-News/Blogs/Cape-Chatter/DISRUPTING-A-VICIOUS-CYCLE-BONNIEVALE-BUILDS-A-MIRACLE-SCHOOL/) (about 2018). The land and the high school places.

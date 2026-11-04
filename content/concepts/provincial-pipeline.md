@@ -24,7 +24,7 @@ links:
   - https://westerncape.gov.za/infrastructure/western-cape-infrastructure-framework-strategy-and-implementation-plan-2050
   - https://wcis.co.za/deal-book/overberg-dam-potential-water-security-project-in-the-overberg-district-2/
   - https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy
-updated: 2026-11-01
+updated: 2026-11-04
 ---
 
 > **This idea is not yet agreed.** None of the bodies named on this page has been asked about it. They include the [[organisations/western-cape-government|Western Cape Government]] (its Department of Infrastructure), the [[organisations/overberg-district-municipality|Overberg District Municipality]], [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], Swellendam Municipality, the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the [[organisations/overberg-water-board|Overberg Water Board]], the Zonderend Water Users Association, and the Transformasie Komitee. **Please do not share this page publicly yet.** It is proposed for the Forum's November 2026 meeting, with the other water ideas.
@@ -231,7 +231,7 @@ On water and catchments:
 - EWN. [WC govt says water security is an urgent matter](https://www.ewn.co.za/2026/08/02/wc-govt-says-water-security-is-an-urgent-matter) (2 August 2026). Invasive plant removal as part of the strategy, and the two projects under way.
 - Wikipedia. [Breede River](https://en.wikipedia.org/wiki/Breede_River). Where the Riviersonderend joins the Breede.
 - Western Cape Department of Environmental Affairs and Development Planning. [Draft Revised Breede River Estuarine Management Plan](https://breede-river.org/wp-content/uploads/2024/04/Breede_EMP_15-Feb-_2024.pdf) (February 2024). The share of natural flow reaching the estuary.
-- Le Maitre, D.C., Forsyth, G.G., Dzikiti, S., and Gush, M.B. [Estimates of the impacts of invasive alien plants on water flows in South Africa](https://www.scielo.org.za/scielo.php?pid=S1816-79502016000400017&script=sci_arttext). *Water SA* 42(4), 2016. Flow losses by catchment.
+- Le Maitre, D.C., Forsyth, G.G., Dzikiti, S., and Gush, M.B. [Estimates of the impacts of invasive alien plants on water flows in South Africa](https://www.scielo.org.za/scielo.php?pid=S1816-79502016000400017&script=sci_arttext). *Water SA* 42(4), 2016. Flow losses by catchment. Register entry: [[research/le-maitre-invasive-alien-plants-and-water-flows|Invasive Alien Plants and Water Flows in South Africa]].
 
 On being needed:
 

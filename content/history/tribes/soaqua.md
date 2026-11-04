@@ -13,6 +13,7 @@ aliases:
   - Soaqua San
 links:
   - https://museum.co.za/first-inhabitants/
+updated: 2026-11-04
 ---
 
 The Soaqua were the [[history/tribes/san|San]] hunter-gatherers of the south-western Cape, including the Riviersonderend mountains [IC]. They are the first people of this valley whose name has come down to us [IC]. The name was given to them by the Khoekhoe herders, and the Dutch took it over in their records [MS]. The Soaqua were San, the same people, and some older sources that call them "ancestors of the San" are describing the same people in different words.
@@ -72,5 +73,5 @@ If you hold knowledge of the Soaqua, or of rock art sites in the mountains, cont
 ## References
 
 - Huguenot Memorial Museum. [The First Inhabitants](https://museum.co.za/first-inhabitants/). Soaqua as the herders' name for hunter-gatherers, and its meaning.
-- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5, citing Humphreys (1989), Le Roux (1984), and Clift (2001). The Soaqua in the Overberg, their rock art, their move into the mountains, and the cave sites.
+- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5, citing Humphreys (1989), Le Roux (1984), and Clift (2001). The Soaqua in the Overberg, their rock art, their move into the mountains, and the cave sites. Register entry: [[research/capenature-riviersonderend-complex-management-plan|Riviersonderend Complex Management Plan]].
 - Wikipedia. [San peoples](https://en.wikipedia.org/wiki/San_peoples). The San and the colonial frontier.

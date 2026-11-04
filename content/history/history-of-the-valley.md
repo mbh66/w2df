@@ -15,7 +15,7 @@ aliases:
   - Valley of Grace history
   - Geskiedenis van die Vallei
   - Significant dates
-updated: 2026-10-30
+updated: 2026-11-04
 links:
   - https://en.wikipedia.org/wiki/Genadendal
   - https://sahistory.org.za/place/genadendal-historic-village-museum
@@ -363,20 +363,20 @@ This is one way of reading the history. Residents may read the same events diffe
 
 Books and academic sources:
 
-- Krüger, B. (1966). *The Pear Tree Blossoms: A History of the Moravian Mission Stations in South Africa, 1737 to 1869.* Genadendal Printing Works. The main mission history of Schmidt, Magdalena, and the 1792 reopening.
-- Balie, I. (1988). *Die Geskiedenis van Genadendal, 1738 to 1988.* Mission history, including the numbers of freed people after 1838.
+- Krüger, B. (1966). *The Pear Tree Blossoms: A History of the Moravian Mission Stations in South Africa, 1737 to 1869.* Genadendal Printing Works. The main mission history of Schmidt, Magdalena, and the 1792 reopening. Register entry: [[research/kruger-the-pear-tree-blossoms|The Pear Tree Blossoms]].
+- Balie, I. (1988). *Die Geskiedenis van Genadendal, 1738 to 1988.* Mission history, including the numbers of freed people after 1838. Register entry: [[research/balie-die-geskiedenis-van-genadendal|Die Geskiedenis van Genadendal, 1738 to 1988]].
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The facts attributed to Balie's history on this page; page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].
 - Marsveld, H., Schwinn, D. and Kühnel, J.C. *The Genadendal Diaries, Volume I (1792 to 1794).* Edited by H.C. Bredekamp and H.E.F. Plüddemann. University of the Western Cape Institute for Historical Research. The first lessons in 1793.
-- Bredekamp, H.C. (1987). "Vehettge Tikkuie, alias Moeder Lena van Genadendal (1737 to 1800)." *Quarterly Bulletin of the South African Library* 41(4). Magdalena's life.
-- du Preez, H. and others (eds) (2009). [The Challenge of Genadendal](https://ebooks.iospress.nl/book/the-challenge-of-genadendal). IOS Press. Mandela's foreword gives the 1995 renaming and the visit of 10 October 1995.
-- Studia Historiae Ecclesiasticae. ["I Will Gather All Nations and Tongues": Christian Missions and Racial Integration in the Cape Colony in the Aftermath of Abolition](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-01902005000100005). Genadendal's population from 1837 to 1840.
-- Clauser, J.K. (1961). *Comenian Pedagogy and the Moravian School Curriculum (1740 to 1850).* D.Ed. dissertation, Pennsylvania State University. Not yet read for this page.
-- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5 (Heritage Context). The Stone Age, Soaqua, and Khoekhoe history, citing Kaplan (1990, 2004), Humphreys (1989), Le Roux (1984), and Clift (2001).
+- Bredekamp, H.C. (1987). "Vehettge Tikkuie, alias Moeder Lena van Genadendal (1737 to 1800)." *Quarterly Bulletin of the South African Library* 41(4). Magdalena's life. Register entry: [[research/bredekamp-vehettge-tikkuie|Vehettge Tikkuie, alias Moeder Lena van Genadendal]].
+- du Preez, H. and others (eds) (2009). [The Challenge of Genadendal](https://ebooks.iospress.nl/book/the-challenge-of-genadendal). IOS Press. Mandela's foreword gives the 1995 renaming and the visit of 10 October 1995. Register entry: [[research/du-preez-the-challenge-of-genadendal|The Challenge of Genadendal]].
+- Studia Historiae Ecclesiasticae. ["I Will Gather All Nations and Tongues": Christian Missions and Racial Integration in the Cape Colony in the Aftermath of Abolition](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-01902005000100005). Genadendal's population from 1837 to 1840. Register entry: [[research/watson-i-will-gather-all-nations|I Will Gather All Nations and Tongues]].
+- Clauser, J.K. (1961). *Comenian Pedagogy and the Moravian School Curriculum (1740 to 1850).* D.Ed. dissertation, Pennsylvania State University. Not yet read for this page. Register entry: [[research/clauser-comenian-pedagogy|Comenian Pedagogy and the Moravian School Curriculum]].
+- CapeNature. *Riviersonderend Complex Protected Area Management Plan 2021 to 2031*, section 2.5 (Heritage Context). The Stone Age, Soaqua, and Khoekhoe history, citing Kaplan (1990, 2004), Humphreys (1989), Le Roux (1984), and Clift (2001). Register entry: [[research/capenature-riviersonderend-complex-management-plan|Riviersonderend Complex Management Plan]].
 
 Reference works and heritage records:
 
 - Dictionary of African Christian Biography. [Schmidt, Georg](https://dacb.org/stories/southafrica/schmidt-georg/). Schmidt's life, imprisonment, arrival, and departure.
-- Dictionary of African Christian Biography. [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Her baptism in 1742 and death on 3 January 1800.
+- Dictionary of African Christian Biography. [Tikhuie, Vehettge Magdalena](https://dacb.org/stories/southafrica/tikhuie-vmagdalena/). Her baptism in 1742 and death on 3 January 1800. Register entry: [[research/millard-tikhuie-vehettge-magdalena|Tikhuie, Vehettge Magdalena]].
 - South African History Online. [Genadendal Historic Village and Museum](https://sahistory.org.za/place/genadendal-historic-village-museum). The college founding and 1926 closure, and the 1995 renaming.
 - South African History Online. [Greyton, Western Province](https://sahistory.org.za/place/greyton-western-province). Weltevreden, Vigne, and the founding of Greyton.
 - South African History Online. [Afrikaans: the Language of Black and Coloured Dissent](https://sahistory.org.za/article/afrikaans-language-black-and-coloured-dissent). *De Bode van Genadendal* (1859) and *Die Huisvriend*.
@@ -387,8 +387,8 @@ Reference works and heritage records:
 - Artefacts. [Moravian Mission Church, Genadendal](https://artefacts.co.za/main/Buildings/bldgframes.php?bldgid=6172). The building of the present church, 1891 to 1893.
 - Genadendal.info. [The Genadendal Mission Station](https://www.genadendal.info/genadendal-mission-station/). The college date of 12 September 1838, the 1837 press, the 2003 closure of the printing works, and Mandela's October 1995 visit.
 - Genadendal Project. [History of Genadendal and Surrounds](https://genadendalproject.objectecologies.co.za/history-of-genadendal-and-surrounds/). Schmidt's first months, and the 1739 buildings.
-- ACO Associates for Ohana Environmental Consulting (2022). [Heritage Impact Assessment, Erf 595, Greyton](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). The founding of Greyton, and Heuwelkroon around 1970.
-- Williams, R. ["Hoekom soek ons nog altyd *Kos Klere en Blyplek* in die nuwe dispensasie?"](https://herri.org.za/2/rafieka-williams/). *Herri*, issue 2 (no date given). A personal essay built around a reggae song by Country Conquerors, by a Capetonian writer who came to Greyton in May 2017 and spoke with residents. *Herri* is an online arts and culture journal published by Stephanus Muller for the Africa Open Institute and edited by Aryan Kaganof (see [Review: herri is a rare new arts and culture journal from South Africa](https://www.modernghana.com/amp/news/1003294/review-herri-is-a-rare-new-arts-and-culture-journ.html)). Used here for the dates of the removals from Greyton, 1968 to 1974.
+- ACO Associates for Ohana Environmental Consulting (2022). [Heritage Impact Assessment, Erf 595, Greyton](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). The founding of Greyton, and Heuwelkroon around 1970. Register entry: [[research/aco-heritage-impact-assessment-erf-595|Heritage Impact Assessment, Erf 595, Greyton]].
+- Williams, R. ["Hoekom soek ons nog altyd *Kos Klere en Blyplek* in die nuwe dispensasie?"](https://herri.org.za/2/rafieka-williams/). *Herri*, issue 2 (no date given). A personal essay built around a reggae song by Country Conquerors, by a Capetonian writer who came to Greyton in May 2017 and spoke with residents. *Herri* is an online arts and culture journal published by Stephanus Muller for the Africa Open Institute and edited by Aryan Kaganof (see [Review: herri is a rare new arts and culture journal from South Africa](https://www.modernghana.com/amp/news/1003294/review-herri-is-a-rare-new-arts-and-culture-journ.html)). Used here for the dates of the removals from Greyton, 1968 to 1974. Register entry: [[research/williams-kos-klere-en-blyplek|Hoekom soek ons nog altyd Kos Klere en Blyplek]].
 - Greyton Transition Town. [What is Greyton Transition Town](https://greytontransition.co.za/what-is-greyton-transition-town/). Its start in mid-2011.
 
 Forum research:

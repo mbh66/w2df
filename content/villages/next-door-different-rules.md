@@ -18,6 +18,7 @@ links:
   - https://groundup.org.za/article/greyton-families-still-in-limbo-five-years-after-protests/
   - https://www.dailymaverick.co.za/article/2019-01-21-greyton-residents-caught-in-the-middle-of-a-political-battle/
   - https://www.polity.org.za/article/instead-of-mudslinging-anc-wc-should-urge-didiza-to-bring-dignity-to-madiba-park-residents-2022-09-29
+updated: 2026-11-04
 ---
 
 Heuwelkroon, Boschmanskloof, and Madiba Park lie next to each other on the edge of Greyton [MS]. People who are new to the valley often see them as one neighbourhood of Greyton. On paper they are three different cases. Heuwelkroon is part of Greyton [IC]. Boschmanskloof is part of Genadendal [IC]. Madiba Park stands on Farm 39 land held in trust by the national government, and the municipality has said it cannot provide full services there because the land is not the municipality's [MS]. This page explains what that means for anyone who wants to help.
@@ -175,7 +176,7 @@ Forum documents:
 
 The TIME model:
 
-- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The Forum's first meeting read through TIME, and why the Emergent way has no tie-breaker.
+- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The Forum's first meeting read through TIME, and why the Emergent way has no tie-breaker. Register entry: [[research/haupt-using-time-for-difficult-decisions|Using TIME for Difficult Decisions]].
 - BioConomy wiki. [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework). The full framework.
 
 News reports and statements:
