@@ -236,7 +236,7 @@ plugins:
       copyrightHolder: Ward 2 Development Forum
       notice: "<b>About:</b> We're a community-run forum for TWK Ward 2 that helps our valley grow in all three spheres of life: economic, civic and cultural."
       links:
-        About Us: /about
+        About the Forum: /about
         About Ward 2: /about-ward-2
         Valley of Grace: https://valleyofgrace.co.za
         AI Page: /llms.txt
