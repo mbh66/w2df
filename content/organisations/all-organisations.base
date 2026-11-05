@@ -7,8 +7,8 @@ filters:
             - type == "entry"
             - form == "organisation"
     - draft != true
-    - '!file.inFolder("templates")'
-    - '!file.inFolder("private")'
+    - '!file.path.contains("templates/")'
+    - '!file.path.contains("private/")'
 formulas:
   organisation: file.asLink(title)
   side: if(type == "entry", "In the valley", "Outside the valley")
