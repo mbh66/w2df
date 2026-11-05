@@ -52,7 +52,7 @@ After slavery ended in 1838, many freed people came to Genadendal [IC]. Its popu
 
 ## Land without title
 
-Residents held plots, gardens, and grazing, but the land was not theirs to own. In 1858 it was granted to the Moravian Church in trust for residents [MS], and in 1909 a law confirmed that residents could live on it but not own it [IC]. Forum research describes this as the start of a deep rift between the missionaries and residents [MS]. Without title deeds, residents could not sell their land on the open market or borrow against it [TBV]. See [[history/markets/land-as-property|Land as Property]].
+Residents held plots, gardens, and grazing, but the land was not theirs to own. In 1858 it was granted to the Moravian Church in trust for residents [MS], and in 1909 a law confirmed that residents could live on it but not own it [IC]. DevForum research describes this as the start of a deep rift between the missionaries and residents [MS]. Without title deeds, residents could not sell their land on the open market or borrow against it [TBV]. See [[history/markets/land-as-property|Land as Property]].
 
 ## Decline
 

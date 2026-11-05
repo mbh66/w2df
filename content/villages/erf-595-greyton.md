@@ -29,7 +29,7 @@ updated: 2026-11-04
 
 Erf 595 is a large property around [[villages/greyton|Greyton]] and [[villages/heuwelkroon|Heuwelkroon]]. The Surveyor-General records it as the Remainder of Erf 595 in the Greyton township, made up of seven separate parcels with a combined area of 1,404.89 hectares [IC]. A small part in Heuwelkroon is authorised for 333 homes [IC]. Most of the erf has no published use, and who holds and manages it outside the housing site has not been established [TBV].
 
-**Map:** see this property on the Forum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing), which shows the Surveyor-General boundaries of all eight properties.
+**Map:** see this property on the DevForum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing), which shows the Surveyor-General boundaries of all eight properties.
 
 ![[erf595.jpg]]
 
@@ -38,7 +38,7 @@ Erf 595 is a large property around [[villages/greyton|Greyton]] and [[villages/h
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by at least two sources that do not depend on each other, or by an official record such as a Surveyor-General record, an environmental authorisation or a municipal report.
-> - **[MS] Mission-Sourced.** Comes from one party's own documents or statements, or from the Forum's own research and maps. It has not been checked against other sources.
+> - **[MS] Mission-Sourced.** Comes from one party's own documents or statements, or from the DevForum's own research and maps. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
 > Sentences that begin with *Inference* are this page's own reasoning. They are not facts.
@@ -68,11 +68,11 @@ Erf 595 is a large property around [[villages/greyton|Greyton]] and [[villages/h
 - **2025 to 2026.** The municipality's capital programme listed the project, "Greyton Erf 595 (538)(Yield reduced)(393)", with R10 million from the Human Settlement Grant [IC]. The budget "was removed with the February 2026 Adjustment Budget", after R1,204,753 had been spent [IC].
 - **2026.** Ward 2's Community Needs List puts the housing backlog, including "Madiba Park and backyard dwellers", first, and says the municipality "must look at the possibility to use erf. 595, Greyton" [IC].
 
-## On the Forum's map
+## On the DevForum's map
 
 - The seven parcels lie around Greyton, from the mountain slopes north of the village to land south of it [MS].
-- The Gobos dam-wall option drawn at the mouth of the kloof above Greyton (G3) falls inside Erf 595 [MS]. It is an option for the idea on [[concepts/community-built-dams-on-the-baviaans-and-gobos|Community-Built Dams on the Baviaans and Gobos]], which the Forum has not agreed.
-- The Forum's map point marked "Sewerage Wetlands" falls inside Erf 595 [MS].
+- The Gobos dam-wall option drawn at the mouth of the kloof above Greyton (G3) falls inside Erf 595 [MS]. It is an option for the idea on [[concepts/community-built-dams-on-the-baviaans-and-gobos|Community-Built Dams on the Baviaans and Gobos]], which the DevForum has not agreed.
+- The DevForum's map point marked "Sewerage Wetlands" falls inside Erf 595 [MS].
 - *Inference:* outside the 6 to 7 hectare housing site, more than 99% of the erf has no use recorded in any source found.
 
 ## What is still open
@@ -103,7 +103,7 @@ If you hold records of the commonage or of Erf 595, contact the moderators via [
 
 ## References
 
-- Chief Surveyor-General. Cadastral record for the Remainder of Erf 595, Greyton, shown on the Forum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The property, code, parcels and area.
+- Chief Surveyor-General. Cadastral record for the Remainder of Erf 595, Greyton, shown on the DevForum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The property, code, parcels and area.
 - Western Cape DEADP. [Environmental Authorisation, Integrated Housing Development on Erf 595, Heuwelkroon, Greyton (10 July 2025)](https://www.westerncape.gov.za/eadp/files/wcg-blob-files?file=2025-09%2F2014_ba-ea_1084-24-greyton.pdf&type=file).
 - Ohana Environmental Consulting. [Environmental Management Programme, Erf 595 (May 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/Environmental-Management-Plan_-Greyton-Erf-595_May-2022.pdf).
 - ACO Associates. [Heritage Impact Assessment, Erf 595 (April 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). Register entry: [[research/aco-heritage-impact-assessment-erf-595|Heritage Impact Assessment, Erf 595, Greyton]].

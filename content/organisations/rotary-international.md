@@ -18,7 +18,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Rotary International to review
-> Rotary International has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Rotary International about anything. Until Rotary International has approved the text, it may change. Questions for Rotary International:
+> Rotary International has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Rotary International about anything. Until Rotary International has approved the text, it may change. Questions for Rotary International:
 >
 > 1. Is this description of Rotary International and District 9350 correct? What would you like to change?
 > 2. Does the district support projects of the Rotary Club of Greyton, and how?
@@ -30,7 +30,7 @@ Rotary International is the worldwide network of Rotary service clubs. The [[civ
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -42,7 +42,7 @@ Rotary International is the worldwide network of Rotary service clubs. The [[civ
 | Website | [rotary.org](https://www.rotary.org) |
 | Role | Parent network of the Rotary Club of Greyton [MS] |
 | Link to the valley | Indirect. Through the Greyton club and its projects in the valley |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 
@@ -50,7 +50,7 @@ Each Rotary district is led by a district governor elected for one year [MS].
 
 ## How its work reaches the valley
 
-The Rotary Club of Greyton runs community projects across the valley, from food forests and gardens to early childhood development and a skills centre [MS]. It attended the Forum's first meeting [MS].
+The Rotary Club of Greyton runs community projects across the valley, from food forests and gardens to early childhood development and a skills centre [MS]. It attended the DevForum's first meeting [MS].
 
 ## Relevance to W2DF
 

@@ -10,7 +10,7 @@ This page explains how the Ward 2 Development Forum handles personal information
 
 ## Who keeps the records
 
-The Forum is responsible for the information collected for this site. Michael Haupt keeps the records on the Forum's behalf and handles all requests about them. You can reach him through the [[contact|Contact]] page.
+The DevForum is responsible for the information collected for this site. Michael Haupt keeps the records on the DevForum's behalf and handles all requests about them. You can reach him through the [[contact|Contact]] page.
 
 ## What we collect
 
@@ -18,7 +18,7 @@ The Forum is responsible for the information collected for this site. Michael Ha
 - **The contact register.** The name, phone number, and email address of the person who runs each initiative, so the moderators can check facts and send updates. This register is private.
 - **Consent records.** A note of whether each person agreed to have a contact channel shown on the site, and when.
 - **Right-of-reply messages.** Our messages with any person or organisation that an entry describes, and their replies.
-- **Survey answers.** If the Forum runs its yearly survey, the answers households give. See *The yearly valley survey* below.
+- **Survey answers.** If the DevForum runs its yearly survey, the answers households give. See *The yearly valley survey* below.
 - **Website visits.** The site counts visits with Plausible Analytics, which does not use cookies and does not identify individual visitors. See *Other services the site uses* below.
 
 ## Why we collect it
@@ -29,7 +29,7 @@ We use this information only to:
 - give people and organisations named in an entry a chance to respond
 - contact the people who run initiatives when their entry needs updating
 - show a public contact channel, when the person has agreed to it
-- run the yearly valley survey and publish its results, if the Forum agrees to run it
+- run the yearly valley survey and publish its results, if the DevForum agrees to run it
 
 We do not sell, share, or use this information for marketing.
 
@@ -45,7 +45,7 @@ Photos are published only when everyone pictured has agreed. A parent or guardia
 
 ## The yearly valley survey
 
-The Forum plans to run a household survey once a year, starting in 2027. The Forum has not yet agreed to it. This section sets out how the survey will handle information if it goes ahead. The idea is described on [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]].
+The DevForum plans to run a household survey once a year, starting in 2027. The DevForum has not yet agreed to it. This section sets out how the survey will handle information if it goes ahead. The idea is described on [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]].
 
 ### What the survey collects
 
@@ -80,7 +80,7 @@ The answers never decide which questions a household is asked. They are used onl
 
 ### Where survey answers are kept
 
-- Fieldworkers record answers on a phone with KoboToolbox. The answers are sent to KoboToolbox's servers, which run on Amazon Web Services outside South Africa. The Forum will use KoboToolbox's European Union server, where European data protection law applies. POPIA allows personal information to go to a country whose laws protect it in a similar way.
+- Fieldworkers record answers on a phone with KoboToolbox. The answers are sent to KoboToolbox's servers, which run on Amazon Web Services outside South Africa. The DevForum will use KoboToolbox's European Union server, where European data protection law applies. POPIA allows personal information to go to a country whose laws protect it in a similar way.
 - Answers are removed from the phone once they have been sent.
 - Only the record keeper and the statistician who checks the survey can see the full answers.
 - Anonymous answers may be shared with others, such as a university or a government department, only under a written agreement. Before they are shared, answers are grouped so that no household can be recognised.

@@ -18,7 +18,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Eskom to review
-> Eskom has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Eskom about anything. Until Eskom has approved the text, it may change. Questions for Eskom:
+> Eskom has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Eskom about anything. Until Eskom has approved the text, it may change. Questions for Eskom:
 >
 > 1. Is this description of Eskom and its supply to the valley correct? What would you like to change?
 > 2. Which parts of Ward 2 does Eskom supply directly, and which does the municipality supply?
@@ -30,7 +30,7 @@ Eskom is South Africa's state-owned electricity utility, founded in 1923 as the 
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -42,7 +42,7 @@ Eskom is South Africa's state-owned electricity utility, founded in 1923 as the 
 | Website | [eskom.co.za](https://www.eskom.co.za) |
 | Role | National electricity generation and supply [TBV] |
 | Link to the valley | Direct. It supplies electricity to the valley |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

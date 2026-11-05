@@ -41,7 +41,7 @@ The Mafube Business Forum (MBF) is a group of business owners and farmers in Maf
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -54,7 +54,7 @@ The Mafube Business Forum (MBF) is a group of business owners and farmers in Maf
 | Started | August 2019 [IC] |
 | Role | Takes the municipality and province to court, proposes partnerships with the municipality, and supports the private electricity operator [IC] |
 | Link to the valley | None found. Raised in valley discussions as a possible case for Ward 2 [MS] |
-| Contact with the Forum | None [MS] |
+| Contact with the DevForum | None [MS] |
 
 ## What it does
 
@@ -218,7 +218,7 @@ The MBF published on its website and Facebook page during 2026 [MS]. A new local
 
 ## How its work reaches the valley
 
-No public record of contact between the MBF, Rural Maintenance or Mafube Local Municipality and Ward 2, Theewaterskloof or the Overberg was found. The Forum's own record: Mafube was raised as a case for Ward 2 through a news report and a [BizNews interview](https://youtu.be/LtDpRie5vW0), and "no one in the valley has been in contact with the MBF, Rural Maintenance, or Mafube Local Municipality" [MS]. Michael Haupt's June 2026 note, *A Template for TWKM Ward 2 Revitalisation*, sets out his own reading of Mafube for Ward 2 [MS]. That reading belongs on [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]] after Forum discussion.
+No public record of contact between the MBF, Rural Maintenance or Mafube Local Municipality and Ward 2, Theewaterskloof or the Overberg was found. The DevForum's own record: Mafube was raised as a case for Ward 2 through a news report and a [BizNews interview](https://youtu.be/LtDpRie5vW0), and "no one in the valley has been in contact with the MBF, Rural Maintenance, or Mafube Local Municipality" [MS]. Michael Haupt's June 2026 note, *A Template for TWKM Ward 2 Revitalisation*, sets out his own reading of Mafube for Ward 2 [MS]. That reading belongs on [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]] after DevForum discussion.
 
 | | Mafube Local Municipality | Theewaterskloof Municipality | Tweeling (a Mafube town) | Ward 2 |
 | --- | --- | --- | --- | --- |
@@ -246,9 +246,9 @@ Who supplies electricity in Ward 2:
 - [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]]: its *Lessons from elsewhere* section does not yet cover Mafube.
 - [[rules/theewaterskloof-financial-recovery-plan|Theewaterskloof Financial Recovery Plan]]: Mafube's recovery plan came from a court order; Theewaterskloof's came from the province.
 - [[rules/municipal-systems-act|Municipal Systems Act]]: sections 76 to 81 govern handing a municipal service to an outside body, as in Mafube's electricity agreement.
-- [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]]: supplies electricity in Greyton and supports the Forum with administration.
+- [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]]: supplies electricity in Greyton and supports the DevForum with administration.
 - [[organisations/eskom|Eskom]]: supplies Genadendal directly, and is the bulk supplier in Mafube.
-- [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]: the Forum that asked for this case study.
+- [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]: the DevForum that asked for this case study.
 - [[civic/residents-association/greyton-ratepayers-and-residents-organisation|Greyton Ratepayers & Residents Organisation]]: a ratepayers' body in Ward 2 that deals with the same municipality.
 - [[priorities/business-procurement|Business Development and Local Procurement]]: the MBF is a forum of local business.
 - [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]]: Mafube's farmers fund roads and security through their own levy.
@@ -321,4 +321,4 @@ If you know more about the Mafube Business Forum or its partnership, contact the
 - Theewaterskloof Municipality. [Electricity](https://twk.gov.za/electricity/) (read 2 November 2026). The municipality supplies Greyton; Eskom supplies Genadendal.
 - Western Cape Provincial Treasury. [Final Draft Theewaterskloof Financial Recovery Plan](https://www.westerncape.gov.za/treasury/files/wcg-blob-files?file=2025-08%2Ffinal-draft-theewaterskloof-financial-recovery-plan-final_20250813-published.pdf&type=file) (August 2025). Electricity supply in Ward 2 and the Theewaterskloof column.
 - Wikipedia. [Theewaterskloof Local Municipality](https://en.wikipedia.org/wiki/Theewaterskloof_Local_Municipality) (read 2 November 2026). Area and population, to be checked.
-- Haupt, M. *A Template for TWKM Ward 2 Revitalisation: What Mafube Did, and the Lessons for our Valley* (June 2026). The Forum's own record of how the case was raised.
+- Haupt, M. *A Template for TWKM Ward 2 Revitalisation: What Mafube Did, and the Lessons for our Valley* (June 2026). The DevForum's own record of how the case was raised.

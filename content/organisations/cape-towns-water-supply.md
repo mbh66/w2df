@@ -32,7 +32,7 @@ Cape Town gets most of its water from a group of dams in the mountains east of t
 > - **[MS] Mission-Sourced.** Comes from the statements of the organisation the sentence names. It has not been checked against sources that do not depend on it.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 >
-> Sentences about what the system could mean for the valley carry no tag. They are the Forum's reading.
+> Sentences about what the system could mean for the valley carry no tag. They are the DevForum's reading.
 
 ## The big dams
 
@@ -124,7 +124,7 @@ Since 2018 the [[organisations/greater-cape-town-water-fund|Greater Cape Town Wa
 
 ### A place-based economy
 
-The Forum reads the system as part of what a place-based economy for the valley could be built on. Cape Town and the farms of the Berg and Overberg depend on water that falls on the same mountains as the valley. Water the valley's land gives, measured and proved, is something the system already needs. Three ideas tabled at the Forum build on this: [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]], [[concepts/restoring-the-river|Restoring the River]], and [[concepts/ridge-to-river-to-table|Ridge to River to Table]].
+The DevForum reads the system as part of what a place-based economy for the valley could be built on. Cape Town and the farms of the Berg and Overberg depend on water that falls on the same mountains as the valley. Water the valley's land gives, measured and proved, is something the system already needs. Three ideas tabled at the DevForum build on this: [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]], [[concepts/restoring-the-river|Restoring the River]], and [[concepts/ridge-to-river-to-table|Ridge to River to Table]].
 
 ## Following the dam levels
 

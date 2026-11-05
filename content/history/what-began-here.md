@@ -28,7 +28,7 @@ The valley's history is difficult to read in some places. Khoekhoe land was take
 > - **[MS] Mission-Sourced.** Comes from Moravian mission records, or from one community's or organisation's own sources. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Statements without a tag, mostly in the last three sections, are the Forum's reading of the history and its proposals for the future. The ideas they describe are not yet agreed.
+> Statements without a tag, mostly in the last three sections, are the DevForum's reading of the history and its proposals for the future. The ideas they describe are not yet agreed.
 
 ## What began here
 
@@ -98,9 +98,9 @@ Seen this way, the Learning Campus is the next step in a 300-year story. The fir
 
 The valley's story has always reached beyond the valley. The mission belonged to a church with missions on several continents [IC], and the words printed at Genadendal fed the growth of a language [IC]. In 1995 the valley's name was chosen for the president's residence [IC].
 
-The next reach is already under way. Places around the world are building local economies around their own rivers and land. One network, the Design School for Regenerating Earth, says it aims to help start 1,000 bioregional learning centres by 2035 [MS]. The Forum's plan for the valley is called the BioConomy: running more of the local economy so that what the valley has stays in the valley, including money, skills, water in the ground, and healthy soil [MS]. The BioConomy framework was first worked out in this valley [MS]. See [BioConomy](https://bioconomy.earth).
+The next reach is already under way. Places around the world are building local economies around their own rivers and land. One network, the Design School for Regenerating Earth, says it aims to help start 1,000 bioregional learning centres by 2035 [MS]. The DevForum's plan for the valley is called the BioConomy: running more of the local economy so that what the valley has stays in the valley, including money, skills, water in the ground, and healthy soil [MS]. The BioConomy framework was first worked out in this valley [MS]. See [BioConomy](https://bioconomy.earth).
 
-The Forum's research describes this as the valley moving from being needy to being needed [MS]. The valley would once again have something to teach: how a place with a hard history can rebuild its economy around its own land, water, and people.
+The DevForum's research describes this as the valley moving from being needy to being needed [MS]. The valley would once again have something to teach: how a place with a hard history can rebuild its economy around its own land, water, and people.
 
 ## Towards 2038
 
@@ -109,7 +109,7 @@ On 23 April 2038 the valley marks 300 years since the meeting at Baviaanskloof. 
 ## What is still open
 
 - Which other firsts belong on this page. 
-- Whether the Forum adopts this reading of the history.
+- Whether the DevForum adopts this reading of the history.
 - How residents of Heuwelkroon, Madiba Park, and the mission villages would tell the same story.
 - Whether the Learning Campus and the BioConomy are agreed, changed, or dropped.
 
@@ -146,4 +146,4 @@ To add a first, correct a fact, or tell the story from your side, contact the mo
 - Hutton, J.E. (1909). *A History of the Moravian Church*, chapter 16, ["Comenius and the Hidden Seed"](https://www.ccel.org/ccel/hutton/moravian.iv.xvi.html). The Hidden Seed and the villages the first exiles came from. Register entry: [[research/hutton-a-history-of-the-moravian-church|A History of the Moravian Church]].
 - BioConomy Wiki. [The Comenius-to-Schmidt Chain](https://wiki.bioconomy.earth/research/comenius-to-schmidt-chain/). How a tradition survived the loss of its institutions.
 - BioConomy. [bioconomy.earth](https://bioconomy.earth). The BioConomy framework, its origin in the valley, and the idea of moving from needy to needed.
-- Forum research notes, held by the Forum: *A Global Inventory of Bioregional and Place-Based Ecological-Economic Projects* (2026), on the Design School for Regenerating Earth.
+- DevForum research notes, held by the DevForum: *A Global Inventory of Bioregional and Place-Based Ecological-Economic Projects* (2026), on the Design School for Regenerating Earth.

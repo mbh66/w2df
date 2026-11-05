@@ -27,7 +27,7 @@ The status of the land also affects services. The municipality does not provide 
 
 ## The land on record
 
-**Map:** see this property on the Forum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing), which shows the Surveyor-General boundaries of all eight properties.
+**Map:** see this property on the DevForum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing), which shows the Surveyor-General boundaries of all eight properties.
 
 ![[farm39.jpg]]
 
@@ -35,12 +35,12 @@ The status of the land also affects services. The municipality does not provide 
 | --- | --- |
 | Name in the Surveyor-General's records | GENADENDAL, Farm 39, Caledon registration division [IC] |
 | Surveyor-General code | C01300000000003900000 [IC] |
-| Area on the current record | 4,498.09 hectares on the Forum's map [IC] |
+| Area on the current record | 4,498.09 hectares on the DevForum's map [IC] |
 | Original extent | 4,772.97 hectares (5,572 morgen and 261 square roods) under Deed of Grant G19/1952, on diagram B180/128 [IC] |
 | Held by | The national [[organisations/minister-of-land-reform-and-rural-development\|Minister of Land Reform and Rural Development]], in trust for residents [IC] |
 | Not included | The Glebe Land, now [[villages/farm-827-glebe-land\|Farm 827]] [IC] |
 
-*Inference:* the current Surveyor-General parcel is smaller than the original farm because surveyed township land and other erven have been taken off it. On the Forum's map, the points for Bereaville and Boschmanskloof fall outside the current parcel [MS].
+*Inference:* the current Surveyor-General parcel is smaller than the original farm because surveyed township land and other erven have been taken off it. On the DevForum's map, the points for Bereaville and Boschmanskloof fall outside the current parcel [MS].
 
 ## History of the land
 

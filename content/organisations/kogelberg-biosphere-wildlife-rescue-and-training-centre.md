@@ -19,7 +19,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Kogelberg Biosphere Wildlife Rescue and Training Centre to review
-> Kogelberg Biosphere Wildlife Rescue and Training Centre has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Kogelberg Biosphere Wildlife Rescue and Training Centre about anything. Until Kogelberg Biosphere Wildlife Rescue and Training Centre has approved the text, it may change. Questions for Kogelberg Biosphere Wildlife Rescue and Training Centre:
+> Kogelberg Biosphere Wildlife Rescue and Training Centre has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Kogelberg Biosphere Wildlife Rescue and Training Centre about anything. Until Kogelberg Biosphere Wildlife Rescue and Training Centre has approved the text, it may change. Questions for Kogelberg Biosphere Wildlife Rescue and Training Centre:
 >
 > 1. Is this description of the centre correct? What would you like to change?
 > 2. Has the plan for Grace Valley Wildlife Rescue to become a satellite centre moved forward?
@@ -31,7 +31,7 @@ The Kogelberg Biosphere Wildlife Rescue and Training Centre treats injured and d
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -43,7 +43,7 @@ The Kogelberg Biosphere Wildlife Rescue and Training Centre treats injured and d
 | Website | [kogelbergbiosphere.org.za](https://kogelbergbiosphere.org.za/wildlife-rescue/) |
 | Role | Permitted wildlife rescue and rehabilitation [MS] |
 | Link to the valley | Planned. Through Grace Valley Wildlife Rescue |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

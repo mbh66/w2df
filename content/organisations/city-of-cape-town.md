@@ -23,7 +23,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For the City of Cape Town to review
-> The City of Cape Town has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The Forum has not approached the City of Cape Town about anything. Until the City of Cape Town has approved the text, it may change. Questions for the City of Cape Town:
+> The City of Cape Town has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The DevForum has not approached the City of Cape Town about anything. Until the City of Cape Town has approved the text, it may change. Questions for the City of Cape Town:
 >
 > 1. Is this description of the City and its part in the water fund correct? What would you like to change?
 > 2. Does the City still fund clearing through the Greater Cape Town Water Fund, and in which catchments?
@@ -48,7 +48,7 @@ The City of Cape Town is the metropolitan municipality for Cape Town [IC]. It is
 | Website | [capetown.gov.za](https://www.capetown.gov.za) |
 | Role | Founding partner and steering committee member, Greater Cape Town Water Fund [MS]. Not a party to the Cape Water bond [MS] |
 | Link to the valley | Indirect. It draws water from the system whose largest dam lies upstream of the valley |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 
@@ -60,7 +60,7 @@ The City provides water and other municipal services to Cape Town [IC]. Its dam-
 
 **The bond.** The releases about the Cape Water Performance-Based Bond do not name the City as a party [MS]. The bond pays for clearing through the fund the City helped set up [MS].
 
-**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the Forum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with [[organisations/capenature|CapeNature]] [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
+**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the DevForum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with [[organisations/capenature|CapeNature]] [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
 
 ## Relevance to W2DF
 
@@ -94,4 +94,4 @@ If you know more about the City of Cape Town's work in the valley's mountains or
 - Greater Cape Town Water Fund. [Fact sheet](https://panorama.solutions/sites/default/files/gctwf_fact_sheet_september_2020_0.pdf) (September 2020). The steering committee.
 - Wikipedia. [Theewaterskloof Dam](https://en.wikipedia.org/wiki/Theewaterskloof_Dam). Its river, its owner, and its place in the Western Cape Water Supply System.
 - The Nature Conservancy. [Cape Water Performance-based Bond launched](https://www.nature.org/en-us/newsroom/cape-water-performance-based-bond-launched/) (1 April 2026). The parties and their roles, the R150 million for clearing over five years, and the fund's progress.
-- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the Forum in conversation and is not on this page.
+- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the DevForum in conversation and is not on this page.

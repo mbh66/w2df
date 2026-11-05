@@ -18,7 +18,7 @@ last_checked: 2026-10-31
 ---
 
 > [!warning] For Natural State to review
-> Natural State has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Natural State about anything. Until Natural State has approved the text, it may change. Questions for Natural State:
+> Natural State has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Natural State about anything. Until Natural State has approved the text, it may change. Questions for Natural State:
 >
 > 1. Is this description of Natural State's work correct? What would you like to change?
 > 2. Where is Natural State registered, and is it a non-profit?
@@ -31,7 +31,7 @@ Natural State is an organisation that builds technology and training for restori
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -43,7 +43,7 @@ Natural State is an organisation that builds technology and training for restori
 | Website | [naturalstate.org](https://www.naturalstate.org) |
 | Role | Tools for measuring nature, and restoration projects [MS] |
 | Link to the valley | Indirect. It runs sound monitoring trials with Wild Restoration [MS] |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

@@ -28,7 +28,7 @@ For most of the valley's human history there was no money here, and nobody owned
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 > [!note] Reading this page
-> The *Markets* pages follow the M of the [[history/the-time-model|TIME model]]: exchange at a price. The facts carry tags. The comparisons with San and Khoekhoe ways of holding land, and the reading of what the changes meant, are the Forum's interpretation.
+> The *Markets* pages follow the M of the [[history/the-time-model|TIME model]]: exchange at a price. The facts carry tags. The comparisons with San and Khoekhoe ways of holding land, and the reading of what the changes meant, are the DevForum's interpretation.
 
 ## Before money
 
@@ -72,7 +72,7 @@ A century later, the Group Areas Act used the market in land against the people 
 
 The questions of money and land are still open in the valley. The land of Farm 39 is still held in trust, and the process to transfer it has not been completed since it began in 2002 [IC]. Theewaterskloof Municipality's Financial Recovery Plan of 2025 reports that many residents of Genadendal hold that the land does not belong to the municipality, and that Genadendal accounts for about a fifth of the municipality's outstanding debt [IC]. See [[trancraa-process-farm-39|TRANCRAA and Farm 39]].
 
-The Forum's long-term goal proposes a BioConomy, in which more of what the valley has stays in the valley, including water in the ground and healthy soil [MS]. In the terms of this page, it asks whether money and markets can be made to serve the kind of care for land that the valley's first peoples practised. See [[long-term-goal|Our Long-Term Goal]] and [[history/what-began-here|What Began Here]].
+The DevForum's long-term goal proposes a BioConomy, in which more of what the valley has stays in the valley, including water in the ground and healthy soil [MS]. In the terms of this page, it asks whether money and markets can be made to serve the kind of care for land that the valley's first peoples practised. See [[long-term-goal|Our Long-Term Goal]] and [[history/what-began-here|What Began Here]].
 
 ## Timeline
 

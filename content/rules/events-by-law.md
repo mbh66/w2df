@@ -24,7 +24,7 @@ last_checked: 2026-10-01
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this by-law, and people it affects, can correct it. It explains the by-law in plain language, and it does not give legal advice or speak for the Forum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this by-law, and people it affects, can correct it. It explains the by-law in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
@@ -41,7 +41,7 @@ Theewaterskloof Municipality's By-law relating to the Holding of Events says whe
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the rule could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the rule could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -69,9 +69,9 @@ Theewaterskloof Municipality's By-law relating to the Holding of Events says whe
 
 **Races and rides.** Mountain-bike events on Greyton's trails, such as those the [[cultural/sport-heritage-arts-culture/greyton-mtb-club|Greyton MTB Club]] supports, bring in more than 30 people and usually use public roads or land, so they fall under the by-law and under the national events safety law.
 
-**Fundraisers and festivals.** Fundraisers by clubs and schools, church festivals, and 2038 tercentenary events can fall under the by-law. Events at a church or school used in the normal way may be exempt [TBV]. The 30-day notice is the detail most often missed, and the Forum suggests organisers in the valley plan back from it.
+**Fundraisers and festivals.** Fundraisers by clubs and schools, church festivals, and 2038 tercentenary events can fall under the by-law. Events at a church or school used in the normal way may be exempt [TBV]. The 30-day notice is the detail most often missed, and the DevForum suggests organisers in the valley plan back from it.
 
-**Forum meetings.** A meeting of the Forum at a hall used for meetings is the kind of gathering the exemptions appear to cover [TBV].
+**DevForum meetings.** A meeting of the DevForum at a hall used for meetings is the kind of gathering the exemptions appear to cover [TBV].
 
 ## Relevance to W2DF
 

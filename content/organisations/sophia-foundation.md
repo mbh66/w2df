@@ -16,10 +16,10 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Sophia Foundation to review
-> Sophia Foundation has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Sophia Foundation about anything. Until Sophia Foundation has approved the text, it may change. Questions for Sophia Foundation:
+> Sophia Foundation has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Sophia Foundation about anything. Until Sophia Foundation has approved the text, it may change. Questions for Sophia Foundation:
 >
 > 1. Is this description of the Foundation's support correct? What would you like to change?
-> 2. Where is the Foundation based, and may the Forum link to its website?
+> 2. Where is the Foundation based, and may the DevForum link to its website?
 > 3. Should readers reach you through the moderators, or through a public contact?
 
 The Sophia Foundation matches community donations to the Greyton Nature Programme rand for rand, up to R500,000 a year [MS]. The programme is run by the [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]] [MS].
@@ -28,7 +28,7 @@ The Sophia Foundation matches community donations to the Greyton Nature Programm
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -40,7 +40,7 @@ The Sophia Foundation matches community donations to the Greyton Nature Programm
 | Website | Not yet known |
 | Role | Matched funding for the Greyton Nature Programme [MS] |
 | Link to the valley | Direct. It funds work in the [[economic/farmers-land-water/greyton-nature-reserve\|Greyton Nature Reserve]] |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

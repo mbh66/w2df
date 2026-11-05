@@ -23,11 +23,11 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For the Greater Cape Town Water Fund to review
-> The Greater Cape Town Water Fund has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The Forum has not approached the Greater Cape Town Water Fund about anything. Until the Greater Cape Town Water Fund has approved the text, it may change. Questions for the Greater Cape Town Water Fund:
+> The Greater Cape Town Water Fund has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The DevForum has not approached the Greater Cape Town Water Fund about anything. Until the Greater Cape Town Water Fund has approved the text, it may change. Questions for the Greater Cape Town Water Fund:
 >
 > 1. Is this description of the water fund correct? What would you like to change?
 > 2. Which seven sub-catchments are the fund's priorities? Is the Theewaterskloof Dam catchment one of them?
-> 3. Does the fund support clearing in the Riviersonderend mountains through [[organisations/capenature|CapeNature]], as Wild Restoration has told the Forum? If so, on which slopes?
+> 3. Does the fund support clearing in the Riviersonderend mountains through [[organisations/capenature|CapeNature]], as Wild Restoration has told the DevForum? If so, on which slopes?
 > 4. Should readers reach you through the moderators, or through a public contact?
 
 The Greater Cape Town Water Fund clears invasive plants from the mountain catchments that feed the dams supplying Cape Town [MS]. [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy]] and the [[organisations/city-of-cape-town|City of Cape Town]] set it up in 2018, after the drought, as a partnership between public bodies and private companies [MS]. The Nature Conservancy leads it [MS]. Since April 2026 the Cape Water Performance-Based Bond has paid for its next five years of work [MS]. The valley lies downstream of Theewaterskloof Dam, the largest dam in the system the fund works for [IC].
@@ -48,7 +48,7 @@ The Greater Cape Town Water Fund clears invasive plants from the mountain catchm
 | Website | Pages on [nature.org](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/cape-town-africa-water-fund/) |
 | Role | The programme through which the Cape Water Performance-Based Bond's clearing is done [MS] |
 | Link to the valley | Reported, not yet confirmed in writing: clearing in the Riviersonderend mountains through CapeNature [TBV] |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 
@@ -64,7 +64,7 @@ A water fund pools money from the people and businesses that use water, and spen
 
 **CapeNature.** CapeNature sits on the fund's steering committee [MS]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]] says its current focus is the high-altitude wetlands of the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] and nearby CapeNature land [MS]. Wild Restoration lists CapeNature as a partner [MS].
 
-**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the Forum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with CapeNature [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
+**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the DevForum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with CapeNature [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
 
 ## Relevance to W2DF
 
@@ -76,7 +76,7 @@ A water fund pools money from the people and businesses that use water, and spen
 ## What is still open
 
 - Which seven sub-catchments are the fund's priorities. The public sources found so far do not name them.
-- Whether the fund supports clearing in the Riviersonderend mountains through CapeNature, and on which slopes. This was reported to the Forum in conversation and is not yet confirmed in writing.
+- Whether the fund supports clearing in the Riviersonderend mountains through CapeNature, and on which slopes. This was reported to the DevForum in conversation and is not yet confirmed in writing.
 - Who sits on the steering committee today. The list above is from 2020.
 
 ## Have your say
@@ -103,5 +103,5 @@ If you know more about the water fund's work in the valley's mountains or rivers
 - JSE. [JSE welcomes Africa's first nature-linked performance-based bond](https://www.jse.co.za/news/news/jse-welcomes-africas-first-naturelinked-performancebased-bond-1) (17 April 2026). The listing, the issuer, the FirstRand Foundation's role, and returns linked to verified restoration.
 - City of Cape Town. [Dam levels](https://web1.capetown.gov.za/web1/newsandnotices/Home/Release/dam-levels) (August 2026). The dams of the Western Cape Water Supply System and their capacities.
 - Wikipedia. [Theewaterskloof Dam](https://en.wikipedia.org/wiki/Theewaterskloof_Dam). Its river, its owner, and its place in the Western Cape Water Supply System.
-- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the Forum in conversation and is not on this page.
+- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the DevForum in conversation and is not on this page.
 - BioConomy wiki. [Performance-Based Water Bonds](https://wiki.bioconomy.earth/concepts/performance-based-water-bonds). How bonds of this kind work, with the Cape Water bond as the first example.

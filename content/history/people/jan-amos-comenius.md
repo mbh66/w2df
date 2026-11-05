@@ -99,7 +99,7 @@ flowchart TD
 
 - Genadendal's school has been teaching since 1738, and it is now [[lr-schmidt-primary|L.R. Schmidt Primary School]] [MS]. South Africa's first teachers' training college opened in Genadendal in 1838 [IC]. Both grew out of the church Comenius led.
 - The [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]] idea proposes project-based learning, where a class learns its subjects by working on a real question about the valley. That idea is close to Comenius's view of the world as a textbook.
-- The Forum's research on schooling calls the valley's 300-year link to Comenius its strongest and least copied strength as a place of learning [MS].
+- The DevForum's research on schooling calls the valley's 300-year link to Comenius its strongest and least copied strength as a place of learning [MS].
 
 ## What is still open
 

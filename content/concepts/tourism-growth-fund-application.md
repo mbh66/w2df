@@ -19,7 +19,7 @@ aliases: [Tourism Growth Fund application, TGF application, Heritage Trail and N
 updated: 2026-09-28
 ---
 
-> **This idea is not yet agreed.** At its [[2026-09-16-inaugural-meeting|first meeting]], the Forum agreed that the proposal goes to the Transformasie Komitee in writing first [MS]. This page will be published once the Komitee has received it, and the Komitee's response will be added here. The proposal will also be tabled at the Forum's November 2026 meeting.
+> **This idea is not yet agreed.** At its [[2026-09-16-inaugural-meeting|first meeting]], the DevForum agreed that the proposal goes to the Transformasie Komitee in writing first [MS]. This page will be published once the Komitee has received it, and the Komitee's response will be added here. The proposal will also be tabled at the DevForum's November 2026 meeting.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.

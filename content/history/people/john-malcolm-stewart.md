@@ -61,4 +61,4 @@ How he came to own the farm, whether he lived on it, and what he used it for are
 
 - Greyton Transition Town. [About Greyton](https://greytontransition.co.za/about-greyton/). Stewart as the first British owner of Weltevreden in 1839.
 - Xplorio Greyton. [History of Greyton and Genadendal](https://xplorio.com/greyton/en/about/history/). The owners of Weltevreden, including Stewart in 1839.
-- *Valley of Grace: Significant Dates* (2026). Forum research notes, held by the Forum. Stewart as the first British owner in 1839.
+- *Valley of Grace: Significant Dates* (2026). DevForum research notes, held by the DevForum. Stewart as the first British owner in 1839.

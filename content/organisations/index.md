@@ -31,7 +31,7 @@ Use the tabs above the table to see one group at a time.
 > [!warning] Pages written before anyone was asked
 > None of the organisations outside the valley have been asked about their page yet. Each page describes the organisation only through what it has said or done in public, with a tag after each fact showing where it comes from. Each page opens with questions for the organisation, and will be corrected when it replies. To correct or add to a page, see [[how-to-submit|How to Submit]].
 
-None of these organisations is a Forum initiative, so they do not appear on [[register|The Register]].
+None of these organisations is a DevForum initiative, so they do not appear on [[register|The Register]].
 
 ### Cape Town's water supply
 
@@ -60,9 +60,9 @@ How bonds of this kind work in general is explained on the BioConomy wiki, at [P
 
 ### How the bond reaches the valley
 
-Theewaterskloof Dam is the largest dam in the Western Cape Water Supply System, which supplies Cape Town [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the Forum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with CapeNature [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
+Theewaterskloof Dam is the largest dam in the Western Cape Water Supply System, which supplies Cape Town [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the DevForum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with CapeNature [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
 
-Three ideas tabled at the Forum build on the bond: [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]], [[concepts/restoring-the-river|Restoring the River]], and [[concepts/ridge-to-river-to-table|Ridge to River to Table]]. None of the organisations in this section have been asked about them.
+Three ideas tabled at the DevForum build on the bond: [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]], [[concepts/restoring-the-river|Restoring the River]], and [[concepts/ridge-to-river-to-table|Ridge to River to Table]]. None of the organisations in this section have been asked about them.
 
 ## What gets a page
 

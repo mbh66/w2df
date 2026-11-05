@@ -26,7 +26,7 @@ links:
 updated: 2026-11-04
 ---
 
-> **This idea is not yet agreed.** [[organisations/kwaxala|Kwaxala]] has been approached and has said it wants to work with the valley (see below). The other organisations named on this page have not yet been asked. They include the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the Zonderend Water Users Association, the [[organisations/city-of-cape-town|City of Cape Town]], the Transformasie Komitee, the Moravian Church, and [[organisations/capenature|CapeNature]]. **Please do not share this page publicly yet.** The idea will be tabled at the Forum's November 2026 meeting, with the [[concepts/valley-of-grace-learning-campus|Learning Campus]] and [[concepts/restoring-the-river|Restoring the River]].
+> **This idea is not yet agreed.** [[organisations/kwaxala|Kwaxala]] has been approached and has said it wants to work with the valley (see below). The other organisations named on this page have not yet been asked. They include the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the Zonderend Water Users Association, the [[organisations/city-of-cape-town|City of Cape Town]], the Transformasie Komitee, the Moravian Church, and [[organisations/capenature|CapeNature]]. **Please do not share this page publicly yet.** The idea will be tabled at the DevForum's November 2026 meeting, with the [[concepts/valley-of-grace-learning-campus|Learning Campus]] and [[concepts/restoring-the-river|Restoring the River]].
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -43,7 +43,7 @@ updated: 2026-11-04
 
 ## From access to agency
 
-The Forum's food work is moving from food security to food sovereignty [MS]. That shifts the question from access to agency: from whether people can get food to whether the community can feed itself on its own terms, from its own soil and by its own decisions. See [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]].
+The DevForum's food work is moving from food security to food sovereignty [MS]. That shifts the question from access to agency: from whether people can get food to whether the community can feed itself on its own terms, from its own soil and by its own decisions. See [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]].
 
 This page makes the same shift for water. Today decisions about the valley's water are made elsewhere. The Department of Water and Sanitation runs Theewaterskloof Dam and the scheme that shares its water [IC]. The question for the valley has been how much water it can get.
 
@@ -119,7 +119,7 @@ Buyers of this kind already exist. In April 2026 [[organisations/firstrand-bank|
 
 [Kwaxala](https://www.kwaxala.com) describes itself as an Indigenous nature regeneration network [MS]. It buys existing rights to log forests, turns them into rights to regenerate the forest, and returns the forest to the care of the Indigenous Nation whose land it is [MS]. Its first project covers about 55,000 hectares in British Columbia, Canada, with the Kwiakah First Nation [MS]. Income comes from carbon credits and other services the forest provides, and investors can buy what Kwaxala calls Living Forest Shares [MS]. It says its model can be used anywhere, on public and private land [MS]. Kwaxala is majority owned by its Indigenous partners, and it says more than 90% of the revenue from each forest stays in the local community [MS]. The Valley of Grace BioHub already names Kwaxala as a model to learn from [MS].
 
-In September 2026 Pete Corke, Kwaxala's Director of Vision and Leadership, told the Forum's convenors that Kwaxala wants to work with the valley [MS]. The aim would be to take existing water rights and turn them into rights to regenerate the river's flow, in the same way Kwaxala has turned logging rights into rights to regenerate forests [MS].
+In September 2026 Pete Corke, Kwaxala's Director of Vision and Leadership, told the DevForum's convenors that Kwaxala wants to work with the valley [MS]. The aim would be to take existing water rights and turn them into rights to regenerate the river's flow, in the same way Kwaxala has turned logging rights into rights to regenerate forests [MS].
 
 ### Doing it within South African law
 
@@ -156,9 +156,9 @@ Nothing has been costed [MS]. Possible sources:
 - The Zonderend Water Users Association represents the water users on the river [MS].
 - Landowners decide what happens on their land. Anything on Farm 39 land, and Farm 39's own water, would go to the Transformasie Komitee first.
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
-The Forum's [[long-term-goal|long-term goal]] names clean rivers as one of the things nobody pays for today, and plans a BioConomy that keeps water in the ground and value in the valley. This idea would let the valley be paid for water it gives others, and give it a say in how that water is shared.
+The DevForum's [[long-term-goal|long-term goal]] names clean rivers as one of the things nobody pays for today, and plans a BioConomy that keeps water in the ground and value in the valley. This idea would let the valley be paid for water it gives others, and give it a say in how that water is shared.
 
 It follows the three values of the long-term goal:
 
@@ -166,7 +166,7 @@ It follows the three values of the long-term goal:
 - **Equality (civic).** The Reserve comes first, and water stays held in trust for everyone.
 - **Freedom (cultural).** The valley decides how it cares for its own land, and learns the skills to do it.
 
-It serves three of the Forum's [[priorities/index|priorities]]: [[priorities/education-skills|Education and Skills]], [[priorities/conservation-environment|Conservation and Environment]], and [[priorities/business-procurement|Business Development and Local Procurement]].
+It serves three of the DevForum's [[priorities/index|priorities]]: [[priorities/education-skills|Education and Skills]], [[priorities/conservation-environment|Conservation and Environment]], and [[priorities/business-procurement|Business Development and Local Procurement]].
 
 ## What is still open
 
@@ -184,8 +184,8 @@ It serves three of the Forum's [[priorities/index|priorities]]: [[priorities/edu
 ## What happens next
 
 1. The Zonderend Water Users Association, the Transformasie Komitee, and the Moravian Church are asked for their views.
-2. The idea is tabled at the Forum's November 2026 meeting.
-3. If the Forum wants to go further, it works with Kwaxala to map the legal route, and asks the Department of Water and Sanitation and the Breede-Olifants Catchment Management Agency whether water added below the dam could be counted.
+2. The idea is tabled at the DevForum's November 2026 meeting.
+3. If the DevForum wants to go further, it works with Kwaxala to map the legal route, and asks the Department of Water and Sanitation and the Breede-Olifants Catchment Management Agency whether water added below the dam could be counted.
 4. The valley begins measuring its streams, so that it has its own record of how much water they carry.
 
 ## Have your say
@@ -243,7 +243,7 @@ On Kwaxala:
 
 - Kwaxala. [Home page](https://www.kwaxala.com). Its model, Living Forest Shares, and its pilot with the Kwiakah First Nation.
 - Kwaxala. [About](https://www.kwaxala.com/about). Its ownership, the share of revenue kept by communities, and its founding team.
-- Corke, P. Conversation with the Forum's convenors, September 2026. Kwaxala's wish to work with the valley on water rights.
+- Corke, P. Conversation with the DevForum's convenors, September 2026. Kwaxala's wish to work with the valley on water rights.
 - Ecosystem Marketplace. [State of Private Investment in Nature 2026: Kwaxala](https://www.ecosystemmarketplace.com/publications/gaining-ground-state-of-private-investment-in-nature-2026/kwaxala/). A case study of how Kwaxala turns a forest licence into an asset. Register entry: [[research/ecosystem-marketplace-private-investment-in-nature|State of Private Investment in Nature 2026]].
 - BioConomy Wiki. [Needed vs. Needy](https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy). The move from asking for help to offering a service others depend on.
 - Valley of Grace BioHub. [Water Yield](https://biohubs.bioconomy.earth/afrotropic/at12-vog/services/water-yield). The valley's water service as its proposers describe it.

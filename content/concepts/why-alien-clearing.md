@@ -22,7 +22,7 @@ links:
 updated: 2026-11-04
 ---
 
-> **This idea is not yet agreed.** Nobody named on this page has been asked about it yet. That includes [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy South Africa]], the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]], [[organisations/rand-merchant-bank|Rand Merchant Bank]], [[organisations/conservation-alpha|Conservation Alpha]], the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the [[organisations/overberg-water-board|Overberg Water Board]], the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]], the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]], the [[history/institutions/moravian-church|Moravian Church]], [[organisations/capenature|CapeNature]], [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], and the research groups named under *The idea*. **Please do not share this page publicly yet.** It is proposed for the Forum's November 2026 meeting, with the other water ideas.
+> **This idea is not yet agreed.** Nobody named on this page has been asked about it yet. That includes [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy South Africa]], the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]], [[organisations/rand-merchant-bank|Rand Merchant Bank]], [[organisations/conservation-alpha|Conservation Alpha]], the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the [[organisations/overberg-water-board|Overberg Water Board]], the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]], the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]], the [[history/institutions/moravian-church|Moravian Church]], [[organisations/capenature|CapeNature]], [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], and the research groups named under *The idea*. **Please do not share this page publicly yet.** It is proposed for the DevForum's November 2026 meeting, with the other water ideas.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -129,9 +129,9 @@ Nothing has been costed. The [[concepts/ridge-to-river-to-table|Ridge to River t
 
 ## Who would decide
 
-Each landholder would decide whether work happens on their land. Anything on Farm 39 goes to the Transformasie Komitee first, and anything on the Glebe Land (Farm 827) to the Moravian Church, which holds it. Any structure in a watercourse would need the permits the National Water Act requires, from the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]] or the Department of Water and Sanitation. The Forum would decide whether to support the pilot and how to report on it.
+Each landholder would decide whether work happens on their land. Anything on Farm 39 goes to the Transformasie Komitee first, and anything on the Glebe Land (Farm 827) to the Moravian Church, which holds it. Any structure in a watercourse would need the permits the National Water Act requires, from the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]] or the Department of Water and Sanitation. The DevForum would decide whether to support the pilot and how to report on it.
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
 This idea follows the three values of the [[long-term-goal|long-term goal]]:
 
@@ -139,7 +139,7 @@ This idea follows the three values of the [[long-term-goal|long-term goal]]:
 - **Equality (civic).** Landholders would hold the records of what their land gives, on the same footing as the bodies that buy water.
 - **Freedom (cultural).** The valley would test its own ideas about water and learn from the results.
 
-It serves the Forum's [[priorities/conservation-environment|Conservation and Environment]] priority.
+It serves the DevForum's [[priorities/conservation-environment|Conservation and Environment]] priority.
 
 ## What is still open
 
@@ -153,12 +153,12 @@ It serves the Forum's [[priorities/conservation-environment|Conservation and Env
 
 ## What happens next
 
-1. The idea is tabled at the Forum's November 2026 meeting, with the other water ideas.
+1. The idea is tabled at the DevForum's November 2026 meeting, with the other water ideas.
 2. The moderators confirm the farm list, the owners and the hectares, and share the page with the Transformasie Komitee.
-3. The Forum writes to the research groups named above to ask whether they would design or check a pilot.
+3. The DevForum writes to the research groups named above to ask whether they would design or check a pilot.
 4. The valley maps which of its 11,194 hectares are degraded, invaded or suited to retention work.
 5. Gauges go in on the Gobos and Baviaans before the 2027 winter, so that a full year of records exists before any work starts.
-6. The Forum asks The Nature Conservancy and the Water Fund how a second outcome measure could be added to a future bond.
+6. The DevForum asks The Nature Conservancy and the Water Fund how a second outcome measure could be added to a future bond.
 
 ## Have your say
 

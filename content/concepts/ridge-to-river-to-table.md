@@ -34,7 +34,7 @@ links:
 updated: 2026-09-29
 ---
 
-> **This idea is not yet agreed.** It draws together eight ideas already on this site, and none of those are agreed either. It answers a concept paper by [[organisations/ranyaka-community-transformation|Ranyaka Community Transformation]], and will be discussed with Ranyaka at a meeting at the end of October 2026 [MS]. Everything in it that touches Farm 39 land is sent to the Transformasie Komitee in writing, with 21 days to respond before it is tabled. [[organisations/kwaxala|Kwaxala]] has said it wants to work with the valley on water (see [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]]). [[organisations/rand-merchant-bank|Rand Merchant Bank]] (RMB) and the other organisations named on this page have not been approached. They include the [[organisations/cape-leopard-trust|Cape Leopard Trust]], the [[organisations/landmark-foundation|Landmark Foundation]], [[organisations/capenature|CapeNature]], the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the Zonderend Water Users Association, Wild Restoration, the Greyton Conservation Society, Emil Weder Secondary's governing body, and Theewaterskloof Municipality. **Please do not share this page publicly yet.** The idea will be tabled at the Forum's November 2026 meeting.
+> **This idea is not yet agreed.** It draws together eight ideas already on this site, and none of those are agreed either. It answers a concept paper by [[organisations/ranyaka-community-transformation|Ranyaka Community Transformation]], and will be discussed with Ranyaka at a meeting at the end of October 2026 [MS]. Everything in it that touches Farm 39 land is sent to the Transformasie Komitee in writing, with 21 days to respond before it is tabled. [[organisations/kwaxala|Kwaxala]] has said it wants to work with the valley on water (see [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]]). [[organisations/rand-merchant-bank|Rand Merchant Bank]] (RMB) and the other organisations named on this page have not been approached. They include the [[organisations/cape-leopard-trust|Cape Leopard Trust]], the [[organisations/landmark-foundation|Landmark Foundation]], [[organisations/capenature|CapeNature]], the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the Zonderend Water Users Association, Wild Restoration, the Greyton Conservation Society, Emil Weder Secondary's governing body, and Theewaterskloof Municipality. **Please do not share this page publicly yet.** The idea will be tabled at the DevForum's November 2026 meeting.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -116,8 +116,8 @@ The corridor strand would treat the valley's mountains as the missing middle pie
 Ranyaka's paper describes a thin shared layer that holds knowledge of the place and the skills to turn money into lasting value [MS]. The valley already has parts of that layer:
 
 - **Knowledge of the place.** This site's [[register|Register]] records initiatives in the ward with what each needs and offers [MS]. The Valley of Grace Nature Realm has covered about 10,000 hectares since July 2026, with records of plants, animals and heritage [MS].
-- **A landscape partnership.** The Forum first met on 16 September 2026, agreed five priorities, and receives administrative support from Theewaterskloof Municipality [MS].
-- **A way to measure change.** The Forum plans a household [[w2df/concepts/the-yearly-valley-survey|Annual Survey]] from 2027 [MS]. Its questions on where money is spent would show how much of each rand stays in the valley.
+- **A landscape partnership.** The DevForum first met on 16 September 2026, agreed five priorities, and receives administrative support from Theewaterskloof Municipality [MS].
+- **A way to measure change.** The DevForum plans a household [[w2df/concepts/the-yearly-valley-survey|Annual Survey]] from 2027 [MS]. Its questions on where money is spent would show how much of each rand stays in the valley.
 
 What the valley lacks is the professional side: contracting, financial management, independent monitoring, and a registered body able to sign a funding agreement.
 
@@ -178,20 +178,20 @@ Other money already requested or open to the valley would sit beside this:
 - The Heritage Trail application asks the [[organisations/western-cape-department-of-economic-development-and-tourism|Western Cape Tourism Growth Fund]] for R691,350 of a project costing about R1.8 million [MS]. The Rotary Club of Greyton has budgeted R70,000 towards it [MS].
 - SETA grants and learner stipends, once courses are registered.
 - The Comprehensive Agricultural Support Programme, for the co-operative's growers.
-- Theewaterskloof Municipality's administrative support to the Forum [MS].
+- Theewaterskloof Municipality's administrative support to the DevForum [MS].
 - Outcomes payments for water, from year three, if the valley's water can be counted.
 
 ## Who would decide
 
-- **The Forum**, whether to put this idea to RMB, and which strands to include.
+- **The DevForum**, whether to put this idea to RMB, and which strands to include.
 - **The Transformasie Komitee**, first, for anything on [[villages/farm-39|Farm 39]] land: stewardship agreements, trails, camera sites, co-operative plots, and water.
 - **Each strand's own decision-makers**, as set out on its page: the co-operative's members, the Learning Campus trust, landowners, CapeNature for its reserves, and the water authorities for anything that touches water rights.
 - **Ranyaka**, under a written agreement, for the functions it would host, until they are handed over.
 - **RMB and any other funder**, for what they fund and on what terms.
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
-The Forum's [[long-term-goal|long-term goal]] plans a [BioConomy](https://wiki.bioconomy.earth/concepts/bioregional-economics) that keeps more of what the valley has in the valley: money, skills, water in the ground, and healthy soil. This idea would pay for the things the goal says nobody pays for today, such as clean rivers and healthy veld, and would measure whether more value stays.
+The DevForum's [[long-term-goal|long-term goal]] plans a [BioConomy](https://wiki.bioconomy.earth/concepts/bioregional-economics) that keeps more of what the valley has in the valley: money, skills, water in the ground, and healthy soil. This idea would pay for the things the goal says nobody pays for today, such as clean rivers and healthy veld, and would measure whether more value stays.
 
 It follows the three values of the long-term goal:
 
@@ -199,12 +199,12 @@ It follows the three values of the long-term goal:
 - **Equality (civic).** Every village has a route into the work; the survey reports each village on its own, and the Komitee decides first on Farm 39 land.
 - **Freedom (cultural).** The valley tells its own story of its land and heritage, and decides what its learners study.
 
-It serves all five of the Forum's [[priorities/index|priorities]]: [[priorities/tourism-development|Tourism Development]], [[priorities/education-skills|Education and Skills]], [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]], [[priorities/conservation-environment|Conservation and Environment]], and [[priorities/business-procurement|Business Development and Local Procurement]].
+It serves all five of the DevForum's [[priorities/index|priorities]]: [[priorities/tourism-development|Tourism Development]], [[priorities/education-skills|Education and Skills]], [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]], [[priorities/conservation-environment|Conservation and Environment]], and [[priorities/business-procurement|Business Development and Local Procurement]].
 
 ## What is still open
 
 - **The Komitee's view.** Much of the ground in this idea is Farm 39 land in the unfinished [[trancraa-process-farm-39|TRANCRAA]] process. Stewardship agreements, co-operative plots, trails and camera sites all depend on the [[genadendal-transformasie-komitee|Transformasie Komitee]]. It has not been asked.
-- **The eight ideas themselves.** Each goes to the Forum on its own. If one is dropped or changed in November, this idea changes with it.
+- **The eight ideas themselves.** Each goes to the DevForum on its own. If one is dropped or changed in November, this idea changes with it.
 - **Ranyaka's view.** Whether Ranyaka would host the shared layer, on what terms, and how the handover would work. To be discussed at the end of October.
 - **RMB.** RMB has not been approached.
 - **Counting the water.** The Cape Water bond pays for water that reaches the dams supplying Cape Town. The valley's streams join the river below Theewaterskloof. Whether that water can be counted, and whether the valley's slopes fall inside the Boland strategic water source area, has not been confirmed [TBV]. The Department of Water and Sanitation and the catchment agency have not been asked.
@@ -217,8 +217,8 @@ It serves all five of the Forum's [[priorities/index|priorities]]: [[priorities/
 
 1. The parts that touch Farm 39 land go to the Transformasie Komitee in writing.
 2. This page is discussed with Ranyaka at the end of October 2026.
-3. The idea is tabled at the Forum's November 2026 meeting, with the eight ideas it draws on.
-4. If the Forum agrees, the portfolio is costed strand by strand, and the handover schedule with Ranyaka is drafted.
+3. The idea is tabled at the DevForum's November 2026 meeting, with the eight ideas it draws on.
+4. If the DevForum agrees, the portfolio is costed strand by strand, and the handover schedule with Ranyaka is drafted.
 5. Only then is the idea taken to RMB.
 
 ## Have your say

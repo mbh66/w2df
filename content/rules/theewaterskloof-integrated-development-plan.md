@@ -24,7 +24,7 @@ updated: 2026-10-30
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this plan, and people it affects, can correct it. It explains the plan in plain language, and it does not give legal advice or speak for the Forum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this plan, and people it affects, can correct it. It explains the plan in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
@@ -40,7 +40,7 @@ The Integrated Development Plan (IDP) is Theewaterskloof Municipality's main pla
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the plan could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the plan could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -63,7 +63,7 @@ The Integrated Development Plan (IDP) is Theewaterskloof Municipality's main pla
 
 ## What it means in the valley
 
-**A project not in the IDP is unlikely to be funded by the municipality.** The budget must follow the IDP, so a road, a hall, or a water project that the valley wants the municipality to pay for needs to appear on the Community Needs List and then in the plan. The Forum reads the yearly meeting, in November or December, as the date to work back from.
+**A project not in the IDP is unlikely to be funded by the municipality.** The budget must follow the IDP, so a road, a hall, or a water project that the valley wants the municipality to pay for needs to appear on the Community Needs List and then in the plan. The DevForum reads the yearly meeting, in November or December, as the date to work back from.
 
 **Ward 2 speaks as one ward.** Stats SA figures and the needs list both treat Ward 2's seven settlements as one ward [IC]. Differences between Greyton, Genadendal, and Madiba Park do not show up unless residents raise them. The [[concepts/the-yearly-valley-survey|Yearly Valley Survey]] is an idea for giving the valley its own figures, settlement by settlement, ready for each review.
 
@@ -94,7 +94,7 @@ Appendix 1 also summarises issues raised in "Greyton & Genadendal" (pages 314 to
 ## Relevance to W2DF
 
 - [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]]: timing a valley survey to reach the municipality before each review.
-- [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]] and [[priorities/index|Forum Priorities]]: the Forum's five priorities, which could be put to the IDP.
+- [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]] and [[priorities/index|DevForum Priorities]]: the DevForum's five priorities, which could be put to the IDP.
 - [[civic/residents-association/madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]]: the Madiba Park electrification project, budgeted in 2022 and cut in 2023.
 
 ## Who to ask

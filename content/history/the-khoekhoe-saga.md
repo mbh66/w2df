@@ -120,7 +120,7 @@ The last episode looks at Khoi and San revival [MS]. The series says that over t
 - The series is cited as one source. What it says is tagged [MS], unless another source that does not depend on it says the same thing.
 - The director told the moderators that the claims in the trailer and promotions are accurate, and that the early history in the series comes from Dutch East India Company records and missionary diaries [MS]. This is the makers' own account of their work, so claims that rest on it stay [MS]. A claim moves to [IC] when the record behind it (a named company journal or missionary diary, for example) is found and listed under *References*.
 - Words from the automatic captions are used only where they are clear.
-- Speakers' views, such as who is responsible for taking Khoi land, are given in their words and tagged [MS]. The Forum takes no position on them.
+- Speakers' views, such as who is responsible for taking Khoi land, are given in their words and tagged [MS]. The DevForum takes no position on them.
 
 ## What is still open
 

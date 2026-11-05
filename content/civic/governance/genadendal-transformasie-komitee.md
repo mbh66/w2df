@@ -35,7 +35,7 @@ The Genadendal Transformasie Komitee is the committee elected by residents of Fa
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by at least two sources that do not depend on each other, or by an official record such as a court order, a law, or a government report.
-> - **[MS] Mission-Sourced.** Comes from one party's own documents or statements, or from the Forum's research notes. It has not been checked against other sources.
+> - **[MS] Mission-Sourced.** Comes from one party's own documents or statements, or from the DevForum's research notes. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 This page describes the Komitee's positions only as its own documents and court papers state them. The Komitee has not yet reviewed this page.
@@ -53,11 +53,11 @@ The Komitee has organised its plan for the valley in eight sectors [MS]:
 7. Faith-based
 8. Youth
 
-At its first meeting on 16 September 2026, the Forum agreed that the Komitee's plan will be brought to the Forum and considered alongside the Forum's five priorities [MS]. What each sector covers, and who leads it, will be added here once the Komitee has shared the plan.
+At its first meeting on 16 September 2026, the DevForum agreed that the Komitee's plan will be brought to the DevForum and considered alongside the DevForum's five priorities [MS]. What each sector covers, and who leads it, will be added here once the Komitee has shared the plan.
 
 ### Where the sectors meet this wiki
 
-The table shows where entries related to each sector are filed on this site. It is a guide to finding them, prepared by the Forum. It does not describe the content of the Komitee's plan.
+The table shows where entries related to each sector are filed on this site. It is a guide to finding them, prepared by the DevForum. It does not describe the content of the Komitee's plan.
 
 | Komitee sector | Where related entries sit on this wiki |
 | --- | --- |
@@ -70,9 +70,9 @@ The table shows where entries related to each sector are filed on this site. It 
 | Faith-based | [[cultural/faith-communities/index\|Faith Communities]] |
 | Youth | No single category. Youth initiatives are filed by subject and tagged youth. |
 
-Seven of the eight sectors match one of the Forum's categories. Two of the Forum's nine categories have no matching sector: [[economic/tourism/index|Tourism]], and [[civic/governance/index|Governance]], which holds this page.
+Seven of the eight sectors match one of the DevForum's categories. Two of the DevForum's nine categories have no matching sector: [[economic/tourism/index|Tourism]], and [[civic/governance/index|Governance]], which holds this page.
 
-[[civic/governance/how-the-forums-categories-compare|How the Forum's Categories Compare]] sets these sectors beside the Forum's categories and the portfolios of a typical residents' association.
+[[civic/governance/how-the-forums-categories-compare|How the DevForum's Categories Compare]] sets these sectors beside the DevForum's categories and the portfolios of a typical residents' association.
 
 ## How the Komitee was formed
 
@@ -132,7 +132,7 @@ The full history of the process is on [[trancraa-process-farm-39|TRANCRAA and Fa
 | 2010 | Applies for an interdict, which did not stop the consultants' report reaching the Minister [MS] |
 | 10 Oct 2014 | Asks the Land Claims Court to stop the municipality and the province "alienating, encumbering or diminishing any portion" of Genadendal; the court strikes the matter from the roll for lack of jurisdiction [IC] |
 | 2025 | Aligns with AfriForum and the Kaapse Forum; a Communal Property Association is being set up to receive the land [MS] |
-| 16 Sep 2026 | Takes part in the Forum's first meeting as a stakeholder [MS] |
+| 16 Sep 2026 | Takes part in the DevForum's first meeting as a stakeholder [MS] |
 
 The 2008 settlement gave the Komitee two seats on a new Steering Committee to oversee the process, alongside one seat each for the Department and the municipality [IC].
 
@@ -149,15 +149,15 @@ These are the views of other parties, in their own words:
 
 - Every page on this site that deals with Farm 39 land, TRANCRAA, land tenure, or Madiba Park is sent to the Komitee for review, and carries a review flag until then.
 - The site describes the Komitee's positions only as its own materials state them.
-- The Forum has agreed not to duplicate bodies already dealing with the TRANCRAA process [MS].
+- The DevForum has agreed not to duplicate bodies already dealing with the TRANCRAA process [MS].
 
 ## What is still open
 
 - What each of the eight sectors covers, and who leads it.
-- How the eight-sector plan and the Forum's five priorities will work together.
+- How the eight-sector plan and the DevForum's five priorities will work together.
 - The Komitee's current membership, office-bearers, and constitution, and whether the 2005 constitution has been amended.
 - The progress of the Communal Property Association, and the roles of AfriForum and the Kaapse Forum.
-- How the Komitee would like to be contacted by residents and by the Forum.
+- How the Komitee would like to be contacted by residents and by the DevForum.
 
 ## Needs
 
@@ -165,11 +165,11 @@ None stated yet.
 
 ## Offers
 
-- An eight-sector plan for the valley, to be brought to the Forum [MS]
+- An eight-sector plan for the valley, to be brought to the DevForum [MS]
 
 ## How to get involved
 
-To contact the Komitee through the Forum, or to add or correct anything on this page, contact the moderators via [[how-to-submit|How to Submit]].
+To contact the Komitee through the DevForum, or to add or correct anything on this page, contact the moderators via [[how-to-submit|How to Submit]].
 
 ## Related
 
@@ -178,15 +178,15 @@ To contact the Komitee through the Forum, or to add or correct anything on this 
 - [[madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]]
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]
 - [[civic/governance/minutes/2026-09-16-inaugural-meeting|Inaugural Meeting, 16 September 2026]]
-- [[priorities/index|Forum priorities]]
-- [[civic/governance/how-the-forums-categories-compare|How the Forum's Categories Compare]]
+- [[priorities/index|DevForum priorities]]
+- [[civic/governance/how-the-forums-categories-compare|How the DevForum's Categories Compare]]
 - [[villages/genadendal|Genadendal]]
 - [[rules/trancraa|Transformation of Certain Rural Areas Act]]
 - [[rules/communal-property-associations-act|Communal Property Associations Act]]
 
 ## References
 
-The Komitee's documents (held by the Forum, and listed on the Ward 2 Forum's [legal reference documents page, archived 2017](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/)):
+The Komitee's documents (held by the DevForum, and listed on the Ward 2 Forum's [legal reference documents page, archived 2017](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/)):
 
 - *Grondwet vir die Genadendal Transformasie Komitee* (April 2005). The Komitee's constitution, in Afrikaans.
 - *Gedragskode vir Genadendal Transformasie Komitee* (received by the municipality 15 March 2005). The Komitee's code of conduct.
@@ -209,6 +209,6 @@ The Komitee's documents (held by the Forum, and listed on the Ward 2 Forum's [le
 - [Part 7: Choice of Entity (17 May 2017)](https://web.archive.org/web/20230204061021/https://ward2forum.org/wp-content/uploads/2017/05/FARM-39-PART-7-FINAL.pdf) Register entry: [[research/ward-2-forum-farm-39-the-lost-18-years|Farm 39 Transformation: The Lost 18 Years]].
 - [Part 8: Agreements and Disagreements (24 May 2017)](https://web.archive.org/web/20230204050814/https://ward2forum.org/wp-content/uploads/2017/05/FARM-39-PART-8-FINAL.pdf). Summary of the Komitee's constitution, the Houw Hoek agreement, and the 2010 interdict.
 
-### Forum records:
+### DevForum records:
 
 - [[civic/governance/minutes/2026-09-16-inaugural-meeting|Inaugural Meeting, 16 September 2026]]. The Komitee as stakeholder, and the eight-sector plan.

@@ -29,7 +29,7 @@ Each page gives the sources for its facts. Where an institution's own records ar
 
 [[history/the-time-model|TIME]] reads the valley's history through four forms of organisation: Tribes, Institutions, Markets, and Emergent. Each new form is added to the ones before it, and none comes to a close. The general model has its home on the BioConomy wiki, at [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework).
 
-In the Forum's reading, Institutions was the most dominant form in the valley from about 1713 to about 1860. It is still at work today in the churches and schools and in the municipality. This reading carries no fact-status tag, and residents may read the history differently. [[history/the-valley-through-time|The Valley Through TIME]] explains the dates.
+In the DevForum's reading, Institutions was the most dominant form in the valley from about 1713 to about 1860. It is still at work today in the churches and schools and in the municipality. This reading carries no fact-status tag, and residents may read the history differently. [[history/the-valley-through-time|The Valley Through TIME]] explains the dates.
 
 ## Have your say
 

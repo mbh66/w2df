@@ -20,7 +20,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Conservation Alpha to review
-> Conservation Alpha has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The Forum has not approached Conservation Alpha about anything. Until Conservation Alpha has approved the text, it may change. Questions for Conservation Alpha:
+> Conservation Alpha has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The DevForum has not approached Conservation Alpha about anything. Until Conservation Alpha has approved the text, it may change. Questions for Conservation Alpha:
 >
 > 1. Is this description of Conservation Alpha and its work correct? What would you like to change?
 > 2. Where is Conservation Alpha based, and which website should readers use?
@@ -45,7 +45,7 @@ Conservation Alpha is a specialist firm that works on how conservation is valued
 | Website | Not yet known |
 | Role | Independent design and technical agent, Cape Water Performance-Based Bond [MS] |
 | Link to the valley | Indirect. It checks clearing in the catchments of the water supply system whose largest dam lies upstream of the valley |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 
@@ -57,7 +57,7 @@ Conservation Alpha says it combines business management practice with conservati
 
 **The catchments.** [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy South Africa]] does the clearing through the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]], in remote priority catchments of the Western Cape Water Supply System [MS]. The public releases about the bond do not name those catchments.
 
-**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the Forum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with [[organisations/capenature|CapeNature]] [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known. Whether any clearing in those mountains is part of what Conservation Alpha checks is also not known.
+**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the DevForum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with [[organisations/capenature|CapeNature]] [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known. Whether any clearing in those mountains is part of what Conservation Alpha checks is also not known.
 
 ## Relevance to W2DF
 
@@ -92,5 +92,5 @@ If you know more about Conservation Alpha's work in the valley's mountains or ri
 - SAPECS. [About Conservation Alpha](https://sapecs.org/sapecs-news/position-offered-conservation-strategy-officer/). Conservation Alpha's own description of its work, in a job advertisement.
 - City of Cape Town. [Dam levels](https://web1.capetown.gov.za/web1/newsandnotices/Home/Release/dam-levels) (August 2026). The dams of the Western Cape Water Supply System and their capacities.
 - Wikipedia. [Theewaterskloof Dam](https://en.wikipedia.org/wiki/Theewaterskloof_Dam). Its river, its owner, and its place in the Western Cape Water Supply System.
-- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the Forum in conversation and is not on this page.
+- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the DevForum in conversation and is not on this page.
 - BioConomy wiki. [Performance-Based Water Bonds](https://wiki.bioconomy.earth/concepts/performance-based-water-bonds). How bonds of this kind work, with the Cape Water bond as the first example.

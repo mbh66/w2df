@@ -39,7 +39,7 @@ The Adventure Hub is a café, outdoor store, and information centre at 29 Main R
 
 ## Needs
 - Local businesses that offer experiences in Greyton or the Overberg, to join as Hub Partners. The Adventure Hub markets and sells partners' experiences to its customers [MS].
-- Listing on the Theewaterskloof Municipality website as a tourism information point. The Forum recorded this as an action at its first meeting, with the date still to be confirmed [IC].
+- Listing on the Theewaterskloof Municipality website as a tourism information point. The DevForum recorded this as an action at its first meeting, with the date still to be confirmed [IC].
 
 ## Offers
 - **Nature experiences.** Bird walks and nature walks in the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]] led by a local expert, and half-day birding trips on farm roads beyond the village [MS]
@@ -56,4 +56,4 @@ Visit the store on Main Road, book an experience, or apply to become a Hub Partn
 
 ## Related
 - [[genadendal-mission-museum|Genadendal Mission Museum]]
-- [[2026-09-16-inaugural-meeting|Forum inaugural meeting]], which recorded the Adventure Hub's role as a visitor information point
+- [[2026-09-16-inaugural-meeting|DevForum inaugural meeting]], which recorded the Adventure Hub's role as a visitor information point

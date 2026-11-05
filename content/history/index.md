@@ -17,7 +17,7 @@ This section holds the history of the valley and the people who shaped it. It is
 
 ## The story of the valley
 
-- [[history/history-of-the-valley|History of the Valley]]. From the first stone tools to the Forum's first meeting in 2026, with a full timeline.
+- [[history/history-of-the-valley|History of the Valley]]. From the first stone tools to the DevForum's first meeting in 2026, with a full timeline.
 - [[history/history-of-greyton|History of Greyton]]. Greyton's own story, from Weltevreden to the removals to Heuwelkroon and the nature reserve.
 - [[history/leiwater|Greyton's Leiwater]]. The furrows that have watered Greyton's gardens since 1854.
 - [[planned-towns-of-the-cape|Greyton and the Planned Towns of the Cape]]. Was Greyton one of the first planned towns? How it compares with the Cape towns and leiwater villages laid out before and beside it.

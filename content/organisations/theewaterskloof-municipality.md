@@ -26,7 +26,7 @@ links:
 ---
 
 > [!warning] For Theewaterskloof Municipality to review
-> Theewaterskloof Municipality has not yet seen this page. It describes the municipality only through what it has said or done, through official records, and through what others named here have said about it. Its Economic Development office co-convened the Forum's first meeting, but the Forum has not discussed this page with the municipality. Until the municipality has replied, the text may change. Questions for Theewaterskloof Municipality:
+> Theewaterskloof Municipality has not yet seen this page. It describes the municipality only through what it has said or done, through official records, and through what others named here have said about it. Its Economic Development office co-convened the DevForum's first meeting, but the DevForum has not discussed this page with the municipality. Until the municipality has replied, the text may change. Questions for Theewaterskloof Municipality:
 >
 > 1. Who holds the office of Municipal Manager today, and in what capacity?
 > 2. Has the municipality moved from Phase 1 to Phase 2 of the Financial Recovery Plan?
@@ -41,7 +41,7 @@ Theewaterskloof Municipality is the local municipality for Ward 2 and thirteen o
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice, an audit report, or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the municipality's own website or statements, from a political party or another interested party, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the municipality's own website or statements, from a political party or another interested party, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, or was reported by a single source, but nobody has confirmed it yet.
 >
 > Allegations are reported as allegations. Unless this page says a matter was decided by a court or a disciplinary process, it has not been.
@@ -58,7 +58,7 @@ Theewaterskloof Municipality is the local municipality for Ward 2 and thirteen o
 | Recovery stage | Phase 1, Rescue, at the last official report in May 2026 [IC] |
 | Latest audit | Qualified, 2024/25 [IC] |
 | Link to the valley | Direct. It provides municipal services in Ward 2 |
-| Contact with the Forum | In conversation. Its Economic Development office co-convened the Forum [MS] |
+| Contact with the DevForum | In conversation. Its Economic Development office co-convened the DevForum [MS] |
 
 ## Its finances
 

@@ -29,7 +29,7 @@ Du Pré Alexander, 2nd Earl of Caledon, was the first civil governor of the Cape
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 > [!note] Reading this page
-> The section *Reading his rule through TIME* is the Forum's interpretation, and its readings carry no tag. See [[history/the-valley-through-time|The Valley Through TIME]].
+> The section *Reading his rule through TIME* is the DevForum's interpretation, and its readings carry no tag. See [[history/the-valley-through-time|The Valley Through TIME]].
 
 ## At a glance
 
@@ -87,7 +87,7 @@ Diaries: [A363595, lines 2747 to 2792](https://github.com/mbh66/genadendal-diari
 
 ## Reading his rule through TIME
 
-*This section is the Forum's interpretation.*
+*This section is the DevForum's interpretation.*
 
 **Fixing the Tribes form in place.** For centuries the Khoekhoe had lived by moving: kraals of reed-mat houses followed the grazing and the water with the seasons. That was the Tribes form, organised by kin and belonging. The Caledon Code made movement itself a matter for the Institutions form. A person now needed a fixed abode on record and a paper to travel. The kraal that moved with the herds had no place in this law.
 

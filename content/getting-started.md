@@ -38,9 +38,9 @@ Everything on the site belongs to one of nine areas of valley life, grouped into
 
 Two themes run through every area: youth and environment. Look for the tags on each entry to see what is happening for young people and for the natural world, wherever it sits.
 
-If you know the Transformasie Komitee's sectors, or the portfolios of a residents' association, [[civic/governance/how-the-forums-categories-compare|How the Forum's Categories Compare]] shows where each one fits on this site.
+If you know the Transformasie Komitee's sectors, or the portfolios of a residents' association, [[civic/governance/how-the-forums-categories-compare|How the DevForum's Categories Compare]] shows where each one fits on this site.
 
-The Forum has also agreed five [[priorities/index|development priorities]] for the ward. Each will have a champion, to be named at the November 2026 meeting.
+The DevForum has also agreed five [[priorities/index|development priorities]] for the ward. Each will have a champion, to be named at the November 2026 meeting.
 
 ## Languages
 
@@ -60,6 +60,6 @@ In 2038, Genadendal will mark 300 years since the first Moravian mission in Sout
 
 - **Add an entry.** See [[how-to-submit|How to Submit]].
 - **Ask a question.** [[contact|Contact the moderators]].
-- **Join the Forum.** The Ward 2 Development Forum meets every two months. Dates and minutes are on the [[civic/governance/minutes/index|Forum Minutes]] page.
+- **Join the DevForum.** The Ward 2 Development Forum meets every two months. Dates and minutes are on the [[civic/governance/minutes/index|DevForum Minutes]] page.
 
 *Ward 2 covers Genadendal, Greyton, Heuwelkroon, Madiba Park, Bereaville, Voorstekraal, and Boschmanskloof, along with the surrounding farms in the Riviersonderend valley.*

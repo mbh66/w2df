@@ -27,7 +27,7 @@ updated: 2026-11-04
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the Forum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
@@ -43,7 +43,7 @@ The National Heritage Resources Act sets out how South Africa identifies and pro
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the rule could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the rule could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -74,7 +74,7 @@ The National Heritage Resources Act sets out how South Africa identifies and pro
 
 **Church Square, Genadendal.** The Genadendal Moravian mission complex was declared a national monument in 1980 [TBV]. The museum's collection was declared a National Cultural Treasure on 8 March 1991 [IC]. The history of the museum records that in 2000 the status of the collection and of the monuments on Church Square changed from national to provincial [MS]. Work there involves Heritage Western Cape.
 
-**For new housing and development.** The planned housing on Erf 595, Heuwelkroon, went through a heritage impact assessment in 2022 [IC]. That is section 38 at work. Larger projects tabled at the Forum, such as a learning campus or a heritage trail with new structures, are likely to trigger it too.
+**For new housing and development.** The planned housing on Erf 595, Heuwelkroon, went through a heritage impact assessment in 2022 [IC]. That is section 38 at work. Larger projects tabled at the DevForum, such as a learning campus or a heritage trail with new structures, are likely to trigger it too.
 
 **For heritage as the valley's future.** The 2038 tercentenary of Genadendal's founding, and visitor products built on heritage, depend on the old fabric surviving. The municipality's spatial plan identifies heritage precincts in all the mission settlements and a conservation area in Greyton [IC]; this Act and the [[rules/zoning-scheme-by-law|Zoning Scheme By-law]] are the tools that can make that protection binding.
 

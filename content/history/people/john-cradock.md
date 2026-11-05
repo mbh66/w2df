@@ -31,7 +31,7 @@ Sir John Cradock was the British governor of the Cape Colony from 1811 to 1814 [
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 > [!note] Reading this page
-> The section *Reading the change through TIME* is the Forum's interpretation, and its readings carry no tag. See [[history/the-valley-through-time|The Valley Through TIME]].
+> The section *Reading the change through TIME* is the DevForum's interpretation, and its readings carry no tag. See [[history/the-valley-through-time|The Valley Through TIME]].
 
 ## At a glance
 
@@ -94,7 +94,7 @@ No record has been found of Cradock visiting Genadendal or Greyton. His laws rea
 
 ## Reading the change through TIME
 
-*This section is the Forum's interpretation.*
+*This section is the DevForum's interpretation.*
 
 **The company's rule.** The VOC was a trading company that governed. In the [[history/the-time-model|TIME model]] it was an Institution built to serve a market: its first aim was profit for its shareholders. In the valley its rule was thin. A post-keeper such as [[history/people/baas-teunis|Baas Teunis]] carried its orders, the Landdrost was two days' ride away, and much depended on who a person knew. Land was lent, never sold, and the company kept the right to take it back.
 

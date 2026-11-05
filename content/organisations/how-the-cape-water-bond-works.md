@@ -74,7 +74,7 @@ Each of the three biggest lenders has said why, in its own words:
 
 ## What it means for the valley
 
-- **The valley is not part of this bond.** Our rivers, the Gobos and the Baviaans, join the Riviersonderend below Theewaterskloof Dam, the biggest dam that supplies Cape Town [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]] has told the Forum that the Water Fund supports clearing in the Riviersonderend mountains through CapeNature [TBV], but it is not known whether any of that work drains into the valley.
+- **The valley is not part of this bond.** Our rivers, the Gobos and the Baviaans, join the Riviersonderend below Theewaterskloof Dam, the biggest dam that supplies Cape Town [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]] has told the DevForum that the Water Fund supports clearing in the Riviersonderend mountains through CapeNature [TBV], but it is not known whether any of that work drains into the valley.
 - **More bonds may follow.** Rand Merchant Bank says this is the first in a series for South Africa's main water source areas [MS].
 - **What the valley would need.** To take part in a later bond, the valley would need work that can be measured, an independent checker, and agreement from landowners and the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]]. That is what [[concepts/ridge-to-river-to-table|Ridge to River to Table]] proposes. It is an idea, and it is not yet agreed.
 

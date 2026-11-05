@@ -1,6 +1,6 @@
 ---
 title: Welcome
-description: "A welcome to Ward 2 of Theewaterskloof: seven villages in one valley, the Forum where their people plan together, and where on this site to begin, whatever brought you here."
+description: "A welcome to Ward 2 of Theewaterskloof: seven villages in one valley, the DevForum where their people plan together, and where on this site to begin, whatever brought you here."
 type: page
 date: 2026-09-22
 updated: 2026-11-04
@@ -17,7 +17,7 @@ The DevForum (or Ward 2 Development Forum, W2DF) is where the people of these vi
 
 For a long time the valley has worked together through WhatsApp groups, occasional meetings, and word of mouth. A good project might start in one village, and everyone else hears about it months later. People who could help each other never meet.
 
-The Forum first met on 16 September 2026 to change that. Residents, farmers, businesses, schools, churches, conservation groups, and government now sit at one table every two months. They've agreed on five things to work on first: tourism, education and skills, farming and food, the environment, and local business. See [[priorities/index|Priorities]].
+The DevForum first met on 16 September 2026 to change that. Residents, farmers, businesses, schools, churches, conservation groups, and government now sit at one table every two months. They've agreed on five things to work on first: tourism, education and skills, farming and food, the environment, and local business. See [[priorities/index|Priorities]].
 
 This site lets the whole valley see what's happening in one place. When the valley can see itself, it can plan for itself.
 
@@ -50,24 +50,24 @@ Choose the question closest to your own. Each one opens to show a few good place
 > - [[villages/farm-39|Farm 39]]: the land on which Genadendal, Bereaville, Voorstekraal, Boschmanskloof and Madiba Park stand.
 > - [[rules/trancraa|Transformation of Certain Rural Areas Act]]: the law that decides who will own Farm 39, explained in plain language.
 > - [[villages/next-door-different-rules|Next Door, Different Rules]]: why neighbouring settlements lie on land held in different ways.
-> - The Forum leaves the land process to the bodies already dealing with it. [[about|About the Forum]] explains how.
+> - The DevForum leaves the land process to the bodies already dealing with it. [[about|About the DevForum]] explains how.
 
 > [!question]- Where is the valley heading?
-> - [[long-term-goal|Our Long-Term Goal]]: what the Forum is working towards by 2038.
+> - [[long-term-goal|Our Long-Term Goal]]: what the DevForum is working towards by 2038.
 > - [[concepts/index|Ideas for the Valley]]: big ideas the valley could take up together. None is agreed yet, and each is tabled at a DevForum meeting first.
 > - [[future-of-the-valley|Future of the Valley]]: why 2038 matters, and what the next 300 years could hold.
 
-> [!question]- I would like to come to a Forum meeting.
-> - [[about|About the Forum]]: who takes part and what the Forum does.
-> - [[civic/governance/minutes/index|Forum Minutes]]: what was discussed at each meeting so far.
+> [!question]- I would like to come to a DevForum meeting.
+> - [[about|About the DevForum]]: who takes part and what the DevForum does.
+> - [[civic/governance/minutes/index|DevForum Minutes]]: what was discussed at each meeting so far.
 > - [[contact|Contact]]: ask to be told about the next meeting.
 
 > [!question]- I work for government, a funder or a partner organisation.
-> - [[about|About the Forum]]: how the Forum works, and what it leaves to the ward councillor, the ward committee and others.
-> - [[priorities/index|Forum Priorities]]: the five priorities, and the projects working on each.
+> - [[about|About the DevForum]]: how the DevForum works, and what it leaves to the ward councillor, the ward committee and others.
+> - [[priorities/index|DevForum Priorities]]: the five priorities, and the projects working on each.
 > - [[rules/index|The Rules the Valley Lives By]]: the laws, by-laws, policies and plans that apply in Ward 2 today.
 > - [[organisations/index|Organisations]]: bodies based outside the ward whose work reaches it.
-> - [[case-studies/index|Case Studies]]: work done elsewhere that the Forum learns from.
+> - [[case-studies/index|Case Studies]]: work done elsewhere that the DevForum learns from.
 
 ## Browse by area of valley life
 
@@ -92,7 +92,7 @@ A moderator reads every page before it goes live. If a page describes a person o
 - **[MS]** comes from the project or organisation itself (Mission Sourced).
 - **[TBV]** still to be checked (To Be Verified).
 
-[[about|About the Forum]] explains how pages are checked. The [[data-policy|Data Policy]] explains how personal information is kept, and [[contributors/index|Research Contributors]] names the people whose knowledge helps write the site.
+[[about|About the DevForum]] explains how pages are checked. The [[data-policy|Data Policy]] explains how personal information is kept, and [[contributors/index|Research Contributors]] names the people whose knowledge helps write the site.
 
 ## Take part
 

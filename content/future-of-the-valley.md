@@ -22,7 +22,7 @@ links:
   - https://bioconomy.earth
 ---
 
-> **This page sets out one way of seeing the valley's future. The Forum has not adopted it.** The ideas it describes are not yet agreed, and some of the people and organisations it mentions have not yet been asked. The ideas will be tabled at the Forum's November 2026 meeting, where anyone can question, change, or reject them.
+> **This page sets out one way of seeing the valley's future. The DevForum has not adopted it.** The ideas it describes are not yet agreed, and some of the people and organisations it mentions have not yet been asked. The ideas will be tabled at the DevForum's November 2026 meeting, where anyone can question, change, or reject them.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -118,7 +118,7 @@ This is the second meeting in its clearest form. Families from the wider world w
 
 ### The BioConomy: keeping value in the valley
 
-The Forum's [[long-term-goal|long-term goal]] describes the BioConomy in plain terms: running more of the local economy so that what the valley has stays in the valley [MS]. That means money spent at local shops and farms, skills in young people, water in the ground, and healthy soil. Farms, shops, and markets carry on as they do now. The BioConomy adds ways for neighbours and businesses to work together on things nobody pays for today, such as clean rivers, healthy veld, and passing on heritage.
+The DevForum's [[long-term-goal|long-term goal]] describes the BioConomy in plain terms: running more of the local economy so that what the valley has stays in the valley [MS]. That means money spent at local shops and farms, skills in young people, water in the ground, and healthy soil. Farms, shops, and markets carry on as they do now. The BioConomy adds ways for neighbours and businesses to work together on things nobody pays for today, such as clean rivers, healthy veld, and passing on heritage.
 
 The work so far falls into four areas.
 
@@ -132,21 +132,21 @@ The work so far falls into four areas.
 
 ## Doing it differently this time
 
-The first meeting showed what goes wrong when the valley does not set the terms. These principles are proposed for the second. Some of them the Forum has already agreed.
+The first meeting showed what goes wrong when the valley does not set the terms. These principles are proposed for the second. Some of them the DevForum has already agreed.
 
-- **Communities are involved from the start.** The Forum agreed at its first meeting that affected communities should be part of a proposal from the beginning, before it is written [MS].
+- **Communities are involved from the start.** The DevForum agreed at its first meeting that affected communities should be part of a proposal from the beginning, before it is written [MS].
 - **Land comes first to the Komitee.** Any idea that touches Farm 39, TRANCRAA, land tenure, or the mission settlement goes to the [[civic/governance/genadendal-transformasie-komitee|Transformasie Komitee]] first [MS].
 - **Old knowledge is credited.** People who share what they know are named and paid where there is income, as the Heritage Trail proposes.
 - **Outside money pays in, and value stays.** Fees, visitor spending, and grants would fund bursaries, training, and care for the land. The valley would own what it builds.
-- **Every village gains.** The Forum's long-term goal says a good result in one village does not count if another is left behind [MS].
+- **Every village gains.** The DevForum's long-term goal says a good result in one village does not count if another is left behind [MS].
 - **Each part of life keeps its own value.** Cooperation in the economy, equality in rights, and freedom in learning and belief, as set out in [[long-term-goal|Our Long-Term Goal]].
 
 ## Milestones on the way to 2038
 
 | When | What could happen |
 | --- | --- |
-| November 2026 | The Forum names a champion for each priority [MS]. The Learning Campus, the Heritage Trail, and the Agri-Heritage Co-operative are tabled [MS]. |
-| 2027 | The Forum's first yearly survey, to see whether life in the valley is changing [MS] |
+| November 2026 | The DevForum names a champion for each priority [MS]. The Learning Campus, the Heritage Trail, and the Agri-Heritage Co-operative are tabled [MS]. |
+| 2027 | The DevForum's first yearly survey, to see whether life in the valley is changing [MS] |
 | 2027 to 2028 | First training courses for adults, in borrowed rooms [MS] |
 | 2028 | Families of children starting Grade 8 choose high schools [MS]. April 2028 marks 290 years since Schmidt settled at Baviaanskloof. |
 | By 2030 | A boarding school could open on the Learning Campus [TBV] |
@@ -154,7 +154,7 @@ The first meeting showed what goes wrong when the valley does not set the terms.
 
 ## What is still open
 
-- Whether the Forum adopts this way of seeing 2038.
+- Whether the DevForum adopts this way of seeing 2038.
 - How descendants of the Khoekhoe and San in the valley want the meeting of 1738 remembered, and what part they want in 2038. They have not been asked.
 - How the Moravian Church, its congregations, and the Mission Museum plan to mark the tercentenary. They have not been asked about this page.
 - Whether each of the three ideas is agreed, changed, or dropped in November 2026.
@@ -164,7 +164,7 @@ The first meeting showed what goes wrong when the valley does not set the terms.
 
 ## Have your say
 
-Contact the moderators via [[how-to-submit|How to Submit]], or come to the Forum's November 2026 meeting.
+Contact the moderators via [[how-to-submit|How to Submit]], or come to the DevForum's November 2026 meeting.
 
 ## Related
 
@@ -176,7 +176,7 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the Forum
 - [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]
 - [[concepts/tourism-growth-fund-application|Valley of Grace Heritage Trail]]
 - [[concepts/valley-of-grace-agri-heritage-co-operative|Valley of Grace Agri-Heritage Co-operative]]
-- [[priorities/index|Forum Priorities]]
+- [[priorities/index|DevForum Priorities]]
 - [[genadendal-mission-museum|Genadendal Mission Museum]]
 - [[emil-weder-secondary|Emil Weder Secondary School]]
 - [[lr-schmidt-primary|L.R. Schmidt Primary School]]
@@ -189,4 +189,4 @@ Contact the moderators via [[how-to-submit|How to Submit]], or come to the Forum
 - South African History Online. [Genadendal Historic Village and Museum](https://sahistory.org.za/place/genadendal-historic-village-museum). The teachers' college and its closure in 1926.
 - BioConomy Wiki. [The Comenius-to-Schmidt Chain](https://wiki.bioconomy.earth/research/comenius-to-schmidt-chain/). Comenius's ideas on education and the Moravian tradition of craftsman missionaries.
 - Department of Forestry, Fisheries and the Environment. National List of Threatened Terrestrial Ecosystems, Government Gazette 47526, GN 2747 (November 2022). Greyton Shale Fynbos listed as Critically Endangered.
-- Forum research notes, held by the Forum: *Business Case for High-End Schooling and Bioregional Learning in the Valley of Grace* (2026), on fees and demand for rural schools; *A Global Inventory of Bioregional and Place-Based Ecological-Economic Projects* (2026), on the Design School for Regenerating Earth.
+- DevForum research notes, held by the DevForum: *Business Case for High-End Schooling and Bioregional Learning in the Valley of Grace* (2026), on fees and demand for rural schools; *A Global Inventory of Bioregional and Place-Based Ecological-Economic Projects* (2026), on the Design School for Regenerating Earth.

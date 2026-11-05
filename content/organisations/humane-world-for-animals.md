@@ -20,7 +20,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Humane World for Animals to review
-> Humane World for Animals has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Humane World for Animals about anything. Until Humane World for Animals has approved the text, it may change. Questions for Humane World for Animals:
+> Humane World for Animals has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Humane World for Animals about anything. Until Humane World for Animals has approved the text, it may change. Questions for Humane World for Animals:
 >
 > 1. Is this description of your support for work in the valley correct? What would you like to change?
 > 2. Since when has the Humane Society International name been used under Humane World for Animals?
@@ -32,7 +32,7 @@ Humane World for Animals is an animal protection organisation. Humane Society In
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -44,7 +44,7 @@ Humane World for Animals is an animal protection organisation. Humane Society In
 | Website | [humaneworld.org](https://www.humaneworld.org) |
 | Role | Funder of the sanctuary's programmes in the valley [IC] |
 | Link to the valley | Direct. It funds programmes that reach the valley's schools and households |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

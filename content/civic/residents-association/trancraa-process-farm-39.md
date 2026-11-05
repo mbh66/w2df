@@ -48,7 +48,7 @@ The Transformation of Certain Rural Areas Act of 1998, known as TRANCRAA, is the
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by at least two sources that do not depend on each other, or by an official record such as a court order, a law, or a government report.
-> - **[MS] Mission-Sourced.** Comes from one party's own documents or statements, or from the Forum's research notes. It has not been checked against other sources.
+> - **[MS] Mission-Sourced.** Comes from one party's own documents or statements, or from the DevForum's research notes. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 ## In short
@@ -81,7 +81,7 @@ In 2014 the Land Claims Court held that TRANCRAA is a land reform law. It does n
 - In 1909 a new law placed mission land under management boards. Residents kept occupation rights, but could not become owners [IC].
 - In 1927 title to the core mission areas of Genadendal and Bereaville, known as the Glebe Lands, was granted free of charge to the Moravian Church [IC]. The Ward 2 Forum's 2017 series describes them as "nine portions of land" of 68 hectares [MS], and the consultants' 2010 report gives 70.7795 hectares [MS]. They sit outside the TRANCRAA process [IC]. In the Surveyor-General's records the Glebe Land is Farm 827, Caledon, named "GLEBE LAND", 61.11 hectares [IC]. The Deeds Office report attached to the 2008 order records Portions 3 to 7 of Farm 39 as consolidated into Farm 827 [IC]. The parcel covers Genadendal's mission core; where the Bereaville portions are recorded has not been found [TBV]. See [[villages/farm-827-glebe-land|Farm 827: The Glebe Land]].
 - The state holds Farm 39 under Deed of Grant G19/1952, dated 6 February 1952, which gives its extent as 5,572 morgen and 261 square roods, or 4,772.97 hectares [IC]. The farm is on Surveyor-General diagram B180/128 [IC]. Its extent excludes the Glebe Lands [IC].
-- The size of Farm 39 depends on which record is used. The consultants' 2010 report gives 4,772.97 hectares for the original farm, and 4,641.45 hectares in the title deeds [IC]. A 2019 court judgment gives 4,515.53 hectares [IC]. Forum documents have used "about 4,800 hectares" [MS]. The Surveyor-General's records give 4,498.09 hectares [IC], and this site now uses that figure. The survey of 1857, at 5,644 morgen and 289 square roods [MS], is roughly 4,830 hectares at about 0.857 hectares to the morgen (this page's own conversion).
+- The size of Farm 39 depends on which record is used. The consultants' 2010 report gives 4,772.97 hectares for the original farm, and 4,641.45 hectares in the title deeds [IC]. A 2019 court judgment gives 4,515.53 hectares [IC]. DevForum documents have used "about 4,800 hectares" [MS]. The Surveyor-General's records give 4,498.09 hectares [IC], and this site now uses that figure. The survey of 1857, at 5,644 morgen and 289 square roods [MS], is roughly 4,830 hectares at about 0.857 hectares to the morgen (this page's own conversion).
 - The four township areas cover about 342 hectares, on 20 approved general plans, of which township registers had been opened for 8 by 2010 [IC]. The rest, about 4,430 hectares, is the Remainder [IC].
 - The consultants identified two properties as subject to the process: the Remainder of Farm 39 (G19/1952, 4,614.56 hectares) and Erf 387 (T75345/95, 26.89 hectares) [MS].
 - A 2005 survey confirmed the fence between Genadendal and Greyton as the boundary [IC].
@@ -308,12 +308,12 @@ If you are a Farm 39 resident, or represent a body named here, and want to add o
 
 ### Court records:
 
-- Order of the High Court of South Africa (Cape of Good Hope Provincial Division), case 926/07, 22 October 2008, with the Agreement of Settlement signed 17 October 2008, and Annexure GT1, the Deeds Office search report on Farm 39 as at 25 April 2007 (Deed of Grant G19/1952, deductions, registered and unregistered areas). Held by the Forum; published on the Ward 2 Forum's [legal reference documents page (archived 2017)](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/).
+- Order of the High Court of South Africa (Cape of Good Hope Provincial Division), case 926/07, 22 October 2008, with the Agreement of Settlement signed 17 October 2008, and Annexure GT1, the Deeds Office search report on Farm 39 as at 25 April 2007 (Deed of Grant G19/1952, deductions, registered and unregistered areas). Held by the DevForum; published on the Ward 2 Forum's [legal reference documents page (archived 2017)](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/).
 - [Genadedal Transformation Committee and Others v Theewaterskloof Municipality and Others (LCC64/2014) [2014] ZALCC 14 (10 October 2014)](https://www.saflii.org/za/cases/ZALCC/2014/14.html). Land Claims Court. Finds TRANCRAA is land reform law and strikes the application from the roll.
 - [Adendorff and Another v Theewaterskloof Municipality (A220/2018) [2019] ZAWCHC 95 (10 May 2019)](https://www.saflii.org/za/cases/ZAWCHC/2019/95.html). Western Cape High Court. Sets out the 2008 settlement terms and the size of Farm 39.
 
 ### Process documents 
-(held by the Forum, and listed on the [archived legal reference documents page](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/)):
+(held by the DevForum, and listed on the [archived legal reference documents page](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/)):
 
 - Urban Dynamics Western Cape, *Genadendal Transformation: Executive Summary and Recommendations* (October 2010). The consultants' chronology and final recommendation, the general plans, title deeds, the Glebe Land area, diagram B180/128, garden plots, leases and the residents list.
 - Theewaterskloof Municipality, *Way Forward in Dealing with the Genadendal Transformation Process: Position of the Theewaterskloof Municipality* (27 September 2016).

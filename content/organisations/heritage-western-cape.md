@@ -18,7 +18,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Heritage Western Cape to review
-> Heritage Western Cape has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Heritage Western Cape about anything. Until Heritage Western Cape has approved the text, it may change. Questions for Heritage Western Cape:
+> Heritage Western Cape has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Heritage Western Cape about anything. Until Heritage Western Cape has approved the text, it may change. Questions for Heritage Western Cape:
 >
 > 1. Is this description of Heritage Western Cape and its role in the valley correct? What would you like to change?
 > 2. Which buildings and areas in the valley are formally protected, and since when?
@@ -31,7 +31,7 @@ Heritage Western Cape is the provincial heritage resources authority, and admini
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -43,7 +43,7 @@ Heritage Western Cape is the provincial heritage resources authority, and admini
 | Website | [hwc.org.za](https://www.hwc.org.za) |
 | Role | Provincial heritage resources authority [IC] |
 | Link to the valley | Direct. Its permits apply to old buildings and heritage areas in the valley |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

@@ -19,7 +19,7 @@ links: []
 updated: 2026-11-02
 ---
 
-> **This idea is not yet agreed.** Nobody has been asked about it yet. That includes the Transformasie Komitee, the national Department of Land Reform (which holds Farm 39 in trust), Theewaterskloof Municipality, the provincial roads authority, and the farmers whose trucks would use it. The route on this page is a desk study made from maps, with no visit to the land. **Please do not share this page publicly yet.** The idea will be tabled at the Forum's November 2026 meeting.
+> **This idea is not yet agreed.** Nobody has been asked about it yet. That includes the Transformasie Komitee, the national Department of Land Reform (which holds Farm 39 in trust), Theewaterskloof Municipality, the provincial roads authority, and the farmers whose trucks would use it. The route on this page is a desk study made from maps, with no visit to the land. **Please do not share this page publicly yet.** The idea will be tabled at the DevForum's November 2026 meeting.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -48,7 +48,7 @@ updated: 2026-11-02
 
 A two-lane road about 5.7 kilometres long, on the south bank of the river [MS]. It would leave the R406 on the low ground west of the hill between Genadendal and Greyton, cross a side stream, climb over the shoulder of the hill, and follow the foot of the hills east to the Krige Road [MS]. Most of the route is on Farm 39 (about 4.5 kilometres), and the eastern end is on Erf 595 (about 1.2 kilometres) [MS].
 
-The first line for the road was drawn on the Forum's map of the valley's land [MS]. A desk study then tested it against the national contour map and drew a new line between the same two ends [MS]. The new line was routed to:
+The first line for the road was drawn on the DevForum's map of the valley's land [MS]. A desk study then tested it against the national contour map and drew a new line between the same two ends [MS]. The new line was routed to:
 
 - keep the slope of the road to 8% or less wherever the ground allows, a common limit for loaded trucks [TBV]
 - stay out of the study's flood screen wherever it can
@@ -114,7 +114,7 @@ Nothing has been costed [MS]. The earthwork figures above are a starting point f
 - **The road.** The R406 is a provincial road [TBV]. Who would build a new road joining it, and who would look after it, has not been discussed with anyone.
 - **Permissions.** Building in or near a watercourse needs an authorisation under the [[rules/national-water-act|National Water Act]] [TBV]. A new road may also need an environmental authorisation [TBV]. A change in how Farm 39 land is used falls under the [[rules/trancraa|Transformation of Certain Rural Areas Act]] process [TBV], and land use under the [[rules/municipal-land-use-planning-by-law|Municipal Land Use Planning By-law]] [TBV].
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
 See [[long-term-goal|Our Long-Term Goal]]. Most of the road would be on Farm 39 land [MS], and its main stated purpose is traffic going round Greyton [MS]. How Genadendal and Greyton would share its costs and benefits would be for the two communities to decide, through their own bodies.
 
@@ -131,10 +131,10 @@ See [[long-term-goal|Our Long-Term Goal]]. Most of the road would be on Farm 39 
 
 ## What happens next
 
-1. The idea is tabled at the Forum's November 2026 meeting.
+1. The idea is tabled at the DevForum's November 2026 meeting.
 2. The Transformasie Komitee, the holders of Erf 595 and the provincial roads authority are asked for their views.
 3. Someone drives the Krige Road to confirm how it links back to the R406 east of Greyton.
-4. If the Forum wants to go further, an engineer walks the route, draws the flood line, and makes a first cost estimate.
+4. If the DevForum wants to go further, an engineer walks the route, draws the flood line, and makes a first cost estimate.
 
 ## Have your say
 
@@ -152,5 +152,5 @@ If you know the Krige Road, the old farm tracks on the south bank, or how trucks
 
 ## References
 
-- Forum moderators. [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The first line of the road, the Surveyor-General boundaries of Farm 39 and Erf 595, the river lines, and the national contour lines from National Geo-spatial Information (aerial photography of 2007, through the Western Cape Government Spatial Data Warehouse), used to redraw the route.
-- Forum moderators. Learning Campus site study: bypass road check and redrawn route (2 November 2026). The working report and the map file of the redrawn route, held by the moderators.
+- DevForum moderators. [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The first line of the road, the Surveyor-General boundaries of Farm 39 and Erf 595, the river lines, and the national contour lines from National Geo-spatial Information (aerial photography of 2007, through the Western Cape Government Spatial Data Warehouse), used to redraw the route.
+- DevForum moderators. Learning Campus site study: bypass road check and redrawn route (2 November 2026). The working report and the map file of the redrawn route, held by the moderators.

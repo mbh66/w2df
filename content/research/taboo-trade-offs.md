@@ -12,7 +12,7 @@ draft: false
 links:
   - https://www.semanticscholar.org/paper/Taboo-Trade%E2%80%90offs:-Reactions-to-Transactions-That-of-Fiske-Tetlock/dd0dbf9a37eb051341d392c34c05a3cf6394dfad
 cited_on:
-  - "[[concepts/how-the-forum-decides-together|How the Forum Decides Together]]"
+  - "[[concepts/how-the-forum-decides-together|How the DevForum Decides Together]]"
 updated: 2026-11-04
 ---
 
@@ -24,7 +24,7 @@ updated: 2026-11-04
 
 ## Pages that cite it
 
-- [[concepts/how-the-forum-decides-together|How the Forum Decides Together]]
+- [[concepts/how-the-forum-decides-together|How the DevForum Decides Together]]
 
 ## Related
 

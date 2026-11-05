@@ -22,7 +22,7 @@ links:
 updated: 2026-09-28
 ---
 
-> **This idea is not yet agreed.** It is a suggested route for any group in the valley that is thinking of forming a co-operative. None of the government offices or training providers named here have been asked about it yet. It will be tabled at the Forum's November 2026 meeting. **Please do not share this page publicly yet.**
+> **This idea is not yet agreed.** It is a suggested route for any group in the valley that is thinking of forming a co-operative. None of the government offices or training providers named here have been asked about it yet. It will be tabled at the DevForum's November 2026 meeting. **Please do not share this page publicly yet.**
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -113,7 +113,7 @@ AgriSETA is the example here. Other SETAs run similar grant windows, and a co-op
 - The National Skills Fund (NSF) pays for skills training for small businesses and co-operatives [IC]. It also funds community-based skills projects [IC].
 - It takes proposals in three ways: open calls advertised in the Sunday Times or City Press, closed calls to invited partners, and unsolicited proposals for new ways of training [IC].
 
-**What a co-operative would do.** NSF projects are usually run by training partners, colleges, or groups of organisations. A co-operative could join a proposal led by its training partner. Several valley co-operatives, or a secondary co-operative, could put in a joint proposal. The municipality's Economic Development office may know which NSF projects are active in the Overberg. The Forum already works with that office [MS].
+**What a co-operative would do.** NSF projects are usually run by training partners, colleges, or groups of organisations. A co-operative could join a proposal led by its training partner. Several valley co-operatives, or a secondary co-operative, could put in a joint proposal. The municipality's Economic Development office may know which NSF projects are active in the Overberg. The DevForum already works with that office [MS].
 
 ### 4. Apply for grants and support
 
@@ -158,7 +158,7 @@ Every small co-operative is at least a Level 4 contributor, whoever its members 
 1. The group meets everyone who is interested. It records what each person does, where, and what training they already have.
 2. The group chooses its shape: one co-operative, or smaller co-operatives that join a larger one.
 3. The group asks its SETA, the relevant government office (for farming, the Department of Agriculture's Overberg office), and the municipality's Economic Development office the questions on this page.
-4. The group lets the Forum know, so that the idea can be listed and other groups doing similar work can find it.
+4. The group lets the DevForum know, so that the idea can be listed and other groups doing similar work can find it.
 
 ### Stage 2: Register (the next three months)
 
@@ -184,9 +184,9 @@ Every small co-operative is at least a Level 4 contributor, whoever its members 
 - **In the valley.** The [[concepts/valley-of-grace-agri-heritage-co-operative|Valley of Grace Agri-Heritage Co-operative]] is a proposed primary co-operative of growers in Genadendal and the wider valley [MS]. It could be the first group to follow this route.
 - **Elsewhere.** The Metro Women Secondary Co-operative in Gqeberha was set up in 2018 [IC]. The Industrial Development Corporation (IDC) reports that it has 65 members, most of them women over 35 who were out of work [IC]. The IDC paid for business training and mentoring for its members through Nelson Mandela University's business school, linked to a sanitary towel factory [IC].
 
-## What the Forum would do
+## What the DevForum would do
 
-The Forum would not join or run any co-operative. It would:
+The DevForum would not join or run any co-operative. It would:
 
 - keep this page up to date with what each office says, so that every group gets the same information
 - put groups in touch with the municipality's Economic Development office
@@ -206,19 +206,19 @@ Nothing has been costed yet [MS]. Each co-operative would pay for CIPC registrat
 
 ## Who would decide
 
-Each co-operative's members would own it, with one vote each. They would elect a board at the annual general meeting. Which training to take, which grants to apply for, and whether to join a secondary co-operative would be their decisions. The Forum would decide only whether to adopt this page as its suggested route.
+Each co-operative's members would own it, with one vote each. They would elect a board at the annual general meeting. Which training to take, which grants to apply for, and whether to join a secondary co-operative would be their decisions. The DevForum would decide only whether to adopt this page as its suggested route.
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
-The Forum's [[long-term-goal|long-term goal]] names co-operatives as one of the tools for building a BioConomy in the valley [MS]. This route sits in the economic sphere, where the guiding value is cooperation.
+The DevForum's [[long-term-goal|long-term goal]] names co-operatives as one of the tools for building a BioConomy in the valley [MS]. This route sits in the economic sphere, where the guiding value is cooperation.
 
-It serves three of the Forum's [[priorities/index|priorities]]: [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]], [[priorities/business-procurement|Business Development and Local Procurement]], and [[priorities/education-skills|Education and Skills]].
+It serves three of the DevForum's [[priorities/index|priorities]]: [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]], [[priorities/business-procurement|Business Development and Local Procurement]], and [[priorities/education-skills|Education and Skills]].
 
 ## What is still open
 
-For the Forum:
+For the DevForum:
 
-- Whether to adopt this page as the Forum's suggested route for new co-operatives.
+- Whether to adopt this page as the DevForum's suggested route for new co-operatives.
 - Who keeps the dates and rules on this page up to date.
 - When AgriSETA's next grant window and the next CASP deadline fall, and the dates for other SETAs.
 
@@ -233,9 +233,9 @@ For each group:
 ## What happens next
 
 1. The growers in Genadendal behind the Agri-Heritage Co-operative are asked to review this route, since they would be the first to use it.
-2. The route is tabled at the Forum's November 2026 meeting.
+2. The route is tabled at the DevForum's November 2026 meeting.
 3. The moderators ask AgriSETA, the Department of Agriculture's Overberg office, and the municipality's Economic Development office to check the information on this page.
-4. The growers' group is invited to test the route first. Other groups are welcome to use it at any time and to tell the Forum what worked.
+4. The growers' group is invited to test the route first. Other groups are welcome to use it at any time and to tell the DevForum what worked.
 
 ## Have your say
 

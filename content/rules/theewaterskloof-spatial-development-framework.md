@@ -30,7 +30,7 @@ last_checked: 2026-10-01
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this plan, and people it affects, can correct it. It explains the plan in plain language, and it does not give legal advice or speak for the Forum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this plan, and people it affects, can correct it. It explains the plan in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
@@ -47,7 +47,7 @@ The Theewaterskloof Spatial Development Framework (SDF) is the municipality's pl
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the plan could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the plan could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -89,13 +89,13 @@ The Theewaterskloof Spatial Development Framework (SDF) is the municipality's pl
 
 ## What it means in the valley
 
-**Two chapters for one valley.** The SDF plans Greyton and Genadendal in separate chapters, as separate towns. The Forum's approach treats the valley as one area [MS]. Both chapters propose tourism links between the two, which is the main point where the plan already looks at the valley as a whole.
+**Two chapters for one valley.** The SDF plans Greyton and Genadendal in separate chapters, as separate towns. The DevForum's approach treats the valley as one area [MS]. Both chapters propose tourism links between the two, which is the main point where the plan already looks at the valley as a whole.
 
 **The ownership limit.** The Genadendal chapter's statement that the municipality may not invest on land it does not own is the plan's own explanation of why services and infrastructure on [[villages/farm-39|Farm 39]] wait on the land transfer under [[rules/trancraa|TRANCRAA]]. It is a statement of the municipality's position in an official document.
 
 **Heritage and conservation.** The precincts and the conservation area identified in the SDF are proposals for protection. Binding protection comes through the [[rules/zoning-scheme-by-law|Zoning Scheme By-law]] (an overlay zone) or the [[rules/national-heritage-resources-act|National Heritage Resources Act]].
 
-**Using the SDF.** A proposal that fits the SDF has an easier path through the planning system than one that does not. Ideas tabled at the Forum that need land can be checked against the relevant chapter before they are taken further.
+**Using the SDF.** A proposal that fits the SDF has an easier path through the planning system than one that does not. Ideas tabled at the DevForum that need land can be checked against the relevant chapter before they are taken further.
 
 ## Relevance to W2DF
 

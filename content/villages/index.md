@@ -22,7 +22,7 @@ Ward 2 covers seven settlements and the farms around them. Each page below gives
 
 ## The land
 
-The valley's settlements stand on, and are surrounded by, eight properties in the Surveyor-General's records. Together they cover about 11,194 hectares. Each page below gives the property's record, its history as far as it is known, and what is still open. The boundaries of all eight are on the Forum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing).
+The valley's settlements stand on, and are surrounded by, eight properties in the Surveyor-General's records. Together they cover about 11,194 hectares. Each page below gives the property's record, its history as far as it is known, and what is still open. The boundaries of all eight are on the DevForum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing).
 
 | Property | Name on the record | Hectares | Held by |
 | --- | --- | --- | --- |
@@ -35,6 +35,6 @@ The valley's settlements stand on, and are surrounded by, eight properties in th
 | [[villages/farm-38-boschmans-kloof\|Farm 38]] | Boschmans Kloof | 740.92 | CapeNature |
 | [[villages/erf-595-greyton\|Erf 595, Greyton]] | Remainder of Erf 595 | 1,404.89 | Not established |
 
-Farm 39 is the legal name for the land on which Genadendal, Bereaville, Voorstekraal, and Boschmanskloof stand. It is not a separate village. Farm 38, Boschmans Kloof, is mountain land above Greyton, and is a different place from the settlement of Boschmanskloof. Who holds each property is taken from the Forum's own research and is still being checked; each page shows the evidence.
+Farm 39 is the legal name for the land on which Genadendal, Bereaville, Voorstekraal, and Boschmanskloof stand. It is not a separate village. Farm 38, Boschmans Kloof, is mountain land above Greyton, and is a different place from the settlement of Boschmanskloof. Who holds each property is taken from the DevForum's own research and is still being checked; each page shows the evidence.
 
 See [[register|The Register]] for every initiative in one table.

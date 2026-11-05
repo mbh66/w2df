@@ -32,7 +32,7 @@ Choose three of these for your Field Book. Tie the correct colour thread to each
 - Performance-based means the payment depends on what is measured. If the result is good, investors earn more. If the result is missed, they earn less.
 - Verified means someone independent checked the measurement. Independent means they have nothing to gain from the answer.
 - A company called [[organisations/conservation-alpha|Conservation Alpha]] checks the results for this bond.
-- The Forum says a service can be paid for through a bond only if it passes four tests. It needs a buyer. It needs a result you can measure. The people doing the work need a clear right to do it. A trusted body must sign the contracts and deliver. 
+- The DevForum says a service can be paid for through a bond only if it passes four tests. It needs a buyer. It needs a result you can measure. The people doing the work need a clear right to do it. A trusted body must sign the contracts and deliver. 
 - Nobody has measured how much extra water clearing would add in our valley.
 
 **Words to use:** 
@@ -166,4 +166,4 @@ About two hours.
 
 - You don't need to contact any organisation. Talk with your family and the adults at school.
 - Write "could", never "will", about an organisation. Nobody has agreed to anything.
-- This idea has not been discussed by the Forum yet. Keep what you find with your class and family.
+- This idea has not been discussed by the DevForum yet. Keep what you find with your class and family.

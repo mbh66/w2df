@@ -1,6 +1,6 @@
 ---
-title: How the Forum Decides Together
-description: "An idea for how the Forum would handle proposals that affect more than one community: who is asked first, steps for deciding when views differ, and two short exercises before a decision. Not yet agreed. To be tabled first at the November 2026 meeting."
+title: How the DevForum Decides Together
+description: "An idea for how the DevForum would handle proposals that affect more than one community: who is asked first, steps for deciding when views differ, and two short exercises before a decision. Not yet agreed. To be tabled first at the November 2026 meeting."
 type: concept
 tags:
   - theme/trancraa
@@ -18,7 +18,7 @@ links:
 updated: 2026-11-04
 ---
 
-> **This idea is not yet agreed.** It sets out how the Forum could follow the rule it agreed at its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]]: that proposals should involve the communities they affect from the start [MS]. Nobody named on this page has been asked about it yet, including the Transformasie Komitee and Theewaterskloof Municipality. By its own rule, this page should have been shaped with them before it was written, so it is offered as a first draft for them to change. **Please do not share this page publicly yet.** The idea will be tabled as the first item at the Forum's November 2026 meeting, because it would shape how the other ideas on the agenda are handled.
+> **This idea is not yet agreed.** It sets out how the DevForum could follow the rule it agreed at its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]]: that proposals should involve the communities they affect from the start [MS]. Nobody named on this page has been asked about it yet, including the Transformasie Komitee and Theewaterskloof Municipality. By its own rule, this page should have been shaped with them before it was written, so it is offered as a first draft for them to change. **Please do not share this page publicly yet.** The idea will be tabled as the first item at the DevForum's November 2026 meeting, because it would shape how the other ideas on the agenda are handled.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -31,21 +31,21 @@ updated: 2026-11-04
 
 ## The goal
 
-> When a proposal affects more than one community in the valley, those communities help shape it from the start, and the Forum decides in a way each of them can live with.
+> When a proposal affects more than one community in the valley, those communities help shape it from the start, and the DevForum decides in a way each of them can live with.
 
 ## Why the valley needs it
 
-### What the Forum has agreed so far
+### What the DevForum has agreed so far
 
-At the Forum's first meeting on 16 September 2026, participants from Genadendal said that affected communities "should be involved from the start of a proposal, and not only after it has been written." The meeting agreed [MS]. The minutes do not yet say who counts as affected, what "from the start" means in practice, or how the Forum decides when members see a proposal differently [MS].
+At the DevForum's first meeting on 16 September 2026, participants from Genadendal said that affected communities "should be involved from the start of a proposal, and not only after it has been written." The meeting agreed [MS]. The minutes do not yet say who counts as affected, what "from the start" means in practice, or how the DevForum decides when members see a proposal differently [MS].
 
 Seven ideas on [[concepts/index|Ideas for the Valley]] are due at the November 2026 meeting [MS]. Several of them involve land, water, or heritage in the mission settlements, and several involve more than one village [MS].
 
 ### More than one way of deciding
 
-The Forum reads the valley's history through the TIME model, which is explained on [[history/the-time-model|The TIME Model]] and on the [BioConomy wiki](https://wiki.bioconomy.earth/frameworks/time-framework). In that reading, the valley's history has left several ways of settling a question [MS]. Elders and families can settle it, or office-bearers working under written rules. Where land and labour are bought and sold, a price settles it. [[history/the-valley-through-time|The Valley Through TIME]] shows when each of these arrived [MS].
+The DevForum reads the valley's history through the TIME model, which is explained on [[history/the-time-model|The TIME Model]] and on the [BioConomy wiki](https://wiki.bioconomy.earth/frameworks/time-framework). In that reading, the valley's history has left several ways of settling a question [MS]. Elders and families can settle it, or office-bearers working under written rules. Where land and labour are bought and sold, a price settles it. [[history/the-valley-through-time|The Valley Through TIME]] shows when each of these arrived [MS].
 
-Each way works well among people who already accept it. When they meet in one room, the host's way of deciding usually wins, and people used to the other ways take part as guests [MS]. The Forum treats the valley as one area and belongs to no single community [MS], so it has no host way of deciding. This page proposes steps that everyone at the table could agree to.
+Each way works well among people who already accept it. When they meet in one room, the host's way of deciding usually wins, and people used to the other ways take part as guests [MS]. The DevForum treats the valley as one area and belongs to no single community [MS], so it has no host way of deciding. This page proposes steps that everyone at the table could agree to.
 
 ### How other places do it
 
@@ -58,35 +58,35 @@ Where communities with different ways of deciding share one table, joint bodies 
 
 ## The idea
 
-The Forum would agree four practices. Each could be adopted on its own.
+The DevForum would agree four practices. Each could be adopted on its own.
 
 ### 1. Ask first
 
-Before anyone writes a proposal for the Forum, they would:
+Before anyone writes a proposal for the DevForum, they would:
 
 1. Name the villages, groups, and families it affects.
 2. Talk with each of them about the idea before writing it up.
 3. Send anything that touches Farm 39, TRANCRAA, land tenure, or the mission settlement to the Transformasie Komitee in writing at the start, alongside the other communities it affects. The proposal can be tabled once the Komitee responds or 21 days after it was sent, whichever comes first.
 4. Record on the proposal who was asked, when, and what they said.
 
-A proposal that skips these steps would still be heard, as an early idea. The Forum would decide on it at a later meeting, once the people it affects have helped shape it.
+A proposal that skips these steps would still be heard, as an early idea. The DevForum would decide on it at a later meeting, once the people it affects have helped shape it.
 
 A checklist for people bringing proposals is at the end of this section.
 
 ### 2. Steps for deciding
 
-The Forum would decide in steps, and record in the minutes which step settled each decision.
+The DevForum would decide in steps, and record in the minutes which step settled each decision.
 
 | Step | When it applies | How it works |
 | --- | --- | --- |
-| 1. Agreement of each affected community | Heritage, identity, or land in the mission settlements | The Forum decides only when each community the item affects agrees. |
+| 1. Agreement of each affected community | Heritage, identity, or land in the mission settlements | The DevForum decides only when each community the item affects agrees. |
 | 2. Consent | All other items | A decision goes ahead when no member holds a reasoned objection. A reasoned objection says what harm the member expects if the decision goes ahead. |
 | 3. Mediation | An objection still stands after two meetings | Someone chosen together by the members who disagree helps them find a way through. |
 | 4. A chosen facilitator | Mediation has not settled it | A facilitator chosen together by the members who disagree picks one of the options already on the table. The facilitator may not add a new option. |
 
 ### 3. Placing yourself before discussion
 
-Before the Forum discusses an item, each person present could mark an unsigned slip. The slip asks one question: which way of deciding should guide this item?
+Before the DevForum discusses an item, each person present could mark an unsigned slip. The slip asks one question: which way of deciding should guide this item?
 
 | On the slip | In Afrikaans |
 | --- | --- |
@@ -123,7 +123,7 @@ The third question matters because people react strongly when something they hol
 
 - **Communities a proposal affects.** They would be asked before plans are written.
 - **People bringing proposals.** Fewer proposals would stall at a meeting because the people they affect had not been asked.
-- **Partners and funders.** They could see which communities helped shape a proposal and how the Forum decided on it.
+- **Partners and funders.** They could see which communities helped shape a proposal and how the DevForum decided on it.
 
 ## Who would pay
 
@@ -131,30 +131,30 @@ Nothing has been costed. Most of what this page proposes costs only time. Asking
 
 ## Who would decide
 
-The Forum's members would decide whether to adopt these practices at the November 2026 meeting. Before then, the Transformasie Komitee would be asked whether the first step, the rule for land and mission settlement matters, and the 21-day response period fit its own mandate. Theewaterskloof Municipality, which gives the Forum administrative support with minutes, contact lists, and venues [MS], would also be asked. Once adopted, the practices could be changed at any meeting, using the same steps.
+The DevForum's members would decide whether to adopt these practices at the November 2026 meeting. Before then, the Transformasie Komitee would be asked whether the first step, the rule for land and mission settlement matters, and the 21-day response period fit its own mandate. Theewaterskloof Municipality, which gives the DevForum administrative support with minutes, contact lists, and venues [MS], would also be asked. Once adopted, the practices could be changed at any meeting, using the same steps.
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
-[[long-term-goal|Our Long-Term Goal]] says that by 2038 every village should be able to say "We are treated as equals" [MS]. It also says: "A good result in one village doesn't count if another village is left behind" [MS]. Steps that give each affected community a say before a decision is made serve both. The Forum works at ward level and treats the valley as one area [MS], so most items linked to its five [[priorities/index|priorities]] will affect more than one community.
+[[long-term-goal|Our Long-Term Goal]] says that by 2038 every village should be able to say "We are treated as equals" [MS]. It also says: "A good result in one village doesn't count if another village is left behind" [MS]. Steps that give each affected community a say before a decision is made serve both. The DevForum works at ward level and treats the valley as one area [MS], so most items linked to its five [[priorities/index|priorities]] will affect more than one community.
 
 ## What is still open
 
 - **Who speaks for each community?** Step 1 needs a clear answer for each village and for the farms. When the Transformasie Komitee was formed in 2004, residents of the smaller settlements raised the concern that Genadendal would dominate decisions, and asked for their own representatives [IC].
-- **Which items count as heritage, identity, or land?** The line between step 1 and step 2 needs examples that the Forum agrees on.
+- **Which items count as heritage, identity, or land?** The line between step 1 and step 2 needs examples that the DevForum agrees on.
 - **When is an early idea ready for a decision?**
 - **Should a majority vote ever be one of the steps?** Some joint bodies elsewhere use one before a tie-breaker [IC].
 - **The Transformasie Komitee's view.** It has not been asked yet.
 - **Theewaterskloof Municipality's view.** It has not been asked yet.
 - **The Afrikaans words on the slips.** They need testing with residents.
-- **A longer exercise.** In a card sort, people sort statements about the valley before and after a discussion, to see which views they share. It could follow at the January 2027 meeting. It would need a new section in the [[data-policy|Data Policy]], and someone with no stake in the Forum's decisions to keep the results.
+- **A longer exercise.** In a card sort, people sort statements about the valley before and after a discussion, to see which views they share. It could follow at the January 2027 meeting. It would need a new section in the [[data-policy|Data Policy]], and someone with no stake in the DevForum's decisions to keep the results.
 
 ## What happens next
 
 1. Share this draft with the Transformasie Komitee and Theewaterskloof Municipality before the November agenda goes out, and change it with them.
 2. Test the words on the slips with English- and Afrikaans-speaking residents across the valley.
 3. Table the idea as the first item at the November 2026 meeting. The local government elections are on 4 November 2026 [IC], and the meeting will be held after them [MS].
-4. At that meeting, try the slips once as a trial, on one agenda item the Forum chooses.
-5. If the Forum agrees, add the practices to the [[civic/governance/ward-2-development-forum|Forum's page]], and record in each set of minutes which step settled each decision.
+4. At that meeting, try the slips once as a trial, on one agenda item the DevForum chooses.
+5. If the DevForum agrees, add the practices to the [[civic/governance/ward-2-development-forum|DevForum's page]], and record in each set of minutes which step settled each decision.
 6. At the January 2027 meeting, consider the card sort.
 
 ## Have your say
@@ -163,7 +163,7 @@ To comment on this idea, suggest a change, or put forward a different way of dec
 
 ## Related
 
-- [[civic/governance/why-the-forum-shapes-proposals-together|Why the Forum Shapes Proposals Together]]
+- [[civic/governance/why-the-forum-shapes-proposals-together|Why the DevForum Shapes Proposals Together]]
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]
 - [[civic/governance/minutes/2026-09-16-inaugural-meeting|Inaugural Meeting, 16 September 2026]]
 - [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]]

@@ -1,6 +1,6 @@
 ---
 title: Consent vs Consensus
-description: An idea for how the Forum would make decision. Not yet agreed. To be tabled first at the November 2026 meeting.
+description: An idea for how the DevForum would make decision. Not yet agreed. To be tabled first at the November 2026 meeting.
 type: concept
 tags:
   - theme/trancraa
@@ -16,7 +16,7 @@ links:
 updated: 2026-10-07
 ---
 
-> **This concept is not yet agreed.** It sets out how decisions are made in the Forum. The idea will be tabled as one of the items at the Forum's November 2026 meeting, because it would shape how the other ideas on the agenda are handled.
+> **This concept is not yet agreed.** It sets out how decisions are made in the DevForum. The idea will be tabled as one of the items at the DevForum's November 2026 meeting, because it would shape how the other ideas on the agenda are handled.
 
 
 ## Overview
@@ -39,7 +39,7 @@ updated: 2026-10-07
 
 ## Related
 
-- [[civic/governance/why-the-forum-shapes-proposals-together|Why the Forum Shapes Proposals Together]]
+- [[civic/governance/why-the-forum-shapes-proposals-together|Why the DevForum Shapes Proposals Together]]
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]
 - [[civic/governance/minutes/2026-09-16-inaugural-meeting|Inaugural Meeting, 16 September 2026]]
 

@@ -22,7 +22,7 @@ updated: 2026-11-04
 ---
 
 > [!warning] For Cullinan & Associates Inc to review
-> Cullinan & Associates Inc has not yet seen this page. It describes the firm only through what it has said or done, and through what others named here have said about it. The Forum has not approached Cullinan & Associates Inc about anything. Until the firm has approved the text, it may change. Questions for Cullinan & Associates Inc:
+> Cullinan & Associates Inc has not yet seen this page. It describes the firm only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Cullinan & Associates Inc about anything. Until the firm has approved the text, it may change. Questions for Cullinan & Associates Inc:
 >
 > 1. Is this description of the firm and its work correct? What would you like to change?
 > 2. Has the firm done any work in Ward 2 or the wider Overberg?
@@ -35,7 +35,7 @@ Cullinan & Associates Inc is a firm of attorneys in Cape Town that specialises i
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -47,7 +47,7 @@ Cullinan & Associates Inc is a firm of attorneys in Cape Town that specialises i
 | Website | [cullinans.co.za](https://cullinans.co.za) |
 | Role | Environmental law, including water law, heritage and the rights of nature [MS] |
 | Link to the valley | Indirect. It helped prepare the trust deed behind the [[concepts/bevryde-grond-trust\|Bevryde Grond Trust]] idea [MS] |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 
@@ -62,7 +62,7 @@ In April 2025 Daily Maverick reported that Cullinan is the driving figure behind
 
 ## How its work reaches the valley
 
-No page on this site yet records work by the firm in Ward 2. A copy of the 2012 trust deed of Die Bevryde Grond Trust held by the Forum bears the firm's stamp, and Cormac Cullinan helped draw it up [MS]. The idea [[concepts/bevryde-grond-trust|Bevryde Grond Trust]] asks whether a trust on the same lines could help resolve the Farm 39 deadlock under TRANCRAA. The firm has not been asked about it.
+No page on this site yet records work by the firm in Ward 2. A copy of the 2012 trust deed of Die Bevryde Grond Trust held by the DevForum bears the firm's stamp, and Cormac Cullinan helped draw it up [MS]. The idea [[concepts/bevryde-grond-trust|Bevryde Grond Trust]] asks whether a trust on the same lines could help resolve the Farm 39 deadlock under TRANCRAA. The firm has not been asked about it.
 
 ## Relevance to W2DF
 

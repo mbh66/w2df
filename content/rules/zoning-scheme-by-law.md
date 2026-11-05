@@ -26,7 +26,7 @@ last_checked: 2026-10-01
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this by-law, and people it affects, can correct it. It explains the by-law in plain language, and it does not give legal advice or speak for the Forum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this by-law, and people it affects, can correct it. It explains the by-law in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
@@ -43,7 +43,7 @@ Theewaterskloof Municipality's Zoning Scheme By-law is the land use scheme the [
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the rule could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the rule could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -79,7 +79,7 @@ Theewaterskloof Municipality's Zoning Scheme By-law is the land use scheme the [
 
 **On Farm 39.** The scheme applies to the whole municipal area, which includes [[villages/farm-39|Farm 39]] [IC]. The scheme itself does not name Genadendal or the other mission settlements [IC]. The [[rules/western-cape-land-use-planning-act|Western Cape Land Use Planning Act]] requires land once governed by the Rural Areas Act to be given a zoning or a deemed zoning [IC]. What zoning the settlements and the Remainder carry today is a question for the municipality [TBV].
 
-**The revision.** The municipality published drafts of a revised Zoning Scheme By-law in March 2025 and February 2026 [IC]. A by-law may only be passed after public comment [IC]. Whether the revision has been adopted is not yet known [TBV]. When it comes before the council, the Forum reads it as a chance for the valley's residents bodies and initiatives to check that the zones fit what the valley does.
+**The revision.** The municipality published drafts of a revised Zoning Scheme By-law in March 2025 and February 2026 [IC]. A by-law may only be passed after public comment [IC]. Whether the revision has been adopted is not yet known [TBV]. When it comes before the council, the DevForum reads it as a chance for the valley's residents bodies and initiatives to check that the zones fit what the valley does.
 
 ## Relevance to W2DF
 

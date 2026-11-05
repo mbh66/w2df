@@ -23,7 +23,7 @@ last_checked: 2026-10-01
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the Forum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
@@ -39,7 +39,7 @@ The Local Government: Municipal Systems Act sets out how a municipality must pla
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the rule could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the rule could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -62,11 +62,11 @@ The Local Government: Municipal Systems Act sets out how a municipality must pla
 
 ## What it means in the valley
 
-**Having a say.** The yearly review of the IDP is the main point at which residents of the valley can shape what the municipality plans and budgets. For the 2026 review the municipality held one public meeting for Ward 2, on 27 November 2025 in the Moravian Hall in Greyton [IC]. The Forum reads section 16 as a standing invitation that lasts all year: the municipality must create conditions for participation, and a forum the community runs is one of the ways residents can use it.
+**Having a say.** The yearly review of the IDP is the main point at which residents of the valley can shape what the municipality plans and budgets. For the 2026 review the municipality held one public meeting for Ward 2, on 27 November 2025 in the Moravian Hall in Greyton [IC]. The DevForum reads section 16 as a standing invitation that lasts all year: the municipality must create conditions for participation, and a forum the community runs is one of the ways residents can use it.
 
 **Commenting on by-laws.** Because every by-law must be published for comment before it is passed, residents and organisations can comment on new or revised by-laws, such as the revised zoning scheme the municipality published in draft in 2025 and 2026 [IC]. See [[rules/zoning-scheme-by-law|Zoning Scheme By-law]].
 
-**Services on Farm 39.** Section 73 speaks of access for "all members of the local community" [IC]. Theewaterskloof Municipality's spatial plan says it may not invest in infrastructure on land it does not own [IC]. Those two statements meet in [[villages/madiba-park|Madiba Park]], on [[villages/farm-39|Farm 39]] land held by the national Minister. The Forum does not read either as settling the matter, and records it here as a tension for the parties to resolve.
+**Services on Farm 39.** Section 73 speaks of access for "all members of the local community" [IC]. Theewaterskloof Municipality's spatial plan says it may not invest in infrastructure on land it does not own [IC]. Those two statements meet in [[villages/madiba-park|Madiba Park]], on [[villages/farm-39|Farm 39]] land held by the national Minister. The DevForum does not read either as settling the matter, and records it here as a tension for the parties to resolve.
 
 **Accounts and debt.** Under Chapter 9 the municipality has a Credit Control and Debt Collection By-law, published in the Provincial Gazette (PG 7326) on 7 November 2014 [TBV]. In 2019 two Genadendal residents won the right to defend municipal claims for unpaid accounts on TRANCRAA land, and the question of title was left for trial [IC]. The municipality's Financial Recovery Plan of August 2025 reports that Genadendal accounts for about a fifth of its outstanding debt [IC]. Households that cannot afford services may apply for indigent support under the municipality's policy [TBV].
 

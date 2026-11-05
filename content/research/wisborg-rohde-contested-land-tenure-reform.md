@@ -16,7 +16,7 @@ links:
   - https://uwcscholar.uwc.ac.za:8443/server/api/core/bitstreams/f9d3ad85-654e-4448-a151-2493768449ab/content
 cited_on:
   - "[[challenges|Challenges]]"
-  - "[[civic/governance/why-the-forum-shapes-proposals-together|Why the Forum Shapes Proposals Together]]"
+  - "[[civic/governance/why-the-forum-shapes-proposals-together|Why the DevForum Shapes Proposals Together]]"
 updated: 2026-11-04
 ---
 
@@ -30,7 +30,7 @@ updated: 2026-11-04
 ## Pages that cite it
 
 - [[challenges|Challenges]]
-- [[civic/governance/why-the-forum-shapes-proposals-together|Why the Forum Shapes Proposals Together]]
+- [[civic/governance/why-the-forum-shapes-proposals-together|Why the DevForum Shapes Proposals Together]]
 
 ## Related
 

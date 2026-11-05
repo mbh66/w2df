@@ -1,6 +1,6 @@
 ---
 title: The Palmiet Principle
-description: "An idea, named after the river plant palmiet, for rewarding anything people do to bring the valley's rivers back to life, from Category A to Category B, with an Adopt a River scheme for Greyton's tourism businesses. Not yet agreed or set down for a Forum meeting."
+description: "An idea, named after the river plant palmiet, for rewarding anything people do to bring the valley's rivers back to life, from Category A to Category B, with an Adopt a River scheme for Greyton's tourism businesses. Not yet agreed or set down for a DevForum meeting."
 type: concept
 tags:
   - theme/water
@@ -30,7 +30,7 @@ links:
 updated: 2026-11-04
 ---
 
-> **This idea is not yet agreed.** Nobody named on this page has been asked about it yet. That includes the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]], whose work and photographs it describes, the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]], the [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]], [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], Greyton's tourism businesses, including the [[economic/tourism/greyton-tourism-bureau|Greyton Tourism Bureau]] and [[economic/tourism/adventure-hub-greyton|Adventure Hub Greyton]], and the people who hold land along the rivers. Some of the rivers around Genadendal run through Farm 39 land, so the idea goes to the Transformasie Komitee in writing first. It can be tabled at a Forum meeting once the Komitee responds, or 21 days after it was sent, whichever comes first. **Please do not share this page publicly yet.**
+> **This idea is not yet agreed.** Nobody named on this page has been asked about it yet. That includes the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]], whose work and photographs it describes, the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]], the [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]], [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], Greyton's tourism businesses, including the [[economic/tourism/greyton-tourism-bureau|Greyton Tourism Bureau]] and [[economic/tourism/adventure-hub-greyton|Adventure Hub Greyton]], and the people who hold land along the rivers. Some of the rivers around Genadendal run through Farm 39 land, so the idea goes to the Transformasie Komitee in writing first. It can be tabled at a DevForum meeting once the Komitee responds, or 21 days after it was sent, whichever comes first. **Please do not share this page publicly yet.**
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -174,7 +174,7 @@ The people putting this idea forward hold that money on this scale will reach th
 The [[challenges|Challenges]] record shows why this matters here:
 
 - **Damaged land with no record.** The Gobos River on [[villages/erf-595-greyton|Erf 595]] is deeply eroded [IC]. No valley-wide data on erosion was found, and no map of land taken over by invasive plants [TBV]. See [[challenges#Ecological ceilings|Challenges: Ecological ceilings]] and [[concepts/why-alien-clearing|Why Alien Clearing?]]. The river log and the seasonal photographs would start that record, kept by residents.
-- **Assets lying idle.** Community gardens in the valley lie fallow, as the Forum heard at its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]] [MS]. Land that nobody tends is a Category A problem of its own, and the same habits of care apply to it.
+- **Assets lying idle.** Community gardens in the valley lie fallow, as the DevForum heard at its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]] [MS]. Land that nobody tends is a Category A problem of its own, and the same habits of care apply to it.
 - **How the valley is seen.** The [[rules/theewaterskloof-financial-recovery-plan|Financial Recovery Plan]] names [[villages/genadendal|Genadendal]] mainly as a debt problem, and the [[rules/theewaterskloof-integrated-development-plan|Integrated Development Plan]] describes its economy as "dominated by 'development' projects" [IC]. See [[challenges#5. How the valley is seen|Challenges: How the valley is seen]]. A valley that can show years of its own restoration work speaks to funders as a partner. See [Needed vs Needy](https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy) on the BioConomy wiki.
 - **One ward, many places.** Official figures blend the [[villages/index|seven settlements]] into one ward [IC]. A river log kept stretch by stretch would show what each settlement has done, as [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]] would for households.
 
@@ -187,15 +187,15 @@ The [[challenges|Challenges]] record shows why this matters here:
 
 ## Who would pay
 
-Nothing has been costed. The river log and the river walk would cost very little, and so would the seasonal photographs. Plants from the nursery would have a cost, which is not yet known. No source of money for the pools has been found. Sponsorships under *Adopt a River* could be the first, once the Forum sets what a yearly contribution would be. *Why it matters for funding*, above, names the national plans that could become one. The Cape Water bond pays for clearing invasive trees (see [[concepts/why-alien-clearing|Why Alien Clearing?]]). Whether it, or any other fund, would pay for palmiet planting has not been asked.
+Nothing has been costed. The river log and the river walk would cost very little, and so would the seasonal photographs. Plants from the nursery would have a cost, which is not yet known. No source of money for the pools has been found. Sponsorships under *Adopt a River* could be the first, once the DevForum sets what a yearly contribution would be. *Why it matters for funding*, above, names the national plans that could become one. The Cape Water bond pays for clearing invasive trees (see [[concepts/why-alien-clearing|Why Alien Clearing?]]). Whether it, or any other fund, would pay for palmiet planting has not been asked.
 
 ## Who would decide
 
 - **Each stretch of river:** whoever holds the land beside it. On [[villages/farm-39|Farm 39]] land, the Transformasie Komitee is asked first.
 - **Work in a river:** whether planting in a riverbed needs a permission under the [[rules/national-water-act|National Water Act]] has not been checked [TBV].
-- **Each pool:** the people who care for that stretch, under simple rules the Forum would agree.
+- **Each pool:** the people who care for that stretch, under simple rules the DevForum would agree.
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
 The idea serves the [[priorities/conservation-environment|Conservation and Environment]] priority, because it would restore rivers and their banks. It serves the [[priorities/tourism-development|Tourism Development]] priority, because Adopt a River would give Greyton's tourism businesses a stake in the rivers their visitors see, and a new experience to offer them. It serves the [[priorities/education-skills|Education and Skills]] priority, because schools could adopt stretches and learn from them. It also fits [[long-term-goal|Our Long-Term Goal]], which plans for the valley to keep more of what it has, including water in the ground.
 
@@ -217,13 +217,13 @@ The idea serves the [[priorities/conservation-environment|Conservation and Envir
 2. The Zonderend Water Users Association is asked for its view, and for permission to use its photographs and describe its stretch.
 3. The other photographers are asked for permission and credits.
 4. A simple scorecard for a stretch of river is drafted with the Zonderend Water Users Association.
-5. The page is tabled at a Forum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
-6. If the Forum agrees, one school or group adopts a first stretch and starts the river log and the seasonal photographs.
+5. The page is tabled at a DevForum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
+6. If the DevForum agrees, one school or group adopts a first stretch and starts the river log and the seasonal photographs.
 7. Greyton's tourism businesses are invited to a meeting on Adopt a River, and one business adopts a stretch of the Gobos near the village as a trial.
 
 ## Have your say
 
-To comment on this idea, see [[how-to-submit|How to Submit]] or raise it at the next Forum meeting.
+To comment on this idea, see [[how-to-submit|How to Submit]] or raise it at the next DevForum meeting.
 
 ## Related
 

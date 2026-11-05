@@ -50,11 +50,11 @@ This page describes the Komitee only through its own documents and court papers.
 
 ### The Transformasie Komitee
 
-Paul Adendorff is the Komitee's treasurer [MS]. When he took up the post has not yet been recorded. The Komitee takes part in the [[civic/governance/ward-2-development-forum|Ward 2 Development Forum]] as a stakeholder, and has an eight-sector plan for the valley, which the Forum agreed to consider alongside its own priorities [MS]. The [[civic/governance/genadendal-transformasie-komitee|Komitee's page]] sets out how it was formed and its record in the TRANCRAA process.
+Paul Adendorff is the Komitee's treasurer [MS]. When he took up the post has not yet been recorded. The Komitee takes part in the [[civic/governance/ward-2-development-forum|Ward 2 Development Forum]] as a stakeholder, and has an eight-sector plan for the valley, which the DevForum agreed to consider alongside its own priorities [MS]. The [[civic/governance/genadendal-transformasie-komitee|Komitee's page]] sets out how it was formed and its record in the TRANCRAA process.
 
 ### In community meetings
 
-Michael Haupt, who convenes the Forum, told the moderators that in community meetings, including difficult ones, Paul Adendorff has kept the discussion on the wellbeing of the community [MS].
+Michael Haupt, who convenes the DevForum, told the moderators that in community meetings, including difficult ones, Paul Adendorff has kept the discussion on the wellbeing of the community [MS].
 
 ## Work on this wiki
 
@@ -73,5 +73,5 @@ Contact Paul Adendorff through the moderators via [[how-to-submit|How to Submit]
 
 ## References
 
-- Ward 2 Development Forum. [[civic/governance/minutes/2026-09-16-inaugural-meeting|Minutes of the inaugural meeting]], 16 September 2026. The Komitee's part in the Forum and its eight-sector plan.
+- Ward 2 Development Forum. [[civic/governance/minutes/2026-09-16-inaugural-meeting|Minutes of the inaugural meeting]], 16 September 2026. The Komitee's part in the DevForum and its eight-sector plan.
 - Haupt, M. Moderator's note, 30 September 2026. His role as the Komitee's treasurer, and his part in community meetings.

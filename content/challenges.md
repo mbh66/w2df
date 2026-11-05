@@ -1,6 +1,6 @@
 ---
 title: Challenges
-description: "The challenges Ward 2 has faced from before 1652 to 2026: where each came from, who bore it, what was tried, and where it stands now. A research record for Forum review, first of two runs. Not adopted by the Forum."
+description: "The challenges Ward 2 has faced from before 1652 to 2026: where each came from, who bore it, what was tried, and where it stands now. A research record for DevForum review, first of two runs. Not adopted by the DevForum."
 type: page
 tags:
   - theme/trancraa
@@ -23,8 +23,8 @@ links:
 updated: 2026-11-04
 ---
 
-> [!warning] A research record for the Forum to review
-> This page records the challenges the valley has faced and where each stands in 2026. It is the first of two research runs. The Forum has not adopted it, and the people and bodies it describes have not yet checked it. A second run, after Forum review, will read these challenges as opportunities. This page proposes nothing.
+> [!warning] A research record for the DevForum to review
+> This page records the challenges the valley has faced and where each stands in 2026. It is the first of two research runs. The DevForum has not adopted it, and the people and bodies it describes have not yet checked it. A second run, after DevForum review, will read these challenges as opportunities. This page proposes nothing.
 >
 > Questions for reviewers:
 >
@@ -34,13 +34,13 @@ updated: 2026-11-04
 > 4. For the Greyton Ratepayers and Residents Organisation: do you hold records of the commonage, the leiwater rights, or the removals to Heuwelkroon?
 > 5. For anyone: which [TBV] claims can you confirm, and from which documents?
 
-The challenge that reaches furthest into daily life in Ward 2 in 2026 is land title. Twenty-eight years after the Transformation of Certain Rural Areas Act ([[rules/trancraa|TRANCRAA]]) came into force, the trust land of [[villages/farm-39|Farm 39]], on which [[villages/genadendal|Genadendal]], [[villages/bereaville|Bereaville]], [[villages/voorstekraal|Voorstekraal]], [[villages/boschmanskloof|Boschmanskloof]] and [[villages/madiba-park|Madiba Park]] stand, is still held by the national Minister, and no receiving body has been recognised [MS]. On the [[villages/greyton|Greyton]] side, [[villages/erf-595-greyton|Erf 595]] measures 1,404.89 hectares in the Surveyor-General's records [IC], and only a small part of it has a published use: 333 homes authorised in July 2025 [IC]. This page traces these and the valley's other challenges from the first people to 2026, records what the Forum has heard so far, and arranges the 2026 evidence for the second research run.
+The challenge that reaches furthest into daily life in Ward 2 in 2026 is land title. Twenty-eight years after the Transformation of Certain Rural Areas Act ([[rules/trancraa|TRANCRAA]]) came into force, the trust land of [[villages/farm-39|Farm 39]], on which [[villages/genadendal|Genadendal]], [[villages/bereaville|Bereaville]], [[villages/voorstekraal|Voorstekraal]], [[villages/boschmanskloof|Boschmanskloof]] and [[villages/madiba-park|Madiba Park]] stand, is still held by the national Minister, and no receiving body has been recognised [MS]. On the [[villages/greyton|Greyton]] side, [[villages/erf-595-greyton|Erf 595]] measures 1,404.89 hectares in the Surveyor-General's records [IC], and only a small part of it has a published use: 333 homes authorised in July 2025 [IC]. This page traces these and the valley's other challenges from the first people to 2026, records what the DevForum has heard so far, and arranges the 2026 evidence for the second research run.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by at least two sources that do not depend on each other, or by an official record such as a law, court order, gazette or government report.
-> - **[MS] Mission-Sourced.** Comes from one party's own documents or statements, or from the Forum's own research and records. It has not been checked against other sources.
+> - **[MS] Mission-Sourced.** Comes from one party's own documents or statements, or from the DevForum's own research and records. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
 > Sentences that begin with *Inference* are this page's own reasoning. They are not facts.
@@ -181,9 +181,9 @@ This section follows the eras of [[history/history-of-the-valley|History of the 
 - **2022 to 2023.** The municipality budgeted R1.6 million to electrify Madiba Park, then cut the project in the February 2023 adjustment budget, with R73,135 spent [IC].
 - **2024.** The province intervened in the municipality under [[rules/constitution|section 139 of the Constitution]] on 11 November 2024 [IC].
 - **2025.** The province authorised 333 homes on Erf 595 on 10 July 2025 [IC]. The Financial Recovery Plan was approved on 7 October 2025 [IC]. The Komitee aligned with AfriForum and the Kaapse Forum, and began setting up a CPA to receive the land [MS].
-- **2026.** The municipality signed a new repayment agreement with [[organisations/eskom|Eskom]] in March 2026 [IC]. Council amended the IDP on 28 May 2026 [IC]. [[civic/governance/ward-2-development-forum|The Forum met for the first time]] on 16 September 2026 [MS]. Local government elections are set for 4 November 2026 [IC].
+- **2026.** The municipality signed a new repayment agreement with [[organisations/eskom|Eskom]] in March 2026 [IC]. Council amended the IDP on 28 May 2026 [IC]. [[civic/governance/ward-2-development-forum|The DevForum met for the first time]] on 16 September 2026 [MS]. Local government elections are set for 4 November 2026 [IC].
 
-## 2. The Forum's own record
+## 2. The DevForum's own record
 
 ### The inaugural meeting, 16 September 2026
 
@@ -204,7 +204,7 @@ The signed minutes are the source for every row [MS]. Sectors are named as the m
 | TRANCRAA and Farm 39 | "The longstanding nature of the process" and "the ability of the community to utilise its land and associated resources effectively"; about 4,800 hectares | Genadendal participants and the Transformasie Komitee | Land and tenure |
 | Ward governance | "Municipal coalition dynamics and their effect on ward-level service delivery" | Several sectors | Governance |
 
-The minutes give Farm 39 as about 4,800 hectares [MS]. The Surveyor-General's records give 4,498.09 hectares, and this site uses that figure [IC]. The Forum recorded that TRANCRAA has other platforms and that it would avoid duplicating them [MS].
+The minutes give Farm 39 as about 4,800 hectares [MS]. The Surveyor-General's records give 4,498.09 hectares, and this site uses that figure [IC]. The DevForum recorded that TRANCRAA has other platforms and that it would avoid duplicating them [MS].
 
 ### The Ward 2 IDP public meeting, 27 November 2025
 
@@ -267,7 +267,7 @@ This updates [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and
 
 **Where it stands.** The Remainder of Farm 39, about 4,430 hectares outside the four township areas, is held in trust by the national Minister [IC]. No entity has been recognised [MS]. The 2008 order has not been set aside as far as the public record shows [TBV]. A Komitee office-bearer told GroundUp in 2024 that the community had set up a CPA and was waiting for the Department to finalise it [MS]. The Department's spokesperson said "certain issues" were still outstanding [MS]. No record of a CPA registration was found [TBV].
 
-**Who cannot get title, credit, approval or services.** No resident of the Remainder can hold title to land there until a transfer happens [MS]. *Inference:* without title, land cannot be offered as security for a bank loan. Residents raised building-plan approvals and sewage at the Forum's first meeting [MS]. In 2024 the municipality said it could not provide full services at Madiba Park because "the settlement is not on municipal land" [MS]. It had agreed with the Komitee to put five toilets and water tanks on the settlement's edge [MS], and GroundUp found one toilet working [TBV].
+**Who cannot get title, credit, approval or services.** No resident of the Remainder can hold title to land there until a transfer happens [MS]. *Inference:* without title, land cannot be offered as security for a bank loan. Residents raised building-plan approvals and sewage at the DevForum's first meeting [MS]. In 2024 the municipality said it could not provide full services at Madiba Park because "the settlement is not on municipal land" [MS]. It had agreed with the Komitee to put five toilets and water tanks on the settlement's edge [MS], and GroundUp found one toilet working [TBV].
 
 **Rates and the municipality's debt.** The Financial Recovery Plan says "Genadendal is particularly challenging as services are rendered and billed, but the community feels that the land does not belong to the municipality and that they therefore have no obligation to pay for said services" [IC]. In 2016 the municipality listed "the Rates boycott and the poor collection rate in Genadendal" as the first issue to resolve [MS]. The municipality's own quarterly reports show Genadendal's share of debt rising [IC]:
 
@@ -344,7 +344,7 @@ GroundUp called the process a "land restitution process" [MS]. TRANCRAA is a lan
 
 ### 3c. Municipal finance and governance
 
-**The Financial Recovery Plan.** See [[rules/theewaterskloof-financial-recovery-plan|Theewaterskloof Financial Recovery Plan]]. It records unfunded budgets, "weak credit control, especially in Eskom-supplied areas", 43% of water lost or unbilled, and "only 9 of the 14 Ward Committees" working [IC]. Unpaid consumer accounts stood at R384 million on 28 February 2025 [IC]. The plan projects cash shortfalls until a surplus "by around 2030" [IC]. In May 2026 the municipality was still in Phase 1, Rescue [IC]. The Forum's idea for residents' part in the recovery, not yet agreed, is on [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]].
+**The Financial Recovery Plan.** See [[rules/theewaterskloof-financial-recovery-plan|Theewaterskloof Financial Recovery Plan]]. It records unfunded budgets, "weak credit control, especially in Eskom-supplied areas", 43% of water lost or unbilled, and "only 9 of the 14 Ward Committees" working [IC]. Unpaid consumer accounts stood at R384 million on 28 February 2025 [IC]. The plan projects cash shortfalls until a surplus "by around 2030" [IC]. In May 2026 the municipality was still in Phase 1, Rescue [IC]. The DevForum's idea for residents' part in the recovery, not yet agreed, is on [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]].
 
 **Electricity.** The municipality sells electricity in Greyton, and Eskom supplies Genadendal directly [IC]. *Inference:* the municipality cannot cut electricity to collect debt in Genadendal, because it does not sell it there.
 
@@ -380,7 +380,7 @@ These headings follow the brief for the Metabolic Study. The template itself has
 - Greyton Nature Reserve: about 2,200 hectares [IC].
 - Greyton Shale Fynbos: Critically Endangered since November 2022 [IC]. Central Rûens Shale Renosterveld: Critically Endangered [IC].
 - CapeNature's Riviersonderend Complex covers about 28,580 hectares of protected areas in the mountains above the valley [IC].
-- Overberg leopard corridor: proposed at the Forum's first meeting and not yet agreed [MS]. Trail cameras at clearing sites have recorded leopard [MS]. See [[concepts/overberg-leopard-corridor|The Overberg Leopard Corridor]].
+- Overberg leopard corridor: proposed at the DevForum's first meeting and not yet agreed [MS]. Trail cameras at clearing sites have recorded leopard [MS]. See [[concepts/overberg-leopard-corridor|The Overberg Leopard Corridor]].
 
 **Land by use across the valley's 11,194 hectares**
 
@@ -452,7 +452,7 @@ Only what published sources show is recorded here. Household spending is not est
 
 **TRANCRAA and Farm 39**
 
-7. **The 2008 order.** The signed order and its Deeds Office annexure are held by the Forum [IC]. No variation found [TBV]. Held by the High Court registry.
+7. **The 2008 order.** The signed order and its Deeds Office annexure are held by the DevForum [IC]. No variation found [TBV]. Held by the High Court registry.
 8. **The CPA.** No registration found [TBV]. Held by the Komitee and the Department.
 9. **The 200 or more properties.** The 2007 Deeds Office report lists the registered erven taken off the farm [IC], but not the 200 residential properties [MS]. Held by the Deeds Office and the municipality's valuation roll.
 10. **Arrivals after 2 November 1998.** The Act defines residents by that date [IC]. The 2017 series says some later arrivals in good standing may be considered [MS]. No decision found [TBV].
@@ -507,14 +507,14 @@ Only what published sources show is recorded here. Household spending is not est
 - [[rules/national-water-act|National Water Act]]
 - [[concepts/why-alien-clearing|Why Alien Clearing?]]
 - [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]]
-- [[concepts/what-must-happen-first|What Must Happen First]]. The Forum's proposal, drawn from this record, for what must happen first for each party, with space for each party's response.
-- [[priorities/index|Forum Priorities]]
+- [[concepts/what-must-happen-first|What Must Happen First]]. The DevForum's proposal, drawn from this record, for what must happen first for each party, with space for each party's response.
+- [[priorities/index|DevForum Priorities]]
 - [[long-term-goal|Our Long-Term Goal]]
 - BioConomy wiki. [Needed vs. Needy](https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy). The term behind the second research run.
 
 ## References
 
-### The Forum and the register
+### The DevForum and the register
 
 - Ward 2 Development Forum. Minutes of the inaugural meeting, 16 September 2026: [PDF](https://drive.google.com/file/d/1tKMUdwSYZZpDZyhp8Cz-YWirFEVM5Fv3/view?usp=sharing). Every row in Section 2.
 - Ranyaka Community Transformation. [Genadendal Valley report, draft (November 2024)](https://drive.google.com/file/d/1x8R-Q9CAxKEOlTWo4tIgz_xdRmUxuE9H/view?usp=sharing). The 2024 sessions, the THRIVE score, and the 2023 draft spatial plan quotes. Register entry: [[research/ranyaka-genadendal-valley-report|Genadendal Valley Report (Draft)]].
@@ -523,7 +523,7 @@ Only what published sources show is recorded here. Household spending is not est
 
 ### Land and housing
 
-- Chief Surveyor-General. Cadastral records for Farms 32 to 39, Farm 827 (the Glebe Land) and Erf 595, on the Forum's [Google Earth map](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing).
+- Chief Surveyor-General. Cadastral records for Farms 32 to 39, Farm 827 (the Glebe Land) and Erf 595, on the DevForum's [Google Earth map](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing).
 - Western Cape DEADP. [Environmental Authorisation, Erf 595, Heuwelkroon (10 July 2025)](https://www.westerncape.gov.za/eadp/files/wcg-blob-files?file=2025-09%2F2014_ba-ea_1084-24-greyton.pdf&type=file). The 333 homes, layouts, vegetation and beneficiaries.
 - Ohana Environmental Consulting. [Environmental Management Programme, Erf 595 (May 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/Environmental-Management-Plan_-Greyton-Erf-595_May-2022.pdf). About 548 erven; about 1,425 hectares.
 - ACO Associates. [Heritage Impact Assessment, Erf 595 (April 2022)](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). Heritage findings; Heuwelkroon about 1970. Register entry: [[research/aco-heritage-impact-assessment-erf-595|Heritage Impact Assessment, Erf 595, Greyton]].
@@ -536,9 +536,9 @@ Only what published sources show is recorded here. Household spending is not est
 - [Transformation of Certain Rural Areas Act 94 of 1998](https://www.saflii.org/za/legis/num_act/tocraa1998376/).
 - [Genadedal Transformation Committee and Others v Theewaterskloof Municipality and Others [2014] ZALCC 14](https://www.saflii.org/za/cases/ZALCC/2014/14.html).
 - [Adendorff and Another v Theewaterskloof Municipality [2019] ZAWCHC 95](https://www.saflii.org/za/cases/ZAWCHC/2019/95.html).
-- Order of the High Court, case 926/07, 22 October 2008, with the Agreement of Settlement and Annexure GT1, the Deeds Office search report on Farm 39 as at 25 April 2007. Held by the Forum; listed on the [archived legal reference page](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/). Deed of Grant G19/1952, the deductions from Farm 39, and the registered and unregistered areas.
-- Urban Dynamics Western Cape. *Genadendal Transformation: Executive Summary and Recommendations* (October 2010). Held by the Forum. The general plans, title deeds, the Glebe Land area, diagram B180/128, garden plots, leases and the residents list.
-- Theewaterskloof Municipality. *Way Forward in Dealing with the Genadendal Transformation Process: Position of the Theewaterskloof Municipality* (27 September 2016). Held by the Forum. The three interim issues.
+- Order of the High Court, case 926/07, 22 October 2008, with the Agreement of Settlement and Annexure GT1, the Deeds Office search report on Farm 39 as at 25 April 2007. Held by the DevForum; listed on the [archived legal reference page](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/). Deed of Grant G19/1952, the deductions from Farm 39, and the registered and unregistered areas.
+- Urban Dynamics Western Cape. *Genadendal Transformation: Executive Summary and Recommendations* (October 2010). Held by the DevForum. The general plans, title deeds, the Glebe Land area, diagram B180/128, garden plots, leases and the residents list.
+- Theewaterskloof Municipality. *Way Forward in Dealing with the Genadendal Transformation Process: Position of the Theewaterskloof Municipality* (27 September 2016). Held by the DevForum. The three interim issues.
 - Ward 2 Forum. *Farm 39 Transformation: The Lost 18 Years*: [Part 1](https://web.archive.org/web/20230803030459/https://ward2forum.org/wp-content/uploads/2017/04/Farm-39-lost-18-years-Part-1-Contents-and-History.pdf) (the Glebe Lands and Langgezocht); [Parts 5 and 6](https://web.archive.org/web/20230922172542/ward2forum.org/wp-content/uploads/2017/05/FARM-39-Parts-5-6-1.pdf) (beneficiaries, the household survey, erven by settlement, the 200 properties).
 - Parliament. [Briefing on TRANCRAA communities (31 October 2024)](https://www.parliament.gov.za/news/committee-receives-briefing-progress-and-challenges-facing-trancraa-communities).
 - PMG. [CPA Annual Report and TRANCRAA briefing (October 2024)](https://pmg.org.za/committee-meeting/39779/); [CPA Annual Report 2024/25](https://static.pmg.org.za/Community_Property_Association_CPA_Annual_Report_2024-25.pdf); [committee meeting, 2026](https://pmg.org.za/committee-meeting/43755/). The 2026/27 target and CPA findings.

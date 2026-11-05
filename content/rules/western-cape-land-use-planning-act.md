@@ -26,7 +26,7 @@ last_checked: 2026-10-01
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the Forum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
@@ -42,7 +42,7 @@ The Western Cape Land Use Planning Act, known as LUPA, is the province's own pla
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the rule could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the rule could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -64,7 +64,7 @@ The Western Cape Land Use Planning Act, known as LUPA, is the province's own pla
 
 ## What it means in the valley
 
-**On Farm 39.** Genadendal, Bereaville, Voorstekraal, and Boschmanskloof stand on land governed by the Rural Areas Act 9 of 1987 until [[rules/trancraa|TRANCRAA]] replaced it in 1998 [IC]. Section 34 therefore applies to them. The Forum reads it as meaning that every piece of Farm 39 land should by now carry a zoning or a deemed zoning in Theewaterskloof's [[rules/zoning-scheme-by-law|Zoning Scheme By-law]], based on how it was lawfully used. That matters for anyone who wants to build, trade, or farm there, because what is allowed depends on the zoning. Whether the municipality has done this, and with what zoning, is not yet known to this site [TBV]. A zoning does not change who owns the land: the Minister still holds the Remainder in trust.
+**On Farm 39.** Genadendal, Bereaville, Voorstekraal, and Boschmanskloof stand on land governed by the Rural Areas Act 9 of 1987 until [[rules/trancraa|TRANCRAA]] replaced it in 1998 [IC]. Section 34 therefore applies to them. The DevForum reads it as meaning that every piece of Farm 39 land should by now carry a zoning or a deemed zoning in Theewaterskloof's [[rules/zoning-scheme-by-law|Zoning Scheme By-law]], based on how it was lawfully used. That matters for anyone who wants to build, trade, or farm there, because what is allowed depends on the zoning. Whether the municipality has done this, and with what zoning, is not yet known to this site [TBV]. A zoning does not change who owns the land: the Minister still holds the Remainder in trust.
 
 **Farm and conservation land.** A rezoning of agricultural land anywhere in the valley, such as on the farms around Greyton or along the Riviersonderend, goes to the Province for comment before the municipality decides [IC]. So does development outside the urban edge drawn in the [[rules/theewaterskloof-spatial-development-framework|Spatial Development Framework]] [IC].
 

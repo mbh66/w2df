@@ -33,7 +33,7 @@ Each page gives the sources for its facts.
 
 [[history/the-time-model|TIME]] reads the valley's history through four forms of organisation: Tribes, Institutions, Markets, and Emergent. Each new form is added to the ones before it, and none comes to a close. The general model has its home on the BioConomy wiki, at [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework).
 
-In the Forum's reading, Tribes was the most dominant form in the valley from the first people until about 1713. It is still at work today in families and neighbourhoods, and among Khoi and San descendants reclaiming their history and names. This reading carries no fact-status tag, and residents may read the history differently. [[history/the-valley-through-time|The Valley Through TIME]] explains the dates.
+In the DevForum's reading, Tribes was the most dominant form in the valley from the first people until about 1713. It is still at work today in families and neighbourhoods, and among Khoi and San descendants reclaiming their history and names. This reading carries no fact-status tag, and residents may read the history differently. [[history/the-valley-through-time|The Valley Through TIME]] explains the dates.
 
 ## How these pages are written
 

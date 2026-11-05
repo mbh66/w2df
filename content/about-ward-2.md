@@ -28,7 +28,7 @@ Anyone may quote the paragraph above to describe Ward 2.
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation the sentence names, or from the Forum's own records. It has not been checked against other sources.
+> - **[MS] Mission-Sourced.** Comes from the organisation the sentence names, or from the DevForum's own records. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 ## The settlements
@@ -76,7 +76,7 @@ In 2038 Genadendal will mark 300 years since the mission was founded. The full s
 ## Related
 
 - [[villages/index|Villages]]
-- [[about|About the Forum]]
+- [[about|About the DevForum]]
 - [[history/history-of-the-valley|History of the Valley]]
 - [[history/institutions/municipality|The Municipality]]
 - [[register|The Register]]

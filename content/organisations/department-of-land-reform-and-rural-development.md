@@ -23,7 +23,7 @@ updated: 2026-11-01
 ---
 
 > [!warning] For Department of Land Reform and Rural Development to review
-> Department of Land Reform and Rural Development has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Department of Land Reform and Rural Development about anything. Until Department of Land Reform and Rural Development has approved the text, it may change. Questions for Department of Land Reform and Rural Development:
+> Department of Land Reform and Rural Development has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Department of Land Reform and Rural Development about anything. Until Department of Land Reform and Rural Development has approved the text, it may change. Questions for Department of Land Reform and Rural Development:
 >
 > 1. Is this description of the department and its role on Farm 39 correct? What would you like to change?
 > 2. Since the split of April 2025, which department is custodian of the land at Madiba Park and of Farm 39?
@@ -36,7 +36,7 @@ The Department of Land Reform and Rural Development (DLRRD) is the national depa
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -48,7 +48,7 @@ The Department of Land Reform and Rural Development (DLRRD) is the national depa
 | Website | Not yet known |
 | Role | National department for land reform; custodian of state land [IC] |
 | Link to the valley | Direct. Farm 39 and Madiba Park fall under its land reform laws |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

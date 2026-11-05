@@ -23,7 +23,7 @@ last_checked: 2026-11-01
 ---
 
 > [!warning] For the Minister of Land Reform and Rural Development to review
-> The Ministry has not yet seen this page. It describes the office only through what the law says, what the Ministry has said or done, and what others named here have said about it. The Forum has not approached the Ministry about anything. Until the Ministry has approved the text, it may change. Questions for the Ministry:
+> The Ministry has not yet seen this page. It describes the office only through what the law says, what the Ministry has said or done, and what others named here have said about it. The DevForum has not approached the Ministry about anything. Until the Ministry has approved the text, it may change. Questions for the Ministry:
 >
 > 1. Is this description of the Minister's role on Farm 39 correct? What would you like to change?
 > 2. Does the Minister still hold the Remainder of Farm 39 in trust, and has any notice been published for Farm 39 since the transitional period ended in 2011?
@@ -36,7 +36,7 @@ The Minister of Land Reform and Rural Development is the member of the national 
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a law, a government notice, or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -48,7 +48,7 @@ The Minister of Land Reform and Rural Development is the member of the national 
 | Deputy Minister | Stan Mathabatha [IC] |
 | Department | [[organisations/department-of-land-reform-and-rural-development\|Department of Land Reform and Rural Development]] |
 | Role on Farm 39 | Trustee of the Remainder, and final decision-maker on its transfer [IC] |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## Why this Minister, and not the Department of Agriculture
 

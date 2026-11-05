@@ -16,7 +16,7 @@ updated: 2026-11-04
 This section holds one page for each way the valley came to exchange goods, labour, money, and land. It takes its name from the Markets form of the [[history/the-time-model|TIME model]], in which people organise through exchange at a price. [[history/markets/money-and-land|Money and Land]] is the main story that ties the pages together, so it is the best place to start.
 
 > [!note] Reading these pages
-> The facts on the Markets pages carry fact-status tags. Their comparisons with San and Khoekhoe ways of holding land, and their reading of what each change meant, are the Forum's interpretation and carry no tag.
+> The facts on the Markets pages carry fact-status tags. Their comparisons with San and Khoekhoe ways of holding land, and their reading of what each change meant, are the DevForum's interpretation and carry no tag.
 
 ## The pages
 
@@ -34,7 +34,7 @@ Each page gives the sources for its facts and names who gained and who lost from
 
 [[history/the-time-model|TIME]] reads the valley's history through four forms of organisation: Tribes, Institutions, Markets, and Emergent. Each new form is added to the ones before it, and none comes to a close. The general model has its home on the BioConomy wiki, at [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework).
 
-In the Forum's reading, Markets has been the most dominant form in the valley from about 1860 to today. It shows in wages and prices, and in property bought and sold in Greyton. This reading carries no fact-status tag, and residents may read the history differently. [[history/the-valley-through-time|The Valley Through TIME]] explains the dates, and why Genadendal and Greyton moved at different paces.
+In the DevForum's reading, Markets has been the most dominant form in the valley from about 1860 to today. It shows in wages and prices, and in property bought and sold in Greyton. This reading carries no fact-status tag, and residents may read the history differently. [[history/the-valley-through-time|The Valley Through TIME]] explains the dates, and why Genadendal and Greyton moved at different paces.
 
 ## Have your say
 

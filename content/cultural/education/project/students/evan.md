@@ -191,4 +191,4 @@ About two hours.
 
 - You don't need to contact any organisation. Talk with your family and the adults at school.
 - Write "could", never "will", about an organisation. Nobody has agreed to anything.
-- This idea has not been discussed by the Forum yet. Keep what you find with your class and family.
+- This idea has not been discussed by the DevForum yet. Keep what you find with your class and family.

@@ -31,7 +31,7 @@ Choose three of these for your Field Book. Tie the correct colour thread to each
 - Wild Restoration watches the land with trail cameras and sound recordings.
 - The [[zonderend-water-users-association|Zonderend Water Users Association]] clears river banks. It runs a nursery in Genadendal that grows palmiet and other local plants.
 - A team of 14 people, employed through the Expanded Public Works Programme, runs the nursery.
-- The Forum has an idea for a water skills course at the Valley of Grace Learning Campus. It has not been agreed.
+- The DevForum has an idea for a water skills course at the Valley of Grace Learning Campus. It has not been agreed.
 
 **Words to use:** 
 - restoration (helping damaged land recover),
@@ -165,4 +165,4 @@ About two hours.
 
 - You don't need to contact any organisation. Talk with your family and the adults at school.
 - Write "could", never "will", about an organisation. Nobody has agreed to anything.
-- This idea has not been discussed by the Forum yet. Keep what you find with your class and family.
+- This idea has not been discussed by the DevForum yet. Keep what you find with your class and family.

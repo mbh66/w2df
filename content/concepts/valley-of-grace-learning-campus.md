@@ -23,7 +23,7 @@ links:
 updated: 2026-11-04
 ---
 
-> **This idea is not yet agreed.** No organisation has signed up to it yet, and some of the stakeholders have not yet been approached to participate, only because this is unfolding quite rapidly. **Please do not share anything here publicly**. This page exists to keep the conversation flowing. It shows what the valley **could** build if we worked together. The details will be tabled at the Forum's November 2026 meeting, and it will change as more people see this early invitation to dialogue and respond.
+> **This idea is not yet agreed.** No organisation has signed up to it yet, and some of the stakeholders have not yet been approached to participate, only because this is unfolding quite rapidly. **Please do not share anything here publicly**. This page exists to keep the conversation flowing. It shows what the valley **could** build if we worked together. The details will be tabled at the DevForum's November 2026 meeting, and it will change as more people see this early invitation to dialogue and respond.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -41,7 +41,7 @@ updated: 2026-11-04
 ## Why the valley needs it
 
 - The valley has one high school, [[cultural/education/emil-weder-secondary|Emil Weder Secondary]] in Genadendal, which teaches in Afrikaans [IC]. English-speaking families send their children out of the valley for high school [MS].
-- At the Forum's first meeting, farmers and tourism businesses said they need more skilled workers: mechanics, machine operators, and people with computer and hospitality skills [MS]. The meeting also asked for life skills [MS].
+- At the DevForum's first meeting, farmers and tourism businesses said they need more skilled workers: mechanics, machine operators, and people with computer and hospitality skills [MS]. The meeting also asked for life skills [MS].
 - There is no place in the valley where school leavers or adults can train for work in tourism and conservation [MS].
 - The valley does not have enough English-speaking children to fill a new day secondary school on its own [MS].
 
@@ -102,7 +102,7 @@ Vorming would give the campus something few schools can offer. Learners from out
 
 For comparison, boarding schools elsewhere in South Africa charge from about R100,000 to more than R450,000 a year [TBV]. See the research done on https://hs.valleyofgrace.co.za/research/top-schools
 
-The Forum needs to decide what "internationally recognised" should mean for the campus. There are three routes, and the campus could combine them:
+The DevForum needs to decide what "internationally recognised" should mean for the campus. There are three routes, and the campus could combine them:
 
 | Route | What it would mean | Effect on fees | What it costs |
 | --- | --- | --- | --- |
@@ -125,9 +125,9 @@ Nothing has been costed yet [MS].
 
 A trust representing the whole ward would own or hold the land and buildings and run the campus. Genadendal and Greyton would both be on its board. The boarding school would be a tenant. It could have one seat on the board, but never control it [MS].
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
-The Forum's [[long-term-goal|long-term goal]] groups the valley's life into three spheres, each with its own rule. The campus would follow all three:
+The DevForum's [[long-term-goal|long-term goal]] groups the valley's life into three spheres, each with its own rule. The campus would follow all three:
 
 - **Freedom (cultural).** Each school keeps its own language and character. The community decides what the campus is for.
 - **Equality (civic).** The trust holds the campus for the whole ward. Every valley learner has the same access to the training centre and the learning centre. Bursary places go to learners from every village. No path is second class.
@@ -135,7 +135,7 @@ The Forum's [[long-term-goal|long-term goal]] groups the valley's life into thre
 
 Beneath all three sits [[concepts/vorming|Vorming]]: each learner grows in responsibility for the valley, and the valley's restored land and rivers show it.
 
-It also serves three of the Forum's [[priorities/index|priorities]]: [[priorities/education-skills|Education and Skills]], [[priorities/tourism-development|Tourism Development]], and [[priorities/conservation-environment|Conservation and Environment]]. The boarding school's kitchen and suppliers could also support [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]] and [[priorities/business-procurement|Business Development and Local Procurement]].
+It also serves three of the DevForum's [[priorities/index|priorities]]: [[priorities/education-skills|Education and Skills]], [[priorities/tourism-development|Tourism Development]], and [[priorities/conservation-environment|Conservation and Environment]]. The boarding school's kitchen and suppliers could also support [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]] and [[priorities/business-procurement|Business Development and Local Procurement]].
 
 ## Learning from Bonnievale
 
@@ -166,8 +166,8 @@ Bonnievale is a farming town on the Breede River, in Langeberg Municipality [IC]
 ## What happens next
 
 1. The Transformasie Komitee and Emil Weder's governing body are asked for their views.
-2. The idea is formally tabled at the Forum's November 2026 meeting.
-3. If the Forum wants to go further, it forms a working group to test whether the idea can work.
+2. The idea is formally tabled at the DevForum's November 2026 meeting.
+3. If the DevForum wants to go further, it forms a working group to test whether the idea can work.
 
 The first parts could start small. Training courses for adults could begin in 2027 or 2028 in borrowed rooms [MS]. A boarding school could open by 2030 [TBV].
 

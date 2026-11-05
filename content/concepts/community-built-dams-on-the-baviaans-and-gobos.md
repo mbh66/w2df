@@ -1,6 +1,6 @@
 ---
 title: Community-Built Dams on the Baviaans and Gobos
-description: "An idea for small dams the valley could build itself on the Baviaans and Gobos rivers: leaky dams in side gullies and low walls in the mountain kloofs above Genadendal and Greyton. Based on a first map study. Not yet agreed, and not yet set down for a Forum meeting."
+description: "An idea for small dams the valley could build itself on the Baviaans and Gobos rivers: leaky dams in side gullies and low walls in the mountain kloofs above Genadendal and Greyton. Based on a first map study. Not yet agreed, and not yet set down for a DevForum meeting."
 type: concept
 tags:
   - theme/water
@@ -23,7 +23,7 @@ links:
 updated: 2026-10-28
 ---
 
-> **This idea is not yet agreed.** Nobody named on this page has been asked about it yet. That includes the Transformasie Komitee, the Moravian Church, [[organisations/capenature|CapeNature]], [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], the [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]], the holders of Greyton's leiwater rights, the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], and the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]]. **Please do not share this page publicly yet.** No date has been set for tabling it at a Forum meeting.
+> **This idea is not yet agreed.** Nobody named on this page has been asked about it yet. That includes the Transformasie Komitee, the Moravian Church, [[organisations/capenature|CapeNature]], [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], the [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]], the holders of Greyton's leiwater rights, the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], and the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]]. **Please do not share this page publicly yet.** No date has been set for tabling it at a DevForum meeting.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -66,7 +66,7 @@ A wall of this height stays below the size the law treats as a dam with a safety
 
 ### 3. Higher walls are a different kind of project
 
-The same sites could hold far more water behind higher walls: up to about 9 million cubic metres behind a 40 metre wall above Greyton [MS]. Every wall above 5 metres that the study tested would also hold more than 50,000 cubic metres [MS]. Such a dam must be registered as a dam with a safety risk [IC]. That puts it outside what a community could build on its own. The figures are listed below so the Forum can see what the valley's terrain allows.
+The same sites could hold far more water behind higher walls: up to about 9 million cubic metres behind a 40 metre wall above Greyton [MS]. Every wall above 5 metres that the study tested would also hold more than 50,000 cubic metres [MS]. Such a dam must be registered as a dam with a safety risk [IC]. That puts it outside what a community could build on its own. The figures are listed below so the DevForum can see what the valley's terrain allows.
 
 ## Where the sites are
 
@@ -136,11 +136,11 @@ Nothing has been costed [MS]. Leaky dams cost little more than labour and local 
 - **On the Gobos:** the kloof northeast of Greyton may lie inside the [[economic/farmers-land-water/greyton-nature-reserve|Greyton Nature Reserve]], which Theewaterskloof Municipality manages with support from the Greyton Conservation Society [TBV]. Holders of Greyton's leiwater rights draw on the same river [MS].
 - **Water use:** the Breede-Olifants Catchment Management Agency and the Department of Water and Sanitation, under the National Water Act.
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
-The Forum's [[long-term-goal|long-term goal]] plans for the valley to keep more of what it has, including water in the ground. Small dams are one way to hold the valley's rain.
+The DevForum's [[long-term-goal|long-term goal]] plans for the valley to keep more of what it has, including water in the ground. Small dams are one way to hold the valley's rain.
 
-It serves two of the Forum's [[priorities/index|priorities]]: [[priorities/conservation-environment|Conservation and Environment]], and [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]].
+It serves two of the DevForum's [[priorities/index|priorities]]: [[priorities/conservation-environment|Conservation and Environment]], and [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]].
 
 ## What is still open
 
@@ -156,14 +156,14 @@ It serves two of the Forum's [[priorities/index|priorities]]: [[priorities/conse
 ## What happens next
 
 1. The Transformasie Komitee, the Moravian Church, the municipality, the Greyton Conservation Society, and the holders of leiwater rights are asked for their views.
-2. The idea is set down for a Forum meeting.
-3. If the Forum wants to go further, volunteers walk the sites with someone who knows small dams, and check the figures on the ground.
+2. The idea is set down for a DevForum meeting.
+3. If the DevForum wants to go further, volunteers walk the sites with someone who knows small dams, and check the figures on the ground.
 4. The catchment agency is asked which permissions each size of dam would need.
 5. A first leaky dam could be built in a side gully where the landholder agrees.
 
 ## Have your say
 
-Contact the moderators via [[how-to-submit|How to Submit]], or raise the idea at the next Forum meeting.
+Contact the moderators via [[how-to-submit|How to Submit]], or raise the idea at the next DevForum meeting.
 
 ## Related
 

@@ -25,7 +25,7 @@ last_checked: 2026-10-01
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the Forum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
@@ -41,7 +41,7 @@ The Tourism Act is the national law for tourism in South Africa [IC]. Among othe
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the rule could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the rule could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -63,7 +63,7 @@ The Tourism Act is the national law for tourism in South Africa [IC]. Among othe
 
 ## What it means in the valley
 
-**For heritage and nature guides.** A resident who leads paying visitors through Genadendal's Church Square, along Greyton's leiwater, or into the [[economic/farmers-land-water/greyton-nature-reserve|nature reserve]] is acting as a tourist guide, and needs to be registered. Training that does not lead to registration leaves guides unable to work lawfully on their own account. The Forum reads this as a reason for any guide training tabled at the Forum, including the Heritage Trail's, to be planned around a recognised qualification from the start.
+**For heritage and nature guides.** A resident who leads paying visitors through Genadendal's Church Square, along Greyton's leiwater, or into the [[economic/farmers-land-water/greyton-nature-reserve|nature reserve]] is acting as a tourist guide, and needs to be registered. Training that does not lead to registration leaves guides unable to work lawfully on their own account. The DevForum reads this as a reason for any guide training tabled at the DevForum, including the Heritage Trail's, to be planned around a recognised qualification from the start.
 
 **For tourism businesses.** Businesses that sell guided experiences, such as those marketed through the [[economic/tourism/adventure-hub-greyton|Adventure Hub Greyton]], need their guides to be registered [TBV]. A host who welcomes guests to a home or a farm is not a guide simply by doing so; the line is drawn by what the guide does and is paid for [TBV].
 

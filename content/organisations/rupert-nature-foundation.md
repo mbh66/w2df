@@ -22,14 +22,14 @@ last_checked: 2026-10-28
 ---
 
 > [!warning] For the Rupert Nature Foundation to review
-> The Rupert Nature Foundation has not yet seen this page. It describes the foundation only through what its partners and others have said in public. The Forum has not approached the Rupert Nature Foundation about anything. Until the foundation has approved the text, it may change. Questions for the Rupert Nature Foundation:
+> The Rupert Nature Foundation has not yet seen this page. It describes the foundation only through what its partners and others have said in public. The DevForum has not approached the Rupert Nature Foundation about anything. Until the foundation has approved the text, it may change. Questions for the Rupert Nature Foundation:
 >
 > 1. Is this description of the foundation correct? What would you like to change?
 > 2. How much has the foundation committed as an outcome funder of the Cape Water bond, and over how many years?
 > 3. How does the foundation relate to Remgro and to the Rupert family's other foundations? Did it and Remgro plan their commitments to the bond together?
 > 4. Is the list of projects below correct? Where is the CapeNature project against alien plants?
 > 5. Does the foundation fund any work in the Riviersonderend mountains or the valley?
-> 6. Where is the foundation based, and may the Forum link to its website?
+> 6. Where is the foundation based, and may the DevForum link to its website?
 > 7. Should readers reach you through the moderators, or through a public contact?
 
 The Rupert Nature Foundation is one of the five outcome funders of the Cape Water Performance-Based Bond, named by [[organisations/rand-merchant-bank|Rand Merchant Bank]] in April 2026 [MS]. The bond pays for clearing invasive plants in the catchments that feed Cape Town's dams [IC]. News reports list the foundation among the Rupert family's foundations [TBV]. The Rupert family also controls [[organisations/remgro|Remgro]], which is a separate outcome funder of the same bond [MS]. The valley lies downstream of the largest of those dams, Theewaterskloof [IC].
@@ -50,7 +50,7 @@ The Rupert Nature Foundation is one of the five outcome funders of the Cape Wate
 | Website | Not yet known |
 | Role | Outcome funder, Cape Water Performance-Based Bond. Amount not made public [MS] |
 | Link to the valley | Indirect. The bond pays for clearing in the catchments of the water supply system whose largest dam lies upstream of the valley |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 
@@ -64,7 +64,7 @@ The foundation gives money to nature conservation [TBV]. No website of its own h
 
 **The bond.** [[organisations/firstrand-bank|FirstRand Bank]] issued the R2.5 billion Cape Water Performance-Based Bond in April 2026, arranged by Rand Merchant Bank [IC]. Rand Merchant Bank names the Rupert Nature Foundation among the outcome funders, the donors who pay the investors' bonus only when the clearing is checked and confirmed [MS]. The other outcome funders are the FirstRand Foundation, the Development Bank of Southern Africa, Remgro, and the [[organisations/lewis-foundation|Lewis Foundation]] [MS]. The FirstRand Foundation and the Development Bank of Southern Africa have each committed R50 million [IC]. The Rupert Nature Foundation's amount has not been made public. [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy South Africa]] does the clearing through the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]], and [[organisations/conservation-alpha|Conservation Alpha]] checks the results [MS].
 
-**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the Forum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with CapeNature [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
+**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the DevForum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with CapeNature [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
 
 ## Relevance to W2DF
 
@@ -107,4 +107,4 @@ If you know more about the Rupert Nature Foundation's work in the valley's mount
 - Remgro. [Our business model 2021](https://www.remgro.com/online-reports/2021/ar2021/overview-of-business/our-business-model). The Rupert family's control of Remgro through Rupert Beleggings.
 - City of Cape Town. [Dam levels](https://web1.capetown.gov.za/web1/newsandnotices/Home/Release/dam-levels) (August 2026). The dams of the Western Cape Water Supply System and their capacities.
 - Wikipedia. [Theewaterskloof Dam](https://en.wikipedia.org/wiki/Theewaterskloof_Dam). Its river, its owner, and its place in the Western Cape Water Supply System.
-- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the Forum in conversation and is not on this page.
+- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the DevForum in conversation and is not on this page.

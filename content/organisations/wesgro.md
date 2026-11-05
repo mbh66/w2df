@@ -18,7 +18,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Wesgro to review
-> Wesgro has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Wesgro about anything. Until Wesgro has approved the text, it may change. Questions for Wesgro:
+> Wesgro has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Wesgro about anything. Until Wesgro has approved the text, it may change. Questions for Wesgro:
 >
 > 1. Is this description of Wesgro and its Overberg research correct? What would you like to change?
 > 2. Does Wesgro hold visitor figures for Greyton and Genadendal, or for Theewaterskloof?
@@ -30,7 +30,7 @@ Wesgro describes itself as "the official tourism, trade and investment promotion
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -42,7 +42,7 @@ Wesgro describes itself as "the official tourism, trade and investment promotion
 | Website | [wesgro.co.za](https://wesgro.co.za) |
 | Role | Provincial tourism, trade, and investment promotion [MS] |
 | Link to the valley | Indirect. It markets the region and studies its visitors |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

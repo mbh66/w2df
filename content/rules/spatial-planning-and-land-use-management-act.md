@@ -24,7 +24,7 @@ last_checked: 2026-10-01
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the Forum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
@@ -40,7 +40,7 @@ The Spatial Planning and Land Use Management Act, known as SPLUMA, is the nation
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the rule could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the rule could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -81,7 +81,7 @@ The Spatial Planning and Land Use Management Act, known as SPLUMA, is the nation
 
 ## Relevance to W2DF
 
-- [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]: the Forum takes practical planning matters, such as land use, zoning, and building plans, to the municipality's officials [MS].
+- [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]: the DevForum takes practical planning matters, such as land use, zoning, and building plans, to the municipality's officials [MS].
 - [[villages/next-door-different-rules|Next Door, Different Rules]]: three neighbouring places on different land.
 - [[civic/residents-association/madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]]: the planned housing on Erf 595, Heuwelkroon.
 - [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]] and other ideas that would need land.

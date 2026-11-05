@@ -1,6 +1,6 @@
 ---
-title: How the Forum's Categories Compare
-description: How the Forum's nine categories line up with the Transformasie Komitee's eight-sector plan and with the portfolios of a typical residents' association, and why the Forum organised the register the way it did.
+title: How the DevForum's Categories Compare
+description: How the DevForum's nine categories line up with the Transformasie Komitee's eight-sector plan and with the portfolios of a typical residents' association, and why the DevForum organised the register the way it did.
 type: page
 tags:
   - civic/governance
@@ -11,13 +11,13 @@ right_of_reply: pending
 komitee_review: pending
 ---
 
-The Forum files every initiative on this register in one of nine categories, grouped into three spheres of life: Economic, Civic, and Cultural [MS]. Other bodies in the valley organise their own work in other ways. This page sets the Forum's categories beside two of those structures: the [[civic/governance/genadendal-transformasie-komitee|Transformasie Komitee]]'s eight-sector plan, and the portfolios of a typical residents' association. It also explains why the Forum chose the structure it uses.
+The DevForum files every initiative on this register in one of nine categories, grouped into three spheres of life: Economic, Civic, and Cultural [MS]. Other bodies in the valley organise their own work in other ways. This page sets the DevForum's categories beside two of those structures: the [[civic/governance/genadendal-transformasie-komitee|Transformasie Komitee]]'s eight-sector plan, and the portfolios of a typical residents' association. It also explains why the DevForum chose the structure it uses.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by at least two sources that do not depend on each other, or by an official record.
-> - **[MS] Mission-Sourced.** Comes from the organisation the sentence names, in its own documents or statements, or is the Forum's own reading. It has not been checked against other sources.
+> - **[MS] Mission-Sourced.** Comes from the organisation the sentence names, in its own documents or statements, or is the DevForum's own reading. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 > [!note] About "a typical residents' association"
@@ -25,7 +25,7 @@ The Forum files every initiative on this register in one of nine categories, gro
 
 ## Side by side
 
-| Forum category | Transformasie Komitee sector | Typical residents' association portfolio |
+| DevForum category | Transformasie Komitee sector | Typical residents' association portfolio |
 | --- | --- | --- |
 | **Economic sphere** | | |
 | [[economic/farmers-land-water/index\|Farmers, Land & Water]] | Farmers Union | Environment & Conservation (its conservation work) |
@@ -47,19 +47,19 @@ The Komitee's sectors come from its plan for the valley, as listed on the [[civi
 
 ## What the table shows
 
-**The Komitee's sectors and the Forum's categories match closely.** Seven of the Komitee's eight sectors have a matching category on this register [MS]. The eighth, Youth, is a theme on the W2DF register. Youth initiatives are filed by subject and tagged, so they can be found in every category. Two of the Forum's categories have no Komitee sector: Tourism, and Governance, which holds the Forum itself and the agreements between organisations.
+**The Komitee's sectors and the DevForum's categories match closely.** Seven of the Komitee's eight sectors have a matching category on this register [MS]. The eighth, Youth, is a theme on the W2DF register. Youth initiatives are filed by subject and tagged, so they can be found in every category. Two of the DevForum's categories have no Komitee sector: Tourism, and Governance, which holds the DevForum itself and the agreements between organisations.
 
 **A residents' association's portfolios fit mostly within the Civic sphere.** Safety, infrastructure, services and urban management all belong under [[civic/residents-association/index|Residents Association]], and health and social development under [[civic/community-care/index|Community Care]] [MS]. Economic development reaches into the Economic sphere. Schools, congregations, sport, heritage and the arts have no portfolio of their own, so they fall under "Other".
 
-**Environment is handled in two ways.** A residents' association often gives it a portfolio. The Forum treats it as a theme that runs through every category, alongside youth. Conservation work itself sits under [[economic/farmers-land-water/index|Farmers, Land & Water]].
+**Environment is handled in two ways.** A residents' association often gives it a portfolio. The DevForum treats it as a theme that runs through every category, alongside youth. Conservation work itself sits under [[economic/farmers-land-water/index|Farmers, Land & Water]].
 
-## Why the Forum chose this structure
+## Why the DevForum chose this structure
 
 Ward 2 has seven settlements, and they live under different conditions. Most residents of Greyton pay rates, and the municipality provides their services [MS]. Genadendal, Bereaville, Voorstekraal and Boschmanskloof stand on [[villages/farm-39|Farm 39]], land still held in trust while the transfer under TRANCRAA remains unfinished [IC]. The municipality does not provide basic services in [[villages/madiba-park|Madiba Park]] [MS]. [[villages/next-door-different-rules|Next Door, Different Rules]] shows what these differences mean where Heuwelkroon, Boschmanskloof and Madiba Park sit side by side.
 
 A structure built around municipal services suits a town where the municipality provides them. In the mission villages, much of daily life runs through congregations, schools, the museum and the Transformasie Komitee [MS]. Under a services structure, all of that would sit under "Other".
 
-The Forum therefore groups the valley's work by **spheres of life**. Economic covers how the valley makes, grows, and trades what people need. Civic covers the rules the valley lives by, and what every person is owed. Cultural covers how the valley learns, remembers, worships, and celebrates [MS]. The close match with the Komitee's sectors suggests the categories fit the way the mission villages already organise themselves.
+The DevForum therefore groups the valley's work by **spheres of life**. Economic covers how the valley makes, grows, and trades what people need. Civic covers the rules the valley lives by, and what every person is owed. Cultural covers how the valley learns, remembers, worships, and celebrates [MS]. The close match with the Komitee's sectors suggests the categories fit the way the mission villages already organise themselves.
 
 ## Different structures for different jobs
 
@@ -67,7 +67,7 @@ The three structures also do different work.
 
 - **A residents' association's portfolios** divide its work among its committee members.
 - **The Komitee's sectors** organise its plan for the valley [MS].
-- **The Forum's categories** sort initiatives that already exist, so that residents, Forum champions, and outside partners can find each other. Each initiative is filed in one category, and it can be linked to any of the Forum's five [[priorities/index|priorities]].
+- **The DevForum's categories** sort initiatives that already exist, so that residents, DevForum champions, and outside partners can find each other. Each initiative is filed in one category, and it can be linked to any of the DevForum's five [[priorities/index|priorities]].
 
 Nothing in a residents' association's portfolios conflicts with the register. An association would be filed under [[civic/residents-association/index|Residents Association]], and the work of each of its portfolios can be found in the categories shown in the table.
 
@@ -77,6 +77,6 @@ Nothing in a residents' association's portfolios conflicts with the register. An
 - [[civic/residents-association/index|Residents Association]]
 - [[villages/next-door-different-rules|Next Door, Different Rules]]
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum]]
-- [[priorities/index|Forum Priorities]]
+- [[priorities/index|DevForum Priorities]]
 - [[getting-started|Getting Started]]
-- [[about|About the Forum]]
+- [[about|About the DevForum]]

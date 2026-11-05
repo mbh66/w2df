@@ -20,7 +20,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Legal Resources Centre to review
-> Legal Resources Centre has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Legal Resources Centre about anything. Until Legal Resources Centre has approved the text, it may change. Questions for Legal Resources Centre:
+> Legal Resources Centre has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Legal Resources Centre about anything. Until Legal Resources Centre has approved the text, it may change. Questions for Legal Resources Centre:
 >
 > 1. Is this description of the Legal Resources Centre and its advice on Farm 39 correct? What would you like to change?
 > 2. Can residents of Genadendal ask the Legal Resources Centre for advice on land rights today, and through which office?
@@ -32,7 +32,7 @@ The Legal Resources Centre (LRC) calls itself South Africa's largest public inte
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -44,7 +44,7 @@ The Legal Resources Centre (LRC) calls itself South Africa's largest public inte
 | Website | [lrc.org.za](https://lrc.org.za) |
 | Role | Legal advice on the TRANCRAA process, 2009 [IC] |
 | Link to the valley | Direct. Its advice shaped the Farm 39 process |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

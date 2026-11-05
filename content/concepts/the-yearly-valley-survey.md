@@ -25,7 +25,7 @@ links:
 updated: 2026-09-28
 ---
 
-> **This idea is not yet agreed.** [[long-term-goal|Our Long-Term Goal]] says the Forum plans a yearly survey from 2027 [MS]. This page sets out how it could work and what it could measure. Nobody named on this page has been asked about it yet, including the Transformasie Komitee, Theewaterskloof Municipality, and the residents associations. **Please do not share this page publicly yet.** The idea will be tabled at the Forum's November 2026 meeting.
+> **This idea is not yet agreed.** [[long-term-goal|Our Long-Term Goal]] says the DevForum plans a yearly survey from 2027 [MS]. This page sets out how it could work and what it could measure. Nobody named on this page has been asked about it yet, including the Transformasie Komitee, Theewaterskloof Municipality, and the residents associations. **Please do not share this page publicly yet.** The idea will be tabled at the DevForum's November 2026 meeting.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -65,9 +65,9 @@ The survey would give the valley that map, and update it every year.
 
 The valley already has bodies that speak for its residents. They include the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]], elected on 9 November 2004 to represent the residents of Farm 39 in the transfer of their land [IC], and the residents associations.
 
-The survey would add to the work of the Komitee and every other body in the valley. Delegates would still negotiate and sign agreements. The survey would give them evidence to carry. The Komitee, the residents associations, and the Forum could all use the same numbers. A delegate who brings survey results into a meeting speaks with the weight of every household that answered.
+The survey would add to the work of the Komitee and every other body in the valley. Delegates would still negotiate and sign agreements. The survey would give them evidence to carry. The Komitee, the residents associations, and the DevForum could all use the same numbers. A delegate who brings survey results into a meeting speaks with the weight of every household that answered.
 
-Results about Farm 39 land and water would be sent to the Komitee in writing, and published once the Komitee responds or 21 days after they were sent, whichever comes first. The Forum has agreed not to duplicate bodies already dealing with the TRANCRAA land process [MS].
+Results about Farm 39 land and water would be sent to the Komitee in writing, and published once the Komitee responds or 21 days after they were sent, whichever comes first. The DevForum has agreed not to duplicate bodies already dealing with the TRANCRAA land process [MS].
 
 ## What the survey would measure
 
@@ -158,8 +158,8 @@ The second column is an offer. It tells a buyer, a department, or an investor wh
 - **How.** On a phone, in about 15 minutes, in Afrikaans or English [MS].
 - **When.** Once a year, in the same month, so that results reach the municipality before its yearly IDP update. The IDP public meetings for the 2026 update were held in November and December 2025 [IC].
 - **Which homes.** A sample of homes in every settlement, large enough to compare settlements. A statistician would set the number. Small hamlets would be grouped together so that no household can be recognised [MS].
-- **The same questions every year.** A few new questions could be added each year on a topic the Forum chooses.
-- **Checking the method.** The survey would follow Stats SA's quality framework for statistics (SASQAF) where it can, which government statisticians use to judge data quality [IC]. The Forum would publish the questions and the method, and ask a university or an independent statistician to check them. Once checked, results could carry the [IC] tag on this site.
+- **The same questions every year.** A few new questions could be added each year on a topic the DevForum chooses.
+- **Checking the method.** The survey would follow Stats SA's quality framework for statistics (SASQAF) where it can, which government statisticians use to judge data quality [IC]. The DevForum would publish the questions and the method, and ask a university or an independent statistician to check them. Once checked, results could carry the [IC] tag on this site.
 - **Privacy.** The survey is anonymous [MS]. No names or addresses would be recorded [MS], and money questions would use ranges. See the [[data-policy|Data Policy]].
 - **Villages see their results first.** Each settlement's results would be shown to its residents before they are published.
 - **Who owns the results.** The valley. A summary for each village would be published on this site [MS]. Anonymous data could be shared with others under a written agreement.
@@ -189,13 +189,13 @@ Possible sources are the municipality or the province, funders who want to use t
 
 ## Who would decide
 
-- **The Forum** would decide whether to run the survey.
+- **The DevForum** would decide whether to run the survey.
 - **A small survey group,** with people from each village, would draft the questions.
 - **The Transformasie Komitee** would be sent any question about Farm 39 land, tenure, or water in writing, and the survey would go out once the Komitee responds or 21 days after they were sent, whichever comes first.
 - **The residents associations** would review the questions for their settlements.
 - **An independent statistician** would check the method.
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
 [[long-term-goal|Our Long-Term Goal]] sets out a theory of change and says the survey will show whether it is true [MS]. Each part of the survey tests a step:
 
@@ -210,7 +210,7 @@ The survey would also give each of the five [[priorities/index|priorities]] a ye
 
 ## What is still open
 
-- Whether the Forum agrees to run the survey.
+- Whether the DevForum agrees to run the survey.
 - How many homes to visit in each settlement.
 - What it would cost, and who would pay.
 - Whether the survey should also be offered in isiXhosa.
@@ -224,15 +224,15 @@ The survey would also give each of the five [[priorities/index|priorities]] a ye
 ## What happens next
 
 1. The idea is shared with the Transformasie Komitee and the residents associations, and they are asked for their views and which questions they would add.
-2. The idea is tabled at the Forum's November 2026 meeting.
-3. The Forum asks the municipality's IDP office which figures it can use, and by when.
+2. The idea is tabled at the DevForum's November 2026 meeting.
+3. The DevForum asks the municipality's IDP office which figures it can use, and by when.
 4. The survey group drafts the questions and tests them with a small number of homes in one village.
 5. Fieldworkers are trained.
 6. The first survey runs in 2027 [MS], and results are published village by village.
 
 ## Have your say
 
-To comment on this idea, suggest a question for the survey, or offer to help, contact the moderators via [[how-to-submit|How to Submit]], or raise it at the November 2026 Forum meeting.
+To comment on this idea, suggest a question for the survey, or offer to help, contact the moderators via [[how-to-submit|How to Submit]], or raise it at the November 2026 DevForum meeting.
 
 ## Related
 
@@ -245,7 +245,7 @@ To comment on this idea, suggest a question for the survey, or offer to help, co
 - [[future-of-the-valley|Future of the Valley]]
 - [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]
 - [[concepts/restoring-the-river|Restoring the River: Water Skills at the Learning Campus]]
-- [[priorities/index|Forum Priorities]]
+- [[priorities/index|DevForum Priorities]]
 - [[villages/index|Villages]]
 - [[rules/theewaterskloof-integrated-development-plan|Theewaterskloof Integrated Development Plan]]
 

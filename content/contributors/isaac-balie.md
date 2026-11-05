@@ -103,4 +103,4 @@ Contact Isaac Balie through the moderators via [[how-to-submit|How to Submit]].
 - Genadendal Music Archive. [About GMA](https://genadendalmusicarchive.co.za/about/). The inventory project of 2011 to 2012, the digitisation team, and the description of him as the museum's founder.
 - Genadendal Music Archive. [About Genadendal](https://genadendalmusicarchive.co.za/about-genadendal/). Describes him as the museum's founder and its director for 50 years.
 - Du Preez, H. and others (eds) (2009). [The Challenge of Genadendal](https://ebooks.iospress.nl/book/the-challenge-of-genadendal). IOS Press. Nelson Mandela's preface, dated April 2008, on the renaming of Westbrooke and his visit of 10 October 1995. Register entry: [[research/du-preez-the-challenge-of-genadendal|The Challenge of Genadendal]].
-- *Valley of Grace: Significant Dates* (2026). Forum research notes, held by the Forum. The 1995 letter and the report in *Die Burger*.
+- *Valley of Grace: Significant Dates* (2026). DevForum research notes, held by the DevForum. The 1995 letter and the report in *Die Burger*.

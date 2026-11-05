@@ -26,7 +26,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For The Nature Conservancy South Africa to review
-> The Nature Conservancy South Africa has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The Forum has not approached The Nature Conservancy South Africa about anything. Until The Nature Conservancy South Africa has approved the text, it may change. Questions for The Nature Conservancy South Africa:
+> The Nature Conservancy South Africa has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The DevForum has not approached The Nature Conservancy South Africa about anything. Until The Nature Conservancy South Africa has approved the text, it may change. Questions for The Nature Conservancy South Africa:
 >
 > 1. Is this description of TNC South Africa and its work correct? What would you like to change?
 > 2. Which catchments does the water fund clear, and does any of that work, alone or with [[organisations/capenature|CapeNature]], take place in the Riviersonderend mountains?
@@ -51,7 +51,7 @@ The Nature Conservancy (TNC) is a global conservation non-profit that works in 8
 | Website | [nature.org](https://www.nature.org) |
 | Role | Implementer, Cape Water Performance-Based Bond; leads the Greater Cape Town Water Fund [MS] |
 | Link to the valley | Indirect. It clears catchments of the water supply system whose largest dam lies upstream of the valley |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 
@@ -63,7 +63,7 @@ TNC says it works in 86 countries and territories, in 41 of them directly and in
 
 **The bond.** Under the Cape Water Performance-Based Bond, TNC South Africa receives R150 million over five years, as donations and related funding, for clearing and catchment restoration through the fund [MS]. [[organisations/rand-merchant-bank|Rand Merchant Bank]] and TNC developed the bond together [MS]. [[organisations/firstrand-bank|FirstRand Bank]] issued it, and [[organisations/conservation-alpha|Conservation Alpha]] checks the results [MS].
 
-**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the Forum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with CapeNature [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
+**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the DevForum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with CapeNature [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
 
 ## Relevance to W2DF
 
@@ -98,4 +98,4 @@ If you know more about TNC South Africa's work in the valley's mountains or rive
 - City of Cape Town. [City invests R62m to secure water by clearing invasive alien plants](https://www.capetown.gov.za/Media-and-news/City%20invests%20R62m%20to%20secure%20water%20by%20clearing%20invasive%20alien%20plants) (1 April 2021). TNC's matching funds.
 - City of Cape Town. [Dam levels](https://web1.capetown.gov.za/web1/newsandnotices/Home/Release/dam-levels) (August 2026). The dams of the Western Cape Water Supply System and their capacities.
 - Wikipedia. [Theewaterskloof Dam](https://en.wikipedia.org/wiki/Theewaterskloof_Dam). Its river, its owner, and its place in the Western Cape Water Supply System.
-- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the Forum in conversation and is not on this page.
+- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the DevForum in conversation and is not on this page.

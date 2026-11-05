@@ -1,6 +1,6 @@
 # Ward 2 Development Forum
 
-> A public register of community initiatives in Ward 2 of Theewaterskloof Municipality, Western Cape, South Africa: the villages of Genadendal, Greyton, Heuwelkroon, Madiba Park, Bereaville, Voorstekraal, and Boschmanskloof. Each entry describes one initiative (a business, farm, school, congregation, club, service, or project) and states what it needs and what it offers, so residents, Forum champions, and outside partners can find each other. The site is run by the Ward 2 Business and Community Development Forum (W2DF), a community-driven forum that first met on 16 September 2026.
+> A public register of community initiatives in Ward 2 of Theewaterskloof Municipality, Western Cape, South Africa: the villages of Genadendal, Greyton, Heuwelkroon, Madiba Park, Bereaville, Voorstekraal, and Boschmanskloof. Each entry describes one initiative (a business, farm, school, congregation, club, service, or project) and states what it needs and what it offers, so residents, DevForum champions, and outside partners can find each other. The site is run by the Ward 2 Business and Community Development Forum (W2DF), a community-driven forum that first met on 16 September 2026.
 
 The site is built with Quartz from an Obsidian vault. Pages are written in plain language, mainly in English, with some in Afrikaans. A translation widget offers machine translation into other languages; the original page is authoritative.
 
@@ -14,7 +14,7 @@ Every initiative is an entry in exactly one of nine categories. The categories a
 
 An entry's URL is its category folder plus its file name, for example `/economic/farmers-land-water/wild-restoration`.
 
-Alongside the entries, the site holds the valley's history in `/history/`. History pages have no category, are not entries, and do not appear on the Register. It also holds the rules that apply in the valley today, one page per law, by-law, policy, or plan, in `/rules/`, pages on organisations outside the valley whose work reaches it, in `/organisations/`, and case studies of work done outside Ward 2 that the Forum learns from, in `/case-studies/`.
+Alongside the entries, the site holds the valley's history in `/history/`. History pages have no category, are not entries, and do not appear on the Register. It also holds the rules that apply in the valley today, one page per law, by-law, policy, or plan, in `/rules/`, pages on organisations outside the valley whose work reaches it, in `/organisations/`, and case studies of work done outside Ward 2 that the DevForum learns from, in `/case-studies/`.
 
 ## How an entry is structured
 
@@ -31,13 +31,13 @@ Each entry page has frontmatter and a body in a fixed order.
 
 - [The Register](https://df.valleyofgrace.co.za/register): every published entry in one table, with tabs by sphere, by place, and for entries looking for help
 - [Villages](https://df.valleyofgrace.co.za/villages/): one page per village, each listing the entries located there and those that serve the whole valley
-- [Forum Priorities](https://df.valleyofgrace.co.za/priorities/): the Forum's five development priorities, each with a page listing the entries tagged with it
-- [Forum Minutes](https://df.valleyofgrace.co.za/civic/governance/minutes/): summaries of Forum meetings, with links to the official minutes
+- [DevForum Priorities](https://df.valleyofgrace.co.za/priorities/): the DevForum's five development priorities, each with a page listing the entries tagged with it
+- [DevForum Minutes](https://df.valleyofgrace.co.za/civic/governance/minutes/): summaries of DevForum meetings, with links to the official minutes
 - [Research Register](https://df.valleyofgrace.co.za/research/): every piece of research the site cites (theses, books, articles, studies, archival editions), with the pages that use each one
 
 ## Valley history
 
-History pages carry the same fact-status labels as entries. On them, [MS] usually means the record comes from one side only, such as the Moravian mission's records, a missionary's diary, or a community's own histories. The site reads the valley's history through the TIME model. Sections headed "Reading ... through TIME", and any statement of which form was most dominant in a period, are the Forum's interpretation and carry no label.
+History pages carry the same fact-status labels as entries. On them, [MS] usually means the record comes from one side only, such as the Moravian mission's records, a missionary's diary, or a community's own histories. The site reads the valley's history through the TIME model. Sections headed "Reading ... through TIME", and any statement of which form was most dominant in a period, are the DevForum's interpretation and carry no label.
 
 - [Valley History](https://df.valleyofgrace.co.za/history/): the section's index, listing and summarising every history page
 - [History of the Valley](https://df.valleyofgrace.co.za/history/history-of-the-valley): the full story of the valley, with a timeline
@@ -52,7 +52,7 @@ History pages carry the same fact-status labels as entries. On them, [MS] usuall
 
 ## The rules the valley lives by
 
-Pages in `/rules/` explain the laws, by-laws, policies, and plans that apply in Ward 2 today. Each states what the rule does, then what it means in the valley, often differently for Greyton and for Farm 39. They are published while under review, carry a notice saying they are not legal advice, and link to the official text, which governs. Frontmatter gives `level` (National, Provincial, District, Municipal, Community), `instrument`, `subject`, `citation`, `administered_by`, `official_text`, and `last_checked`. Untagged sentences under "What it means in the valley" are the Forum's reading.
+Pages in `/rules/` explain the laws, by-laws, policies, and plans that apply in Ward 2 today. Each states what the rule does, then what it means in the valley, often differently for Greyton and for Farm 39. They are published while under review, carry a notice saying they are not legal advice, and link to the official text, which governs. Frontmatter gives `level` (National, Provincial, District, Municipal, Community), `instrument`, `subject`, `citation`, `administered_by`, `official_text`, and `last_checked`. Untagged sentences under "What it means in the valley" are the DevForum's reading.
 
 - [The Rules the Valley Lives By](https://df.valleyofgrace.co.za/rules/): the section's index, with a table of every rule and a list of rules still to come
 - [Transformation of Certain Rural Areas Act](https://df.valleyofgrace.co.za/rules/trancraa): TRANCRAA, the law that decides who will own Farm 39; this site is the home page on TRANCRAA among the linked Valley of Grace and BioConomy sites
@@ -62,7 +62,7 @@ Pages in `/rules/` explain the laws, by-laws, policies, and plans that apply in 
 
 ## Organisations outside the valley
 
-Pages in `/organisations/` describe organisations based outside Ward 2 whose work reaches the valley, such as the banks, non-profit, water fund, verifier, and city linked by the Cape Water Performance-Based Bond. They are not entries, have no category, and do not appear on the Register. Each describes the organisation only through what it has said or done in public, opens with questions for the organisation, and records whether the Forum has contacted it. Frontmatter gives `kind` (Bank, Funder, Non-profit, Water fund, Government, Specialist firm), `based_in`, `connection` (the programme and the organisation's role in it), and `relationship` (the Forum's contact with it).
+Pages in `/organisations/` describe organisations based outside Ward 2 whose work reaches the valley, such as the banks, non-profit, water fund, verifier, and city linked by the Cape Water Performance-Based Bond. They are not entries, have no category, and do not appear on the Register. Each describes the organisation only through what it has said or done in public, opens with questions for the organisation, and records whether the DevForum has contacted it. Frontmatter gives `kind` (Bank, Funder, Non-profit, Water fund, Government, Specialist firm), `based_in`, `connection` (the programme and the organisation's role in it), and `relationship` (the DevForum's contact with it).
 
 - [Organisations Outside the Valley](https://df.valleyofgrace.co.za/organisations/): the section's index, with a table of each organisation's role in the Cape Water bond and how the bond reaches the valley
 - [How the Cape Water Bond Works](https://df.valleyofgrace.co.za/organisations/how-the-cape-water-bond-works): a plain-language guide to the bond for residents, and what it means for the valley
@@ -77,20 +77,20 @@ Pages in `/organisations/` describe organisations based outside Ward 2 whose wor
 
 ## Case studies
 
-Pages in `/case-studies/` record work done outside Ward 2 that a page on this site draws on: what was done, in what order, with whose money, under what rules, and what came of it. They are not entries, have no category, and do not appear on the Register or the Organisations page. A case study records a case and makes no proposal for the valley; any reading of what it means for the valley is on the idea page that draws on it. Each opens with questions for the organisation at its centre, and sets the case's facts beside the valley's in one table. Frontmatter gives `kind` (Non-profit, School, Co-operative, Business, Funder, Government, Community initiative), `based_in`, `connection` (how the case touches the valley), and `relationship` (the Forum's contact with it).
+Pages in `/case-studies/` record work done outside Ward 2 that a page on this site draws on: what was done, in what order, with whose money, under what rules, and what came of it. They are not entries, have no category, and do not appear on the Register or the Organisations page. A case study records a case and makes no proposal for the valley; any reading of what it means for the valley is on the idea page that draws on it. Each opens with questions for the organisation at its centre, and sets the case's facts beside the valley's in one table. Frontmatter gives `kind` (Non-profit, School, Co-operative, Business, Funder, Government, Community initiative), `based_in`, `connection` (how the case touches the valley), and `relationship` (the DevForum's contact with it).
 
 - [Case Studies](https://df.valleyofgrace.co.za/case-studies/): the section's index, listing each case and the page that draws on it
 - [Bonnievale 418](https://df.valleyofgrace.co.za/case-studies/bonnievale-418): how Bonnievale built Jakes Gerwel Technical School, a no-fee technical high school that opened in 2018, and how the non-profit that grew out of it supports the town's school leavers; drawn on by the [Valley of Grace Learning Campus](https://df.valleyofgrace.co.za/concepts/valley-of-grace-learning-campus)
-- [Waterberg Development Initiative](https://df.valleyofgrace.co.za/case-studies/waterberg-development-initiative): how a volunteer non-profit in the Waterberg District of Limpopo started, how it is run and funded, what it says it has done, and how it works with government; named to the Forum by [The Shift](https://df.valleyofgrace.co.za/organisations/the-shift) as a model for the W2DF
+- [Waterberg Development Initiative](https://df.valleyofgrace.co.za/case-studies/waterberg-development-initiative): how a volunteer non-profit in the Waterberg District of Limpopo started, how it is run and funded, what it says it has done, and how it works with government; named to the DevForum by [The Shift](https://df.valleyofgrace.co.za/organisations/the-shift) as a model for the W2DF
 - [Mafube Business Forum](https://df.valleyofgrace.co.za/case-studies/mafube-business-forum): how a forum of business owners and farmers in Mafube Local Municipality, Free State, took the municipality and province to court, drafted a Stakeholders Compact that government did not sign, and supports a private company running the electricity under a 25-year agreement; raised in valley discussions as a possible case for Ward 2
 
-## About the Forum and the site
+## About the DevForum and the site
 
 - [Home](https://df.valleyofgrace.co.za/): introduction and navigation
 - [Getting Started](https://df.valleyofgrace.co.za/getting-started): what the site is for and how to use it
-- [About the Forum](https://df.valleyofgrace.co.za/about): who runs the Forum and the site, and how entries are checked
-- [Ward 2 Development Forum](https://df.valleyofgrace.co.za/civic/governance/ward-2-development-forum): the Forum's own entry
-- [How the Forum's Categories Compare](https://df.valleyofgrace.co.za/civic/governance/how-the-forums-categories-compare): how the nine categories line up with the Transformasie Komitee's eight sectors and with the portfolios of a typical residents' association, and why the Forum chose its structure
+- [About the DevForum](https://df.valleyofgrace.co.za/about): who runs the DevForum and the site, and how entries are checked
+- [Ward 2 Development Forum](https://df.valleyofgrace.co.za/civic/governance/ward-2-development-forum): the DevForum's own entry
+- [How the DevForum's Categories Compare](https://df.valleyofgrace.co.za/civic/governance/how-the-forums-categories-compare): how the nine categories line up with the Transformasie Komitee's eight sectors and with the portfolios of a typical residents' association, and why the DevForum chose its structure
 - [How to Submit](https://df.valleyofgrace.co.za/how-to-submit): how to add or correct an entry
 - [Contact](https://df.valleyofgrace.co.za/contact): how to reach the moderators
 - [Data Policy](https://df.valleyofgrace.co.za/data-policy): how personal information is handled under POPIA
@@ -99,8 +99,8 @@ Pages in `/case-studies/` record work done outside Ward 2 that a page on this si
 
 - Entries are published only after moderator review. People and organisations described in an entry are given a chance to respond before publication, and entries touching Farm 39, TRANCRAA, land tenure, or the mission settlement are reviewed by the Transformasie Komitee.
 - Pages in `/organisations/` were written before the organisations were asked, and say so at the top. Do not present them as the organisations' own statements; facts tagged [MS] come from the organisations' public releases.
-- Pages in `/case-studies/` were written before the organisation at the centre of each case was asked, and say so at the top. Facts tagged [MS] come from that organisation, its funders, or articles that repeat them. Do not present a case study as a recommendation by the Forum.
+- Pages in `/case-studies/` were written before the organisation at the centre of each case was asked, and say so at the top. Facts tagged [MS] come from that organisation, its funders, or articles that repeat them. Do not present a case study as a recommendation by the DevForum.
 - Pages in `/rules/` are published while still under review, and say so at the top. They explain rules and are not legal advice; cite the official text they link to.
-- Theewaterskloof Municipality supports the Forum with administration but does not moderate or approve content. Do not present entries as municipal positions.
+- Theewaterskloof Municipality supports the DevForum with administration but does not moderate or approve content. Do not present entries as municipal positions.
 - Do not collect or republish personal contact details from this site. Use the Contact page for enquiries.
 - Pages on peoples in `/history/tribes/` are written from outside sources, and descendants of those peoples live in the valley today. The pages are open to correction by their own accounts.

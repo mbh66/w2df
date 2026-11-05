@@ -1,6 +1,6 @@
 ---
 title: From the Farm to the Classroom
-description: "How a child's years from eight to eighteen moved, slowly, from farm labour to schooling in the valley: the contest over children in the 1790s, the apprenticeship law of 1812, emancipation, and the teachers' college of 1838. Tests the Forum's reading of the valley moving from needy to needed."
+description: "How a child's years from eight to eighteen moved, slowly, from farm labour to schooling in the valley: the contest over children in the 1790s, the apprenticeship law of 1812, emancipation, and the teachers' college of 1838. Tests the DevForum's reading of the valley moving from needy to needed."
 type: page
 tags:
   - theme/heritage
@@ -19,7 +19,7 @@ links:
 updated: 2026-11-04
 ---
 
-Today most people in the valley take it for granted that a child's years from about eight to eighteen belong to school. Two hundred years ago the colony's law said something very different. In 1812 a proclamation let farmers keep Khoekhoe children who had grown up on their farms in unpaid service from the age of eight to eighteen [IC]. This page follows how those years moved from the farm to the classroom in this valley. It starts with the missionaries' diaries of the 1790s, which show farmers and the mission school already competing for the same children. It ends with the teachers' training college that opened at Genadendal in 1838, the year slavery ended at the Cape. It then asks whether the evidence supports the Forum's reading of this story: that the college helped the valley's people, including those freed from slavery, move from being needy to being needed.
+Today most people in the valley take it for granted that a child's years from about eight to eighteen belong to school. Two hundred years ago the colony's law said something very different. In 1812 a proclamation let farmers keep Khoekhoe children who had grown up on their farms in unpaid service from the age of eight to eighteen [IC]. This page follows how those years moved from the farm to the classroom in this valley. It starts with the missionaries' diaries of the 1790s, which show farmers and the mission school already competing for the same children. It ends with the teachers' training college that opened at Genadendal in 1838, the year slavery ended at the Cape. It then asks whether the evidence supports the DevForum's reading of this story: that the college helped the valley's people, including those freed from slavery, move from being needy to being needed.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -28,7 +28,7 @@ Today most people in the valley take it for granted that a child's years from ab
 > - **[MS] Mission-Sourced.** Comes from Moravian mission records, including the missionaries' diaries and reports, and the histories written from them. They have not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Statements without a tag, mostly in the last three sections, are the Forum's reading of the history.
+> Statements without a tag, mostly in the last three sections, are the DevForum's reading of the history.
 
 > [!warning] The diary passages
 > The evidence from the 1790s comes from new English translations in the [Genadendal Diaries repository](https://github.com/mbh66/genadendal-diaries). They are machine translations that no person has checked yet. Each passage is cited by its Utrecht file number and line numbers. The diaries were written by the missionaries, and they report the words of farmers and Khoekhoe as the missionaries heard them. See [[history/the-genadendal-diaries|The Genadendal Diaries]].
@@ -103,7 +103,7 @@ In 1926 the government closed the college [IC]. It argued that coloured people d
 
 ## Needy to needed: what the evidence shows
 
-The Forum's research describes the valley's aim as moving "from being needy to being needed" [MS]. This section tests whether the story of the college supports that reading for the people freed from slavery.
+The DevForum's research describes the valley's aim as moving "from being needy to being needed" [MS]. This section tests whether the story of the college supports that reading for the people freed from slavery.
 
 | Claim | What the evidence shows | Status |
 | --- | --- | --- |
@@ -115,13 +115,13 @@ The Forum's research describes the valley's aim as moving "from being needy to b
 | Freed slaves, or their children, trained at the college and became teachers | Not yet shown. The sources used for this page do not say who the students were or where their families came from | Not yet shown |
 | The state later tried to push the valley back to farm labour | The closure of 1926, and the reason the government gave | Supported [IC] |
 
-**The Forum's reading.** The evidence supports the arc of the story. In the 1790s, the years from eight to eighteen were contested between the farm and the school. In 1812 the law gave them to the farm. After 1828 and 1838, the mission turned them back towards the school, and in the college it began to turn its own people into the teachers the whole colony would come to need. Those it trained were needed, as teachers, choir leaders, and writers, in the valley and in the mission villages beyond it. The closure of 1926 shows the same contest returning, with the state using the argument the farmers had used in 1795: that the valley's people should stay as labourers.
+**The DevForum's reading.** The evidence supports the arc of the story. In the 1790s, the years from eight to eighteen were contested between the farm and the school. In 1812 the law gave them to the farm. After 1828 and 1838, the mission turned them back towards the school, and in the college it began to turn its own people into the teachers the whole colony would come to need. Those it trained were needed, as teachers, choir leaders, and writers, in the valley and in the mission villages beyond it. The closure of 1926 shows the same contest returning, with the state using the argument the farmers had used in 1795: that the valley's people should stay as labourers.
 
-**What is not yet shown.** The sources used for this page do not show that people freed from slavery, or their children, were among the college's students. The college's students came from the mission community, which by 1840 included many freed people. The link is likely, but it needs the college's own records to confirm it. Until then, the Forum should present the college as creating valued roles for the mission's people as a whole, freed people among them, and not yet as a proven path for the freed people in particular.
+**What is not yet shown.** The sources used for this page do not show that people freed from slavery, or their children, were among the college's students. The college's students came from the mission community, which by 1840 included many freed people. The link is likely, but it needs the college's own records to confirm it. Until then, the DevForum should present the college as creating valued roles for the mission's people as a whole, freed people among them, and not yet as a proven path for the freed people in particular.
 
 ## Reading it through TIME
 
-*This section is the Forum's interpretation.*
+*This section is the DevForum's interpretation.*
 
 In the 1790s the diaries show three forms pulling at the same children. The Tribes form held them in families and kraals. The Markets form, in the farmers' hands, wanted their labour, often paid in goods or in debt. The mission, an Institution, offered them school. In 1812 the Institutions of the colonial state sided with the farmers, and made a child's labour something the farm could hold by law. After 1828 and 1838 the balance shifted. The mission's school and college built a different kind of Institution: one that turned learning into skills the colony needed, and that the state began to pay for. Teaching became a way into the Markets form on better terms, as a skilled and paid role. The closure of 1926 was the state's Institutions turning against that path again.
 

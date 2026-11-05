@@ -21,7 +21,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Greater Overberg Fire Protection Association to review
-> Greater Overberg Fire Protection Association has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Greater Overberg Fire Protection Association about anything. Until Greater Overberg Fire Protection Association has approved the text, it may change. Questions for Greater Overberg Fire Protection Association:
+> Greater Overberg Fire Protection Association has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Greater Overberg Fire Protection Association about anything. Until Greater Overberg Fire Protection Association has approved the text, it may change. Questions for Greater Overberg Fire Protection Association:
 >
 > 1. Is this description of goFPA correct? What would you like to change?
 > 2. Does your membership cover land in Ward 2, and which Fire Management Unit do Greyton, Genadendal, and the farms around them fall in?
@@ -34,7 +34,7 @@ The Greater Overberg Fire Protection Association (goFPA) is the fire protection 
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -46,7 +46,7 @@ The Greater Overberg Fire Protection Association (goFPA) is the fire protection 
 | Website | [overbergfpa.co.za](https://overbergfpa.co.za) |
 | Role | Fire protection association for the Overberg [MS] |
 | Link to the valley | Unclear. Whether its members' land includes Ward 2 is not yet known |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

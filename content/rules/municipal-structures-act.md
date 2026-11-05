@@ -23,12 +23,12 @@ last_checked: 2026-10-01
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the Forum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
 > 1. For Theewaterskloof Municipality: who sits on the Ward 2 ward committee now, how were they elected, and when does it meet? Does the municipality have its own ward committee policy or rules?
-> 2. For the ward councillor: how would the councillor like the Forum and the ward committee to work together?
+> 2. For the ward councillor: how would the councillor like the DevForum and the ward committee to work together?
 
 The Local Government: Municipal Structures Act sets up the kinds of municipality South Africa has, how their councils are elected, and how each municipal area is divided into wards [IC]. It is the law under which Theewaterskloof Municipality has a council and fourteen wards, of which Ward 2 is one [IC]. Its sections on ward committees matter most to residents: a ward committee is the body the law provides for residents of a ward to advise their councillor [IC].
 
@@ -39,7 +39,7 @@ The Local Government: Municipal Structures Act sets up the kinds of municipality
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the rule could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the rule could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -63,14 +63,14 @@ The Local Government: Municipal Structures Act sets up the kinds of municipality
 
 **Ward 2 has a ward committee.** Theewaterskloof Municipality's IDP lists ward committees for its wards, and reports back to them during the year [IC]. Who sits on Ward 2's committee is not yet recorded on this site [TBV].
 
-**The Forum is a different body.** The [[civic/governance/ward-2-development-forum|Ward 2 Development Forum]] is run by the community, and the municipality gives it administrative support [MS]. It is not set up under this Act, it has no limit on its members, and it does not replace the ward committee. The Forum reads the two as serving different purposes: the ward committee is the statutory channel to the council, and the Forum is where the valley's initiatives meet each other and shape proposals together. A proposal shaped at the Forum that needs a council decision would normally reach the council through the ward councillor, and the ward committee is one route for it.
+**The DevForum is a different body.** The [[civic/governance/ward-2-development-forum|Ward 2 Development Forum]] is run by the community, and the municipality gives it administrative support [MS]. It is not set up under this Act, it has no limit on its members, and it does not replace the ward committee. The DevForum reads the two as serving different purposes: the ward committee is the statutory channel to the council, and the DevForum is where the valley's initiatives meet each other and shape proposals together. A proposal shaped at the DevForum that needs a council decision would normally reach the council through the ward councillor, and the ward committee is one route for it.
 
 **For residents.** Matters of service delivery (water, roads, refuse) in Greyton, Heuwelkroon, Genadendal, and the other settlements can be raised with the ward councillor and the ward committee. On [[villages/farm-39|Farm 39]], some services depend on who owns the land, which this Act does not change. See [[rules/trancraa|Transformation of Certain Rural Areas Act]].
 
 ## Relevance to W2DF
 
-- [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]: how the Forum sits beside the ward committee.
-- [[civic/governance/why-the-forum-shapes-proposals-together|Why the Forum Shapes Proposals Together]].
+- [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]: how the DevForum sits beside the ward committee.
+- [[civic/governance/why-the-forum-shapes-proposals-together|Why the DevForum Shapes Proposals Together]].
 - [[civic/residents-association/index|Residents Association]]: records of engagement with the ward councillor belong there.
 - [[history/institutions/municipality|The Municipality]]: the history of local government in the valley.
 
@@ -83,7 +83,7 @@ The Local Government: Municipal Structures Act sets up the kinds of municipality
 
 - The members of the current Ward 2 ward committee, and when it meets.
 - Whether Theewaterskloof Municipality has published its own rules for ward committees.
-- How the Forum and the ward committee will share information.
+- How the DevForum and the ward committee will share information.
 
 ## Have your say
 

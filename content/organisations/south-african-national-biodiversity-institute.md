@@ -20,7 +20,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For South African National Biodiversity Institute to review
-> South African National Biodiversity Institute has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached South African National Biodiversity Institute about anything. Until South African National Biodiversity Institute has approved the text, it may change. Questions for South African National Biodiversity Institute:
+> South African National Biodiversity Institute has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached South African National Biodiversity Institute about anything. Until South African National Biodiversity Institute has approved the text, it may change. Questions for South African National Biodiversity Institute:
 >
 > 1. Is this description of SANBI and its links to the valley correct? What would you like to change?
 > 2. Does SANBI hold records or research on the plants of the Riviersonderend mountains above the valley?
@@ -32,7 +32,7 @@ The South African National Biodiversity Institute (SANBI) works under the Nation
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -44,7 +44,7 @@ The South African National Biodiversity Institute (SANBI) works under the Nation
 | Website | [sanbi.org](https://www.sanbi.org) |
 | Role | National biodiversity research and gardens [MS] |
 | Link to the valley | Indirect. Through the water fund and its history with the [[economic/farmers-land-water/greyton-nature-reserve\|Greyton Nature Reserve]] |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

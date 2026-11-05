@@ -1,9 +1,9 @@
 ---
 title: The Shift
-description: A Pretoria-based non-profit that coaches people and organisations through change. Its founder director presented its Formation First Economy model to the Forum on 7 October 2026, asking whether people are ready to carry the responsibility that development brings.
+description: A Pretoria-based non-profit that coaches people and organisations through change. Its founder director presented its Formation First Economy model to the DevForum on 7 October 2026, asking whether people are ready to carry the responsibility that development brings.
 type: organisation
 kind: Non-profit
-connection: "Formation First Economy: presented to the Forum"
+connection: "Formation First Economy: presented to the DevForum"
 relationship: In conversation
 based_in: Pretoria
 tags:
@@ -21,10 +21,10 @@ last_checked: 2026-10-30
 ---
 
 > [!warning] For The Shift to review
-> The Shift has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Shift has agreed that the Forum may share the slides from its 7 October 2026 presentation. Until The Shift has approved the text, it may change. Questions for The Shift:
+> The Shift has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Shift has agreed that the DevForum may share the slides from its 7 October 2026 presentation. Until The Shift has approved the text, it may change. Questions for The Shift:
 >
 > 1. Is this description of The Shift and its Formation First Economy model correct? What would you like to change?
-> 2. Does the Forum's reading of Formation First alongside Bildung, below, fit how you see your work?
+> 2. Does the DevForum's reading of Formation First alongside Bildung, below, fit how you see your work?
 > 3. Should readers reach you through the moderators, or through a public contact?
 
 The Shift describes itself as a change-enabling and transformational coaching non-profit and public benefit organisation, with its headquarters in Pretoria [MS]. It was founded in November 2018 by Henk Swanepoel, who is its founder director [MS]. On 7 October 2026 he presented The Shift's Formation First Economy model to the Ward 2 Development Forum and Greyton Rotary [MS].
@@ -33,7 +33,7 @@ The Shift describes itself as a change-enabling and transformational coaching no
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -43,9 +43,9 @@ The Shift describes itself as a change-enabling and transformational coaching no
 | Kind                   | Non-profit company and public benefit organisation [MS]                                                                                       |
 | Based in               | Pretoria [MS]                                                                                                                                 |
 | Website                | [theshift.org.za](https://theshift.org.za)                                                                                                    |
-| Role                   | Author of the Formation First Economy model, presented to the Forum [MS]                                                                      |
-| Link to the valley     | Through the Forum. It has not worked in the valley yet                                                                                        |
-| Contact with the Forum | In conversation. Presented to the Forum on 7 October 2026, and met the Forum's convenor and Greyton Rotary in Greyton on 29 October 2026 [MS] |
+| Role                   | Author of the Formation First Economy model, presented to the DevForum [MS]                                                                      |
+| Link to the valley     | Through the DevForum. It has not worked in the valley yet                                                                                        |
+| Contact with the DevForum | In conversation. Presented to the DevForum on 7 October 2026, and met the DevForum's convenor and Greyton Rotary in Greyton on 29 October 2026 [MS] |
 
 ## What it does
 
@@ -62,7 +62,7 @@ The website gives the non-profit company registration number 2018/586498/08 and 
 
 ## Relevance to the valley
 
-- **7 October 2026.** Henk Swanepoel presented *The Shift | Formation First Economy: Human formation as an underlying infrastructure for flourishing* to the Forum [MS]. Read the slides: [[the-shift-formation-first-economy-2026-10-07.pdf|Formation First Economy (PDF)]].
+- **7 October 2026.** Henk Swanepoel presented *The Shift | Formation First Economy: Human formation as an underlying infrastructure for flourishing* to the DevForum [MS]. Read the slides: [[the-shift-formation-first-economy-2026-10-07.pdf|Formation First Economy (PDF)]].
 - **29 October 2026.** He visited the valley for a day of talks [MS].
 
 ### Formation First, in brief
@@ -78,22 +78,22 @@ The presentation starts from what development usually invests in (resources, ski
 - **Formation before funding.** Capital speeds things up. Where people are not ready, the slides say, it can also speed up dependency, fragmentation, poor stewardship and premature scaling.
 - **From person to territory.** Formation happens at every level: person, family, workplace, organisation, institution, territory, and economy.
 
-The slides place Formation First beneath the Forum's own approach. The Forum maps what the valley needs, what it offers and who is doing the work, across the Economic, Civic and Cultural spheres (see [[register|The Register]]). Formation First adds a question: are the people and institutions being connected ready to carry what those connections create [MS]? The slides say Formation First "does not seek to own the ecosystem," and ask whether it could strengthen existing programmes "without replacing their purpose, expertise or architecture" [MS]. They close with "Formation precedes flourishing" [MS].
+The slides place Formation First beneath the DevForum's own approach. The DevForum maps what the valley needs, what it offers and who is doing the work, across the Economic, Civic and Cultural spheres (see [[register|The Register]]). Formation First adds a question: are the people and institutions being connected ready to carry what those connections create [MS]? The slides say Formation First "does not seek to own the ecosystem," and ask whether it could strengthen existing programmes "without replacing their purpose, expertise or architecture" [MS]. They close with "Formation precedes flourishing" [MS].
 
-### How the Forum interprets the work
+### How the DevForum interprets the work
 
-The Forum's convenor reads Formation First as close to Bildung, the European tradition of lifelong formation in which a person takes on ever wider responsibility as their freedom grows. The BioConomy wiki treats Bildung as the ground a place-based economy's foundation is built on: [Bildung](https://wiki.bioconomy.earth/concepts/bildung). The two share a sequence, in which formation comes before responsibility, and a circle of responsibility that widens from the person out to the territory. Both also warn that money given to people who are not ready to steward it can do harm. The Shift has not been asked whether it agrees with this reading.
+The DevForum's convenor reads Formation First as close to Bildung, the European tradition of lifelong formation in which a person takes on ever wider responsibility as their freedom grows. The BioConomy wiki treats Bildung as the ground a place-based economy's foundation is built on: [Bildung](https://wiki.bioconomy.earth/concepts/bildung). The two share a sequence, in which formation comes before responsibility, and a circle of responsibility that widens from the person out to the territory. Both also warn that money given to people who are not ready to steward it can do harm. The Shift has not been asked whether it agrees with this reading.
 
 ## Relevance to W2DF
 
 - [[organisations/meritus-international|Meritus International]], the company Henk Swanepoel co-founded, named in the title of the 7 October presentation.
 - [[register|The Register]], whose needs-and-offers approach the presentation builds on.
-- [[priorities/education-skills|Education and Skills]], the Forum priority closest to The Shift's work.
+- [[priorities/education-skills|Education and Skills]], the DevForum priority closest to The Shift's work.
 
 ## What is still open
 
-- Whether The Shift would run any of its programmes in the valley, with whom, and on what terms. The Shift has not proposed this, although the Forum has discussed who the best people might be to go through this process.
-- How Formation First would sit alongside the Forum's existing work. The slides pose this as a question to explore.
+- Whether The Shift would run any of its programmes in the valley, with whom, and on what terms. The Shift has not proposed this, although the DevForum has discussed who the best people might be to go through this process.
+- How Formation First would sit alongside the DevForum's existing work. The slides pose this as a question to explore.
 
 ## Have your say
 

@@ -29,7 +29,7 @@ updated: 2026-11-04
 
 The Glebe Land is the land at the heart of [[villages/genadendal|Genadendal]] that was granted to the Moravian Church in 1927 [IC]. In the Surveyor-General's records it is Farm 827 in the Caledon registration division, named "GLEBE LAND", with an area of 61.11 hectares [IC]. It lies around the old mission core, and it is held apart from the trust land of [[villages/farm-39|Farm 39]] [IC]. For this reason it is not part of the land whose transfer is being decided under TRANCRAA [IC].
 
-**Map:** see this property on the Forum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing), which shows the Surveyor-General boundaries of all eight properties.
+**Map:** see this property on the DevForum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing), which shows the Surveyor-General boundaries of all eight properties.
 
 ![[farm827.jpg]]
 
@@ -38,7 +38,7 @@ The Glebe Land is the land at the heart of [[villages/genadendal|Genadendal]] th
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by at least two sources that do not depend on each other, or by an official record such as a Surveyor-General record, a Deeds Office report or a court order.
-> - **[MS] Mission-Sourced.** Comes from one party's own documents or statements, or from the Forum's own research and maps. It has not been checked against other sources.
+> - **[MS] Mission-Sourced.** Comes from one party's own documents or statements, or from the DevForum's own research and maps. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 ## At a glance
@@ -48,7 +48,7 @@ The Glebe Land is the land at the heart of [[villages/genadendal|Genadendal]] th
 | Name in the Surveyor-General's records | GLEBE LAND [IC] |
 | Farm number | 827, Caledon registration division [IC] |
 | Surveyor-General code | C01300000000082700000 [IC] |
-| Area | 61.11 hectares on the Forum's map, from the Surveyor-General's records [IC]; 68 hectares in the Ward 2 Forum's 2017 series [MS]; 70.7795 hectares in the consultants' 2010 report [MS] |
+| Area | 61.11 hectares on the DevForum's map, from the Surveyor-General's records [IC]; 68 hectares in the Ward 2 Forum's 2017 series [MS]; 70.7795 hectares in the consultants' 2010 report [MS] |
 | Held by | The Moravian Church, since 1927 [IC] |
 | Status under TRANCRAA | Outside the trust land of Farm 39 [IC] |
 
@@ -62,9 +62,9 @@ The Glebe Land is the land at the heart of [[villages/genadendal|Genadendal]] th
 - **1980 to 1991.** The buildings on Church Square were declared national monuments in 1980, and the Mission Museum opened in the 1838 college building in 1987 [MS]. The mission buildings around Church Square are now a Provincial Heritage Site [IC].
 - **Today.** The Ward 2 Forum's 2017 series describes the trust lands as Farm 39 "excluding the Glebe Lands", which it says belong to the Moravian Church [MS].
 
-## On the Forum's map
+## On the DevForum's map
 
-- Farm 827 is a single parcel around the mission core of Genadendal [MS]. The Forum's map point for the historic centre of Genadendal falls inside it [MS].
+- Farm 827 is a single parcel around the mission core of Genadendal [MS]. The DevForum's map point for the historic centre of Genadendal falls inside it [MS].
 - The parcel does not reach Bereaville [MS]. *Inference:* if the 1927 grant included land in Bereaville, that land is either recorded under another number or no longer held as Glebe Land.
 
 ## What is still open
@@ -93,9 +93,9 @@ If you hold records of the Glebe Land, contact the moderators via [[how-to-submi
 
 ## References
 
-- Chief Surveyor-General. Cadastral record for Farm 827, Caledon ("GLEBE LAND"), shown on the Forum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The name, number, code and area.
-- Order of the High Court, case 926/07, 22 October 2008, with Annexure GT1, the Deeds Office search report on Farm 39 as at 25 April 2007. Held by the Forum; listed on the [archived legal reference page](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/). Portions 3 to 7 consolidated into Farm 827, and Deed of Grant G19/1952.
-- Urban Dynamics Western Cape. *Genadendal Transformation: Executive Summary and Recommendations* (October 2010). Held by the Forum. The Glebe Land of 70.7795 hectares.
+- Chief Surveyor-General. Cadastral record for Farm 827, Caledon ("GLEBE LAND"), shown on the DevForum's [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The name, number, code and area.
+- Order of the High Court, case 926/07, 22 October 2008, with Annexure GT1, the Deeds Office search report on Farm 39 as at 25 April 2007. Held by the DevForum; listed on the [archived legal reference page](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/). Portions 3 to 7 consolidated into Farm 827, and Deed of Grant G19/1952.
+- Urban Dynamics Western Cape. *Genadendal Transformation: Executive Summary and Recommendations* (October 2010). Held by the DevForum. The Glebe Land of 70.7795 hectares.
 - Ward 2 Forum. [Farm 39 Transformation: The Lost 18 Years, Part 1](https://web.archive.org/web/20230803030459/https://ward2forum.org/wp-content/uploads/2017/04/Farm-39-lost-18-years-Part-1-Contents-and-History.pdf) (28 March 2017). The nine portions and the 1858 grant. Register entry: [[research/ward-2-forum-farm-39-the-lost-18-years|Farm 39 Transformation: The Lost 18 Years]].
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. The 1909 Act. See [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].
 - [[history/history-of-the-valley|History of the Valley]], and the sources listed there.

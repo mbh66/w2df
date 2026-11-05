@@ -1,6 +1,6 @@
 ---
-title: Why the Forum Shapes Proposals Together
-description: Why the Forum agreed that proposals should involve the communities they affect from the start. The page looks at why most of South Africa's 23 TRANCRAA areas have waited more than twenty years for their land, and what that suggests about deciding together.
+title: Why the DevForum Shapes Proposals Together
+description: Why the DevForum agreed that proposals should involve the communities they affect from the start. The page looks at why most of South Africa's 23 TRANCRAA areas have waited more than twenty years for their land, and what that suggests about deciding together.
 type: page
 tags:
   - civic/governance
@@ -21,12 +21,12 @@ At our first meeting in September 2026, the Ward 2 Development Forum agreed that
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by at least two sources that do not depend on each other, or by an official record such as a law, a court order, or a government report.
-> - **[MS] Mission-Sourced.** Comes from the organisation the sentence names, in its own documents or statements, or is the Forum's own reading. It has not been checked against other sources.
+> - **[MS] Mission-Sourced.** Comes from the organisation the sentence names, in its own documents or statements, or is the DevForum's own reading. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 ## What we agreed in September
 
-At the Forum's first meeting on 16 September 2026, participants from Genadendal said that affected communities "should be involved from the start of a proposal, and not only after it has been written." The meeting agreed [MS]. The same meeting discussed the TRANCRAA process for Farm 39 and agreed to leave it to the bodies already dealing with it [MS].
+At the DevForum's first meeting on 16 September 2026, participants from Genadendal said that affected communities "should be involved from the start of a proposal, and not only after it has been written." The meeting agreed [MS]. The same meeting discussed the TRANCRAA process for Farm 39 and agreed to leave it to the bodies already dealing with it [MS].
 
 This page does not discuss the Farm 39 process. Its record is set out on [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]], and the [[civic/governance/genadendal-transformasie-komitee|Transformasie Komitee]] is the community's mandated body for it [MS]. We look instead at the national record, because it shows, over many years and in many places, what can happen when different ways of deciding meet.
 
@@ -97,34 +97,34 @@ Other countries have places where communities with different ways of deciding mu
 > [!example] Kakadu, Australia
 > Most members of the park's board are traditional owners [IC]. In 2020 the board passed a vote of no confidence in the park's managers [IC]. The vote followed work near a sacred site that went ahead against the wishes of traditional owners, and a reopening of the park with little consultation [IC]. A majority on the board did not protect the partnership when plans were made by one side alone [MS].
 
-## What this means for the Forum
+## What this means for the DevForum
 
-The Forum treats the valley as one area and belongs to no single community [MS]. It has no host way of deciding. The TRANCRAA record shows what can happen, over decades, when one way of deciding holds the final say and the others must fit in around it [MS].
+The DevForum treats the valley as one area and belongs to no single community [MS]. It has no host way of deciding. The TRANCRAA record shows what can happen, over decades, when one way of deciding holds the final say and the others must fit in around it [MS].
 
-That is why we agreed that proposals should involve the communities they affect from the start. The draft [[concepts/how-the-forum-decides-together|How the Forum Decides Together]] suggests how the Forum could do this. People bringing a proposal would ask the communities it affects before writing it up. The Forum would decide in agreed steps, with a jointly chosen facilitator only as the last resort. Before discussing an item, people could place themselves on an unsigned slip, and just before a decision, each person would name the strongest point they heard from someone who sees it differently.
+That is why we agreed that proposals should involve the communities they affect from the start. The draft [[concepts/how-the-forum-decides-together|How the DevForum Decides Together]] suggests how the DevForum could do this. People bringing a proposal would ask the communities it affects before writing it up. The DevForum would decide in agreed steps, with a jointly chosen facilitator only as the last resort. Before discussing an item, people could place themselves on an unsigned slip, and just before a decision, each person would name the strongest point they heard from someone who sees it differently.
 
 Starting early takes more time at the beginning. In our reading, the TRANCRAA record suggests that leaving people out at the beginning can cost far more time later [MS].
 
 ## Questions and answers
 
 **Is this page about Genadendal's land?**
-No. The Farm 39 process has its own page, and the Transformasie Komitee is the community's mandated body for it [MS]. The Forum agreed to leave it to the bodies already dealing with it [MS]. This page looks at the national record.
+No. The Farm 39 process has its own page, and the Transformasie Komitee is the community's mandated body for it [MS]. The DevForum agreed to leave it to the bodies already dealing with it [MS]. This page looks at the national record.
 
 **Why not just take a vote?**
-A majority vote is a rules-and-office way of deciding. Where one community is larger, or has more people in the room, a vote can turn the others into guests. Whether a vote should ever be one of the Forum's steps is still an open question on [[concepts/how-the-forum-decides-together|How the Forum Decides Together]].
+A majority vote is a rules-and-office way of deciding. Where one community is larger, or has more people in the room, a vote can turn the others into guests. Whether a vote should ever be one of the DevForum's steps is still an open question on [[concepts/how-the-forum-decides-together|How the DevForum Decides Together]].
 
 **Does TIME put people into boxes?**
-It should not. The slips the Forum may use ask about an agenda item, and never about a person. They carry no names, and only the totals are recorded.
+It should not. The slips the DevForum may use ask about an agenda item, and never about a person. They carry no names, and only the totals are recorded.
 
 **What does "from the start" mean?**
 Before anything is written. A person bringing a proposal would first name the villages, groups, and families it affects, and talk with each of them.
 
 **What happens next?**
-The draft will be tabled as the first item at the Forum's November 2026 meeting. The local government elections are on 4 November 2026 [IC], and the meeting will be held after them [MS].
+The draft will be tabled as the first item at the DevForum's November 2026 meeting. The local government elections are on 4 November 2026 [IC], and the meeting will be held after them [MS].
 
 ## Related
 
-- [[concepts/how-the-forum-decides-together|How the Forum Decides Together]]
+- [[concepts/how-the-forum-decides-together|How the DevForum Decides Together]]
 - [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]]
 - [[history/the-time-model|The TIME Model]]
 - [[history/the-valley-through-time|The Valley Through TIME]]
@@ -156,4 +156,4 @@ The draft will be tabled as the first item at the Forum's November 2026 meeting.
 ### The TIME model
 
 - BioConomy wiki. [The TIME Framework](https://wiki.bioconomy.earth/frameworks/time-framework). The full framework behind the four ways of deciding.
-- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The essay that first set out this reading of the Forum's work. Register entry: [[research/haupt-using-time-for-difficult-decisions|Using TIME for Difficult Decisions]].
+- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The essay that first set out this reading of the DevForum's work. Register entry: [[research/haupt-using-time-for-difficult-decisions|Using TIME for Difficult Decisions]].

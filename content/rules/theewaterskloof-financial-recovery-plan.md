@@ -30,7 +30,7 @@ updated: 2026-11-01
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this plan, and people it affects, can correct it. It explains the plan in plain language, and it does not give legal advice or speak for the Forum, the municipality, or the province. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this plan, and people it affects, can correct it. It explains the plan in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or the province. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
@@ -48,7 +48,7 @@ The Theewaterskloof Financial Recovery Plan is the plan that the Western Cape Go
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the plan could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the plan could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -129,13 +129,13 @@ For 2025/26 the plan set increases of 7% on rates, 12.7% on electricity, and 5% 
 | 31 March 2026 | R104,916,378 | 23.8% |
 | 31 May 2026 | R108,357,195 | 23.7% |
 
-In May 2026 Greyton's municipal-supply area owed R7,981,241 (1.75%), and the Eskom-supplied areas of the whole municipality, where the municipality cannot block electricity meters, owed 86% of all debt [IC]. The reports do not break Genadendal's debt down by rates, water, sanitation and refuse [IC]. The plan also records that many residents of Genadendal hold that the land does not belong to the municipality [IC]. That view rests on the unfinished transfer of [[villages/farm-39|Farm 39]] under [[rules/trancraa|TRANCRAA]], and in 2019 the High Court allowed two Genadendal residents to defend the municipality's claims for debt on those grounds [IC]. The Forum reads this as the largest single question in the plan that no one has yet set out to settle. See [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39]].
+In May 2026 Greyton's municipal-supply area owed R7,981,241 (1.75%), and the Eskom-supplied areas of the whole municipality, where the municipality cannot block electricity meters, owed 86% of all debt [IC]. The reports do not break Genadendal's debt down by rates, water, sanitation and refuse [IC]. The plan also records that many residents of Genadendal hold that the land does not belong to the municipality [IC]. That view rests on the unfinished transfer of [[villages/farm-39|Farm 39]] under [[rules/trancraa|TRANCRAA]], and in 2019 the High Court allowed two Genadendal residents to defend the municipality's claims for debt on those grounds [IC]. The DevForum reads this as the largest single question in the plan that no one has yet set out to settle. See [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39]].
 
 **Electricity works differently on each side.** Greyton buys its electricity from the municipality, while Genadendal is supplied directly by Eskom [IC]. The municipality can cut off electricity to collect debt in Greyton. In Genadendal it has no such lever, because it does not sell the electricity there.
 
 **The plan binds the next council.** Local government elections are due on 4 November 2026 [TBV]. Whoever forms the next council must pass budgets inside the plan's limits, so the plan sets the money available for Ward 2's needs in the [[rules/theewaterskloof-integrated-development-plan|Integrated Development Plan]] for several years.
 
-**Residents had one formal say.** The plan's public participation was the 14-day comment window in August 2025 [IC]. It gives no standing seat to residents or civil society. It does require the municipality to adopt a communication plan, and it records that "the Theewaterskloof community expects municipal empowerment programs to include them" [IC]. The quarterly progress reports are published, so residents can follow progress [IC]. The Forum's idea for taking part is on [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]].
+**Residents had one formal say.** The plan's public participation was the 14-day comment window in August 2025 [IC]. It gives no standing seat to residents or civil society. It does require the municipality to adopt a communication plan, and it records that "the Theewaterskloof community expects municipal empowerment programs to include them" [IC]. The quarterly progress reports are published, so residents can follow progress [IC]. The DevForum's idea for taking part is on [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]].
 
 **Heritage and tourism.** The plan links Genadendal's heritage to tourism in Greyton as an opportunity the municipality has not used [IC].
 
@@ -143,7 +143,7 @@ In May 2026 Greyton's municipal-supply area owed R7,981,241 (1.75%), and the Esk
 
 - [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]]: the municipality today, its audits, and the investigations into it.
 - [[organisations/western-cape-government|Western Cape Government]]: the [[organisations/premier-of-the-western-cape|Premier]], the two provincial ministers, and Provincial Treasury, who oversee the plan.
-- [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]]: an idea, not yet agreed, for how the Forum could help.
+- [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]]: an idea, not yet agreed, for how the DevForum could help.
 - [[history/institutions/municipality|The Municipality]]: how the valley has been governed since 1909.
 - [[civic/residents-association/madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]].
 

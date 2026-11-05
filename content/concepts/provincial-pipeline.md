@@ -27,7 +27,7 @@ links:
 updated: 2026-11-04
 ---
 
-> **This idea is not yet agreed.** None of the bodies named on this page has been asked about it. They include the [[organisations/western-cape-government|Western Cape Government]] (its Department of Infrastructure), the [[organisations/overberg-district-municipality|Overberg District Municipality]], [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], Swellendam Municipality, the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the [[organisations/overberg-water-board|Overberg Water Board]], the Zonderend Water Users Association, and the Transformasie Komitee. **Please do not share this page publicly yet.** It is proposed for the Forum's November 2026 meeting, with the other water ideas.
+> **This idea is not yet agreed.** None of the bodies named on this page has been asked about it. They include the [[organisations/western-cape-government|Western Cape Government]] (its Department of Infrastructure), the [[organisations/overberg-district-municipality|Overberg District Municipality]], [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], Swellendam Municipality, the [[organisations/department-of-water-and-sanitation|Department of Water and Sanitation]], the [[organisations/breede-olifants-catchment-management-agency|Breede-Olifants Catchment Management Agency]], the [[organisations/overberg-water-board|Overberg Water Board]], the Zonderend Water Users Association, and the Transformasie Komitee. **Please do not share this page publicly yet.** It is proposed for the DevForum's November 2026 meeting, with the other water ideas.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -110,7 +110,7 @@ The province and its districts plan together through the Joint District and Metr
 
 The BioConomy work describes two ways a place can approach government and investors [MS]. A needy place asks for help. A needed place offers something others already depend on, and proves that it delivers. See [Needed vs. Needy](https://wiki.bioconomy.earth/glossary/m-s/needed-vs-needy).
 
-The province's pipeline is a list of what the province will depend on leading up to 2050. The idea is to read it closely and find where the valley can supply something. The valley would then offer that supply through the Forum, with numbers.
+The province's pipeline is a list of what the province will depend on leading up to 2050. The idea is to read it closely and find where the valley can supply something. The valley would then offer that supply through the DevForum, with numbers.
 
 ### What the valley could offer the Overberg Dam
 
@@ -119,7 +119,7 @@ If the valley's streams feed the new dam, the valley would hold part of its catc
 - **Water in the river.** Restored mountain catchments, cleared of invasive trees, could send more water down the Gobos and the Baviaans. This is the same work set out in [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]] and [[concepts/restoring-the-river|Restoring the River]].
 - **Measured results.** The valley would measure its own streams and publish the records, so that the study and any later investor can see what the catchment gives.
 - **Trained people.** The [[concepts/valley-of-grace-learning-campus|Learning Campus]] would train young people to clear, restore and measure. A dam that takes ten years to plan and build will need that work for its whole life.
-- **A partner on the ground.** The Forum would be one body that the study's team could talk to about Ward 2, with the [[concepts/the-yearly-valley-survey|Yearly Valley Survey]] as its evidence about the people.
+- **A partner on the ground.** The DevForum would be one body that the study's team could talk to about Ward 2, with the [[concepts/the-yearly-valley-survey|Yearly Valley Survey]] as its evidence about the people.
 
 The ask would be modest at first: that the valley be named a stakeholder in the pre-feasibility study, and that the study count the catchments above the dam as part of the project.
 
@@ -132,7 +132,7 @@ The same reading could be done for every sector of the pipeline. Two pitches loo
 
 ### 2038 inside 2050
 
-The Forum's [[long-term-goal|long-term goal]] looks to 2038, when Genadendal turns 300. The province looks to 2050. The dam's planning years, 2025 to 2028, fall inside the valley's own planning years. That gives the valley a reason to bring its 2038 goal into the province's plans now, while the study is being set up.
+The DevForum's [[long-term-goal|long-term goal]] looks to 2038, when Genadendal turns 300. The province looks to 2050. The dam's planning years, 2025 to 2028, fall inside the valley's own planning years. That gives the valley a reason to bring its 2038 goal into the province's plans now, while the study is being set up.
 
 ## Who would benefit
 
@@ -156,9 +156,9 @@ Nothing has been costed. The dam itself would be paid for by government and inve
 - Any dam needs approval from the Department of Water and Sanitation under the [[rules/national-water-act|National Water Act]], including a water use licence [IC].
 - The Breede-Olifants Catchment Management Agency manages water use in the Breede catchment [MS].
 - Theewaterskloof Municipality would be the valley's route into the district plan.
-- The Forum would decide whether to make the offer. Anything on Farm 39 land, or involving Farm 39's water, would go to the Transformasie Komitee first.
+- The DevForum would decide whether to make the offer. Anything on Farm 39 land, or involving Farm 39's water, would go to the Transformasie Komitee first.
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
 This idea follows the three values of the [[long-term-goal|long-term goal]]:
 
@@ -166,7 +166,7 @@ This idea follows the three values of the [[long-term-goal|long-term goal]]:
 - **Equality (civic).** Ward 2 asks for the same place in provincial planning that Grabouw and Elgin already have.
 - **Freedom (cultural).** The valley speaks for its own land and learns the skills to care for it.
 
-It serves three of the Forum's [[priorities/index|priorities]]: [[priorities/conservation-environment|Conservation and Environment]], [[priorities/education-skills|Education and Skills]] and [[priorities/business-procurement|Business Development and Local Procurement]].
+It serves three of the DevForum's [[priorities/index|priorities]]: [[priorities/conservation-environment|Conservation and Environment]], [[priorities/education-skills|Education and Skills]] and [[priorities/business-procurement|Business Development and Local Procurement]].
 
 ## What is still open
 
@@ -177,17 +177,17 @@ It serves three of the Forum's [[priorities/index|priorities]]: [[priorities/con
 - **The other two dams.** The pitch mentions three dams. Where the other two would be, and whether either is on the Riviersonderend, is not known. The Overberg Water Board has also planned new storage dams at Buffeljags and Duivenhoks, and how these relate to the Overberg Dam is not known [MS].
 - **The estuary and the Reserve.** The Breede estuary at Witsand receives about 42% of its natural flow [MS]. A new dam on the Breede would take more water out of the river. How the dam would meet the Reserve set for the river and estuary, and whether water from restored catchments could help, has not been studied.
 - **The Panoptic Principles.** The province has not published what they are, so the valley cannot yet test its own offer against them.
-- **Who in the valley would make the offer.** The Forum, a valley body, or Theewaterskloof Municipality on the valley's behalf.
+- **Who in the valley would make the offer.** The DevForum, a valley body, or Theewaterskloof Municipality on the valley's behalf.
 - **Each named party's view.** None of the bodies listed at the top of this page has been asked.
 
 ## What happens next
 
-1. The idea is tabled at the Forum's November 2026 meeting, with the other water ideas.
+1. The idea is tabled at the DevForum's November 2026 meeting, with the other water ideas.
 2. The moderators ask the province's Department of Infrastructure for the full Overberg Dam pitch, the district's July 2026 presentation, and the current pipeline list.
-3. The Forum asks the Overberg District Municipality where Site 3 is, and whether the catchments of the Riviersonderend are in the study area.
-4. If Site 3 lies below the Riviersonderend, the Forum asks through Theewaterskloof Municipality and the district plan to be named a stakeholder in the pre-feasibility study.
+3. The DevForum asks the Overberg District Municipality where Site 3 is, and whether the catchments of the Riviersonderend are in the study area.
+4. If Site 3 lies below the Riviersonderend, the DevForum asks through Theewaterskloof Municipality and the district plan to be named a stakeholder in the pre-feasibility study.
 5. The valley begins measuring its streams, so that it has its own records when the study starts.
-6. The Forum reads the rest of the pipeline, sector by sector, for other places where the valley can offer something.
+6. The DevForum reads the rest of the pipeline, sector by sector, for other places where the valley can offer something.
 
 ## Have your say
 

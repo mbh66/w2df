@@ -14,8 +14,8 @@ draft: false
 links:
   - https://frameros.substack.com/p/time-for-difficult-decisions
 cited_on:
-  - "[[civic/governance/why-the-forum-shapes-proposals-together|Why the Forum Shapes Proposals Together]]"
-  - "[[concepts/how-the-forum-decides-together|How the Forum Decides Together]]"
+  - "[[civic/governance/why-the-forum-shapes-proposals-together|Why the DevForum Shapes Proposals Together]]"
+  - "[[concepts/how-the-forum-decides-together|How the DevForum Decides Together]]"
   - "[[contributors/michael-haupt|Michael Haupt]]"
   - "[[history/the-time-model|The TIME Model]]"
   - "[[villages/next-door-different-rules|Next Door, Different Rules]]"
@@ -26,16 +26,16 @@ updated: 2026-11-04
 
 ## As cited on this site
 
-- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The essay that first set out this reading of the Forum's work.
+- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The essay that first set out this reading of the DevForum's work.
 - Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The essay that describes placing yourself before discussion and a round in which each person names the strongest point from another view.
 - Haupt, M. (2026). [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions). Framer OS, 27 September 2026.
-- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The model applied to a decision at the Forum's first meeting.
-- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The Forum's first meeting read through TIME, and why the Emergent way has no tie-breaker.
+- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The model applied to a decision at the DevForum's first meeting.
+- Framer OS. [Using TIME for difficult decisions](https://frameros.substack.com/p/time-for-difficult-decisions) (27 September 2026), by Michael Haupt. The DevForum's first meeting read through TIME, and why the Emergent way has no tie-breaker.
 
 ## Pages that cite it
 
-- [[civic/governance/why-the-forum-shapes-proposals-together|Why the Forum Shapes Proposals Together]]
-- [[concepts/how-the-forum-decides-together|How the Forum Decides Together]]
+- [[civic/governance/why-the-forum-shapes-proposals-together|Why the DevForum Shapes Proposals Together]]
+- [[concepts/how-the-forum-decides-together|How the DevForum Decides Together]]
 - [[contributors/michael-haupt|Michael Haupt]]
 - [[history/the-time-model|The TIME Model]]
 - [[villages/next-door-different-rules|Next Door, Different Rules]]

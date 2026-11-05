@@ -28,7 +28,7 @@ On 1 November 1809 the governor of the Cape, [[history/people/lord-caledon|Lord 
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 > [!note] Reading this page
-> The *Markets* pages follow the M of the [[history/the-time-model|TIME model]]: exchange at a price. The facts carry tags. The reading of what the code meant, in the section *Reading the code through TIME*, is the Forum's interpretation and carries no tag.
+> The *Markets* pages follow the M of the [[history/the-time-model|TIME model]]: exchange at a price. The facts carry tags. The reading of what the code meant, in the section *Reading the code through TIME*, is the DevForum's interpretation and carries no tag.
 
 > [!note] About the name
 > In its own time the proclamation was called the "Hottentot Proclamation", and historians still call it the "Hottentot Code". "Hottentot" was the colonial name for the Khoekhoe, and it is now considered offensive. This wiki uses the name only here, to explain it, and otherwise calls the law the Caledon Code. See [[history/tribes/khoekhoe|Khoekhoe]].
@@ -89,7 +89,7 @@ Genadendal had more than 1,000 Khoekhoe residents by 1806 [MS]. Mission stations
 
 ## Reading the code through TIME
 
-*This section is the Forum's interpretation.*
+*This section is the DevForum's interpretation.*
 
 **Ending movement.** The Khoekhoe way of life, the Tribes form, rested on moving with the herds and the seasons. The code made staying in one place a legal duty and moving a matter of permission. It pinned people down so that the colony's Institutions could see them, count them, and hold them to contracts.
 

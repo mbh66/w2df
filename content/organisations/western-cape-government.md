@@ -26,11 +26,11 @@ updated: 2026-11-01
 ---
 
 > [!warning] For the Western Cape Government to review
-> The Western Cape Government has not yet seen this page. It describes the province only through what it has said or done, and through official records. The Forum has not approached the province about the intervention or about this page. Until the province has replied, the text may change. Questions for the Western Cape Government:
+> The Western Cape Government has not yet seen this page. It describes the province only through what it has said or done, and through official records. The DevForum has not approached the province about the intervention or about this page. Until the province has replied, the text may change. Questions for the Western Cape Government:
 >
 > 1. Is this description of the province's role in the Theewaterskloof intervention correct? What would you like to change?
 > 2. Where can residents read each quarterly progress report on the Financial Recovery Plan?
-> 3. Would Provincial Treasury or the Department of Local Government meet the Forum, and through which office?
+> 3. Would Provincial Treasury or the Department of Local Government meet the DevForum, and through which office?
 > 4. Does the support plan announced in August 2026 include work with residents, and how could Ward 2 take part?
 > 5. Should readers reach you through the moderators, or through a public contact?
 
@@ -40,7 +40,7 @@ The Western Cape Government is the provincial government of the Western Cape, wi
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a parliamentary reply, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the province's own statements, from a political party, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the province's own statements, from a political party, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, or was reported by a single source, but nobody has confirmed it yet.
 
 ## At a glance
@@ -54,7 +54,7 @@ The Western Cape Government is the provincial government of the Western Cape, wi
 | MEC for Local Government | Anton Bredell [IC] |
 | MEC for Finance | Deidré Baartman [IC] |
 | Link to the valley | Direct. It oversees the municipality's recovery |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## Who does what in the intervention
 
@@ -74,13 +74,13 @@ The Western Cape Government is the provincial government of the Western Cape, wi
 ## Relevance to W2DF
 
 - [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], the municipality under intervention.
-- [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]], an idea not yet agreed, which proposes that the Forum offer Ward 2's evidence to the province's monitoring of the plan. The province has not been asked.
+- [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]], an idea not yet agreed, which proposes that the DevForum offer Ward 2's evidence to the province's monitoring of the plan. The province has not been asked.
 
 ## What is still open
 
 - Where each quarterly progress report is published, and whether the reports for January to June 2026 are public.
 - What the section 154 support plan includes, and whether it involves residents.
-- Which office the Forum should approach first.
+- Which office the DevForum should approach first.
 
 ## Have your say
 

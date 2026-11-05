@@ -1,9 +1,9 @@
 ---
 title: Meritus International
-description: A Pretoria-based company that manages change and transformation projects, building mentorship and high-trust working into each one. Its co-founder presented to the Forum on 7 October 2026 under a title that names Meritus International.
+description: A Pretoria-based company that manages change and transformation projects, building mentorship and high-trust working into each one. Its co-founder presented to the DevForum on 7 October 2026 under a title that names Meritus International.
 type: organisation
 kind: Specialist firm
-connection: "Forum presentation, 7 October 2026: named in the title"
+connection: "DevForum presentation, 7 October 2026: named in the title"
 relationship: In conversation
 based_in: Pretoria
 tags:
@@ -27,13 +27,13 @@ last_checked: 2026-10-30
 > 3. How does Meritus International's work relate to The Shift's Formation First Economy model?
 > 4. Should readers reach you through the moderators, or through a public contact?
 
-Meritus International (Pty) Ltd says it "specializes in the challenges of transformation, modernizations and industrialization" [MS]. Henk Swanepoel, founder director of [[organisations/the-shift|The Shift]], co-founded it in August 2014 and is one of its directors [MS]. The presentation he gave the Forum on 7 October 2026 names Meritus International in its title [MS].
+Meritus International (Pty) Ltd says it "specializes in the challenges of transformation, modernizations and industrialization" [MS]. Henk Swanepoel, founder director of [[organisations/the-shift|The Shift]], co-founded it in August 2014 and is one of its directors [MS]. The presentation he gave the DevForum on 7 October 2026 names Meritus International in its title [MS].
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -44,8 +44,8 @@ Meritus International (Pty) Ltd says it "specializes in the challenges of transf
 | Based in | Pretoria [MS] |
 | Website | [meritusinternational.co.za](https://www.meritusinternational.co.za) |
 | Role | Project and change management company, co-founded by The Shift's founder director [MS] |
-| Link to the valley | Through the Forum. It has not worked in the valley yet |
-| Contact with the Forum | In conversation, through Henk Swanepoel [MS] |
+| Link to the valley | Through the DevForum. It has not worked in the valley yet |
+| Contact with the DevForum | In conversation, through Henk Swanepoel [MS] |
 
 ## What it does
 
@@ -62,13 +62,13 @@ The website says the company is run by three people with complementary skills, w
 
 ## How its work reaches the valley
 
-- **7 October 2026.** The presentation Henk Swanepoel gave the Forum names Meritus International in its title. Its content is The Shift's Formation First Economy model, described on [[organisations/the-shift|The Shift]]'s page [MS].
+- **7 October 2026.** The presentation Henk Swanepoel gave the DevForum names Meritus International in its title. Its content is The Shift's Formation First Economy model, described on [[organisations/the-shift|The Shift]]'s page [MS].
 
-The Forum's convenor notes that Meritus International's mentorship function, in which people are formed for two years before they carry a management role, follows the same order as Formation First and as Bildung, the tradition of lifelong formation the BioConomy wiki treats as the ground of a place-based economy: [Bildung](https://wiki.bioconomy.earth/concepts/bildung). Meritus International has not been asked whether it agrees.
+The DevForum's convenor notes that Meritus International's mentorship function, in which people are formed for two years before they carry a management role, follows the same order as Formation First and as Bildung, the tradition of lifelong formation the BioConomy wiki treats as the ground of a place-based economy: [Bildung](https://wiki.bioconomy.earth/concepts/bildung). Meritus International has not been asked whether it agrees.
 
 ## What is still open
 
-- Whether Meritus International would take on any project in the valley, and on what terms. It has not proposed this, although the Forum is happy to engage further.
+- Whether Meritus International would take on any project in the valley, and on what terms. It has not proposed this, although the DevForum is happy to engage further.
 - Which projects it has delivered. Its website does not yet name any.
 
 ## Have your say

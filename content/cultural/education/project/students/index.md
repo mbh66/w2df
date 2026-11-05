@@ -117,7 +117,7 @@ In your Europe lessons you are meeting rivers as roads for trade and mountains a
 1. **Every fact gets a thread.**
 2. **You can only promise what you control.** A need becomes a promise only when somebody says yes.
 3. **No organisation has agreed to anything.** Write "could", never "will".
-4. **Keep it in the family.** The Forum hasn't discussed this idea yet. Keep what you find with your class and family.
+4. **Keep it in the family.** The DevForum hasn't discussed this idea yet. Keep what you find with your class and family.
 5. **Leave land ownership alone.** The map shows places and water. If you find something about who owns land, tell your teacher first.
 
 You may use an AI helper. Copy and paste this link into the chat: https://df.valleyofgrace.co.za/cultural/education/project/llms.txt. It can check a fact or explain a hard word. The painting, the plan card and the telling are yours.

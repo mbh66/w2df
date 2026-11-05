@@ -4,7 +4,7 @@ description: A case study of a volunteer non-profit in the Waterberg District of
 type: case-study
 kind: Non-profit
 based_in: Vaalwater
-connection: Described to the Forum by The Shift as a model for the W2DF
+connection: Described to the DevForum by The Shift as a model for the W2DF
 relationship:
 tags:
   - theme/tourism
@@ -34,13 +34,13 @@ last_checked: 2026-11-01
 > 9. Do you have a formal agreement with any municipality or with the province?
 > 10. Should readers reach you through the moderators, or through your website?
 
-The Waterberg Development Initiative (WDI) is a volunteer group in the Waterberg District of Limpopo [MS]. It works across the district's five local municipalities [MS]. It grew out of a meeting called by Kumba Iron Ore with the Marakele National Park manager, mine representatives and a tourism representative [MS]. Its directors say they started work on it in 2019 [MS]. It runs through a non-profit company whose directors also lead Waterberg Tourism [MS]. It says it identifies needs, facilitates and encourages co-operation, and it lists its projects in eight categories [MS]. Few of the results it reports have been checked by sources that do not depend on it. Henk Swanepoel, founder director of [[organisations/the-shift|The Shift]], named it to the Forum's convenor on 29 October 2026 [MS].
+The Waterberg Development Initiative (WDI) is a volunteer group in the Waterberg District of Limpopo [MS]. It works across the district's five local municipalities [MS]. It grew out of a meeting called by Kumba Iron Ore with the Marakele National Park manager, mine representatives and a tourism representative [MS]. Its directors say they started work on it in 2019 [MS]. It runs through a non-profit company whose directors also lead Waterberg Tourism [MS]. It says it identifies needs, facilitates and encourages co-operation, and it lists its projects in eight categories [MS]. Few of the results it reports have been checked by sources that do not depend on it. Henk Swanepoel, founder director of [[organisations/the-shift|The Shift]], named it to the DevForum's convenor on 29 October 2026 [MS].
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -53,7 +53,7 @@ The Waterberg Development Initiative (WDI) is a volunteer group in the Waterberg
 | Started | About 2019 [MS] |
 | Role | Says it identifies needs, facilitates and encourages co-operation [MS] |
 | Link to the valley | None found |
-| Contact with the Forum | Named to the Forum's convenor by Henk Swanepoel of The Shift, 29 October 2026 [MS] |
+| Contact with the DevForum | Named to the DevForum's convenor by Henk Swanepoel of The Shift, 29 October 2026 [MS] |
 
 ## What it does
 
@@ -165,7 +165,7 @@ The official record for the district's municipalities:
 
 No public record of contact between WDI and Ward 2, Theewaterskloof or the Overberg was found. No public source links WDI to Henk Swanepoel, The Shift or [[organisations/meritus-international|Meritus International]].
 
-On 29 October 2026 Henk Swanepoel visited the valley and named WDI to the Forum's convenor [MS]. The convenor's record of what he said: "He didn't say too much except that I should research it as a workable model" [MS]. This is Henk Swanepoel's view.
+On 29 October 2026 Henk Swanepoel visited the valley and named WDI to the DevForum's convenor [MS]. The convenor's record of what he said: "He didn't say too much except that I should research it as a workable model" [MS]. This is Henk Swanepoel's view.
 
 | | Waterberg District | Vaalwater | Ward 2 |
 | --- | --- | --- | --- |
@@ -200,15 +200,15 @@ Each column follows its own body's order. The rows are not matched.
 
 ## Relevance to W2DF
 
-- [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]: the Forum that asked for this case study.
-- [[civic/governance/how-the-forums-categories-compare|How the Forum's Categories Compare]]: sets other bodies' category lists beside the Forum's own.
+- [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]: the DevForum that asked for this case study.
+- [[civic/governance/how-the-forums-categories-compare|How the DevForum's Categories Compare]]: sets other bodies' category lists beside the DevForum's own.
 - [[civic/governance/ward-2-forum-2016-2019|Ward 2 Forum (2016 to 2019)]]: the earlier Ward 2 forum, which stopped meeting.
-- [[register|The Register]]: the Forum's list of initiatives in Ward 2.
+- [[register|The Register]]: the DevForum's list of initiatives in Ward 2.
 - [[priorities/tourism-development|Tourism Development]]: WDI's work centres on tourism.
 - [[priorities/conservation-environment|Conservation and Environment]]: WDI lists conservation and environmental education projects.
 - [[priorities/business-procurement|Business Development and Local Procurement]]: WDI lists markets, business meetings and start-ups.
-- [[organisations/the-shift|The Shift]]: its founder director named WDI to the Forum.
-- [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]]: supports the Forum with administration.
+- [[organisations/the-shift|The Shift]]: its founder director named WDI to the DevForum.
+- [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]]: supports the DevForum with administration.
 
 ## What is still open
 

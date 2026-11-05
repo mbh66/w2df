@@ -19,7 +19,7 @@ links: []
 updated: 2026-11-02
 ---
 
-> **This idea is not yet agreed.** This page is part of the thinking behind the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]. It is a desk study made from maps, with no visit to the land. The Transformasie Komitee, the national Department of Land Reform (which holds Farm 39 in trust), Theewaterskloof Municipality and Greyton's residents bodies have not been asked about any of the sites. **Please do not share this page publicly yet.** It will be tabled with the Learning Campus at the Forum's November 2026 meeting.
+> **This idea is not yet agreed.** This page is part of the thinking behind the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]. It is a desk study made from maps, with no visit to the land. The Transformasie Komitee, the national Department of Land Reform (which holds Farm 39 in trust), Theewaterskloof Municipality and Greyton's residents bodies have not been asked about any of the sites. **Please do not share this page publicly yet.** It will be tabled with the Learning Campus at the DevForum's November 2026 meeting.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -36,13 +36,13 @@ updated: 2026-11-02
 
 ## Why the campus needs a site study
 
-The Learning Campus page says that no site has been chosen [MS]. Five possible sites were marked on the Forum's map of the valley's land: three on Farm 39 and two on Erf 595 [MS]. Farm 39 covers 4,498.09 hectares [IC] and Erf 595 covers 1,404.89 hectares [IC].
+The Learning Campus page says that no site has been chosen [MS]. Five possible sites were marked on the DevForum's map of the valley's land: three on Farm 39 and two on Erf 595 [MS]. Farm 39 covers 4,498.09 hectares [IC] and Erf 595 covers 1,404.89 hectares [IC].
 
 The campus would be built as earthships: low buildings dug into the slope, with a glass front facing north to catch the winter sun and earth packed against the back. Earthships need a slope that faces north and is neither too flat nor too steep. The campus would also need to stay clear of floods, look over the Riviersonderend, and have room for boarding later. A desk study can narrow five sites down before anyone spends money on surveys.
 
 ## How the study was done
 
-- **The map.** The study used one source: the Forum's Google Earth map of the valley. That map holds the national contour lines (lines joining points at the same height) from the National Geo-spatial Information office, drawn from aerial photographs taken in 2007 [IC]. It also holds the Surveyor-General boundaries, the river lines, the possible dam sites and the proposed bypass road [MS].
+- **The map.** The study used one source: the DevForum's Google Earth map of the valley. That map holds the national contour lines (lines joining points at the same height) from the National Geo-spatial Information office, drawn from aerial photographs taken in 2007 [IC]. It also holds the Surveyor-General boundaries, the river lines, the possible dam sites and the proposed bypass road [MS].
 - **The ground.** From the contour lines, the study rebuilt the shape of the ground on a 5 metre grid [MS]. It also moved the river lines to the lowest ground in the valley, because the mapped lines are rough [MS]. In places the river moved more than 200 metres [MS].
 - **The campus.** The study laid out a full campus at each site:
   - 600 learners in the day school first (about 5,400 m² of buildings)
@@ -112,7 +112,7 @@ The buildings would sit on the north face of the ridge opposite Voorstekraal, ab
 
 ### Option 4: on Erf 595, south of the river
 
-The buildings would run along the north foot of a hill near the end of the Krige Road, on gentle slopes [MS]. They would sit only 10 to 11 metres above the riverbed [MS]. The river line on the Forum's map runs along the foot of this hill [MS]. The study's reading of the contours puts the river about 400 metres away, in the middle of the valley floor [MS]. If the mapped line is right, the site fails the 100 metre rule [MS]. A short visit, or an aerial photograph, would settle this.
+The buildings would run along the north foot of a hill near the end of the Krige Road, on gentle slopes [MS]. They would sit only 10 to 11 metres above the riverbed [MS]. The river line on the DevForum's map runs along the foot of this hill [MS]. The study's reading of the contours puts the river about 400 metres away, in the middle of the valley floor [MS]. If the mapped line is right, the site fails the 100 metre rule [MS]. A short visit, or an aerial photograph, would settle this.
 
 The nearest safe junction with the bypass is about 2 kilometres from the site, because the ground near the Krige Road end blocks the view along the road [MS].
 
@@ -198,9 +198,9 @@ No one has been asked whether the campus could use any of this land.
 
 ## What happens next
 
-1. The study is tabled with the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]] at the Forum's November 2026 meeting.
+1. The study is tabled with the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]] at the DevForum's November 2026 meeting.
 2. The Transformasie Komitee and the holders of Erf 595 are asked whether the campus could use any of the sites.
-3. If the Forum goes further, someone visits the top two sites to check where the river runs and what the ground is like.
+3. If the DevForum goes further, someone visits the top two sites to check where the river runs and what the ground is like.
 4. A surveyor maps the chosen site in detail, and an engineer draws the flood line.
 5. The soil is tested to see whether it suits earthship building.
 
@@ -226,5 +226,5 @@ If you know these sites, the river, the old road to Option 5, or how the land is
 
 ## References
 
-- Forum moderators. [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The study's only data source. It holds the national contour lines from National Geo-spatial Information (20 metre lines, and 10 metre lines with 5 metre lines on flatter ground, from aerial photography of 2007, through the Western Cape Government Spatial Data Warehouse), the Surveyor-General boundaries of Farm 39 and Erf 595, the river lines, the possible dam sites and the proposed bypass.
-- Forum moderators. Learning Campus site study, phases 1 to 3 (November 2026). The full working report, with every measurement and assumption, held by the moderators.
+- DevForum moderators. [Google Earth map of the valley's land](https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing). The study's only data source. It holds the national contour lines from National Geo-spatial Information (20 metre lines, and 10 metre lines with 5 metre lines on flatter ground, from aerial photography of 2007, through the Western Cape Government Spatial Data Warehouse), the Surveyor-General boundaries of Farm 39 and Erf 595, the river lines, the possible dam sites and the proposed bypass.
+- DevForum moderators. Learning Campus site study, phases 1 to 3 (November 2026). The full working report, with every measurement and assumption, held by the moderators.

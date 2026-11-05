@@ -23,7 +23,7 @@ updated: 2026-11-04
 ---
 
 > [!warning] For the Department of Forestry, Fisheries and the Environment to review
-> The Department of Forestry, Fisheries and the Environment has not yet seen this page. It describes the department only through what it has said or done, and through what others named here have said about it. The Forum has not approached the department about anything. Until the department has approved the text, it may change. Questions for the department:
+> The Department of Forestry, Fisheries and the Environment has not yet seen this page. It describes the department only through what it has said or done, and through what others named here have said about it. The DevForum has not approached the department about anything. Until the department has approved the text, it may change. Questions for the department:
 >
 > 1. Is this description of the department and its funding work correct? What would you like to change?
 > 2. Is the Resource Mobilisation Action Plan published? If so, where can residents read it, and how does it divide domestic and international sources of money?
@@ -36,7 +36,7 @@ The Department of Forestry, Fisheries and the Environment (DFFE) is the national
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -49,7 +49,7 @@ The Department of Forestry, Fisheries and the Environment (DFFE) is the national
 | Role | Environmental law and policy, threatened ecosystem listings, clearing programmes, and biodiversity and waste finance [IC] |
 | Budget | R9.08 billion for 2025/26, 0.35% of the national budget [MS] |
 | Link to the valley | Direct. Its listings cover the valley's fynbos, and its clearing programmes work in Western Cape catchments [IC] |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## How it plans to raise money
 

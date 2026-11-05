@@ -13,7 +13,7 @@ aliases:
 ---
 
 > [!warning] Working pages, open for review
-> The pages in this section are published while they are still being checked, so that people who know each law, and people it affects, can correct them. They explain the rules in plain language, and they do not give legal advice or speak for the Forum, the municipality, or any other body. The official text of each rule, linked on its page, is what counts. Before you act on anything here, read the official text or ask the body that administers the rule. To correct or add to a page, see [[how-to-submit|How to Submit]].
+> The pages in this section are published while they are still being checked, so that people who know each law, and people it affects, can correct them. They explain the rules in plain language, and they do not give legal advice or speak for the DevForum, the municipality, or any other body. The official text of each rule, linked on its page, is what counts. Before you act on anything here, read the official text or ask the body that administers the rule. To correct or add to a page, see [[how-to-submit|How to Submit]].
 
 This section gathers the rules that apply in the valley today: national Acts, Western Cape laws, the by-laws and plans of Theewaterskloof Municipality, and, in time, the rules communities in the valley have made for themselves. Each rule has its own page. Every page explains what the rule does, and then what it means in the valley: for [[villages/greyton|Greyton]] and [[villages/heuwelkroon|Heuwelkroon]], for [[villages/farm-39|Farm 39]] and the mission settlements, and for the farms. Many rules land differently on either side of the old fence between Greyton and Genadendal, and the pages say so.
 

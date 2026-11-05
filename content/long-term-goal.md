@@ -1,13 +1,13 @@
 ---
 title: Our Long-Term Goal
-description: What the Forum is working towards by 2038, how we plan to get there, the proposed principle of Vorming beneath it, how the five priorities fit, and how a yearly survey will show whether life in the valley is changing.
+description: What the DevForum is working towards by 2038, how we plan to get there, the proposed principle of Vorming beneath it, how the five priorities fit, and how a yearly survey will show whether life in the valley is changing.
 type: page
 date: 2026-09-23
 draft: false
 updated: 2026-11-01
 ---
 
-The Forum has one long-term goal. In 2038, Genadendal turns 300. By then, we want every village in Ward 2 to be able to say:
+The DevForum has one long-term goal. In 2038, Genadendal turns 300. By then, we want every village in Ward 2 to be able to say:
 
 - We work together to make a living.
 - We are treated as equals.
@@ -38,7 +38,7 @@ Shops, farms, and markets carry on as they do now. The BioConomy adds ways for n
 
 Tools and money only work when people are ready to carry what they create. [[concepts/vorming|Vorming]] is a proposal, not yet agreed, for the valley's own variation of Bildung, the tradition of lifelong formation. It is based on care for the valley and on ecological restoration at a large scale. Under Vorming, people grow in responsibility for the valley by working together on its land and water, and the state of its rivers and slopes shows that growth.
 
-If the Forum adopts it, Vorming would sit beneath everything on this page:
+If the DevForum adopts it, Vorming would sit beneath everything on this page:
 
 - **Formation before funding.** Before a large project takes money, it would ask whether the people involved are ready to steward what the money builds.
 - **Restoration as shared work.** Restoring a river brings people from every village to the same place. [[concepts/the-palmiet-principle|The Palmiet Principle]] is its first practice: every act of care for a river is seen and recorded, and nothing is punished.
@@ -60,7 +60,7 @@ The yearly survey below will show whether this is true. If it's not working, the
 
 ## How the five priorities fit
 
-Each of the Forum's five [[priorities/index|priorities]] moves the valley towards the goal. Most touch more than one sphere.
+Each of the DevForum's five [[priorities/index|priorities]] moves the valley towards the goal. Most touch more than one sphere.
 
 | Priority | What it does | Spheres it helps most |
 | --- | --- | --- |
@@ -74,7 +74,7 @@ Under the Vorming proposal, each priority would also be judged by how it forms t
 
 ## How we will know: the yearly survey
 
-The Forum plans to run a short survey once a year, starting in 2027. Young people from each village will be trained and paid to visit homes and ask the questions on a phone. The survey will take about 15 minutes, in Afrikaans or English.
+The DevForum plans to run a short survey once a year, starting in 2027. Young people from each village will be trained and paid to visit homes and ask the questions on a phone. The survey will take about 15 minutes, in Afrikaans or English.
 
 We will ask the same questions every year, so we can see what changes. Results will be published on this site, village by village. The idea is set out in full on [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]]: why the survey helps the valley speak with one voice, and what it could measure.
 
@@ -119,8 +119,8 @@ Most questions can be answered with *Yes*, *Partly*, *No*, or *Don't know*.
 
 ## Related
 
-- [[about|About the Forum]]
-- [[priorities/index|Forum Priorities]]
+- [[about|About the DevForum]]
+- [[priorities/index|DevForum Priorities]]
 - [[register|The Register]]
 - [[data-policy|Data Policy]]
 - [[concepts/the-yearly-valley-survey|The Yearly Valley Survey]]

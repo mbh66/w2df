@@ -1,6 +1,6 @@
 ---
 title: Vorming
-description: An idea for Vorming, the valley's own variation of Bildung, the tradition of lifelong formation. It would be built on care for the valley and on ecological restoration at a large scale, and it responds to the Challenges record. Not yet agreed or set down for a Forum meeting.
+description: An idea for Vorming, the valley's own variation of Bildung, the tradition of lifelong formation. It would be built on care for the valley and on ecological restoration at a large scale, and it responds to the Challenges record. Not yet agreed or set down for a DevForum meeting.
 type: concept
 tags:
   - theme/environment
@@ -24,7 +24,7 @@ links:
 updated: 2026-11-04
 ---
 
-> **This idea is not yet agreed.** Nobody named on this page has been asked about it yet. That includes [[organisations/the-shift|The Shift]], [[organisations/meritus-international|Meritus International]], the [[history/institutions/moravian-church|Moravian Church]], the valley's schools, and the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]]. **Please do not share this page publicly yet.** No date has been set for tabling it at a Forum meeting.
+> **This idea is not yet agreed.** Nobody named on this page has been asked about it yet. That includes [[organisations/the-shift|The Shift]], [[organisations/meritus-international|Meritus International]], the [[history/institutions/moravian-church|Moravian Church]], the valley's schools, and the [[economic/farmers-land-water/zonderend-water-users-association|Zonderend Water Users Association]]. **Please do not share this page publicly yet.** No date has been set for tabling it at a DevForum meeting.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -69,13 +69,13 @@ Each of these shows a community forming itself, or being denied the chance. Vorm
 The [[challenges|Challenges]] page shows that the valley's most difficult challenges sit in people and in their relationships, as much as in land and budgets.
 
 - **How residents scored the valley.** In the 2024 [[organisations/ranyaka-community-transformation|Ranyaka]] sessions, residents gave the valley an overall score of 48% [MS]. Social cohesion scored highest, and well-being ("healthy, educated and active") lowest [MS].
-- **What the Forum heard.** At its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]], several sectors asked for "life skills, communication, respect and violence prevention" [MS]. Farmers asked for "mentorship between commercial and emerging farmers" [MS].
+- **What the DevForum heard.** At its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]], several sectors asked for "life skills, communication, respect and violence prevention" [MS]. Farmers asked for "mentorship between commercial and emerging farmers" [MS].
 - **Young people.** Across the municipality, only 71.6% of learners stayed from Grade 10 to Grade 12 in 2023 [IC]. In 2023/24, 15.3% of deliveries were to women aged 10 to 19 [IC].
 - **Work residents already do.** At the 2025 IDP meeting, residents asked for a record of the work they do themselves, such as fire breaks, pothole repairs and baboon monitoring [IC].
 - **How the valley is seen.** Official plans describe Genadendal mainly as a debt problem, and its economy as "dominated by 'development' projects" [IC]. See [[challenges#5. How the valley is seen|How the valley is seen]].
 - **Damaged land.** Both the Baviaans River on [[villages/farm-39|Farm 39]] and the Gobos River on [[villages/erf-595-greyton|Erf 595]] are deeply eroded [IC], and the gullies around Genadendal and Greyton, as well as the stretch of the Riviersonderend in the Valley, are in Category A (see [[concepts/the-palmiet-principle|The Palmiet Principle]]).
 
-Money alone is unlikely to change these things. [[organisations/the-shift|The Shift]] made this point to the Forum on 7 October 2026 and again during a site visit on 29 October 2026: capital speeds things up, and where people are not ready, it can also speed up dependency and poor stewardship [MS]. Its slides close with "Formation precedes flourishing" [MS].
+Money alone is unlikely to change these things. [[organisations/the-shift|The Shift]] made this point to the DevForum on 7 October 2026 and again during a site visit on 29 October 2026: capital speeds things up, and where people are not ready, it can also speed up dependency and poor stewardship [MS]. Its slides close with "Formation precedes flourishing" [MS].
 
 ## Vorming: our own version
 
@@ -140,9 +140,9 @@ Nothing has been costed. As a design principle, the idea costs little in itself.
 
 ## Who would decide
 
-Each person forms themselves; no one can do it for them. The Forum would decide whether to adopt Vorming as a design principle for the initiatives it brings together. Schools, congregations, organisations and partners such as The Shift and Meritus International would keep their own programmes, and decide for themselves whether and how to take part.
+Each person forms themselves; no one can do it for them. The DevForum would decide whether to adopt Vorming as a design principle for the initiatives it brings together. Schools, congregations, organisations and partners such as The Shift and Meritus International would keep their own programmes, and decide for themselves whether and how to take part.
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
 The idea serves the [[priorities/education-skills|Education and Skills]] priority, because it treats the valley's land as a place of lifelong learning. It serves the [[priorities/conservation-environment|Conservation and Environment]] priority, because restoration is its main practice. It fits [[long-term-goal|Our Long-Term Goal]] for 2038, and it gives a reason for the order in which things are done: people first, then the money.
 
@@ -152,20 +152,20 @@ The idea serves the [[priorities/education-skills|Education and Skills]] priorit
 - **The tradition's past.** How Vorming takes up Bildung while leaving behind its old ties to nationalism, which Rowson warns about [MS].
 - **The Shift and Meritus International.** Whether they see their work in this way, and whether they would take part. Neither has been asked directly, although the similarities came through strongly during a site visit in October 2026.
 - **The Moravian Church and the schools.** Whether they see the valley's history of education as this page describes it, and how they would want to be involved.
-- **Measuring without scoring people.** Which outward signs the Forum would track, and how often.
+- **Measuring without scoring people.** Which outward signs the DevForum would track, and how often.
 - **The settlements.** How each settlement would shape its own part of the work, and how residents of every village would be invited in.
 
 ## What happens next
 
 1. The Shift and Meritus International are asked for their views on this page.
 2. The Moravian Church and the valley's schools are asked how the history is told here.
-3. The idea is tabled at a Forum meeting together with [[concepts/the-palmiet-principle|The Palmiet Principle]], its first practice.
-4. If the Forum agrees, it asks each new initiative on the register the question in *A principle, not a course*.
+3. The idea is tabled at a DevForum meeting together with [[concepts/the-palmiet-principle|The Palmiet Principle]], its first practice.
+4. If the DevForum agrees, it asks each new initiative on the register the question in *A principle, not a course*.
 5. Vorming is built into the design of the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]], which would carry what the valley learns to others.
 
 ## Have your say
 
-To comment on this idea, see [[how-to-submit|How to Submit]] or raise it at the next Forum meeting.
+To comment on this idea, see [[how-to-submit|How to Submit]] or raise it at the next DevForum meeting.
 
 ## Related
 

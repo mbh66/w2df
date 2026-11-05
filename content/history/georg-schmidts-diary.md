@@ -1,6 +1,6 @@
 ---
 title: "Georg Schmidt's Diary"
-description: "The diary and letters Georg Schmidt wrote at the Cape from 1737 to 1744, the earliest written record of the mission at Baviaanskloof. Published in print in 1981, with no digital copy found. The Forum has not yet traced a copy."
+description: "The diary and letters Georg Schmidt wrote at the Cape from 1737 to 1744, the earliest written record of the mission at Baviaanskloof. Published in print in 1981, with no digital copy found. The DevForum has not yet traced a copy."
 type: page
 tags:
   - theme/heritage

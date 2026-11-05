@@ -1,6 +1,6 @@
 ---
 title: The Overberg Leopard Corridor
-description: A proposed visitor plan for the mountains above the valley, built around the Cape leopard and the work of tracking it, starting in the northern Overberg. Not yet agreed. Sent to the Transformasie Komitee in writing, and tabled at a Forum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
+description: A proposed visitor plan for the mountains above the valley, built around the Cape leopard and the work of tracking it, starting in the northern Overberg. Not yet agreed. Sent to the Transformasie Komitee in writing, and tabled at a DevForum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
 type: concept
 tags:
   - theme/youth
@@ -33,7 +33,7 @@ links:
 updated: 2026-11-04
 ---
 
-> **This idea is not yet agreed.** At its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]], the Forum agreed that the leopard corridor concept be sent to the Transformasie Komitee in writing [MS]. None of the other organisations named on this page have been approached. They include the [[organisations/cape-leopard-trust|Cape Leopard Trust]], the [[organisations/landmark-foundation|Landmark Foundation]], [[organisations/capenature|CapeNature]], the Greyton Conservation Society, Wild Restoration, the Greyton Tourism Bureau, [[organisations/wesgro|Wesgro]], the [[organisations/overberg-district-municipality|Overberg District Municipality]], and Theewaterskloof Municipality. **Please do not share this page publicly yet.** The idea will be tabled at a Forum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
+> **This idea is not yet agreed.** At its [[civic/governance/minutes/2026-09-16-inaugural-meeting|first meeting]], the DevForum agreed that the leopard corridor concept be sent to the Transformasie Komitee in writing [MS]. None of the other organisations named on this page have been approached. They include the [[organisations/cape-leopard-trust|Cape Leopard Trust]], the [[organisations/landmark-foundation|Landmark Foundation]], [[organisations/capenature|CapeNature]], the Greyton Conservation Society, Wild Restoration, the Greyton Tourism Bureau, [[organisations/wesgro|Wesgro]], the [[organisations/overberg-district-municipality|Overberg District Municipality]], and Theewaterskloof Municipality. **Please do not share this page publicly yet.** The idea will be tabled at a DevForum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -62,7 +62,7 @@ updated: 2026-11-04
 
 **What the province is funding.** The [[organisations/western-cape-department-of-economic-development-and-tourism|Western Cape Tourism Growth Fund]] aims to help double international arrivals to the province by 2030 [IC]. It gives preference to projects outside the metro and in underserved areas, and its priority themes include village heritage and Western Cape trails [IC]. Wesgro's five-year plan describes the provincial target as doubling tourism by 2035 [MS].
 
-**What the Forum asked for.** At its first meeting, the Forum made conservation and environment one of its five priorities, and discussed a possible Overberg leopard corridor [MS].
+**What the DevForum asked for.** At its first meeting, the DevForum made conservation and environment one of its five priorities, and discussed a possible Overberg leopard corridor [MS].
 
 ## The idea
 
@@ -135,11 +135,11 @@ Nothing has been costed, including a camera survey of the valley's mountains [MS
 - **[[organisations/heritage-western-cape|Heritage Western Cape]]**, for any work inside the Genadendal heritage precinct.
 - **The researchers**, for the camera data they collect. Any sharing would be by written agreement.
 - **The municipalities**, for any part of the plan that needs roads, land use, or public money.
-- **The Forum**, for whether the valley takes on the job of convening the plan.
+- **The DevForum**, for whether the valley takes on the job of convening the plan.
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
-The Forum's [[long-term-goal|long-term goal]] plans a BioConomy that keeps more of what the valley has in the valley. This idea would turn the valley's mountains and their leopards into work for local people, and use part of what visitors spend to look after both.
+The DevForum's [[long-term-goal|long-term goal]] plans a BioConomy that keeps more of what the valley has in the valley. This idea would turn the valley's mountains and their leopards into work for local people, and use part of what visitors spend to look after both.
 
 It follows the three values of the long-term goal:
 
@@ -147,7 +147,7 @@ It follows the three values of the long-term goal:
 - **Equality (civic).** Every village has a route into the work, and the Komitee decides on Farm 39 land.
 - **Freedom (cultural).** The valley tells its own story of its mountains and its heritage.
 
-It serves four of the Forum's [[priorities/index|priorities]]: [[priorities/tourism-development|Tourism Development]], [[priorities/education-skills|Education and Skills]], [[priorities/conservation-environment|Conservation and Environment]], and [[priorities/business-procurement|Business Development and Local Procurement]].
+It serves four of the DevForum's [[priorities/index|priorities]]: [[priorities/tourism-development|Tourism Development]], [[priorities/education-skills|Education and Skills]], [[priorities/conservation-environment|Conservation and Environment]], and [[priorities/business-procurement|Business Development and Local Procurement]].
 
 ## What is still open
 
@@ -160,19 +160,19 @@ It serves four of the Forum's [[priorities/index|priorities]]: [[priorities/tour
 - **Cape Town.** Whether visitors to the Overberg shorten their stay in Cape Town. No figures exist.
 - **How many visitors the villages can take.** Limits for each village and trail, set with residents.
 - **The Nature Realm.** How visitor records would keep leopard locations hidden.
-- **The name.** Planning material uses several names for the same idea. The Forum may choose one.
+- **The name.** Planning material uses several names for the same idea. The DevForum may choose one.
 
 ## What happens next
 
-1. The written concept goes to the Transformasie Komitee, as the Forum agreed, and the Komitee's response is added to this page.
+1. The written concept goes to the Transformasie Komitee, as the DevForum agreed, and the Komitee's response is added to this page.
 2. The Cape Leopard Trust, the Landmark Foundation, CapeNature, the Greyton Conservation Society, Wild Restoration, and farmers in the valley are asked for their views.
-3. The idea is tabled at a Forum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
-4. If the Forum agrees, a plan for the northern Overberg is scoped. The Valley of Grace BioHub lists December 2026 for starting this work [MS].
+3. The idea is tabled at a DevForum meeting once the Komitee responds or 21 days after it was sent, whichever comes first.
+4. If the DevForum agrees, a plan for the northern Overberg is scoped. The Valley of Grace BioHub lists December 2026 for starting this work [MS].
 5. A costed camera survey of the valley's mountains is planned with researchers for 2027.
 
 ## Have your say
 
-Contact the moderators via [[how-to-submit|How to Submit]], or come to the next Forum meeting.
+Contact the moderators via [[how-to-submit|How to Submit]], or come to the next DevForum meeting.
 
 ## Related
 

@@ -28,7 +28,7 @@ It is often said in [[villages/greyton|Greyton]] that the village "was one of th
 > - **[MS] Mission-Sourced.** Comes from one community's or organisation's own sources: for Greyton, its local histories, which often repeat each other; for other towns, their own museums, heritage societies, or local histories.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> The sections *A fairer way to say it* and *Read through TIME* are the Forum's reading and carry no tags.
+> The sections *A fairer way to say it* and *Read through TIME* are the DevForum's reading and carry no tags.
 
 > [!note] The short answer
 > Greyton was planned from the start as a farming village [IC]. It was one of many planned towns in the Cape, and a late one. When its first plots were sold in 1854, towns had been laid out in the Cape for more than 150 years, and many of them brought water to their plots in furrows, as Greyton does [IC]. Worcester was drawn in full on a grid, with 144 plots, in 1819 and 1820 [IC]. Closer to home, Villiersdorp was laid out on part of a farmer's land in 1843 [IC]. Greyton belongs to a group of villages laid out in the Western Cape in the 1850s by dividing a farm into plots with water rights, as at Montagu and Stanford [IC]. What Greyton can fairly claim is how well it has kept its plan. The layout has changed little [IC], and its leiwater still works [MS].
@@ -91,7 +91,7 @@ Montagu and Stanford, like Greyton, sold their plots with water from furrows wri
 
 ## A fairer way to say it
 
-This wording is the Forum's suggestion for residents and guides who want to keep the spirit of the saying:
+This wording is the DevForum's suggestion for residents and guides who want to keep the spirit of the saying:
 
 > Greyton was planned from the start as a farming village, one of many laid out in the Cape with plots watered by furrows. Few have kept their plan so well, and its leiwater still runs.
 

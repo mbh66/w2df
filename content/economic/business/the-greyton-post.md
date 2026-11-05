@@ -54,6 +54,6 @@ In 2026 The Greyton Post was a national finalist in the mobile photography categ
 Advertise, list your business, apply to join The Greyton Collective, or donate through [The Greyton Post website](https://greytonpost.co.za/advertise/). For anything else, contact the moderators via [[how-to-submit|How to Submit]].
 
 ## Related
-- [[2026-09-16-inaugural-meeting|Forum inaugural meeting]], which The Greyton Post reported on
+- [[2026-09-16-inaugural-meeting|DevForum inaugural meeting]], which The Greyton Post reported on
 - [[rotary-club-of-greyton|Rotary Club of Greyton]]
 - [[greyton-conservation-society|Greyton Conservation Society]], which lists The Greyton Post as a partner

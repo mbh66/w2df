@@ -1,6 +1,6 @@
 ---
 title: Citizen-Led Recovery for Ward 2
-description: "An idea for how the Forum could help Theewaterskloof Municipality recover: by bringing Ward 2's own evidence to the province's monitoring of the Financial Recovery Plan, and by asking for a facilitated process on the Genadendal accounts. Not yet agreed. To be tabled at a Forum meeting."
+description: "An idea for how the DevForum could help Theewaterskloof Municipality recover: by bringing Ward 2's own evidence to the province's monitoring of the Financial Recovery Plan, and by asking for a facilitated process on the Genadendal accounts. Not yet agreed. To be tabled at a DevForum meeting."
 type: concept
 tags:
   - theme/trancraa
@@ -17,7 +17,7 @@ links:
   - https://www.westerncape.gov.za/treasury/article/western-cape-government-approves-theewaterskloof-financial-recovery-plan
 ---
 
-> **This idea is not yet agreed.** Nobody named on this page has been asked about it, including Theewaterskloof Municipality, the Western Cape Government, the Transformasie Komitee, and the residents associations. **Please do not share this page publicly yet.** The idea will be tabled at a Forum meeting, where anyone can question it, change it, or reject it.
+> **This idea is not yet agreed.** Nobody named on this page has been asked about it, including Theewaterskloof Municipality, the Western Cape Government, the Transformasie Komitee, and the residents associations. **Please do not share this page publicly yet.** The idea will be tabled at a DevForum meeting, where anyone can question it, change it, or reject it.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -39,23 +39,23 @@ links:
 - In July 2026 National Treasury withheld part of the municipality's equitable share, citing irregular and wasteful spending that had not been dealt with [IC]. Treasury reportedly warned that the December 2026 and March 2027 instalments could also be withheld [TBV].
 - The plan's only formal public participation was a 14-day comment window, and it gives residents no standing seat [IC].
 - The plan puts Genadendal at about a fifth of all debt owed to the municipality, and records that many residents there hold that the land does not belong to the municipality [IC]. That question goes back to the unfinished transfer of Farm 39 under [[rules/trancraa|TRANCRAA]], and no one has yet set out a process to settle it.
-- The municipality's Economic Development office co-convened the Forum's first meeting on 16 September 2026 [MS]. The Forum already has a working link with the municipality.
+- The municipality's Economic Development office co-convened the DevForum's first meeting on 16 September 2026 [MS]. The DevForum already has a working link with the municipality.
 
-## What the Forum could do
+## What the DevForum could do
 
-**1. Ask for a facilitated process on the Genadendal accounts.** The Forum could ask Provincial Treasury and the Department of Local Government to convene the municipality and the [[civic/governance/genadendal-transformasie-komitee|Transformasie Komitee]] on how Genadendal is billed while Farm 39 remains unresolved. Any such step would be sent to the Komitee in writing, with 21 days to respond, before the Forum tables it.
+**1. Ask for a facilitated process on the Genadendal accounts.** The DevForum could ask Provincial Treasury and the Department of Local Government to convene the municipality and the [[civic/governance/genadendal-transformasie-komitee|Transformasie Komitee]] on how Genadendal is billed while Farm 39 remains unresolved. Any such step would be sent to the Komitee in writing, with 21 days to respond, before the DevForum tables it.
 
-**2. Become the plan's evidence partner for Ward 2.** The province publishes quarterly progress reports so that the public can follow the plan [IC]. The Forum could collect evidence from the ward, such as faulty meters, leaks, sewage spills, and billing errors, and send it to Provincial Treasury set against the plan's own activities. The [[concepts/the-yearly-valley-survey|Yearly Valley Survey]] could later supply the figures.
+**2. Become the plan's evidence partner for Ward 2.** The province publishes quarterly progress reports so that the public can follow the plan [IC]. The DevForum could collect evidence from the ward, such as faulty meters, leaks, sewage spills, and billing errors, and send it to Provincial Treasury set against the plan's own activities. The [[concepts/the-yearly-valley-survey|Yearly Valley Survey]] could later supply the figures.
 
-**3. Follow the money that protects the equitable share.** Treasury's condition for releasing the equitable share is that the municipality deals with its backlog of irregular spending through its Municipal Public Accounts Committee [IC]. The Forum could attend the committee's open meetings, and ask for the register of that spending, which the plan requires the municipality to keep, to be made public.
+**3. Follow the money that protects the equitable share.** Treasury's condition for releasing the equitable share is that the municipality deals with its backlog of irregular spending through its Municipal Public Accounts Committee [IC]. The DevForum could attend the committee's open meetings, and ask for the register of that spending, which the plan requires the municipality to keep, to be made public.
 
-**4. Put the link with the municipality in writing.** A short memorandum with the Economic Development office would record what support the municipality gives the Forum, so that it carries over to the new council.
+**4. Put the link with the municipality in writing.** A short memorandum with the Economic Development office would record what support the municipality gives the DevForum, so that it carries over to the new council.
 
-**5. Brief the new council.** After the election, the Forum could brief the new Ward 2 councillor and the new mayoral committee on the valley's priorities, and nominate people for the new ward committee.
+**5. Brief the new council.** After the election, the DevForum could brief the new Ward 2 councillor and the new mayoral committee on the valley's priorities, and nominate people for the new ward committee.
 
 **6. Use the yearly plan and budget.** Written submissions to the review of the [[rules/theewaterskloof-integrated-development-plan|Integrated Development Plan]] and the budget, timed to the ward meeting each November or December, inside the limits the recovery plan sets.
 
-**7. Work with the province's support plan.** In August 2026 the MEC for Local Government announced further support for the municipality, meant to continue after the formal intervention [IC]. The Forum could offer Ward 2 as a place to try the parts of that support that involve residents. See [[organisations/western-cape-government|Western Cape Government]].
+**7. Work with the province's support plan.** In August 2026 the MEC for Local Government announced further support for the municipality, meant to continue after the formal intervention [IC]. The DevForum could offer Ward 2 as a place to try the parts of that support that involve residents. See [[organisations/western-cape-government|Western Cape Government]].
 
 **Withholding rates is left out of this idea.** Rates withheld by residents would lower the collection rate on which the plan depends, and would expose those residents to the municipality's credit control.
 
@@ -63,7 +63,7 @@ links:
 
 - **Makhanda.** Residents and an unemployed people's movement went to the High Court, which in 2020 ordered the dissolution of Makana Municipality's council [IC]. Later court orders followed on refuse and sewage [IC]. Court orders forced action, and the municipality's repeated failure to comply limited what they achieved [TBV].
 - **Lekwa.** In 2021 a poultry company won a court order compelling national government to intervene in Lekwa Municipality [IC].
-- **Beaufort West and Kannaland.** Both are under recovery plans in the Western Cape. Beaufort West moved into the second phase in 2026 [IC]. The DA has said Kannaland's recovery stalled through "political resistance" in its council [MS]. The Forum reads this as a sign that recovery depends on the council's cooperation, which a forum open to every party can help build.
+- **Beaufort West and Kannaland.** Both are under recovery plans in the Western Cape. Beaufort West moved into the second phase in 2026 [IC]. The DA has said Kannaland's recovery stalled through "political resistance" in its council [MS]. The DevForum reads this as a sign that recovery depends on the council's cooperation, which a forum open to every party can help build.
 - **Partnerships in law.** The [[rules/municipal-systems-act|Municipal Systems Act]] allows a municipality to have a service delivered through an outside body, including a community organisation, after an assessment and with a written service delivery agreement [IC]. The municipality stays responsible for the service [IC]. For Ward 2 this could suit small, clearly bounded tasks, such as caring for a park or checking water meters.
 
 ## Who would be asked
@@ -76,9 +76,9 @@ links:
 
 ## What is still open
 
-- Who is Municipal Manager today, and which office in the municipality the Forum should approach.
+- Who is Municipal Manager today, and which office in the municipality the DevForum should approach.
 - Whether the Komitee wants the Genadendal accounts raised with the province, and on what terms.
-- Who would champion this idea in the Forum.
+- Who would champion this idea in the DevForum.
 - What the earlier [[civic/governance/ward-2-forum-2016-2019|Ward 2 Forum]] and the Greyton ratepayers' bodies learned from dealing with the municipality.
 
 ## Have your say
@@ -92,7 +92,7 @@ If you have worked with the municipality or the province on its finances, or can
 - [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]]
 - [[organisations/western-cape-government|Western Cape Government]]
 - [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]]
-- [[concepts/how-the-forum-decides-together|How the Forum Decides Together]]
+- [[concepts/how-the-forum-decides-together|How the DevForum Decides Together]]
 
 ## References
 

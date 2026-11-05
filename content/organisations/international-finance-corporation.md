@@ -22,7 +22,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For International Finance Corporation to review
-> International Finance Corporation has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached International Finance Corporation about anything. Until International Finance Corporation has approved the text, it may change. Questions for International Finance Corporation:
+> International Finance Corporation has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached International Finance Corporation about anything. Until International Finance Corporation has approved the text, it may change. Questions for International Finance Corporation:
 >
 > 1. Is this description of IFC's investment in the Cape Water bond correct? What would you like to change?
 > 2. Your disclosure says the bond's proceeds are on-lent to small agricultural businesses. How does that relate to the catchment clearing the bond is linked to?
@@ -35,7 +35,7 @@ The International Finance Corporation (IFC) is the part of the World Bank Group 
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -47,7 +47,7 @@ The International Finance Corporation (IFC) is the part of the World Bank Group 
 | Website | [ifc.org](https://www.ifc.org) |
 | Role | Lead investor and co-anchor, about R1.6 billion of notes [IC] |
 | Link to the valley | Indirect. The bond is linked to clearing in the catchments of the water supply system whose largest dam lies upstream of the valley |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

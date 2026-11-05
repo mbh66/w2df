@@ -25,7 +25,7 @@ last_checked: 2026-10-28
 ---
 
 > [!warning] For Remgro to review
-> Remgro has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The Forum has not approached Remgro about anything. Until Remgro has approved the text, it may change. Questions for Remgro:
+> Remgro has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The DevForum has not approached Remgro about anything. Until Remgro has approved the text, it may change. Questions for Remgro:
 >
 > 1. Is this description of Remgro and its role in the Cape Water bond correct? What would you like to change?
 > 2. How much has Remgro committed as an outcome funder, and over how many years? Does the money go to the bonus pot for investors, to the clearing work, or to both?
@@ -53,7 +53,7 @@ Remgro Limited is an investment holding company based in Stellenbosch and listed
 | Role | Outcome funder, Cape Water Performance-Based Bond. Amount not made public [MS] |
 | Other role | Member of the Greater Cape Town Water Fund's steering committee since 2018 [MS] |
 | Link to the valley | Indirect. The bond pays for clearing in the catchments of the water supply system whose largest dam lies upstream of the valley |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 
@@ -71,7 +71,7 @@ Remgro owns large shares in other companies and helps run them [MS]. Anton Ruper
 
 **FirstRand shares.** Remgro was once a large shareholder in the group that owns FirstRand Bank. It gave those shares to its own shareholders in 2020, and sold the last of its FirstRand shares in early 2026 [IC]. No public source links those shares to the bond.
 
-**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the Forum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with [[organisations/capenature|CapeNature]] [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
+**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the DevForum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with [[organisations/capenature|CapeNature]] [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
 
 ## Relevance to W2DF
 
@@ -119,4 +119,4 @@ If you know more about Remgro's work in the valley's mountains or rivers, contac
 - Billionaires.Africa. [Remgro sells R4.88 billion worth of FirstRand shares](https://www.billionaires.africa/2026/03/11/johann-ruperts-remgro-sells-r4-88-billion-worth-of-firstrand-shares-in-six-year-exit-from-south-africas-biggest-bank/) (11 March 2026). The 2020 unbundling and the share sales of early 2026.
 - City of Cape Town. [Dam levels](https://web1.capetown.gov.za/web1/newsandnotices/Home/Release/dam-levels) (August 2026). The dams of the Western Cape Water Supply System and their capacities.
 - Wikipedia. [Theewaterskloof Dam](https://en.wikipedia.org/wiki/Theewaterskloof_Dam). Its river, its owner, and its place in the Western Cape Water Supply System.
-- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the Forum in conversation and is not on this page.
+- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the DevForum in conversation and is not on this page.

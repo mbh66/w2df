@@ -24,7 +24,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For FirstRand Bank to review
-> FirstRand Bank has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The Forum has not approached FirstRand Bank about anything. Until FirstRand Bank has approved the text, it may change. Questions for FirstRand Bank:
+> FirstRand Bank has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The DevForum has not approached FirstRand Bank about anything. Until FirstRand Bank has approved the text, it may change. Questions for FirstRand Bank:
 >
 > 1. Is this description of FirstRand Bank and its role in the Cape Water bond correct? What would you like to change?
 > 2. Is the FirstRand Foundation's role, and the size of its commitment, described correctly?
@@ -49,7 +49,7 @@ FirstRand Bank Limited is the main South African bank of the FirstRand group, wh
 | Website | [firstrand.co.za](https://www.firstrand.co.za) |
 | Role | Issuer, project agent, and conditional funding donor, Cape Water Performance-Based Bond [MS] |
 | Link to the valley | Indirect. The bond pays for clearing in the catchments of the water supply system whose largest dam lies upstream of the valley |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 
@@ -63,7 +63,7 @@ FirstRand Limited is the holding company of FirstRand Bank, and is listed on the
 
 **Where the money goes.** [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy South Africa]] receives R150 million over five years to clear invasive plants through the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]], in remote priority catchments of the Western Cape Water Supply System [MS]. [[organisations/conservation-alpha|Conservation Alpha]] checks the results [MS].
 
-**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the Forum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with [[organisations/capenature|CapeNature]] [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
+**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the DevForum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with [[organisations/capenature|CapeNature]] [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
 
 ## Relevance to W2DF
 
@@ -99,5 +99,5 @@ If you know more about FirstRand Bank's work in the valley's mountains or rivers
 - Wikipedia. [FirstRand](https://en.wikipedia.org/wiki/FirstRand). The group, its head office, its listings, and the divisions of FirstRand Bank.
 - City of Cape Town. [Dam levels](https://web1.capetown.gov.za/web1/newsandnotices/Home/Release/dam-levels) (August 2026). The dams of the Western Cape Water Supply System and their capacities.
 - Wikipedia. [Theewaterskloof Dam](https://en.wikipedia.org/wiki/Theewaterskloof_Dam). Its river, its owner, and its place in the Western Cape Water Supply System.
-- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the Forum in conversation and is not on this page.
+- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the DevForum in conversation and is not on this page.
 - BioConomy wiki. [Performance-Based Water Bonds](https://wiki.bioconomy.earth/concepts/performance-based-water-bonds). How bonds of this kind work, with the Cape Water bond as the first example.

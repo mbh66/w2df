@@ -21,7 +21,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Western Cape Department of Economic Development and Tourism to review
-> Western Cape Department of Economic Development and Tourism has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Western Cape Department of Economic Development and Tourism about anything. Until Western Cape Department of Economic Development and Tourism has approved the text, it may change. Questions for Western Cape Department of Economic Development and Tourism:
+> Western Cape Department of Economic Development and Tourism has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Western Cape Department of Economic Development and Tourism about anything. Until Western Cape Department of Economic Development and Tourism has approved the text, it may change. Questions for Western Cape Department of Economic Development and Tourism:
 >
 > 1. Is this description of the department and the Tourism Growth Fund correct? What would you like to change?
 > 2. Can a group of organisations from one ward apply to the fund together, if one of them has operated for two years?
@@ -34,7 +34,7 @@ The Western Cape Department of Economic Development and Tourism (DEDAT) is the p
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -46,7 +46,7 @@ The Western Cape Department of Economic Development and Tourism (DEDAT) is the p
 | Website | [westerncape.gov.za/edat](https://www.westerncape.gov.za/edat) |
 | Role | Runs the Western Cape Tourism Growth Fund [MS] |
 | Link to the valley | Possible. The valley may apply to its fund |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 
@@ -54,7 +54,7 @@ The Tourism Growth Fund gives co-funded grants for tourism infrastructure, new o
 
 ## How its work reaches the valley
 
-- **The heritage trail.** The proposed application asks the fund for R691,350 of a project costing about R1.8 million [MS]. At the Forum's first meeting, a proposed application of about R1.4 million was presented [MS].
+- **The heritage trail.** The proposed application asks the fund for R691,350 of a project costing about R1.8 million [MS]. At the DevForum's first meeting, a proposed application of about R1.4 million was presented [MS].
 - **Transport permits.** The first meeting agreed that the municipality's representative would raise delays with tourism transport permits at the next DEDAT session [MS].
 - **Tour guides.** The provincial registrar of tourist guides sits in this department [TBV].
 

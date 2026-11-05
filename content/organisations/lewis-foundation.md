@@ -22,7 +22,7 @@ last_checked: 2026-10-28
 ---
 
 > [!warning] For the Lewis Foundation to review
-> The Lewis Foundation has not yet seen this page. It describes the foundation only through what it and its partners have said in public. The Forum has not approached the Lewis Foundation about anything. Until the foundation has approved the text, it may change. Questions for the Lewis Foundation:
+> The Lewis Foundation has not yet seen this page. It describes the foundation only through what it and its partners have said in public. The DevForum has not approached the Lewis Foundation about anything. Until the foundation has approved the text, it may change. Questions for the Lewis Foundation:
 >
 > 1. Is this description of the foundation correct? What would you like to change?
 > 2. How much has the foundation committed as an outcome funder of the Cape Water bond, and over how many years?
@@ -50,7 +50,7 @@ The Lewis Foundation is a South African trust that funds conservation and animal
 | Website | [thelewisfoundation.co.za](https://thelewisfoundation.co.za) |
 | Role | Outcome funder, Cape Water Performance-Based Bond. Amount not made public [MS] |
 | Link to the valley | Indirect. The bond pays for clearing in the catchments of the water supply system whose largest dam lies upstream of the valley |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 
@@ -65,7 +65,7 @@ The foundation's founders died within nine months of each other in 1995 [MS]. It
 
 **The bond.** [[organisations/firstrand-bank|FirstRand Bank]] issued the R2.5 billion Cape Water Performance-Based Bond in April 2026, arranged by Rand Merchant Bank [IC]. Rand Merchant Bank names the Lewis Foundation among the outcome funders, the donors who pay the investors' bonus only when the clearing is checked and confirmed [MS]. The other outcome funders are the FirstRand Foundation, the Development Bank of Southern Africa, [[organisations/remgro|Remgro]], and the [[organisations/rupert-nature-foundation|Rupert Nature Foundation]] [MS]. The FirstRand Foundation and the Development Bank of Southern Africa have each committed R50 million [IC]. The Lewis Foundation's amount has not been made public. [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy South Africa]] does the clearing through the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]], and [[organisations/conservation-alpha|Conservation Alpha]] checks the results [MS].
 
-**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the Forum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with [[organisations/capenature|CapeNature]] [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
+**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the DevForum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with [[organisations/capenature|CapeNature]] [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
 
 ## Relevance to W2DF
 
@@ -103,4 +103,4 @@ If you know more about the Lewis Foundation's work in the valley's mountains or 
 - SANBI. [GreenMatter](https://www.sanbi.org/community-initiatives/greenmatter/). GreenMatter, co-led by SANBI and the Lewis Foundation.
 - City of Cape Town. [Dam levels](https://web1.capetown.gov.za/web1/newsandnotices/Home/Release/dam-levels) (August 2026). The dams of the Western Cape Water Supply System and their capacities.
 - Wikipedia. [Theewaterskloof Dam](https://en.wikipedia.org/wiki/Theewaterskloof_Dam). Its river, its owner, and its place in the Western Cape Water Supply System.
-- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the Forum in conversation and is not on this page.
+- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the DevForum in conversation and is not on this page.

@@ -60,7 +60,7 @@ When he came to live in Greyton, Keith Radmore became an active board member of 
 
 ### The Rotary Club of Greyton
 
-He joined Rotary in 2017 [MS]. The club now has 17 members [MS]. He is its president [MS]. The club took part in the Forum's [[civic/governance/minutes/2026-09-16-inaugural-meeting|inaugural meeting]] in September 2026 [IC]. The club's page lists its eleven projects for 2026/27, which run across the valley [MS].
+He joined Rotary in 2017 [MS]. The club now has 17 members [MS]. He is its president [MS]. The club took part in the DevForum's [[civic/governance/minutes/2026-09-16-inaugural-meeting|inaugural meeting]] in September 2026 [IC]. The club's page lists its eleven projects for 2026/27, which run across the valley [MS].
 
 ### The feeding scheme of 2020
 
@@ -72,7 +72,7 @@ He says the projects he has worked on have always been for the whole valley: Gen
 
 ## Work on this wiki
 
-Keith Radmore has worked with Michael Haupt, who convenes the Forum, on the valley's history and community work for about ten years, since long before the Forum first met [MS]. Over that time he has done much of the background research behind that work, and helped coordinate it across the valley [MS].
+Keith Radmore has worked with Michael Haupt, who convenes the DevForum, on the valley's history and community work for about ten years, since long before the DevForum first met [MS]. Over that time he has done much of the background research behind that work, and helped coordinate it across the valley [MS].
 
 ## How to reach them
 

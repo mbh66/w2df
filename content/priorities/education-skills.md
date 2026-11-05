@@ -9,11 +9,11 @@ date: 2026-09-22
 
 Building skills for work and for life: practical skills for farming and tourism, occupational qualifications, and life skills and violence prevention.
 
-The Forum agreed that education and skills are its second priority, covering both job skills and basic life skills. Farms and tourism businesses need more skilled workers, including mechanics, machine operators, and people with computer and hospitality skills. The meeting also discussed [[organisations/western-cape-department-of-agriculture|Elsenburg]] qualifications and the need for life skills and violence prevention. See the [[2026-09-16-inaugural-meeting|minutes of the first meeting]].
+The DevForum agreed that education and skills are its second priority, covering both job skills and basic life skills. Farms and tourism businesses need more skilled workers, including mechanics, machine operators, and people with computer and hospitality skills. The meeting also discussed [[organisations/western-cape-department-of-agriculture|Elsenburg]] qualifications and the need for life skills and violence prevention. See the [[2026-09-16-inaugural-meeting|minutes of the first meeting]].
 
 ## Champion
 
-A champion for this priority will be named at the Forum's November 2026 meeting.
+A champion for this priority will be named at the DevForum's November 2026 meeting.
 
 ## Initiatives working on this priority
 
@@ -25,5 +25,5 @@ To add an initiative, see [[how-to-submit|How to Submit]].
 
 ## Related
 
-- [[priorities/index|All Forum priorities]]
+- [[priorities/index|All DevForum priorities]]
 - [[ward-2-development-forum|Ward 2 Development Forum]]

@@ -58,9 +58,9 @@ When TRANCRAA came into force in 1998, the municipality was given the first duty
 
 On 11 November 2024 the Western Cape Government announced an intervention in Theewaterskloof Municipality under section 139 of the Constitution, citing "prolonged financial instability, including mounting debt, severe cash flow issues, and challenges in revenue collection" [IC]. It approved a binding Financial Recovery Plan on 7 October 2025 [IC]. The plan reports that Genadendal accounts for about a fifth of the municipality's outstanding debt, and that many residents there hold that the land does not belong to the municipality [IC]. What the plan requires, and what it means for Greyton and Genadendal, is on [[rules/theewaterskloof-financial-recovery-plan|Theewaterskloof Financial Recovery Plan]]. The municipality's finances, audits, leadership, and the investigations into it today are on [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]].
 
-## The municipality and the Forum
+## The municipality and the DevForum
 
-Theewaterskloof Municipality's Economic Development office co-convened the first meeting of the [[civic/governance/ward-2-development-forum|Ward 2 Development Forum]] on 16 September 2026, and gives the Forum administrative support [MS]. The municipality does not moderate this site.
+Theewaterskloof Municipality's Economic Development office co-convened the first meeting of the [[civic/governance/ward-2-development-forum|Ward 2 Development Forum]] on 16 September 2026, and gives the DevForum administrative support [MS]. The municipality does not moderate this site.
 
 ## What is still open
 
@@ -92,4 +92,4 @@ Theewaterskloof Municipality's Economic Development office co-convened the first
 - Western Cape Government. [Western Cape Government approves Theewaterskloof Financial Recovery Plan](https://www.westerncape.gov.za/treasury/article/western-cape-government-approves-theewaterskloof-financial-recovery-plan). Approval on 7 October 2025 and the plan's three phases.
 - Western Cape Provincial Treasury (August 2025). [Final Draft Theewaterskloof Financial Recovery Plan](https://www.westerncape.gov.za/treasury/files/wcg-blob-files?file=2025-08/final-draft-theewaterskloof-financial-recovery-plan-final_20250813-published.pdf&type=file). Genadendal's share of debt, and residents' view of the land.
 - [[trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]], and the sources listed there. The 1909 Act, the 1924 board, the 1987 Act, and the TRANCRAA process.
-- *Valley of Grace: Significant Dates* (2026). Forum research notes, held by the Forum. The transitional councils and the Heuwelkroon Management Committee.
+- *Valley of Grace: Significant Dates* (2026). DevForum research notes, held by the DevForum. The transitional councils and the Heuwelkroon Management Committee.

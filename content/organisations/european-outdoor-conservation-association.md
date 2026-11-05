@@ -20,7 +20,7 @@ last_checked: 2026-10-31
 ---
 
 > [!warning] For the European Outdoor Conservation Association to review
-> The European Outdoor Conservation Association has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached the European Outdoor Conservation Association about anything. Until the European Outdoor Conservation Association has approved the text, it may change. Questions for the European Outdoor Conservation Association:
+> The European Outdoor Conservation Association has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached the European Outdoor Conservation Association about anything. Until the European Outdoor Conservation Association has approved the text, it may change. Questions for the European Outdoor Conservation Association:
 >
 > 1. Is this description of the association's work correct? What would you like to change?
 > 2. How much was the grant to Wild Restoration, and over what dates does it run?
@@ -32,7 +32,7 @@ The European Outdoor Conservation Association (EOCA) is a charity that funds con
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -44,7 +44,7 @@ The European Outdoor Conservation Association (EOCA) is a charity that funds con
 | Website | [eocaconservation.org](https://www.eocaconservation.org) |
 | Role | Grants for conservation projects run by non-profits [MS] |
 | Link to the valley | Direct. It funds Wild Restoration's clearing in the Greyton Nature Reserve [IC] |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

@@ -40,7 +40,7 @@ Bonnievale 418 is a non-profit programme in Bonnievale, a town on the Breede Riv
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -53,7 +53,7 @@ Bonnievale 418 is a non-profit programme in Bonnievale, a town on the Breede Riv
 | Started | 2020 [MS] |
 | Role | Operating partner of Jakes Gerwel Technical School, through its trust [IC]; school-to-work support for Bonnievale's young people [MS] |
 | Link to the valley | Direct. It has presented at Emil Weder Secondary and the Genadendal Mission Museum [MS] |
-| Contact with the Forum | Not recorded yet |
+| Contact with the DevForum | Not recorded yet |
 
 ## What it does
 
@@ -131,7 +131,7 @@ No source records what either side has asked of the other.
 - [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]: its section *Learning from Bonnievale* draws on the facts recorded here.
 - [[cultural/education/emil-weder-secondary|Emil Weder Secondary]]: Bonnievale 418 presented at the school.
 - [[cultural/sport-heritage-arts-culture/genadendal-mission-museum|Genadendal Mission Museum]]: Bonnievale 418 presented at the museum.
-- [[priorities/education-skills|Education and Skills]]: the Forum priority under which skills for school leavers and adults are discussed.
+- [[priorities/education-skills|Education and Skills]]: the DevForum priority under which skills for school leavers and adults are discussed.
 - [[organisations/western-cape-education-department|Western Cape Education Department]]: the department that runs JGT with Bonnievale 418's trust and shares the cost of new schools of skills.
 
 ## What is still open

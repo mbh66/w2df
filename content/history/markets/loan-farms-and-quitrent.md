@@ -33,7 +33,7 @@ For a hundred years, most colonial farms beyond Cape Town were loan farms: grazi
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 > [!note] Reading this page
-> The *Markets* pages follow the M of the [[history/the-time-model|TIME model]]: exchange at a price. The facts carry tags. The reading of what the change meant, and the comparisons with the ways the Khoekhoe and San held land, are the Forum's interpretation, and carry no tag. See [[history/the-valley-through-time|The Valley Through TIME]].
+> The *Markets* pages follow the M of the [[history/the-time-model|TIME model]]: exchange at a price. The facts carry tags. The reading of what the change meant, and the comparisons with the ways the Khoekhoe and San held land, are the DevForum's interpretation, and carry no tag. See [[history/the-valley-through-time|The Valley Through TIME]].
 
 > [!warning] The diary passages
 > Some facts about the valley come from new English translations in the [Genadendal Diaries repository](https://github.com/mbh66/genadendal-diaries). They are machine translations that no person has checked yet. Each passage is cited by its Utrecht file number and line numbers.
@@ -94,7 +94,7 @@ The mission land at Genadendal took neither path. Mission stations were given la
 
 ## Reading the change through TIME
 
-*This section is the Forum's interpretation.*
+*This section is the DevForum's interpretation.*
 
 **The first peoples' land.** Before the colony, Khoekhoe groups held land together, and a group's claim rested on its use of springs and rivers [IC]. That was the Tribes form: rights came from belonging to a group and using a place. Neither the loan farm nor the quitrent farm recognised it [IC]. Both treated land used by Khoekhoe and San as empty, and so as the government's to give.
 

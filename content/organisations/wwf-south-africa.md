@@ -21,7 +21,7 @@ updated: 2026-11-04
 ---
 
 > [!warning] For WWF South Africa to review
-> WWF South Africa has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached WWF South Africa about anything. Until WWF South Africa has approved the text, it may change. Questions for WWF South Africa:
+> WWF South Africa has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached WWF South Africa about anything. Until WWF South Africa has approved the text, it may change. Questions for WWF South Africa:
 >
 > 1. Is this description of WWF South Africa's work on the Riviersonderend correct? What would you like to change?
 > 2. Does WWF South Africa still work in the Riviersonderend or Breede catchments near the valley?
@@ -33,7 +33,7 @@ WWF South Africa is the South African office of the global conservation organisa
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -45,7 +45,7 @@ WWF South Africa is the South African office of the global conservation organisa
 | Website | [wwf.org.za](https://www.wwf.org.za) |
 | Role | Started the Riviersonderend clearing project; leads the Breede stewardship programme [MS] |
 | Link to the valley | Direct. It started clearing work on the river the valley's rivers join |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

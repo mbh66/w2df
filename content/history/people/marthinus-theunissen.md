@@ -35,7 +35,7 @@ Marthinus Theunissen was the first colonist known to have farmed the land where 
 
 ## Weltevreden
 
-Forum research notes record Theunissen holding Weltevreden as a loan farm from about 1791, and the farm was granted to him in 1793 [IC]. A loan farm was land the VOC let to a colonist for a yearly fee, without full ownership [IC]. Greyton's histories describe him as a young Dutchman [TBV]. The homestead he built on the farm no longer stands [TBV].
+DevForum research notes record Theunissen holding Weltevreden as a loan farm from about 1791, and the farm was granted to him in 1793 [IC]. A loan farm was land the VOC let to a colonist for a yearly fee, without full ownership [IC]. Greyton's histories describe him as a young Dutchman [TBV]. The homestead he built on the farm no longer stands [TBV].
 
 ## Why he left
 
@@ -99,5 +99,5 @@ Greyton's histories say Theunissen later became a wealthy man in Stellenbosch an
 - South African History Online. [Greyton, Western Province](https://sahistory.org.za/place/greyton-western-province). The grant of Weltevreden in 1793.
 - Wikipedia. [Vergelegen](https://en.wikipedia.org/wiki/Vergelegen). The Theunissen family's purchase in 1798.
 - The Heritage Portal. [The Vergelegen Story, Part One](https://www.theheritageportal.co.za/article/vergelegen-story-part-one-splendid-beginnings-and-period-decline). The Theunissen family's ownership from 1798 to 1899.
-- *Valley of Grace: Significant Dates* (2026). Forum research notes, held by the Forum. The loan farm from about 1791, and Cloete's purchase in 1795.
+- *Valley of Grace: Significant Dates* (2026). DevForum research notes, held by the DevForum. The loan farm from about 1791, and Cloete's purchase in 1795.
 - Genadendal Diaries repository. [Genadendal Diaries](https://github.com/mbh66/genadendal-diaries). English translations of the missionaries' diaries, cited by file and line number. Unreviewed machine translations. The passages on "young Teunis".

@@ -25,7 +25,7 @@ links:
 updated: 2026-11-01
 ---
 
-> **This idea is not yet agreed.** It comes from a group of growers in Genadendal [MS]. The other growers, organisations, and government offices it mentions have not been asked about it yet. It will be tabled at the Forum's November 2026 meeting. **Please do not share this page publicly yet.**
+> **This idea is not yet agreed.** It comes from a group of growers in Genadendal [MS]. The other growers, organisations, and government offices it mentions have not been asked about it yet. It will be tabled at the DevForum's November 2026 meeting. **Please do not share this page publicly yet.**
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -42,8 +42,8 @@ updated: 2026-11-01
 
 ## Why the valley needs it
 
-- At the Forum's first meeting, residents said many community gardens are lying fallow [MS]. They asked for mentorship between commercial and emerging farmers, and for farming linked to tourism [MS].
-- The Forum wants to build local supply chains so that more money is spent and kept in the ward [MS].
+- At the DevForum's first meeting, residents said many community gardens are lying fallow [MS]. They asked for mentorship between commercial and emerging farmers, and for farming linked to tourism [MS].
+- The DevForum wants to build local supply chains so that more money is spent and kept in the ward [MS].
 - Farming, forestry, and fishing together make up the third-largest part of Theewaterskloof's economy [IC]. Across the Overberg, the district's economic strategy counts about 17,700 jobs lost in these sectors between 1996 and 2017 [IC].
 - The same strategy points to farm tourism and food processing as ways to make the district's economy stronger [IC].
 - Several projects already grow food in the valley, including [[valley-food-gardens|Valley Food Gardens]] and [[pigs-to-plants|Pigs to Plants]] [MS].
@@ -83,7 +83,7 @@ In these terms, the co-operative would be a primary co-operative: the ground lev
 - **Farm production as the base.** The co-operative's growing would supply the processing, selling, and visitor work built on top of it. This links farming with the farm tourism and food processing that the Overberg's economic strategy points to.
 - **One partner for government.** Government offices that support farming, training, and tourism would have one registered co-operative to work with. Support could reach many small growers through it.
 - **Local buying.** The co-operative would be a local supplier of fresh food for guesthouses, restaurants, and public buyers in the ward. This matches the model's aim of local buying and local jobs.
-- **A route into the district plan.** The Forum already works with Theewaterskloof Municipality's Economic Development office [MS]. Through that office, the co-operative could be put forward for inclusion in the Overberg's district planning.
+- **A route into the district plan.** The DevForum already works with Theewaterskloof Municipality's Economic Development office [MS]. Through that office, the co-operative could be put forward for inclusion in the Overberg's district planning.
 - **Room to grow.** Growers' co-operatives in other villages could join with it later in a secondary co-operative, giving the district a larger local supplier.
 
 ## Who would benefit
@@ -108,13 +108,13 @@ The members would own the co-operative, with one vote each. They would elect a b
 
 Some co-operatives set up a separate company for trading, or a non-profit for training, so that grant money and business income are kept apart. Whether this co-operative would need either is still open.
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
-The Forum's [[long-term-goal|long-term goal]] names co-operatives as one of the tools for building a BioConomy in the valley [MS]. This idea sits in the economic sphere, where the guiding value is cooperation: growers working together to make a living.
+The DevForum's [[long-term-goal|long-term goal]] names co-operatives as one of the tools for building a BioConomy in the valley [MS]. This idea sits in the economic sphere, where the guiding value is cooperation: growers working together to make a living.
 
 It also touches the other two spheres. Any use of land on the mission settlements would go through the Transformasie Komitee first, so that the idea respects the land process (civic). Heritage walks would share the valley's history on terms the community sets (cultural).
 
-It serves four of the Forum's [[priorities/index|priorities]]: [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]], [[priorities/business-procurement|Business Development and Local Procurement]], [[priorities/tourism-development|Tourism Development]], and [[priorities/education-skills|Education and Skills]].
+It serves four of the DevForum's [[priorities/index|priorities]]: [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]], [[priorities/business-procurement|Business Development and Local Procurement]], [[priorities/tourism-development|Tourism Development]], and [[priorities/education-skills|Education and Skills]].
 
 ## What is still open
 
@@ -132,7 +132,7 @@ It serves four of the Forum's [[priorities/index|priorities]]: [[priorities/agri
 1. The growers in Genadendal behind the idea review this page and decide how they want the idea described.
 2. The Transformasie Komitee is asked for its view on any use of land on the mission settlements.
 3. Other growers and existing food projects in the valley are asked whether they want to take part.
-4. The idea is tabled at the Forum's November 2026 meeting.
+4. The idea is tabled at the DevForum's November 2026 meeting.
 5. The municipality's Economic Development office is asked how the idea could be put forward for the district's planning.
 6. A working group with at least five founding members drafts a constitution and a business plan.
 

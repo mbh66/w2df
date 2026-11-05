@@ -24,7 +24,7 @@ links:
 updated: 2026-11-04
 ---
 
-> **This idea is not yet agreed.** It is part of the thinking behind the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]. None of the organisations named on this page have been asked about it yet. They include the Zonderend Water Users Association, Wild Restoration, the Greyton Conservation Society, the Transformasie Komitee, [[organisations/capenature|CapeNature]], and [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy]]. **Please do not share this page publicly yet.** The idea will be tabled with the Learning Campus at the Forum's November 2026 meeting.
+> **This idea is not yet agreed.** It is part of the thinking behind the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]]. None of the organisations named on this page have been asked about it yet. They include the Zonderend Water Users Association, Wild Restoration, the Greyton Conservation Society, the Transformasie Komitee, [[organisations/capenature|CapeNature]], and [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy]]. **Please do not share this page publicly yet.** The idea will be tabled with the Learning Campus at the DevForum's November 2026 meeting.
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -51,7 +51,7 @@ updated: 2026-11-04
 
 **Qualifications.** Qualifications for the clearing itself exist. The Further Education and Training Certificate: Environmental Practice (NQF 4) covers clearing invasive plants and caring for watercourses. It is quality-assured by the Local Government SETA, and its last date for new learners is 30 December 2027 [IC]. Nature conservation qualifications at NQF 4 train field rangers, including in helping to remove invasive species [MS]. The Energy and Water SETA offers learnerships in water and wastewater process control, which is the work of treatment plants [MS]. A search of registered qualifications for this page found none that teaches people to measure the water a restored catchment gives and prove it to an independent checker, so that it can be sold [TBV].
 
-**What the Forum asked for.** At its [[2026-09-16-inaugural-meeting|first meeting]], the Forum made education and skills one of its five priorities, and conservation and environment another [MS]. Farms and tourism businesses said they need more skilled workers [MS].
+**What the DevForum asked for.** At its [[2026-09-16-inaugural-meeting|first meeting]], the DevForum made education and skills one of its five priorities, and conservation and environment another [MS]. Farms and tourism businesses said they need more skilled workers [MS].
 
 ## From needy to needed
 
@@ -117,9 +117,9 @@ Nothing has been costed [MS]. Money could come from several places:
 - Anything on Farm 39 land would go to the Transformasie Komitee first.
 - Water rights stay under the National Water Act and with the bodies that hold them today, such as the [[zonderend-water-users-association|Zonderend Water Users Association]].
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
-The Forum's [[long-term-goal|long-term goal]] plans a BioConomy for the valley: keeping more of what the valley has in the valley, including water in the ground and skills in young people. It names clean rivers as something nobody pays for today. This idea is one way to change that.
+The DevForum's [[long-term-goal|long-term goal]] plans a BioConomy for the valley: keeping more of what the valley has in the valley, including water in the ground and skills in young people. It names clean rivers as something nobody pays for today. This idea is one way to change that.
 
 It follows the three values of the long-term goal:
 
@@ -127,7 +127,7 @@ It follows the three values of the long-term goal:
 - **Equality (civic).** The training is open to young people from every village, and water stays governed for everyone who depends on it.
 - **Freedom (cultural).** The valley decides what it studies and how it teaches.
 
-It serves three of the Forum's [[priorities/index|priorities]]: [[priorities/education-skills|Education and Skills]], [[priorities/conservation-environment|Conservation and Environment]], and [[priorities/business-procurement|Business Development and Local Procurement]].
+It serves three of the DevForum's [[priorities/index|priorities]]: [[priorities/education-skills|Education and Skills]], [[priorities/conservation-environment|Conservation and Environment]], and [[priorities/business-procurement|Business Development and Local Procurement]].
 
 ## What is still open
 
@@ -142,9 +142,9 @@ It serves three of the Forum's [[priorities/index|priorities]]: [[priorities/edu
 ## What happens next
 
 1. The Zonderend Water Users Association, Wild Restoration, the Greyton Conservation Society, and the Transformasie Komitee are asked for their views.
-2. The idea is tabled with the Learning Campus at the Forum's November 2026 meeting.
+2. The idea is tabled with the Learning Campus at the DevForum's November 2026 meeting.
 3. The QCTO and the SETAs are asked which qualifications already cover these skills.
-4. If the Forum wants to go further, a first short course on measuring and recording could run with the valley's existing clearing teams in 2027, before the campus is built.
+4. If the DevForum wants to go further, a first short course on measuring and recording could run with the valley's existing clearing teams in 2027, before the campus is built.
 
 ## Have your say
 

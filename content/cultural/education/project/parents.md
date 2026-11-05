@@ -67,7 +67,7 @@ Every child needs a computer or tablet for the leaky dam task in Week 3.
 
 ## A request
 
-The idea the children are studying is still being worked out in real life. The Ward 2 Development Forum has prepared a concept note but has not yet discussed it, and the organisations involved have not been asked. Please treat what your child tells you as a school exercise and keep it within the family until the Forum has discussed it.
+The idea the children are studying is still being worked out in real life. The Ward 2 Development Forum has prepared a concept note but has not yet discussed it, and the organisations involved have not been asked. Please treat what your child tells you as a school exercise and keep it within the family until the DevForum has discussed it.
 
 ## What you can do
 

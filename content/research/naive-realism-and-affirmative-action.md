@@ -12,7 +12,7 @@ draft: false
 links:
   - https://labs.psych.ucsb.edu/sherman/david/sites/labs.psych.ucsb.edu.sherman.david/files/pubs/sherman_nelson_ross_2003.pdf
 cited_on:
-  - "[[concepts/how-the-forum-decides-together|How the Forum Decides Together]]"
+  - "[[concepts/how-the-forum-decides-together|How the DevForum Decides Together]]"
 updated: 2026-11-04
 ---
 
@@ -24,7 +24,7 @@ updated: 2026-11-04
 
 ## Pages that cite it
 
-- [[concepts/how-the-forum-decides-together|How the Forum Decides Together]]
+- [[concepts/how-the-forum-decides-together|How the DevForum Decides Together]]
 
 ## Related
 

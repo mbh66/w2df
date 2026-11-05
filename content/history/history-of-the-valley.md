@@ -1,6 +1,6 @@
 ---
 title: History of the Valley
-description: The story of the Genadendal and Greyton valley, from its first people to the Forum's first meeting in 2026. It gives the key dates, shows where sources disagree, and lists what is still unknown.
+description: The story of the Genadendal and Greyton valley, from its first people to the DevForum's first meeting in 2026. It gives the key dates, shows where sources disagree, and lists what is still unknown.
 type: page
 tags:
   - theme/heritage
@@ -132,7 +132,7 @@ In the second half of the 1800s, cheap factory-made goods reached the Cape by st
 
 Between 1891 and 1893 the congregation built the large church that stands on Church Square today, and it was consecrated on 15 March 1893 [MS]. In 1899 a deputation of the Afrikaner Bond argued that the teachers' college was not needed for people who were not white [MS]. During the Anglo-Boer War (1899 to 1902) the missionaries sympathised with the Boers and many residents sided with Britain, and resentment against the mission grew [MS]. In 1899 the Moravian Church bought the mountain farm Langgezocht, about 1,881 hectares, to protect the water sources of Farm 39 [MS].
 
-In 1909 the Mission Stations and Communal Reserves Act placed mission land under management boards. Residents kept the right to live on the land, but they could not own it [IC]. Forum research describes this as the start of a deep rift between the missionaries and residents [MS]. Balie's history says many residents left the Moravian Church over the Act [MS]. Five hundred Genadendal men enlisted in the war of 1914 to 1918, and 19 died in service [MS]. In October 1918 about 1,500 residents caught influenza, and 70 funerals were held within two months [MS]. In 1924 a secular board of management took over from the missionaries [IC]. In the same year a group of residents known as the Magermans took the church to the Supreme Court over property rights [MS].
+In 1909 the Mission Stations and Communal Reserves Act placed mission land under management boards. Residents kept the right to live on the land, but they could not own it [IC]. DevForum research describes this as the start of a deep rift between the missionaries and residents [MS]. Balie's history says many residents left the Moravian Church over the Act [MS]. Five hundred Genadendal men enlisted in the war of 1914 to 1918, and 19 died in service [MS]. In October 1918 about 1,500 residents caught influenza, and 70 funerals were held within two months [MS]. In 1924 a secular board of management took over from the missionaries [IC]. In the same year a group of residents known as the Magermans took the church to the Supreme Court over property rights [MS].
 
 In 1926 the government closed the teachers' college [IC]. It argued that coloured people did not need higher education because they were suited to work as labourers on farms [IC]. In 1927 about 70 hectares at the heart of Genadendal and Bereaville, known as the Glebe Lands, were granted to the Moravian Church [IC]. Balie's history says that under a series of government departments, from 1926 to 1997, Genadendal stayed an undeveloped village of about 5,000 people [MS]. In 1928 the Young Men's Society put up an obelisk to the soldiers who had died in the war [MS]. In 1938 a high school opened in the old college building, and it later became Emil Weder Secondary [MS].
 
@@ -168,7 +168,7 @@ The Genadendal printing works closed in 2003, after more than 170 years [MS].
 
 ## Looking ahead
 
-April 2028 marks 290 years since Schmidt settled at Baviaanskloof. On 23 April 2038 Genadendal turns 300. The Forum has set its long-term goal against that date. See [[long-term-goal|Our Long-Term Goal]].
+April 2028 marks 290 years since Schmidt settled at Baviaanskloof. On 23 April 2038 Genadendal turns 300. The DevForum has set its long-term goal against that date. See [[long-term-goal|Our Long-Term Goal]].
 
 ## Where the sources disagree
 
@@ -181,7 +181,7 @@ April 2028 marks 290 years since Schmidt settled at Baviaanskloof. On 23 April 2
 - **The teachers' college.** Most sources say it closed in 1926 [IC]. Balie's history gives both 1926 and 1927 [MS].
 - **Greyton's founding.** Vigne bought Weltevreden in 1845 or 1846. The village is dated to 1852 or 1854, depending on whether the source counts the plan or the first sale of plots [IC].
 - **The removals to Heuwelkroon.** Some Greyton histories give the 1950s. The *Herri* essay gives 1968 to 1974, and the 2022 heritage study says Heuwelkroon was built in 1970. The later two agree [TBV].
-- **Greyton Transition Town.** Its own website says it started in mid-2011. Forum research notes give 2012 [MS].
+- **Greyton Transition Town.** Its own website says it started in mid-2011. DevForum research notes give 2012 [MS].
 - **The size of Farm 39.** Records give between about 4,515 and 4,800 hectares. Balie's history gives the survey of 1857 as 5,644 morgen and 289 square roods, which at about 0.857 hectares to the morgen is roughly 4,830 hectares (this page's own conversion) [MS]. See [[trancraa-process-farm-39|TRANCRAA and Farm 39]].
 
 ## Help fill the gaps
@@ -197,7 +197,7 @@ If you can help, contact the moderators via [[how-to-submit|How to Submit]].
 
 ## Reading the history through TIME
 
-Some of the Forum's research reads the valley's past with a framework called [[history/the-time-model|TIME]]. It builds on the work of the American researcher David Ronfeldt, who called his version TIMN. [[history/the-time-model|TIME]] asks one question of each period: how did people organise themselves to share work, land, and what they produced? It names four forms. Each new form is added to the ones before it, and the older forms carry on alongside it.
+Some of the DevForum's research reads the valley's past with a framework called [[history/the-time-model|TIME]]. It builds on the work of the American researcher David Ronfeldt, who called his version TIMN. [[history/the-time-model|TIME]] asks one question of each period: how did people organise themselves to share work, land, and what they produced? It names four forms. Each new form is added to the ones before it, and the older forms carry on alongside it.
 
 | Form | How people organise | In this valley |
 | --- | --- | --- |
@@ -206,7 +206,7 @@ Some of the Forum's research reads the valley's past with a framework called [[h
 | **M: Markets** | Buying and selling at a price. | From 1806, Genadendal's crafts were sold across the Cape, and makers lived from their work. From about the 1860s, the market worked more for outside owners than for the valley's makers. |
 | **E: Emergent** | Sharing, commons, and care for the land, linked to similar places around the world. | Starting in 2020, with the community response to COVID-19 |
 
-This is one way of reading the history. Residents may read the same events differently. The Forum's research uses it to ask what each period can teach the next one. See [[long-term-goal|Our Long-Term Goal]].
+This is one way of reading the history. Residents may read the same events differently. The DevForum's research uses it to ask what each period can teach the next one. See [[long-term-goal|Our Long-Term Goal]].
 
 ## Full timeline
 
@@ -391,8 +391,8 @@ Reference works and heritage records:
 - Williams, R. ["Hoekom soek ons nog altyd *Kos Klere en Blyplek* in die nuwe dispensasie?"](https://herri.org.za/2/rafieka-williams/). *Herri*, issue 2 (no date given). A personal essay built around a reggae song by Country Conquerors, by a Capetonian writer who came to Greyton in May 2017 and spoke with residents. *Herri* is an online arts and culture journal published by Stephanus Muller for the Africa Open Institute and edited by Aryan Kaganof (see [Review: herri is a rare new arts and culture journal from South Africa](https://www.modernghana.com/amp/news/1003294/review-herri-is-a-rare-new-arts-and-culture-journ.html)). Used here for the dates of the removals from Greyton, 1968 to 1974. Register entry: [[research/williams-kos-klere-en-blyplek|Hoekom soek ons nog altyd Kos Klere en Blyplek]].
 - Greyton Transition Town. [What is Greyton Transition Town](https://greytontransition.co.za/what-is-greyton-transition-town/). Its start in mid-2011.
 
-Forum research:
+DevForum research:
 
 - BioConomy Wiki. [The Comenius-to-Schmidt Chain](https://wiki.bioconomy.earth/research/comenius-to-schmidt-chain/). The church's history from 1415 to 1738, and the case for a link between Comenius and Schmidt's teaching.
-- *Valley of Grace: Significant Dates* (2026). Forum research notes, held by the Forum. The timeline this page is built on.
+- *Valley of Grace: Significant Dates* (2026). DevForum research notes, held by the DevForum. The timeline this page is built on.
 - Framer OS. *It's About TIME* (August 2026). The [[history/the-time-model|TIME framework]].

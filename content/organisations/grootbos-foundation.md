@@ -19,7 +19,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Grootbos Foundation to review
-> Grootbos Foundation has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Grootbos Foundation about anything. Until Grootbos Foundation has approved the text, it may change. Questions for Grootbos Foundation:
+> Grootbos Foundation has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Grootbos Foundation about anything. Until Grootbos Foundation has approved the text, it may change. Questions for Grootbos Foundation:
 >
 > 1. Is this description of the Foundation's corridor work correct? What would you like to change?
 > 2. Does the corridor's planning reach north towards the Riviersonderend mountains?
@@ -31,7 +31,7 @@ The Grootbos Foundation is linked to Grootbos Private Nature Reserve near Gansba
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -43,7 +43,7 @@ The Grootbos Foundation is linked to Grootbos Private Nature Reserve near Gansba
 | Website | [grootbos.com](https://www.grootbos.com) |
 | Role | Partner in the Agulhas Green Corridor [MS] |
 | Link to the valley | Indirect. Its corridor lies south of the valley |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

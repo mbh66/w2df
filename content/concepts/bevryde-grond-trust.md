@@ -21,7 +21,7 @@ links:
 updated: 2026-10-31
 ---
 
-> **This idea is not yet agreed.** Nobody named on this page has been asked about it: the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]], the trustees of Die Bevryde Grond Trust, [[organisations/cullinan-and-associates|Cullinan & Associates Inc]], Theewaterskloof Municipality, and the national Department responsible for land reform. Because it deals with Farm 39 land, it goes to the Transformasie Komitee in writing first. It can be tabled at a Forum meeting once the Komitee responds, or 21 days after it was sent, whichever comes first. **Please do not share this page publicly yet.**
+> **This idea is not yet agreed.** Nobody named on this page has been asked about it: the [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]], the trustees of Die Bevryde Grond Trust, [[organisations/cullinan-and-associates|Cullinan & Associates Inc]], Theewaterskloof Municipality, and the national Department responsible for land reform. Because it deals with Farm 39 land, it goes to the Transformasie Komitee in writing first. It can be tabled at a DevForum meeting once the Komitee responds, or 21 days after it was sent, whichever comes first. **Please do not share this page publicly yet.**
 
 > [!info] What the letters in square brackets mean
 > Facts on this page are followed by a tag that shows where they come from.
@@ -46,11 +46,11 @@ The process for Farm 39 began in 2002 [IC]. Its 18-month transitional period end
 - **Land sales during the process.** The 2008 court order placed "an immediate moratorium on the sale of Trust Land" [IC]. The Ward 2 Forum's 2017 analysis says over 200 residential properties on Farm 39 had been sold and transferred [MS].
 - **Whether new owners will look after the land.** In October 2024, 82% of South Africa's 1,742 registered CPAs were not complying with the law that governs them [IC].
 
-The Ward 2 Development Forum agreed on 16 September 2026 that other platforms already deal with the TRANCRAA process, and that it will avoid duplicating them [MS]. This page is therefore offered to the Komitee as an idea for its consideration. It does not propose that the Forum take part in the process itself.
+The Ward 2 Development Forum agreed on 16 September 2026 that other platforms already deal with the TRANCRAA process, and that it will avoid duplicating them [MS]. This page is therefore offered to the Komitee as an idea for its consideration. It does not propose that the DevForum take part in the process itself.
 
 ## The trust deed
 
-Die Bevryde Grond Trust ("the Freed Land Trust") was first set up on 14 September 1995 as the Leerkrans Trust, which owns a farm called Hoekiesdam in Wolseley, WC [MS]. Its founder and trustees adopted a new deed in October 2012 "to create a vehicle to conserve and safeguard access to land for public benefit", and renamed the trust [MS]. The copy held by the Forum bears the stamp of the Master of the Western Cape High Court, dated 15 November 2012, and the stamp of [[organisations/cullinan-and-associates|Cullinan & Associates Inc]] [MS]. Cormac Cullinan, a director of that firm, helped draw up the deed [MS].
+Die Bevryde Grond Trust ("the Freed Land Trust") was first set up on 14 September 1995 as the Leerkrans Trust, which owns a farm called Hoekiesdam in Wolseley, WC [MS]. Its founder and trustees adopted a new deed in October 2012 "to create a vehicle to conserve and safeguard access to land for public benefit", and renamed the trust [MS]. The copy held by the DevForum bears the stamp of the Master of the Western Cape High Court, dated 15 November 2012, and the stamp of [[organisations/cullinan-and-associates|Cullinan & Associates Inc]] [MS]. Cormac Cullinan, a director of that firm, helped draw up the deed [MS].
 
 The deed's main provisions are these:
 
@@ -97,7 +97,7 @@ Many residents want a title deed to the land they live on and use [TBV]. A trust
 
 **Properties already sold.** The Ward 2 Forum's 2017 analysis says over 200 residential properties on Farm 39 had been sold and transferred [MS]. Their owners would keep their title, and the trust would hold only land that remains unsold. That sets aside the question of who would undo those sales.
 
-**People who arrived after 1998.** TRANCRAA counts as a resident anyone who ordinarily lived in the area on 2 November 1998 [IC]. A trust could offer leases to later arrivals whom the community accepts, without changing anyone's status under the Act. The Forum's 2017 series proposed that people who arrived later and are "in good standing" may be considered as beneficiaries [MS].
+**People who arrived after 1998.** TRANCRAA counts as a resident anyone who ordinarily lived in the area on 2 November 1998 [IC]. A trust could offer leases to later arrivals whom the community accepts, without changing anyone's status under the Act. The [[civic/governance/ward-2-forum-2016-2019|Ward 2 Forum]]'s 2017 series proposed that people who arrived later and are "in good standing" may be considered as beneficiaries [MS].
 
 ## Conversations it could open
 
@@ -120,16 +120,16 @@ Nothing has been costed. A legal opinion would cost money, as would drafting a d
 
 ## Who would decide
 
-The Minister decides which entity receives the land [IC]. The municipality, or failing it a committee elected by residents, recommends the entity [IC]. The Transformasie Komitee speaks for residents in the process [IC]. The Forum has no role in that decision [MS].
+The Minister decides which entity receives the land [IC]. The municipality, or failing it a committee elected by residents, recommends the entity [IC]. The Transformasie Komitee speaks for residents in the process [IC]. The DevForum has no role in that decision [MS].
 
-## How it fits the Forum's goal
+## How it fits the DevForum's goal
 
 The idea touches the [[priorities/conservation-environment|Conservation and Environment]] priority, through conditions of care on all land use, and the [[priorities/agriculture-food-sovereignty|Agriculture and Food Sovereignty]] priority, through secure access to land for those who farm it. It also bears on the Civic sphere's value of equality in [[long-term-goal|Our Long-Term Goal]], because land that cannot be bought cannot pass to whoever has the most money.
 
 ## What is still open
 
 - **The Komitee's view.** Whether the Transformasie Komitee wants to consider this idea at all, given its work towards a CPA. It has not been asked.
-- **The Forum's decision of 16 September 2026.** Whether tabling this page at the Forum fits that decision, or whether it should go only to the Komitee.
+- **The DevForum's decision of 16 September 2026.** Whether tabling this page at the DevForum fits that decision, or whether it should go only to the Komitee.
 - **The trust's consent.** Whether the trustees of Die Bevryde Grond Trust agree to their deed being described here. They have not been asked.
 - **Cormac Cullinan's view.** Whether he or his firm would advise on a version for Farm 39. Neither has been asked.
 - **The law.** Whether a trust can be approved as a receiving entity under TRANCRAA, and whether a trust for residents can also be a public benefit organisation.
@@ -144,11 +144,11 @@ The idea touches the [[priorities/conservation-environment|Conservation and Envi
 1. The moderators send this page to the Transformasie Komitee in writing.
 2. The trustees of Die Bevryde Grond Trust are asked whether their deed may be described on this site.
 3. If the Komitee wishes, Cullinan & Associates Inc or another lawyer is asked for an opinion on the two routes above.
-4. The page is tabled at a Forum meeting once the Komitee responds or 21 days after it was sent, whichever comes first, unless the Komitee asks that it go no further.
+4. The page is tabled at a DevForum meeting once the Komitee responds or 21 days after it was sent, whichever comes first, unless the Komitee asks that it go no further.
 
 ## Have your say
 
-To comment on this idea, see [[how-to-submit|How to Submit]] or raise it at the next Forum meeting.
+To comment on this idea, see [[how-to-submit|How to Submit]] or raise it at the next DevForum meeting.
 
 ## Related
 
@@ -167,6 +167,6 @@ To comment on this idea, see [[how-to-submit|How to Submit]] or raise it at the 
 
 ## References
 
-- Die Bevryde Grond Trust. *Deed of Trust in respect of Die Bevryde Grond Trust (formerly the Leerkrans Trust)*. Signed 11 October 2012; Master's stamp dated 15 November 2012; certified copy dated 2 April 2013. Held by the Forum. The trust's history, vision, objects and rules.
+- Die Bevryde Grond Trust. *Deed of Trust in respect of Die Bevryde Grond Trust (formerly the Leerkrans Trust)*. Signed 11 October 2012; Master's stamp dated 15 November 2012; certified copy dated 2 April 2013. Held by the DevForum. The trust's history, vision, objects and rules.
 - Ward 2 Development Forum. [TRANCRAA and Farm 39: The Land Transfer Process](https://df.valleyofgrace.co.za/civic/residents-association/trancraa-process-farm-39), and the records it cites. The state of the process and the points in dispute.
-- Ward 2 Development Forum. [Inaugural Meeting, 16 September 2026](https://df.valleyofgrace.co.za/civic/governance/minutes/2026-09-16-inaugural-meeting). The Forum's decision on the TRANCRAA process.
+- Ward 2 Development Forum. [Inaugural Meeting, 16 September 2026](https://df.valleyofgrace.co.za/civic/governance/minutes/2026-09-16-inaugural-meeting). The DevForum's decision on the TRANCRAA process.

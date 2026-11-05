@@ -17,7 +17,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Landmark Foundation to review
-> Landmark Foundation has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Landmark Foundation about anything. Until Landmark Foundation has approved the text, it may change. Questions for Landmark Foundation:
+> Landmark Foundation has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Landmark Foundation about anything. Until Landmark Foundation has approved the text, it may change. Questions for Landmark Foundation:
 >
 > 1. Is this description of the Landmark Foundation and its work near the valley correct? What would you like to change?
 > 2. Does the Foundation run leopard cameras in the Greyton Nature Reserve and the Genadendal mountains? What have they recorded?
@@ -30,7 +30,7 @@ The Landmark Foundation is a conservation organisation that works with stock far
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -42,7 +42,7 @@ The Landmark Foundation is a conservation organisation that works with stock far
 | Website | [landmark.foundation](https://www.landmark.foundation) |
 | Role | Leopard conservation with stock farmers [MS] |
 | Link to the valley | Reported. Cameras in the valley's mountains, not yet confirmed by the Foundation |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

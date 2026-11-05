@@ -32,7 +32,7 @@ links:
 > 4. Would any project like a lead or a contact named on the page?
 > 5. Should readers reach you through the moderators, or would you like a public contact listed?
 
-The Rotary Club of Greyton is a service club in Rotary District 9350, part of [[organisations/rotary-international|Rotary International]] [MS]. It works in Genadendal, Boschmanskloof, Voorstekraal, Bereaville, and Greyton [MS]. The club meets on the first and third Tuesday of each month at 17:30 at the Rietdak in Genadendal, and members can also join online [MS]. It chose its projects after consulting the community and other stakeholders. Each project has its own working team, and the club reviews progress at every meeting [MS]. The club took part in the Forum's first meeting [IC].
+The Rotary Club of Greyton is a service club in Rotary District 9350, part of [[organisations/rotary-international|Rotary International]] [MS]. It works in Genadendal, Boschmanskloof, Voorstekraal, Bereaville, and Greyton [MS]. The club meets on the first and third Tuesday of each month at 17:30 at the Rietdak in Genadendal, and members can also join online [MS]. It chose its projects after consulting the community and other stakeholders. Each project has its own working team, and the club reviews progress at every meeting [MS]. The club took part in the DevForum's first meeting [IC].
 
 ## Needs
 - Volunteers to join a project team [MS]
@@ -62,4 +62,4 @@ A donation of R30,000 from the Rotary Club of Claremont is funding several of th
 Join a project team, attend a club meeting, or offer to help at the festival through the club's website at greytonrotary.org. For anything else, contact the moderators via [[how-to-submit|How to Submit]].
 
 ## Related
-- [[2026-09-16-inaugural-meeting|Forum inaugural meeting]]
+- [[2026-09-16-inaugural-meeting|DevForum inaugural meeting]]

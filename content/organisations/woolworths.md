@@ -19,7 +19,7 @@ updated: 2026-11-04
 ---
 
 > [!warning] For Woolworths to review
-> Woolworths has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Woolworths about anything. Until Woolworths has approved the text, it may change. Questions for Woolworths:
+> Woolworths has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Woolworths about anything. Until Woolworths has approved the text, it may change. Questions for Woolworths:
 >
 > 1. Is this description of Woolworths' water stewardship work correct? What would you like to change?
 > 2. Does the Breede programme work with farmers along the Riviersonderend?
@@ -31,7 +31,7 @@ Woolworths is a South African retailer. It is a partner in the Breede Catchment 
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -43,7 +43,7 @@ Woolworths is a South African retailer. It is a partner in the Breede Catchment 
 | Website | [woolworths.co.za](https://www.woolworths.co.za) |
 | Role | Partner in the Breede water stewardship programme [MS] |
 | Link to the valley | Indirect. The programme works in the catchment the valley belongs to |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 

@@ -32,14 +32,14 @@ Each law is read through the [[history/the-time-model|TIME model]] used on [[his
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 
 > [!note] Reading this page
-> The columns *Built up*, *Held back*, and *Emergent* are the Forum's reading of each law. That reading carries no tag. T stands for Tribes, I for Institutions, M for Markets, and E for Emergent. Residents may read the same laws differently, and the page will change as they say so.
+> The columns *Built up*, *Held back*, and *Emergent* are the DevForum's reading of each law. That reading carries no tag. T stands for Tribes, I for Institutions, M for Markets, and E for Emergent. Residents may read the same laws differently, and the page will change as they say so.
 
 > [!warning] The diary passages
 > Rows marked *Diaries* come from new English translations in the [Genadendal Diaries repository](https://github.com/mbh66/genadendal-diaries). They are machine translations that no person has checked yet, so they are a guide to what the diaries say and are not quoted here as finished translations. Each row gives the Utrecht file number and the line numbers, so a reader of the old German or Dutch can check it. The diaries were written by the missionaries, and they show the Khoekhoe through the missionaries' eyes. See [[history/the-genadendal-diaries|The Genadendal Diaries]].
 
 ## How to read the tables
 
-Each row is one law or order. *What it did* says what it meant for the valley, where that is known. *Built up* names the form of organisation the law made stronger, and *Held back* names the form it weakened or pushed aside. *Emergent* is filled in only where a law opened room for people to organise together in networks, commons, or partnerships of their own. For most of the valley's history that column is empty, and the emptiness is part of the story. Rows marked *Market signal* record an instrument or decision outside the law that the Forum reads as a turning point.
+Each row is one law or order. *What it did* says what it meant for the valley, where that is known. *Built up* names the form of organisation the law made stronger, and *Held back* names the form it weakened or pushed aside. *Emergent* is filled in only where a law opened room for people to organise together in networks, commons, or partnerships of their own. For most of the valley's history that column is empty, and the emptiness is part of the story. Rows marked *Market signal* record an instrument or decision outside the law that the DevForum reads as a turning point.
 
 The tables follow the rulers of the Cape:
 
@@ -101,7 +101,7 @@ The tables follow the rulers of the Cape:
 | 1858 | The trust grant of Farm 39 | The mission land was granted to the Moravian Church in trust for its residents [MS]. See [[trancraa-process-farm-39\|TRANCRAA and Farm 39]]. | I: the church as trustee | M: the land was kept out of the market | Land held for a community, the ground on which later claims to a commons rest |
 | 1887 and 1892 | The franchise narrowed | In 1887 communal forms of tenure stopped counting towards the property test [IC]. In 1892 the test rose to £75 and a literacy test was added, which cut out many black and coloured voters [IC]. | I: a parliament of property owners | T: land held in common, as a route to the vote | |
 | 1905 | School Board Act | Made school compulsory for white children from seven to fourteen, and only encouraged it for other children [IC]. Historians read it as the start of racially separate schooling in law [IC]. | I: separate school systems | I: the mission schools' place in a common system | |
-| 1909 | Mission Stations and Communal Reserves Act | Placed mission land under management boards. Residents could live on the land but not own it [IC]. Forum research describes this as the start of a deep rift between missionaries and residents [MS]. See [[history/institutions/moravian-church\|Moravian Church]]. | I: state boards over mission land | T and M: residents' ownership of their own land | |
+| 1909 | Mission Stations and Communal Reserves Act | Placed mission land under management boards. Residents could live on the land but not own it [IC]. DevForum research describes this as the start of a deep rift between missionaries and residents [MS]. See [[history/institutions/moravian-church\|Moravian Church]]. | I: state boards over mission land | T and M: residents' ownership of their own land | |
 
 ## The Union (1910 to 1948)
 
@@ -154,7 +154,7 @@ The tables follow the rulers of the Cape:
 
 ## The laws through TIME
 
-This section is the Forum's reading.
+This section is the DevForum's reading.
 
 **Institutions turning what the Tribes held into Markets.** From 1652 to 1828, almost every law in the tables did the same thing. An Institution, first the company and then the British state, took something the Khoekhoe held in common and made it usable by a market. Grazing land became loan farms in 1714 and priced property in 1813. People's labour became a market fenced in by the Caledon Code of 1809, and children's labour followed in 1812. The diaries show this happening in the valley in small steps: a cattle order read out after church, a certificate a farmer could refuse to sign, a ban on building even a goat shed. The orders came from the Cape, but they were carried out by local men such as Baas Teunis and the field cornet, and they could be withdrawn when the missionaries or the Khoekhoe went to the Cape to argue.
 

@@ -22,7 +22,7 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Rand Merchant Bank to review
-> Rand Merchant Bank has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The Forum has not approached Rand Merchant Bank about anything. Until Rand Merchant Bank has approved the text, it may change. Questions for Rand Merchant Bank:
+> Rand Merchant Bank has not yet seen this page. It describes the organisation only through what it and its partners have said in public. The DevForum has not approached Rand Merchant Bank about anything. Until Rand Merchant Bank has approved the text, it may change. Questions for Rand Merchant Bank:
 >
 > 1. Is this description of RMB and its role in the Cape Water bond correct? What would you like to change?
 > 2. You have described the bond as the first in a series for South Africa's strategic water source areas. Is there a public statement of which areas the series may cover?
@@ -47,7 +47,7 @@ Rand Merchant Bank (RMB) is the corporate and investment banking division of [[o
 | Website | [rmb.co.za](https://www.rmb.co.za) |
 | Role | Arranger, structurer, and distributor, Cape Water Performance-Based Bond [MS] |
 | Link to the valley | Indirect. The bond pays for clearing in the catchments of the water supply system whose largest dam lies upstream of the valley |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 
@@ -61,11 +61,11 @@ RMB is the corporate and investment banking arm of FirstRand Bank [IC]. RMB's ow
 
 **Where the money goes.** [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy South Africa]] clears invasive plants through the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]], in remote priority catchments of the Western Cape Water Supply System [MS]. [[organisations/conservation-alpha|Conservation Alpha]] checks the results [MS].
 
-**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the Forum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with [[organisations/capenature|CapeNature]] [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
+**The valley.** Theewaterskloof Dam, on the Riviersonderend near Villiersdorp, is the largest dam in the Western Cape Water Supply System [IC]. The valley lies downstream of it, where the Gobos and Baviaans rivers join the Riviersonderend [IC]. [[economic/farmers-land-water/wild-restoration|Wild Restoration]], which clears invasive plants in the Riviersonderend mountains above Greyton, has told the DevForum that the Greater Cape Town Water Fund supports clearing in those mountains through a partnership with [[organisations/capenature|CapeNature]] [TBV]. Which slopes that covers, and whether they drain into the dam or into the valley's own rivers, is not yet known.
 
 ## Relevance to W2DF
 
-- [[concepts/ridge-to-river-to-table|Ridge to River to Table]], an idea not yet agreed, proposes that the valley prepare for a later bond in RMB's series, and that the idea be put to RMB only after the Forum and the Transformasie Komitee have considered it. RMB has not been approached.
+- [[concepts/ridge-to-river-to-table|Ridge to River to Table]], an idea not yet agreed, proposes that the valley prepare for a later bond in RMB's series, and that the idea be put to RMB only after the DevForum and the Transformasie Komitee have considered it. RMB has not been approached.
 - [[concepts/restoring-the-river|Restoring the River]], an idea not yet agreed, explains the water fund and the bond as an example of what cities pay for clean water.
 - [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]], an idea not yet agreed, cites the bond as proof that buyers for catchment results already exist.
 - [[history/laws-that-shaped-the-valley|The Laws That Shaped the Valley]] lists the bond's launch in April 2026 as a market signal.
@@ -98,5 +98,5 @@ If you know more about RMB's work in the valley's mountains or rivers, contact t
 - Wikipedia. [FirstRand](https://en.wikipedia.org/wiki/FirstRand). RMB as the corporate and investment banking division of FirstRand Bank.
 - City of Cape Town. [Dam levels](https://web1.capetown.gov.za/web1/newsandnotices/Home/Release/dam-levels) (August 2026). The dams of the Western Cape Water Supply System and their capacities.
 - Wikipedia. [Theewaterskloof Dam](https://en.wikipedia.org/wiki/Theewaterskloof_Dam). Its river, its owner, and its place in the Western Cape Water Supply System.
-- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the Forum in conversation and is not on this page.
+- Wild Restoration. [Team and partners](https://www.wildrestoration.org/team-and-partners). Lists CapeNature among its partners. The link to the Greater Cape Town Water Fund was reported to the DevForum in conversation and is not on this page.
 - BioConomy wiki. [Performance-Based Water Bonds](https://wiki.bioconomy.earth/concepts/performance-based-water-bonds). How bonds of this kind work, with the Cape Water bond as the first example.

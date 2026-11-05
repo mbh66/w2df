@@ -27,9 +27,9 @@ The children may conclude that the valley's water can earn its keep, or that it 
 
 ## 2. Ground rules
 
-1. **No outside contact.** The children do not write to, call, interview or visit any organisation. They talk only with their own families and the adults at school. They may read the Forum's [Register](https://df.valleyofgrace.co.za/register) and other public pages.
+1. **No outside contact.** The children do not write to, call, interview or visit any organisation. They talk only with their own families and the adults at school. They may read the DevForum's [Register](https://df.valleyofgrace.co.za/register) and other public pages.
 2. **Organisations appear only as possibilities.** The plan may say an organisation *could* do a piece of work. It never says that an organisation has agreed, would agree, or has been asked. Any such line carries a red thread.
-3. **The idea is not yet agreed in real life.** The Ward 2 Development Forum has not discussed it. The map and the plan stay within the class and the families until the Forum has.
+3. **The idea is not yet agreed in real life.** The Ward 2 Development Forum has not discussed it. The map and the plan stay within the class and the families until the DevForum has.
 4. **Land.** Nothing about who owns land, Farm 39, Langgezocht's ownership or Madiba Park goes on the map or into the plan. The map marks places and water. It does not mark ownership. Zara brings any such finding to her teacher first.
 5. **Honest claims.** Every fact wears a thread. On the map, a solid line or mark means the class has a fact for it. A dotted line or mark means it is a guess.
 6. **Outdoors.** Silverwood's outdoor rules apply at the river and on every outdoor task.
@@ -122,7 +122,7 @@ For every fact the children also ask: what would move it up one level?
 
 Part 8 is the honest answer to "can the valley tap into the bond?" It names what must happen before the plan could go ahead.
 
-**Agreeing the plan (Week 5).** Keep the Forum's steps, in a short form:
+**Agreeing the plan (Week 5).** Keep the DevForum's steps, in a short form:
 
 1. Each child reads their card aloud.
 2. Each child names the strongest point they heard from someone who sees it differently.
@@ -197,7 +197,7 @@ Rain that falls on healthy land soaks in, is held in the soil, and comes out of 
 
 - The Cape Water Performance-Based Bond was listed on the Johannesburg Stock Exchange on 17 April 2026. It is a R2.5 billion bond issued by [[organisations/firstrand-bank|FirstRand Bank]]. Part of what it pays depends on checked results from clearing invasive plants in Cape Town's catchments. [IC]
 - [[organisations/conservation-alpha|Conservation Alpha]] checks the results. [[organisations/the-nature-conservancy-south-africa|The Nature Conservancy South Africa]] does the restoration work through the [[organisations/greater-cape-town-water-fund|Greater Cape Town Water Fund]]. [MS]
-- Four tests of a bankable service (Forum page): a buyer who pays for the result; a result that can be measured; a clear right to do the work; a trusted body that signs the contracts and delivers.
+- Four tests of a bankable service (DevForum page): a buyer who pays for the result; a result that can be measured; a clear right to do the work; a trusted body that signs the contracts and delivers.
 - **The honest question.** The bond pays for work in Cape Town's catchments. Valley water joins the river below the dam. It could count only if the dam's operators agreed that more water arriving below the dam lets them release less. Nobody has asked. This becomes the first line of Part 8.
 
 ### Two other funders, for Evan (discussed in class on 26 October)
@@ -296,4 +296,4 @@ Each student page keeps its "Think of Europe" question. In Recall, ask one child
 - BioConomy wiki. [Commitment Pooling](https://wiki.bioconomy.earth/concepts/commitment-pooling).
 - Ward 2 Development Forum. [The Valley Through TIME](https://df.valleyofgrace.co.za/history/the-valley-through-time).
 - Ward 2 Development Forum. [The Register](https://df.valleyofgrace.co.za/register).
-- Forum research file, Deciding Without a Tie-Breaker (27 September 2026), for the steps used to agree the plan.
+- DevForum research file, Deciding Without a Tie-Breaker (27 September 2026), for the steps used to agree the plan.

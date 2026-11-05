@@ -24,7 +24,7 @@ last_checked: 2026-10-01
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this by-law, and people it affects, can correct it. It explains the by-law in plain language, and it does not give legal advice or speak for the Forum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this by-law, and people it affects, can correct it. It explains the by-law in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
@@ -40,7 +40,7 @@ Theewaterskloof Municipality's By-law on Municipal Land Use Planning sets out ho
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the rule could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the rule could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -73,9 +73,9 @@ Theewaterskloof Municipality's By-law on Municipal Land Use Planning sets out ho
 
 **Commenting on neighbours' plans.** The by-law gives neighbours and residents' bodies a right to be told about, and to comment on, applications that affect them. Residents bodies such as the [[civic/residents-association/greyton-ratepayers-and-residents-organisation|Greyton Ratepayers & Residents Organisation]] can follow notices on the municipality's website.
 
-**On Farm 39.** Most applications must be made by the owner of the land or with the owner's consent [TBV]. On [[villages/farm-39|Farm 39]] the owner of the Remainder is the national Minister, holding the land in trust [IC]. The Forum reads this as the main practical obstacle to formal land use changes there until the land is transferred under [[rules/trancraa|TRANCRAA]].
+**On Farm 39.** Most applications must be made by the owner of the land or with the owner's consent [TBV]. On [[villages/farm-39|Farm 39]] the owner of the Remainder is the national Minister, holding the land in trust [IC]. The DevForum reads this as the main practical obstacle to formal land use changes there until the land is transferred under [[rules/trancraa|TRANCRAA]].
 
-**For ideas tabled at the Forum.** Ideas that would need a building or a change of use, such as the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]] or a farm shop for the [[concepts/valley-of-grace-agri-heritage-co-operative|Agri-Heritage Co-operative]], would pass through this by-law. The Forum has said it will take practical planning matters to the municipality's operational officials [MS].
+**For ideas tabled at the DevForum.** Ideas that would need a building or a change of use, such as the [[concepts/valley-of-grace-learning-campus|Valley of Grace Learning Campus]] or a farm shop for the [[concepts/valley-of-grace-agri-heritage-co-operative|Agri-Heritage Co-operative]], would pass through this by-law. The DevForum has said it will take practical planning matters to the municipality's operational officials [MS].
 
 ## Relevance to W2DF
 

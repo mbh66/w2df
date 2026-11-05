@@ -20,7 +20,7 @@ last_checked: 2026-11-01
 ---
 
 > [!warning] For the Premier of the Western Cape to review
-> The Premier's office has not yet seen this page. It describes the office only through what the law says, what the Premier and the province have said or done, and official records. The Forum has not approached the Premier's office about anything. Until the office has replied, the text may change. Questions for the Premier's office:
+> The Premier's office has not yet seen this page. It describes the office only through what the law says, what the Premier and the province have said or done, and official records. The DevForum has not approached the Premier's office about anything. Until the office has replied, the text may change. Questions for the Premier's office:
 >
 > 1. Is this description of the Premier's role in the valley correct? What would you like to change?
 > 2. Has the national Minister of Land Reform and Rural Development delegated any power under TRANCRAA to the Premier, for Farm 39 or for any other area in the Western Cape?
@@ -33,7 +33,7 @@ The Premier of the Western Cape is the head of the province's government [IC]. T
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a law, a government notice, or a parliamentary reply, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the Premier's or the province's own statements, from a political party, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the Premier's or the province's own statements, from a political party, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, or was reported by a single source, but nobody has confirmed it yet.
 
 ## At a glance
@@ -47,7 +47,7 @@ The Premier of the Western Cape is the head of the province's government [IC]. T
 | Party | Democratic Alliance [IC] |
 | Government | [[organisations/western-cape-government\|Western Cape Government]] |
 | Link to the valley | Direct. The Premier's Cabinet oversees the municipality's recovery |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What the office does
 
@@ -66,14 +66,14 @@ The Premier of the Western Cape is the head of the province's government [IC]. T
 
 - [[organisations/western-cape-government|Western Cape Government]], the government the Premier leads, with its ministers for local government and finance.
 - [[organisations/theewaterskloof-municipality|Theewaterskloof Municipality]], the municipality under intervention.
-- [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]], an idea not yet agreed, which proposes that the Forum offer Ward 2's evidence to the province's monitoring of the recovery plan. The province has not been asked.
+- [[concepts/citizen-led-municipal-recovery|Citizen-Led Recovery for Ward 2]], an idea not yet agreed, which proposes that the DevForum offer Ward 2's evidence to the province's monitoring of the recovery plan. The province has not been asked.
 - [[concepts/provincial-pipeline|Provincial Pipeline]], on the province's priority projects and water strategy.
 
 ## What is still open
 
 - What came of the investigation into service delivery the Premier called for in February 2024.
 - Whether any TRANCRAA power for Farm 39 has been delegated to the Premier.
-- Which office the Forum should approach first.
+- Which office the DevForum should approach first.
 
 ## Have your say
 

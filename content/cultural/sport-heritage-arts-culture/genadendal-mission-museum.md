@@ -62,6 +62,6 @@ The museum is one of the main archives of the Moravian Church in South Africa, a
 Book a tour or a school programme, ask about research, or give to the museum through the [museum's website](https://genadendalmuseum.org/contact-us-2/). For anything else, contact the moderators via [[how-to-submit|How to Submit]].
 
 ## Related
-- [[2026-09-16-inaugural-meeting|Forum inaugural meeting]], which the museum attended
+- [[2026-09-16-inaugural-meeting|DevForum inaugural meeting]], which the museum attended
 - [[history/genadendal-a-long-walk|Genadendal: A Long Walk]], a history of Genadendal by the museum's former director
 - [[rules/national-heritage-resources-act|National Heritage Resources Act]]

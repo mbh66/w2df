@@ -28,7 +28,7 @@ updated: 2026-11-01
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the Forum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
@@ -45,7 +45,7 @@ The Transformation of Certain Rural Areas Act, known as TRANCRAA, is the nationa
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the rule could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the rule could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -76,7 +76,7 @@ The Transformation of Certain Rural Areas Act, known as TRANCRAA, is the nationa
 
 **For municipal accounts.** In 2019 the Western Cape High Court let two Genadendal residents defend claims for unpaid municipal accounts on the ground that their land falls under TRANCRAA and that the Minister holds title [IC]. The court left that question for trial [IC].
 
-**For anyone planning something on the land.** An initiative that wants to use Farm 39 land (a garden, a nursery, a building, a trail) is dealing with land the Minister holds in trust for residents. The Forum reads this as meaning that use of the land needs the agreement of the trustee and the support of the residents' elected committee, and that a short-term arrangement should not be mistaken for a right to the land. The [[civic/governance/genadendal-transformasie-komitee|Transformasie Komitee]] reviews every page on this site that touches Farm 39.
+**For anyone planning something on the land.** An initiative that wants to use Farm 39 land (a garden, a nursery, a building, a trail) is dealing with land the Minister holds in trust for residents. The DevForum reads this as meaning that use of the land needs the agreement of the trustee and the support of the residents' elected committee, and that a short-term arrangement should not be mistaken for a right to the land. The [[civic/governance/genadendal-transformasie-komitee|Transformasie Komitee]] reviews every page on this site that touches Farm 39.
 
 **In Greyton and Heuwelkroon.** The Act does not apply. That land was sold as freehold from 1854 and has never been mission trust land [IC]. See [[villages/next-door-different-rules|Next Door, Different Rules]].
 

@@ -28,7 +28,7 @@ updated: 2026-11-04
 ---
 
 > [!warning] A working page, open for review
-> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the Forum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
+> This page is published while it is still being checked, so that people who know this law, and people it affects, can correct it. It explains the law in plain language, and it does not give legal advice or speak for the DevForum, the municipality, or any other body. The official text, linked under *At a glance*, is what counts. Before you act on anything here, read the official text or ask the body named under *Who to ask*. To correct or add to this page, see [[how-to-submit|How to Submit]].
 >
 > Questions for reviewers:
 >
@@ -45,7 +45,7 @@ The Communal Property Associations Act lets a group of people own and manage lan
 > - **[MS] Mission-Sourced.** Comes from one party's own documents or statements. It has not been checked against other sources.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it yet.
 >
-> Sentences without a tag under *What it means in the valley* are the Forum's reading of how the rule could apply here. They are not legal advice.
+> Sentences without a tag under *What it means in the valley* are the DevForum's reading of how the rule could apply here. They are not legal advice.
 
 ## At a glance
 
@@ -82,7 +82,7 @@ These findings cover the country as a whole. Officials name government support a
 
 ## What it means in the valley
 
-**On Farm 39.** TRANCRAA lets the Minister transfer the Remainder of Farm 39 to a CPA, the municipality, or another approved body [IC]. A CPA is being set up for this [MS]. If the land goes to a CPA, the Forum reads the Act as meaning that the CPA's constitution will decide who the members are, how land is allocated, and how decisions about the land are made. TRANCRAA adds its own test: the Minister may only transfer the land once satisfied that the receiving body's rules balance the rights of residents, members, and present and future users [IC]. So the drafting of the CPA's constitution is where much of the future of Farm 39 will be settled.
+**On Farm 39.** TRANCRAA lets the Minister transfer the Remainder of Farm 39 to a CPA, the municipality, or another approved body [IC]. A CPA is being set up for this [MS]. If the land goes to a CPA, the DevForum reads the Act as meaning that the CPA's constitution will decide who the members are, how land is allocated, and how decisions about the land are made. TRANCRAA adds its own test: the Minister may only transfer the land once satisfied that the receiving body's rules balance the rights of residents, members, and present and future users [IC]. So the drafting of the CPA's constitution is where much of the future of Farm 39 will be settled.
 
 > [!warning] **A caution.** The national record gives residents reasons to ask how the CPA's constitution will deal with meetings, financial reports, and disputes between members, and who will monitor it once the land is transferred.
 

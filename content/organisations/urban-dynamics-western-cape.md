@@ -18,11 +18,11 @@ last_checked: 2026-10-14
 ---
 
 > [!warning] For Urban Dynamics Western Cape to review
-> Urban Dynamics Western Cape has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The Forum has not approached Urban Dynamics Western Cape about anything. Until Urban Dynamics Western Cape has approved the text, it may change. Questions for Urban Dynamics Western Cape:
+> Urban Dynamics Western Cape has not yet seen this page. It describes the organisation only through what it has said or done, and through what others named here have said about it. The DevForum has not approached Urban Dynamics Western Cape about anything. Until Urban Dynamics Western Cape has approved the text, it may change. Questions for Urban Dynamics Western Cape:
 >
 > 1. Is this description of Urban Dynamics' work in Genadendal correct? What would you like to change?
 > 2. Who appointed Urban Dynamics in 2002, and on what brief?
-> 3. May the Forum link to the 2010 report, or say where residents can read it?
+> 3. May the DevForum link to the 2010 report, or say where residents can read it?
 > 4. Should readers reach you through the moderators, or through a public contact?
 
 Urban Dynamics Western Cape is a firm of planning consultants [TBV]. It was appointed on 15 November 2002 to work on the transfer of Genadendal's land under TRANCRAA, and its contract was signed on 17 January 2003 [IC]. In October 2010 it produced *Genadendal Transformation: Executive Summary and Recommendations* [MS].
@@ -31,7 +31,7 @@ Urban Dynamics Western Cape is a firm of planning consultants [TBV]. It was appo
 > Facts on this page are followed by a tag that shows where they come from.
 >
 > - **[IC] Independently Corroborated.** Confirmed by an official record, such as a government notice or a court or council record, or by at least two sources that do not depend on each other.
-> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the Forum's own records. It has not been checked against sources that do not depend on them.
+> - **[MS] Mission-Sourced.** Comes from the organisation's own website or statements, from the statements of a group it works with, or from the DevForum's own records. It has not been checked against sources that do not depend on them.
 > - **[TBV] To Be Verified.** Seems likely, but nobody has confirmed it from a reliable source yet.
 
 ## At a glance
@@ -43,7 +43,7 @@ Urban Dynamics Western Cape is a firm of planning consultants [TBV]. It was appo
 | Website | Not yet known |
 | Role | Consultants on the TRANCRAA process, 2002 to 2010 [IC] |
 | Link to the valley | Direct. Its report is a main source on the Farm 39 transfer |
-| Contact with the Forum | Not approached |
+| Contact with the DevForum | Not approached |
 
 ## What it does
 
