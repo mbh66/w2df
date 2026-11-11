@@ -30,7 +30,7 @@ links:
   - https://df.valleyofgrace.co.za
 ---
 
-The Ward 2 Business and Community Development Forum (W2DF) is a ward-level forum for Genadendal, Greyton, Heuwelkroon, Bereaville, Voorstekraal, Boschmanskloof, and the surrounding farms [MS]. It brings together local businesses, community organisations, commercial and emerging farmers, tourism operators, conservation groups, schools and training bodies, and government departments [MS]. It held its first meeting on 16 September 2026 at the Hester Dorothea Conference Centre in Genadendal [MS].
+The Ward 2 Development Forum (W2DF) is a ward-level forum for Genadendal, Greyton, Heuwelkroon, Bereaville, Voorstekraal, Boschmanskloof, and the surrounding farms [MS]. It brings together local businesses, community organisations, commercial and emerging farmers, tourism operators, conservation groups, schools and training bodies, and government departments [MS]. It held its first meeting on 16 September 2026 at the Hester Dorothea Conference Centre in Genadendal [MS].
 
 The DevForum is run by the community, and its members set its priorities [MS]. Theewaterskloof Municipality gives administrative support at first, with minutes, contact lists, and venues [MS]. The DevForum treats the valley as one area and works for both Greyton and Genadendal together [MS]. The Transformasie Komitee takes part as a stakeholder [MS].
 
