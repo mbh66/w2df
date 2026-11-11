@@ -4,6 +4,16 @@
 
 The site is built with Quartz from an Obsidian vault. Pages are written in plain language, mainly in English, with some in Afrikaans. A translation widget offers machine translation into other languages; the original page is authoritative.
 
+## What this site stands for
+
+This site is one of a group of websites about the Valley of Grace. They share one way of seeing things.
+
+Many traditions tell the same story. People leave the land that held their knowledge and gain great power to make and move things. Later they look for a way back to a place. No one owns this story. Our pages name the people who tell it.
+
+Growth in a world with limits starts slowly, climbs fast, then levels off. We think we're near the point where the fast climb starts to slow. That doesn't mean collapse, and pages here don't predict it.
+
+Every page is tested by what it does. Does it bring people together and help them? Where people disagree, the site shows each side in its own words.
+
 ## How the site is organised
 
 Every initiative is an entry in exactly one of nine categories. The categories are grouped into three spheres of life: Economic, Civic, and Cultural. Each sphere and category is a folder with an index page that lists its entries.

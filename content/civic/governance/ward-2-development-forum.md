@@ -32,6 +32,8 @@ links:
 
 The Ward 2 Development Forum (W2DF) is a ward-level forum for Genadendal, Greyton, Heuwelkroon, Bereaville, Voorstekraal, Boschmanskloof, and the surrounding farms [MS]. It brings together local businesses, community organisations, commercial and emerging farmers, tourism operators, conservation groups, schools and training bodies, and government departments [MS]. It held its first meeting on 16 September 2026 at the Hester Dorothea Conference Centre in Genadendal [MS].
 
+The official name, agreed at the first meeting on 16 September 2026, is the Ward 2 Business and Community Development Forum [MS]. Since 11 November 2026 this site uses the shorter name, the Ward 2 Development Forum or the DevForum, because it's easier to read.
+
 The DevForum is run by the community, and its members set its priorities [MS]. Theewaterskloof Municipality gives administrative support at first, with minutes, contact lists, and venues [MS]. The DevForum treats the valley as one area and works for both Greyton and Genadendal together [MS]. The Transformasie Komitee takes part as a stakeholder [MS].
 
 The DevForum agreed that affected communities should be involved in proposals from the start, and not only once a proposal has been written [MS]. It will not duplicate other bodies that already deal with the TRANCRAA land process. It will take practical planning matters, such as land use, zoning, and building plans, to the municipality's operational officials [MS].
