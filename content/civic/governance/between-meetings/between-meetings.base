@@ -47,6 +47,19 @@ views:
       - property: meeting_date
         direction: ASC
   - type: table
+    name: Held
+    filters:
+      and:
+        - status == "Held"
+    order:
+      - meeting_date
+      - formula.meeting
+      - with
+      - outcome
+    sort:
+      - property: meeting_date
+        direction: DESC
+  - type: table
     name: By partner
     groupBy:
       property: with

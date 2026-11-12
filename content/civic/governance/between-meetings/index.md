@@ -17,7 +17,7 @@ Nothing recorded here is a decision of the DevForum. Decisions are only made at 
 
 ## The record
 
-Use the tabs above the table to see what's coming up, or every meeting with a single partner.
+Use the tabs above the table to see what's coming up, what has been held, or every meeting with a single partner.
 
 ![[civic/governance/between-meetings/between-meetings.base]]
 
