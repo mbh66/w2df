@@ -43,6 +43,7 @@ Each entry page has frontmatter and a body in a fixed order.
 - [Villages](https://df.valleyofgrace.co.za/villages/): one page per village, each listing the entries located there and those that serve the whole valley
 - [DevForum Priorities](https://df.valleyofgrace.co.za/priorities/): the DevForum's five development priorities, each with a page listing the entries tagged with it
 - [DevForum Minutes](https://df.valleyofgrace.co.za/civic/governance/minutes/): summaries of DevForum meetings, with links to the official minutes
+- [Between Meetings](https://df.valleyofgrace.co.za/civic/governance/between-meetings/): one short page per conversation the DevForum holds with outside partners between its formal meetings, listed in a table with what came of each
 - [Research Register](https://df.valleyofgrace.co.za/research/): every piece of research the site cites (theses, books, articles, studies, archival editions), with the pages that use each one
 
 ## Valley history
@@ -87,7 +88,7 @@ Pages in `/organisations/` describe organisations based outside Ward 2 whose wor
 
 ## Case studies
 
-Pages in `/case-studies/` record work done outside Ward 2 that a page on this site draws on: what was done, in what order, with whose money, under what rules, and what came of it. They are not entries, have no category, and do not appear on the Register or the Organisations page. A case study records a case and makes no proposal for the valley; any reading of what it means for the valley is on the idea page that draws on it. Each opens with questions for the organisation at its centre, and sets the case's facts beside the valley's in one table. Frontmatter gives `kind` (Non-profit, School, Co-operative, Business, Funder, Government, Community initiative), `based_in`, `connection` (how the case touches the valley), and `relationship` (the DevForum's contact with it).
+Pages in `/case-studies/` record work done outside Ward 2 that a page on this site draws on: what was done, in what order, with whose money, under what rules, and what came of it. They are not entries, have no category, and do not appear on the Register or the Organisations page. A case study records a case and makes no proposal for the valley; any reading of what it means for the valley is on the idea page that draws on it. Each opens with questions for the organisation at its centre, then an *In brief* box of three to five points drawn from the page, and sets the case's facts beside the valley's in one table. Frontmatter gives `kind` (Non-profit, School, Co-operative, Business, Funder, Government, Community initiative), `based_in`, `connection` (how the case touches the valley), and `relationship` (the DevForum's contact with it).
 
 - [Case Studies](https://df.valleyofgrace.co.za/case-studies/): the section's index, listing each case and the page that draws on it
 - [Bonnievale 418](https://df.valleyofgrace.co.za/case-studies/bonnievale-418): how Bonnievale built Jakes Gerwel Technical School, a no-fee technical high school that opened in 2018, and how the non-profit that grew out of it supports the town's school leavers; drawn on by the [Valley of Grace Learning Campus](https://df.valleyofgrace.co.za/concepts/valley-of-grace-learning-campus)

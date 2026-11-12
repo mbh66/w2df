@@ -18,6 +18,7 @@ aliases:
   - Mafube Stakeholders Compact
 website: https://www.mafubebf.org
 last_checked: 2026-11-02
+updated: 2026-11-12
 ---
 
 > [!warning] For the Mafube Business Forum to review
@@ -34,6 +35,13 @@ last_checked: 2026-11-02
 > 9. What is your role in the "My Town" project, and which body published the *Small Town Regeneration* strategy you link it to?
 > 10. Has any other town taken up your approach?
 > 11. Should readers reach you through the moderators, or through your website?
+
+> [!summary] In brief
+> - **Business owners and farmers organised.** The MBF was formed in August 2019 to deal with service failures in Frankfort and the towns around it [IC].
+> - **It offered to work with government.** In 2019 it drafted a Stakeholders Compact, which the High Court described as "a joint venture between Government and the Mafube business community" [IC]. The MBF told Parliament that government then stopped replying, and the Compact was never signed [IC].
+> - **It went to court.** In 2022 the MBF and AfriForum won an order that made the province take over the municipality's finances under a recovery plan [IC]. In March 2025 the court found that the province and municipality had not complied [IC].
+> - **It backs a private electricity operator.** Rural Maintenance has run the municipality's electricity under a 25-year agreement since 2011, and the MBF supports it [IC]. In 2025 SALGA, the union SAMWU and other parties told Parliament the contract should be reviewed [IC].
+> - **Farmers pay their own levy.** Farmers pay a voluntary R18 per hectare a year for roads and security [MS]. No accounts for the levy were found.
 
 The Mafube Business Forum (MBF) is a group of business owners and farmers in Mafube Local Municipality, in the Fezile Dabi District of the Free State [IC]. It was formed in August 2019 to deal with service failures in Frankfort and the neighbouring towns [IC]. It says it is a registered non-profit [MS]. In 2019 it drafted a *Mafube Stakeholders Compact* with government, but government never signed it [IC]. In 2022 the MBF and AfriForum won a High Court order that made the province take over the running of the municipality's finances under a recovery plan [IC]. The MBF supports a private company, Rural Maintenance, which has run the municipality's electricity under a 25-year agreement since 2011 [IC]. Farmers pay a voluntary levy of R18 per hectare a year for roads and security [MS]. The case reached the valley through a June 2026 news report and a BizNews interview, and no one in the valley has been in contact with the MBF [MS].
 

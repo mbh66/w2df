@@ -47,7 +47,7 @@ A rule is included when it governs something an initiative, idea, or village on 
 These rules have been identified as relevant and do not yet have a page:
 
 - **Land and tenure:** the Extension of Security of Tenure Act 62 of 1997, for people living on farms; the Prevention of Illegal Eviction from and Unlawful Occupation of Land Act 19 of 1998; Theewaterskloof's Immovable Property By-law and Commonage By-law.
-- **Local government and services:** Theewaterskloof's Water and Sanitation Services By-law, Credit Control and Debt Collection By-law, Property Rates By-law, Tariff By-law, and indigent support policy; the Municipal Finance Management Act 56 of 2003 and the municipality's supply chain management policy, which bear on local procurement.
+- **Local government and services:** Theewaterskloof's Water and Sanitation Services By-law, Credit Control and Debt Collection By-law, Property Rates By-law, Tariff By-law, and indigent support policy; the Municipal Finance Management Act 56 of 2003 and the municipality's supply chain management policy, which bear on local procurement (its section 67, on payments to non-profits, is explained in [[rules/mfma-circular-131|MFMA Circular 131]]).
 - **Environment:** the National Environmental Management Act 107 of 1998 and its environmental impact assessment regulations; the Alien and Invasive Species Regulations under the National Environmental Management: Biodiversity Act 10 of 2004; the Conservation of Agricultural Resources Act 43 of 1983; Theewaterskloof's Nature Reserves By-law.
 - **Water:** Theewaterskloof's Irrigation Water By-law.
 - **Business and tourism:** Theewaterskloof's Informal Trading By-law, Outdoor Advertising and Signage By-law, and Liquor Trading Days and Hours By-law.

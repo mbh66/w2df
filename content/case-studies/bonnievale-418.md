@@ -17,7 +17,7 @@ aliases:
   - B418
 website: https://bonnievale418.co.za
 last_checked: 2026-11-01
-updated: 2026-11-04
+updated: 2026-11-12
 ---
 
 > [!warning] For Bonnievale 418 to review
@@ -33,6 +33,12 @@ updated: 2026-11-04
 > 8. Your website gives two street addresses on Main Road. Which is your office?
 > 9. When did you present at Emil Weder Secondary and at the Genadendal Mission Museum, who attended, and what did you present?
 > 10. Should readers reach you through the moderators, or through your website?
+
+> [!summary] In brief
+> - **The town did it together.** In 2016, Bonnievale residents formed a trust to build a second high school [MS]. Local people gave the land, residents bought bricks, and builders and other professionals gave their work free [MS].
+> - **One school with two kinds of training.** The Education Department agreed to pay 40% of the costs if the town found the land and the other 60% [MS]. The school that opened in 2018 teaches technical and farming subjects up to matric, and runs a four-year skills course in trades and food production for about 40% of its learners [MS].
+> - **A plan for the town's young people.** The trust went on to start Bonnievale 418, which works with 12 schools and helps school leavers find study, training or work [MS]. A Bonnievale 418 staff member has called the town's story "a blueprint for rural development" [MS].
+> - **Many kinds of people working together.** Parents and employers were asked what learners should learn [MS]. The Education Department, farmers, foundations and residents each paid a share [MS]. IPASA, which studied the case, says the team needed people with skills in finance, vision, operations and relationships [MS].
 
 Bonnievale 418 is a non-profit programme in Bonnievale, a town on the Breede River in Langeberg Municipality, about 120km ENE of the valley [IC]. Its legal body is the JGE Funding Trust, which trades as Bonnievale 418 [MS]. Bonnievale residents set up the trust in 2016 to raise money for a new no-fee high school, Jakes Gerwel Technical School (JGT), which opened in January 2018 [IC]. The trust started Bonnievale 418 in 2020 [MS]. It works with schools, helps school leavers find study, training or work, and shares its model with other towns [MS]. It aims for "zero youth unemployment in Bonnievale by 2030" [MS]. People from Bonnievale 418 have presented at [[cultural/education/emil-weder-secondary|Emil Weder Secondary]] and the [[cultural/sport-heritage-arts-culture/genadendal-mission-museum|Genadendal Mission Museum]] [MS].
 

@@ -18,6 +18,7 @@ aliases:
   - Waterberg Community
 website: https://waterbergdevelopment.co.za/community/
 last_checked: 2026-11-01
+updated: 2026-11-12
 ---
 
 > [!warning] For the Waterberg Development Initiative to review
@@ -33,6 +34,13 @@ last_checked: 2026-11-01
 > 8. In what year did Minister Lamola present the 150 mountain bikes?
 > 9. Do you have a formal agreement with any municipality or with the province?
 > 10. Should readers reach you through the moderators, or through your website?
+
+> [!summary] In brief
+> - **Started by people who chose not to wait.** WDI grew out of a meeting called by Kumba Iron Ore as its Thabazimbi mine faced closure [MS]. Those at the meeting decided "we couldn't wait for local authorities to develop the local economy" [MS]. Its directors say work began in 2019 [MS].
+> - **Run by volunteers.** Volunteer directors run WDI through a non-profit company that also leads Waterberg Tourism [MS]. It relies on members and sponsors, and has published no figures for its income [MS].
+> - **What it says it does.** It says it identifies needs and brings people together, and it lists its projects in eight categories, from job creation to security [MS]. It says it "initiated" some projects and "facilitated" or "assisted" others [MS]. Few of its results have been checked by sources that do not depend on it.
+> - **Beside government, with no formal agreement.** No agreement between WDI and any municipality or the province was found. In June 2026 it presented "its vision for a coordinated regional development model" at an expert mission run with SALGA and the district municipality [IC].
+> - **How it reached the DevForum.** Henk Swanepoel of [[organisations/the-shift|The Shift]] named WDI to the DevForum's convenor on 29 October 2026 as a model to research [MS]. No contact between WDI and Ward 2 was found.
 
 The Waterberg Development Initiative (WDI) is a volunteer group in the Waterberg District of Limpopo [MS]. It works across the district's five local municipalities [MS]. It grew out of a meeting called by Kumba Iron Ore with the Marakele National Park manager, mine representatives and a tourism representative [MS]. Its directors say they started work on it in 2019 [MS]. It runs through a non-profit company whose directors also lead Waterberg Tourism [MS]. It says it identifies needs, facilitates and encourages co-operation, and it lists its projects in eight categories [MS]. Few of the results it reports have been checked by sources that do not depend on it. Henk Swanepoel, founder director of [[organisations/the-shift|The Shift]], named it to the DevForum's convenor on 29 October 2026 [MS].
 

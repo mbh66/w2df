@@ -1,0 +1,60 @@
+filters:
+  and:
+    - file.ext == "md"
+    - type == "meeting"
+    - draft != true
+    - file.path.contains("between-meetings/")
+    - '!file.path.contains("templates/")'
+    - '!file.path.contains("private/")'
+formulas:
+  meeting: file.asLink(title)
+properties:
+  meeting_date:
+    displayName: Date
+  formula.meeting:
+    displayName: Meeting
+  with:
+    displayName: With
+  place:
+    displayName: Where
+  status:
+    displayName: Status
+  outcome:
+    displayName: What came of it
+views:
+  - type: table
+    name: All
+    order:
+      - meeting_date
+      - formula.meeting
+      - with
+      - status
+      - outcome
+    sort:
+      - property: meeting_date
+        direction: DESC
+  - type: table
+    name: Coming up
+    filters:
+      and:
+        - status == "Upcoming"
+    order:
+      - meeting_date
+      - formula.meeting
+      - with
+      - place
+    sort:
+      - property: meeting_date
+        direction: ASC
+  - type: table
+    name: By partner
+    groupBy:
+      property: with
+      direction: ASC
+    order:
+      - meeting_date
+      - formula.meeting
+      - outcome
+    sort:
+      - property: meeting_date
+        direction: DESC
