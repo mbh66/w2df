@@ -11,13 +11,13 @@ date: 2026-11-12
 draft: false
 ---
 
-The DevForum meets formally every two months, and those meetings are recorded in [[civic/governance/minutes/index|DevForum Minutes]]. Much of the work happens in between, in conversations with people and organisations outside the valley. Each of those conversations has a short page of its own, listed below, so that anyone can see what is happening in the background.
+The DevForum meets formally every two months, and those meetings are recorded in [[civic/governance/minutes/index|DevForum Minutes]]. Most of the work happens in between, in workshops with external organisations. Each of those engagements has a short page of its own, listed below, so that anyone can see what's happening in the background.
 
-Nothing recorded here is a decision of the DevForum. Anything that needs a decision goes to the next DevForum meeting.
+Nothing recorded here is a decision of the DevForum. Decisions are only made at DevForum meetings, with representatives from each town and organisation present.
 
 ## The record
 
-Use the tabs above the table to see what is coming up, or every meeting with one partner.
+Use the tabs above the table to see what's coming up, or every meeting with a single partner.
 
 ![[civic/governance/between-meetings/between-meetings.base]]
 

@@ -23,6 +23,6 @@ Everyone present said they want to work toward place-based economies and agreed 
 
 ## What comes next
 
-[[2026-11-14-ranyaka-site-visit|Site visit to the valley]], 14 November 2026.
+[[2026-11-14-stellenbosch-site-visit|Site visit to the valley]], 14 November 2026.
 
 Part of [[civic/governance/between-meetings/index|Between Meetings]].
