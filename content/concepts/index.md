@@ -5,6 +5,7 @@ type: page
 aliases: [High-Level Concepts, Concepts]
 date: 2026-09-23
 draft: false
+updated: 2026-11-17
 ---
 
 This section holds big ideas for Ward 2. They show what the valley could build if we worked together.
@@ -74,6 +75,9 @@ A way to notice and reward any act that helps the valley's rivers move from Cate
 
 ### [[concepts/vorming|Vorming]]
 The valley's own variation of Bildung, the tradition of lifelong formation, built on care for the valley and on ecological restoration at a large scale. The design principle behind The Palmiet Principle. Not yet set down for a DevForum meeting.
+
+### [[concepts/protecting-young-initiatives|Protecting Young Initiatives in the Open]]
+How the DevForum could protect the valley's young initiatives while they grow, record the terms of that protection in public, and agree when each one stands in the open. To be sent to the Transformasie Komitee in writing first, and tabled once it responds or 21 days after it was sent.
 
 ## How these fit together
 

@@ -10,7 +10,7 @@ read: "yes"
 tags:
   - lang/en
 date: 2026-11-12
-draft: true
+draft: false
 links:
   - https://eeas.europa.eu/sites/default/files/1999_sustainable_livelihoods_guidance_sheet_dfid.pdf
   - https://www2.cruzroja.es/web/livelihoods-centre/-/sustainable-livelihoods-guidance-sheets

@@ -10,7 +10,7 @@ read: "yes"
 tags:
   - lang/en
 date: 2026-11-12
-draft: true
+draft: false
 links:
   - https://www.gov.uk/government/publications/the-beginners-guide-to-political-economy-analysis-pea
   - https://wiki.bioconomy.earth/sources/whaites-2017-beginners-guide-to-pea

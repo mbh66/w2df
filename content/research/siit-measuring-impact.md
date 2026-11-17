@@ -10,7 +10,7 @@ read: "yes"
 tags:
   - lang/en
 date: 2026-11-12
-draft: true
+draft: false
 links:
   - https://gsgii.org/reports/measuring-impact/
   - https://wiki.bioconomy.earth/sources/siit-2014-measuring-impact

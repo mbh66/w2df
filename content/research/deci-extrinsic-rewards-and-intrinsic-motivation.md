@@ -1,6 +1,6 @@
 ---
 title: "Extrinsic Rewards and Intrinsic Motivation"
-description: "A journal article by E.L. Deci, R. Koestner and R.M. Ryan (1999) on how rewards affect motivation. Cited on 1 page of the register."
+description: "A journal article by E.L. Deci, R. Koestner and R.M. Ryan (1999) on how rewards affect motivation. Cited on 2 pages of the register."
 type: source
 source_kind: Journal article
 author: "E.L. Deci, R. Koestner and R.M. Ryan"
@@ -15,7 +15,8 @@ links:
   - https://depts.washington.edu/techdocs/papers/deciExtrinsicRewardsAndIntrinsicMotivation99.pdf
 cited_on:
   - "[[concepts/the-palmiet-principle|The Palmiet Principle]]"
-updated: 2026-11-04
+  - "[[concepts/protecting-young-initiatives|Protecting Young Initiatives in the Open]]"
+updated: 2026-11-17
 ---
 
 *Extrinsic Rewards and Intrinsic Motivation* is a journal article by E.L. Deci, R. Koestner and R.M. Ryan (1999), on how rewards affect motivation. This page records how the register cites it and which pages use it. It is part of the [[research/index|Research Register]].
@@ -27,6 +28,7 @@ updated: 2026-11-04
 ## Pages that cite it
 
 - [[concepts/the-palmiet-principle|The Palmiet Principle]]
+- [[concepts/protecting-young-initiatives|Protecting Young Initiatives in the Open]]
 
 ## Related
 
