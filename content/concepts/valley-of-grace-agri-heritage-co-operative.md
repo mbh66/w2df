@@ -22,7 +22,7 @@ aliases:
 links:
   - https://www.cipc.co.za/?page_id=2197
   - https://www.cogta.gov.za/ddm/
-updated: 2026-11-01
+updated: 2026-11-18
 ---
 
 > **This idea is not yet agreed.** It comes from a group of growers in Genadendal [MS]. The other growers, organisations, and government offices it mentions have not been asked about it yet. It will be tabled at the DevForum's November 2026 meeting. **Please do not share this page publicly yet.**
@@ -120,6 +120,7 @@ It serves four of the DevForum's [[priorities/index|priorities]]: [[priorities/a
 
 - Who else would join the growers in Genadendal, and from which villages.
 - Which land members would farm, and on what terms. The land of Genadendal, Bereaville, Voorstekraal, Boschmanskloof, and Madiba Park is part of the unresolved TRANCRAA process [MS]. The [[genadendal-transformasie-komitee|Genadendal Transformasie Komitee]] has not been asked for its view.
+- Who has the legal power to allow members to farm Farm 39 land. The Minister holds the Remainder in trust (TRANCRAA, section 3(13)), and section 2 vests trust land in the townships in the municipality, subject to rights already registered [IC]. The sources found don't say what part the Komitee plays in that permission. See [[history/who-the-land-laws-let-in|Who the Land Laws Let In]].
 - Where members' water would come from.
 - Whether the Overberg's district plan is in place, and what it says about farming.
 - Which government support programmes would apply to a co-operative like this.

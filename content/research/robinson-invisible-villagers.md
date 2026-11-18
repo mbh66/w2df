@@ -1,6 +1,6 @@
 ---
 title: "Invisible Villagers"
-description: "A thesis by Helen Robinson (1986) on Greyton from its founding in 1854 to the Group Areas removals and after. Cited on 10 pages of the register."
+description: "A thesis by Helen Robinson (1986) on Greyton from its founding in 1854 to the Group Areas removals and after. Cited on 11 pages of the register."
 type: source
 source_kind: Thesis
 author: "Helen Robinson"
@@ -26,7 +26,8 @@ cited_on:
   - "[[history/people/herbert-vigne|Herbert Vigne]]"
   - "[[history/people/johannes-ruiter|Johannes Ruiter]]"
   - "[[history/people/louis-rudolph-schmidt|Louis Rudolph Schmidt]]"
-updated: 2026-11-04
+  - "[[history/who-the-land-laws-let-in|Who the Land Laws Let In]]"
+updated: 2026-11-18
 ---
 
 *Invisible Villagers* is a thesis by Helen Robinson (1986), on Greyton from its founding in 1854 to the Group Areas removals and after. This page records how the register cites it and which pages use it. It is part of the [[research/index|Research Register]].
@@ -44,6 +45,7 @@ updated: 2026-11-04
 - Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. His family, the transfer of Weltevreden, his marriage, the conditions of sale, the sale of plots, the footpath tender, and the commonage.
 - Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. His replacement under the supervision of the field-cornet Herbert Vigne, and how Genadendal received it, drawing on Krüger (1966).
 - Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. His move to Greyton, his writings, and his short history of Greyton.
+- Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. The Group Areas Board hearing, the owners affected, the sales, Heuwelkroon, the extensions onto the commonage and the 1977 permits.
 
 ## Pages that cite it
 
@@ -57,6 +59,7 @@ updated: 2026-11-04
 - [[history/people/herbert-vigne|Herbert Vigne]]
 - [[history/people/johannes-ruiter|Johannes Ruiter]]
 - [[history/people/louis-rudolph-schmidt|Louis Rudolph Schmidt]]
+- [[history/who-the-land-laws-let-in|Who the Land Laws Let In]]
 
 ## Related
 

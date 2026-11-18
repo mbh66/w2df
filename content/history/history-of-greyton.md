@@ -14,7 +14,7 @@ aliases:
 links:
   - https://en.wikipedia.org/wiki/Greyton
   - https://sahistory.org.za/place/greyton-western-province
-updated: 2026-11-04
+updated: 2026-11-18
 ---
 
 [[villages/greyton|Greyton]] lies at the foot of the Riviersonderend mountains, a few kilometres east of Genadendal. It was laid out in the 1850s on a farm called Weltevreden, on land where Khoekhoe herders had grazed their cattle for centuries [IC]. This page tells Greyton's own story, including [[villages/heuwelkroon|Heuwelkroon]], the part of Greyton to which coloured families were forced to move under apartheid. The story of the whole valley is on [[history/history-of-the-valley|History of the Valley]].
@@ -120,7 +120,7 @@ In the 1860s Vigne married [[history/people/elizabeth-vigne|Elizabeth Belshaw]],
 
 The Group Areas Act of 1950 divided South Africa's towns by race [IC]. In Greyton, coloured families, many of whom owned their own plots and small farms, were forced to sell and leave [IC]. Most were moved to Heuwelkroon, a new township on a hill on the edge of the village [IC]. A 2022 heritage study says some went to Genadendal [TBV]. Robinson says others bought land at Boschmanskloof, and some moved to Cape Town or other towns [TBV].
 
-Sources differ on the dates. Some Greyton histories say the 1950s [TBV]. An essay in the arts journal *Herri* dates the removals from 1968 to 1974, and the 2022 heritage study says Heuwelkroon was built in 1970 [TBV]. Robinson's study, written in the 1980s from records and interviews, dates the proclamation to 1968 or 1969 and most removals to 1969 to 1971 [TBV]. The three sources agree that the removals took place from the late 1960s to the mid-1970s [IC].
+Sources differ on the dates. Some Greyton histories say the 1950s [TBV]. An essay in the arts journal *Herri* dates the removals from 1968 to 1974, and the 2022 heritage study says Heuwelkroon was built in 1970 [TBV]. Robinson's study, written in the 1980s from records and interviews, dates the proclamation to 1968 or 1969 and most removals to 1969 to 1971 [TBV]. The *Government Gazette* shows that the proclamation was published on 9 August 1968 [IC]. The three sources agree that the removals took place from the late 1960s to the mid-1970s [IC].
 
 ### What happened, and when
 
@@ -128,7 +128,7 @@ The fullest account is Helen Robinson's 1986 study, which draws on Deeds Office 
 
 - **1964 to 1965.** A committee of the Group Areas Board visited the district [TBV]. Coloured ratepayers protested, and said they wished to stay on their land, which for many was their living [TBV]. The Coloured Ratepayers Association sent a petition signed by 22 ratepayers [TBV]. Dr Oscar Wollheim, the Coloured Persons' Representative on the Provincial Council, told the *Cape Argus* that if any group had the right to remain in the town, history showed it was the coloured group [TBV].
 - **1967.** An advertisement in the Caledon *Venster* on 17 March said that municipal land was being set aside for relocation [TBV]. The Director of Local Government told Dr Wollheim that the application came from the Greyton Municipality [TBV]. Dr Wollheim replied that the land was unfit for homes or small farming, and that houses stood empty in Greyton at the time [TBV].
-- **1968 to 1969.** The main part of Greyton was declared a white group area in the *Government Gazette* [TBV]. Robinson dates the newspaper report to August 1968 and the official announcement to 1969 [TBV].
+- **1968.** On 26 July 1968 the State President signed Proclamation 216 of 1968. It made the main part of Greyton a white group area, and a smaller area along Market Street and the road to Caledon a coloured group area. The *Government Gazette* published it on 9 August 1968 [IC]. Robinson dates the newspaper report to August 1968 and gives 1969 for the official announcement [TBV].
 - **1969 to 1971.** Officials served notices to leave, and families who rented were moved first [TBV]. Owners were pressed to sell, and property speculators and agents arrived [TBV]. One widow told Robinson she was told to hand her key in at the police station; she sold her house and plot for R1,250 [TBV].
 - **By 1975.** All 100 houses in Heuwelkroon were occupied [TBV]. Eight families classified coloured still lived on their own land in the village [TBV].
 - **1977 to 1978.** The town clerk wrote to the eight families that they must leave [TBV]. They refused, and some white residents supported them [TBV]. The *Sunday Times* and the *Cape Times* reported their case [TBV]. Officials of the Group Areas Board and the Department of Community Development visited, and the families were told they could stay and farm, for the owner's lifetime only [TBV].
@@ -246,6 +246,7 @@ The Boesmanskloof road:
 
 The removals and Heuwelkroon:
 
+- Government Gazette 2141. [Proclamations 216 and 217 of 1968](http://www.lac.org.na/laws/GGsa/rsagg2141.pdf) (9 August 1968). The Greyton group areas.
 - Robinson, H. (1986). [Invisible Villagers: Changing Residential Patterns and Relationships in a Rural Village](https://open.uct.ac.za/handle/11427/21807). Thesis, Department of Social Anthropology, University of Cape Town. Used for the conditions of sale of 1854 and the Genadendal day-book entries, the first schools and churches, the canteen, the census figures, the Boesmanskloof road, the Group Areas removals from 1964 to 1980, the number of owners affected, Heuwelkroon in the 1980s, and the extensions onto the commonage. Register entry: [[research/robinson-invisible-villagers|Invisible Villagers]].
 - Williams, R. ["Hoekom soek ons nog altyd *Kos Klere en Blyplek* in die nuwe dispensasie?"](https://herri.org.za/2/rafieka-williams/). *Herri*, issue 2 (no date given). A personal essay built around a reggae song by Country Conquerors, by a Capetonian writer who came to Greyton in May 2017 and spoke with residents. *Herri* is an online arts and culture journal published by Stephanus Muller for the Africa Open Institute and edited by Aryan Kaganof (see [Review: herri is a rare new arts and culture journal from South Africa](https://www.modernghana.com/amp/news/1003294/review-herri-is-a-rare-new-arts-and-culture-journ.html)). Used here for the dates of the removals, 1968 to 1974, and their effects. Register entry: [[research/williams-kos-klere-en-blyplek|Hoekom soek ons nog altyd Kos Klere en Blyplek]].
 - ACO Associates for Ohana Environmental Consulting (2022). [Heritage Impact Assessment, Erf 595, Greyton](https://ohanaenviro.co.za/wp-content/uploads/2022/08/HIA-Greyton-Heritage.pdf). The founding, the 1891 population, removals to Heuwelkroon and Genadendal, and Heuwelkroon built in 1970. Register entry: [[research/aco-heritage-impact-assessment-erf-595|Heritage Impact Assessment, Erf 595, Greyton]].

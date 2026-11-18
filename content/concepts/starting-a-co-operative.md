@@ -3,12 +3,14 @@ title: "Starting a Co-operative in the Valley: A Suggested Route"
 description: A suggested route for any group in the valley that wants to form a co-operative. It covers the legal steps, training to national standards, skills funds, stipends, grants, B-BBEE, and joining other co-operatives for bigger contracts. Not yet agreed. To be tabled in November 2026.
 type: concept
 tags:
+  - theme/trancraa
   - priority/agriculture-food-sovereignty
   - priority/business-procurement
   - priority/education-skills
   - lang/en
 date: 2026-09-13
 draft: false
+komitee_review: pending
 right_of_reply: pending
 aliases:
   - Co-operative Guide
@@ -19,7 +21,7 @@ links:
   - https://www.agriseta.co.za/discretionary-grant-funding/
   - https://regqs.saqa.org.za/
   - https://www.elsenburg.com/
-updated: 2026-09-28
+updated: 2026-11-18
 ---
 
 > **This idea is not yet agreed.** It is a suggested route for any group in the valley that is thinking of forming a co-operative. None of the government offices or training providers named here have been asked about it yet. It will be tabled at the DevForum's November 2026 meeting. **Please do not share this page publicly yet.**
@@ -228,6 +230,7 @@ For each group:
 - Which qualifications and skills programmes its members need, and which accredited provider would deliver them.
 - Whether each grant would accept all its members.
 - If it would use land on the mission settlements, the [[genadendal-transformasie-komitee|Genadendal Transformasie Komitee]] should be asked first.
+- Who has the legal power to allow a co-operative to use Farm 39 land. The Minister holds the Remainder in trust (TRANCRAA, section 3(13)), and section 2 vests trust land in the townships in the municipality, subject to rights already registered [IC]. The sources found don't say what part the Komitee plays in that permission. See [[history/who-the-land-laws-let-in|Who the Land Laws Let In]].
 - What it would cost to register, report, and join a secondary co-operative.
 
 ## What happens next

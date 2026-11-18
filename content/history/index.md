@@ -10,7 +10,7 @@ draft: false
 aliases:
   - History
   - Geskiedenis
-updated: 2026-11-04
+updated: 2026-11-18
 ---
 
 This section holds the history of the valley and the people who shaped it. It is written for residents first. Every fact carries a tag that shows where it comes from.
@@ -27,6 +27,7 @@ This section holds the history of the valley and the people who shaped it. It is
 - [[history/the-time-model|The TIME Model]]. A short explanation of the model this wiki uses to read the valley's history, with a link to the full framework.
 - [[history/the-valley-through-time|The Valley Through TIME]]. A reference table of the valley's history through the [[history/the-time-model|TIME model]]: when Tribes, Institutions, and Markets were each most dominant, their main developments to 2038, and the first signs of Emergent.
 - [[history/laws-that-shaped-the-valley|The Laws That Shaped the Valley]]. The laws and orders that shaped the valley, from Khoekhoe custom to TRANCRAA, including the racial laws and orders from the diaries, each read through [[history/the-time-model|TIME]].
+- [[history/who-the-land-laws-let-in|Who the Land Laws Let In]]. Where each land law in the valley drew its line, from the 1858 grant of Farm 39 to TRANCRAA, comparing Greyton and Genadendal.
 - [[future-of-the-valley|Future of the Valley]]. Why 2038 matters, and what the valley is working on now.
 - [[history/the-khoekhoe-saga|The Khoekhoe Saga]]. A documentary series on the Khoekhoe, first shown in 2023: what it says, and how this wiki uses it.
 - [[history/the-genadendal-diaries|The Genadendal Diaries]]. The missionaries' diaries from Baviaanskloof from 1792, the digital transcriptions of 2025, and how this wiki uses them.

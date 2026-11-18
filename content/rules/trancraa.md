@@ -23,8 +23,8 @@ official_text: https://www.gov.za/documents/transformation-certain-rural-areas-a
 links:
   - https://www.saflii.org/za/legis/num_act/tocraa1998376/
   - https://biohubs.bioconomy.earth/afrotropic/at12-vog/research/trancraa
-last_checked: 2026-10-01
-updated: 2026-11-01
+last_checked: 2026-11-18
+updated: 2026-11-18
 ---
 
 > [!warning] A working page, open for review
@@ -34,7 +34,7 @@ updated: 2026-11-01
 >
 > 1. For the Genadendal Transformasie Komitee: does this summary of the Act match the Komitee's understanding of it? Which of the Komitee's documents may this page cite?
 > 2. For Theewaterskloof Municipality: is the description of the municipality's part under the Act correct?
-> 3. For anyone with legal training: are the sections cited the right ones, and has the Act been amended since 1998?
+> 3. For anyone with legal training: are the sections cited the right ones, and did any of the three amending Acts change them?
 
 The Transformation of Certain Rural Areas Act, known as TRANCRAA, is the national law that decides how the land of 23 former mission and "coloured rural" areas passes from the state to the people who live there [IC]. [[villages/farm-39|Farm 39]], the land on which [[villages/genadendal|Genadendal]], [[villages/bereaville|Bereaville]], [[villages/voorstekraal|Voorstekraal]], and [[villages/boschmanskloof|Boschmanskloof]] stand, is one of those areas, and [[villages/madiba-park|Madiba Park]] stands on it too [IC]. The Act came into force on 2 November 1998 [IC]. For Farm 39, the transfer it provides for has not yet happened [IC]. This page explains the Act. The story of the process on Farm 39 since 2002 is told on [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]].
 
@@ -56,6 +56,7 @@ The Transformation of Certain Rural Areas Act, known as TRANCRAA, is the nationa
 | Made by | Parliament |
 | Administered by | The national [[organisations/minister-of-land-reform-and-rural-development\|Minister of Land Reform and Rural Development]], through the [[organisations/department-of-land-reform-and-rural-development\|Department of Land Reform and Rural Development]] |
 | In force since | 2 November 1998 |
+| Amended by | Land Affairs General Amendment Act 11 of 2000; Mineral and Petroleum Resources Development Act 28 of 2002; Rural Development and Land Reform General Amendment Act 4 of 2011 [IC] |
 | Official text | [Government of South Africa](https://www.gov.za/documents/transformation-certain-rural-areas-act); [SAFLII](https://www.saflii.org/za/legis/num_act/tocraa1998376/) |
 
 ## What it does
@@ -97,8 +98,10 @@ The Transformation of Certain Rural Areas Act, known as TRANCRAA, is the nationa
 
 - Whether the Minister has published any notice for Farm 39 since the transitional period ended in 2011.
 - Whether the CPA being set up has been registered, and when the Minister will decide on a transfer.
-- Whether the Act has been amended since 1998.
+- Whether any of the three amending Acts changed the definition of a resident or the date it uses.
 - Whether the 2008 High Court order on Farm 39 still stands, and how it fits with the Act.
+- How section 3(2), which protects "present and future users or occupiers of land" in the receiving body's rules, applies to people who came to live on Farm 39 after 2 November 1998 and so aren't residents under section 1.
+- Whether a list of residents for Farm 39 has been drawn up, from which records, and whether it will be published.
 
 ## Have your say
 
