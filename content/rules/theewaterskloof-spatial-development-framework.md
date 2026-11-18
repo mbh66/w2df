@@ -27,6 +27,7 @@ links:
   - https://twk.gov.za/wp-content/uploads/2022_2023/Town%20Planning/SDF%202020/11%20GREYTON.pdf
   - https://twk.gov.za/wp-content/uploads/2022_2023/Town%20Planning/SDF%202020/12%20GENADENDAL.pdf
 last_checked: 2026-10-01
+updated: 2026-11-18
 ---
 
 > [!warning] A working page, open for review
@@ -57,7 +58,7 @@ The Theewaterskloof Spatial Development Framework (SDF) is the municipality's pl
 | Citation | Final, November 2019 (SDF 2020) |
 | Made by | Theewaterskloof Municipal Council, under SPLUMA, LUPA, and the Municipal Systems Act |
 | Administered by | Theewaterskloof Municipality, Town Planning |
-| In force since | 2020; the date of council adoption is not yet confirmed [TBV] |
+| In force since | 2020; the date of council adoption is not yet confirmed [TBV]. The May 2023 IDP says "The SDF as approved in 2020 remains in place unchanged" [MS]. The Financial Recovery Plan (August 2025) says the SDF was revised and updated in June 2024 [IC]. |
 | Official text | [Introduction](https://twk.gov.za/wp-content/uploads/2022_2023/Town%20Planning/SDF%202020/1%20INTRODUCTION.pdf); [Chapter 11: Greyton](https://twk.gov.za/wp-content/uploads/2022_2023/Town%20Planning/SDF%202020/11%20GREYTON.pdf); [Chapter 12: Genadendal](https://twk.gov.za/wp-content/uploads/2022_2023/Town%20Planning/SDF%202020/12%20GENADENDAL.pdf) |
 
 ## What it does
@@ -71,7 +72,7 @@ The Theewaterskloof Spatial Development Framework (SDF) is the municipality's pl
 **Greyton (Chapter 11)** [IC]:
 
 - Tourism is Greyton's main economic sector.
-- Development is to stay within the urban edge, and low-density housing is preferred to keep Greyton's village character. About 9.5 hectares of new land is expected to be needed over ten years.
+- Development is to stay within the urban edge, and low-density housing is preferred to keep Greyton's village character. About 9.5 hectares of new land is expected to be needed over ten years. (The June 2023 draft review puts this at 3.2 hectares.)
 - An urban conservation area covers the original town layout of 1854, and many buildings are named as worthy of a heritage register.
 - Heuwelkroon is planned as an area for business and for medium- to high-density housing, to integrate the town.
 - Boschmanskloof is described as spatially isolated, to be linked to Greyton by roads and public spaces, with two heritage precincts of Cape vernacular cottages.
@@ -81,10 +82,13 @@ The Theewaterskloof Spatial Development Framework (SDF) is the municipality's pl
 **Genadendal, Bereaville, and Voorstekraal (Chapter 12)** [IC]:
 
 - The chapter records that the transformation process under TRANCRAA "has not been resolved and is still in process".
-- It states: "In terms of applicable municipal legislation, TWKM is not allowed to invest in infrastructure, where the Municipality is not the owner of the land."
+- It states: "In terms of applicable municipal legislation, TWKM is not allowed to invest in infrastructure, where the Municipality is not the owner of the land." It does not name the law.
+- It says very little of the 2012 SDF's proposals was carried out, and gives the unfinished transformation process as "the reason". The June 2023 draft review calls it "one of the main" reasons.
 - Little new land is needed; growth is planned through denser use of existing plots, in eight planning areas.
 - Five heritage precincts are identified in Genadendal, including the Moravian mission werf, and four each in Bereaville and Voorstekraal, with the aim to "maintain and conserve the cultural significance and historic sense of place".
-- It proposes working with Greyton on tourism, light industry along the main roads, and a Farmer Production Support Unit.
+- It proposes working with Greyton on tourism, small-scale light industry and service trade on the sites shown in Plans 12.1 and 12.2, and a Farmer Production Support Unit.
+- It gives Genadendal's housing backlog as 79, and a footnote says this counts informal structures only. The Greyton chapter's figure (306) also counts backyarders and farm workers on the waiting list, so the two figures measure different things. The municipality's housing demand database listed 764 for Genadendal and 403 for Greyton in May 2023 [MS].
+- Its table rates Genadendal "medium growth potential" and "low socio-economic need", from the 2014 Growth Potential Study. The municipality's IDPs describe Genadendal as a town with "medium human needs and low development potential", citing the Growth Potential of Small Towns Study [MS].
 - It suggests extending the north-south environmental corridors between the settlements for conservation.
 
 ## What it means in the valley
@@ -100,6 +104,7 @@ The Theewaterskloof Spatial Development Framework (SDF) is the municipality's pl
 ## Relevance to W2DF
 
 - [[villages/next-door-different-rules|Next Door, Different Rules]]: draws on the Greyton chapter.
+- [[civic/residents-association/farm-39-and-the-valley-economy|Is the Wait for Farm 39 Holding Back the Valley's Economy?]]: tests the Genadendal chapter's statement that the municipality may not invest on land it does not own.
 - [[civic/residents-association/madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]].
 - [[economic/farmers-land-water/greyton-conservation-society|Greyton Conservation Society]]: the nature reserve and its proposed extension.
 - [[concepts/tourism-growth-fund-application|Valley of Grace Heritage Trail]]: tourism links between Greyton and the mission settlements.
@@ -111,7 +116,8 @@ The Theewaterskloof Spatial Development Framework (SDF) is the municipality's pl
 
 ## What is still open
 
-- The date the council adopted the SDF, and whether a review has begun.
+- The date the council adopted the SDF, and whether the June 2023 draft review was adopted, as the Financial Recovery Plan's "June 2024" update suggests, with or without changes to Chapter 12.
+- Which law the Genadendal chapter means by "applicable municipal legislation".
 - Whether the SDF's heritage precincts and conservation area have been given binding protection.
 
 ## Have your say
@@ -131,4 +137,7 @@ If you can confirm or correct anything on this page, contact the moderators thro
 - Theewaterskloof Municipality. [Spatial Development Framework: Introduction (final, November 2019)](https://twk.gov.za/wp-content/uploads/2022_2023/Town%20Planning/SDF%202020/1%20INTRODUCTION.pdf). Legal status and the chapters.
 - Theewaterskloof Municipality. [Spatial Development Framework, Chapter 11: Greyton (final, November 2019)](https://twk.gov.za/wp-content/uploads/2022_2023/Town%20Planning/SDF%202020/11%20GREYTON.pdf).
 - Theewaterskloof Municipality. [Spatial Development Framework, Chapter 12: Genadendal (final, November 2019)](https://twk.gov.za/wp-content/uploads/2022_2023/Town%20Planning/SDF%202020/12%20GENADENDAL.pdf).
+- Theewaterskloof Municipality. [Draft Spatial Development Framework, June 2023 (index of chapters)](https://twk.gov.za/draft-spatial-development-framework-june-2023/). The draft review: 3.2 hectares for Greyton and the softened wording on the transformation process.
+- Theewaterskloof Municipality. [Final IDP 2023/24](https://lg.treasury.gov.za/supportingdocs/WC031/WC031_IDP%20Final_2024_Y_20230531T161458Z_agathaho.pdf) (31 May 2023). The SDF "as approved in 2020", the housing demand database and the older town rating.
+- Western Cape Provincial Treasury. [Theewaterskloof Financial Recovery Plan](https://www.westerncape.gov.za/treasury/files/wcg-blob-files?file=2025-08%2Ffinal-draft-theewaterskloof-financial-recovery-plan-final_20250813-published.pdf&type=file) (August 2025). The June 2024 update of the SDF.
 - Theewaterskloof Municipality. [Plan 11.1: Greyton Proposals](https://twk.gov.za/wp-content/uploads/2022_2023/Town%20Planning/SDF%202020/Plans/PLAN%2011.1_GREYTON%20PROPOSALS.pdf) and [Plan 12.1: Genadendal Proposals](https://twk.gov.za/wp-content/uploads/2022_2023/Town%20Planning/SDF%202020/Plans/PLAN%2012.1_GENADENDAL%20PROPOSALS.pdf). The maps.

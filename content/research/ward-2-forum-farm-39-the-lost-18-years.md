@@ -1,6 +1,6 @@
 ---
 title: "Farm 39 Transformation: The Lost 18 Years"
-description: "A report by Ward 2 Forum (2017) on the Farm 39 land transfer process, in nine parts. Cited on 6 pages of the register."
+description: "A report by Ward 2 Forum (2017) on the Farm 39 land transfer process, in nine parts. Cited on 11 pages of the register."
 type: source
 source_kind: Report
 author: "Ward 2 Forum"
@@ -26,10 +26,15 @@ cited_on:
   - "[[challenges|Challenges]]"
   - "[[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]]"
   - "[[civic/governance/ward-2-forum-2016-2019|Ward 2 Forum (2016 to 2019)]]"
+  - "[[civic/residents-association/farm-39-and-the-devforums-priorities|What the Farm 39 Wait Means for the DevForum's Priorities]]"
+  - "[[civic/residents-association/farm-39-and-the-valley-economy|Is the Wait for Farm 39 Holding Back the Valley's Economy?]]"
+  - "[[civic/residents-association/trancraa-national-record|TRANCRAA: The National Record]]"
   - "[[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]]"
+  - "[[concepts/can-the-valley-rely-on-trancraa|Can the Valley Rely on TRANCRAA?]]"
+  - "[[rules/municipal-asset-transfer-regulations|Municipal Asset Transfer Regulations]]"
   - "[[villages/farm-32-langgezocht|Farm 32: Langgezocht]]"
   - "[[villages/farm-827-glebe-land|Farm 827: The Glebe Land]]"
-updated: 2026-11-04
+updated: 2026-11-18
 ---
 
 *Farm 39 Transformation: The Lost 18 Years* is a report by Ward 2 Forum (2017), on the Farm 39 land transfer process, in nine parts. This page records how the register cites it and which pages use it. It is part of the [[research/index|Research Register]].
@@ -49,13 +54,23 @@ updated: 2026-11-04
 - [Part 9: Communal Land Tenure (31 May 2017)](https://web.archive.org/web/20201204045902/https://ward2forum.org/wp-content/uploads/2017/06/Farm-39-lost-18-years-Part-9-Land-Tenure.pdf)
 - Ward 2 Forum. [Farm 39 Transformation: The Lost 18 Years, Part 1](https://web.archive.org/web/20230803030459/https://ward2forum.org/wp-content/uploads/2017/04/Farm-39-lost-18-years-Part-1-Contents-and-History.pdf) (28 March 2017). The 1899 purchase and 1,881 hectares.
 - Ward 2 Forum. [Farm 39 Transformation: The Lost 18 Years, Part 1](https://web.archive.org/web/20230803030459/https://ward2forum.org/wp-content/uploads/2017/04/Farm-39-lost-18-years-Part-1-Contents-and-History.pdf) (28 March 2017). The nine portions and the 1858 grant.
+- Ward 2 Forum. *Farm 39 Transformation: The Lost 18 Years* (2017, archived): [Part 4](https://web.archive.org/web/20221123180455/https://ward2forum.org/wp-content/uploads/2017/04/FARM-39-PART-4.1-FINAL.pdf); [Part 7](https://web.archive.org/web/20230204061021/https://ward2forum.org/wp-content/uploads/2017/05/FARM-39-PART-7-FINAL.pdf); [Part 8](https://web.archive.org/web/20230204050814/https://ward2forum.org/wp-content/uploads/2017/05/FARM-39-PART-8-FINAL.pdf); [Part 9](https://web.archive.org/web/20201204045902/https://ward2forum.org/wp-content/uploads/2017/06/Farm-39-lost-18-years-Part-9-Land-Tenure.pdf). The valley's account of the process, the 2015/16 CPA figure, the 2010 interdict and the 2008 settlement, and household title.
+- Ward 2 Forum. *Farm 39 Transformation: The Lost 18 Years* (2017, archived): [Part 1](https://web.archive.org/web/20230803030459/https://ward2forum.org/wp-content/uploads/2017/04/Farm-39-lost-18-years-Part-1-Contents-and-History.pdf); [Parts 2 and 3](https://web.archive.org/web/20210119125640/https://ward2forum.org/wp-content/uploads/2017/04/FARM-39-Parts-2-and-3.pdf); [Part 7](https://web.archive.org/web/20230204061021/https://ward2forum.org/wp-content/uploads/2017/05/FARM-39-PART-7-FINAL.pdf). The Act's design, the guide's phases, and the Department's 2015/16 figures.
+- Ward 2 Forum. [Farm 39 Transformation: The Lost 18 Years, Parts 5 and 6](https://web.archive.org/web/20230922172542/ward2forum.org/wp-content/uploads/2017/05/FARM-39-Parts-5-6-1.pdf) (2017). Land ownership in the townships, vacant erven and lapsed leases.
+- Ward 2 Forum. [Farm 39 Transformation: The Lost 18 Years, Parts 5 and 6](https://web.archive.org/web/20230922172542/ward2forum.org/wp-content/uploads/2017/05/FARM-39-Parts-5-6-1.pdf) (2017). Municipal land in Voorstekraal and Erf 1353.
+- Ward 2 Forum. [Farm 39 Transformation: The Lost 18 Years, Parts 5 and 6](https://web.archive.org/web/20230922172542/ward2forum.org/wp-content/uploads/2017/05/FARM-39-Parts-5-6-1.pdf) (2017). The lapsed leases on the Remainder.
 
 ## Pages that cite it
 
 - [[challenges|Challenges]]
 - [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]]
 - [[civic/governance/ward-2-forum-2016-2019|Ward 2 Forum (2016 to 2019)]]
+- [[civic/residents-association/farm-39-and-the-devforums-priorities|What the Farm 39 Wait Means for the DevForum's Priorities]]
+- [[civic/residents-association/farm-39-and-the-valley-economy|Is the Wait for Farm 39 Holding Back the Valley's Economy?]]
+- [[civic/residents-association/trancraa-national-record|TRANCRAA: The National Record]]
 - [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]]
+- [[concepts/can-the-valley-rely-on-trancraa|Can the Valley Rely on TRANCRAA?]]
+- [[rules/municipal-asset-transfer-regulations|Municipal Asset Transfer Regulations]]
 - [[villages/farm-32-langgezocht|Farm 32: Langgezocht]]
 - [[villages/farm-827-glebe-land|Farm 827: The Glebe Land]]
 

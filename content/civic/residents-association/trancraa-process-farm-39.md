@@ -29,7 +29,7 @@ links:
   - https://www.saflii.org/za/cases/ZAWCHC/2019/95.html
   - https://www.parliament.gov.za/news/committee-receives-briefing-progress-and-challenges-facing-trancraa-communities
   - https://pmg.org.za/committee-question/8475/
-updated: 2026-11-04
+updated: 2026-11-18
 ---
 
 > [!warning] For the Genadendal Transformasie Komitee to review
@@ -81,7 +81,7 @@ In 2014 the Land Claims Court held that TRANCRAA is a land reform law. It does n
 - In 1909 a new law placed mission land under management boards. Residents kept occupation rights, but could not become owners [IC].
 - In 1927 title to the core mission areas of Genadendal and Bereaville, known as the Glebe Lands, was granted free of charge to the Moravian Church [IC]. The Ward 2 Forum's 2017 series describes them as "nine portions of land" of 68 hectares [MS], and the consultants' 2010 report gives 70.7795 hectares [MS]. They sit outside the TRANCRAA process [IC]. In the Surveyor-General's records the Glebe Land is Farm 827, Caledon, named "GLEBE LAND", 61.11 hectares [IC]. The Deeds Office report attached to the 2008 order records Portions 3 to 7 of Farm 39 as consolidated into Farm 827 [IC]. The parcel covers Genadendal's mission core; where the Bereaville portions are recorded has not been found [TBV]. See [[villages/farm-827-glebe-land|Farm 827: The Glebe Land]].
 - The state holds Farm 39 under Deed of Grant G19/1952, dated 6 February 1952, which gives its extent as 5,572 morgen and 261 square roods, or 4,772.97 hectares [IC]. The farm is on Surveyor-General diagram B180/128 [IC]. Its extent excludes the Glebe Lands [IC].
-- The size of Farm 39 depends on which record is used. The consultants' 2010 report gives 4,772.97 hectares for the original farm, and 4,641.45 hectares in the title deeds [IC]. A 2019 court judgment gives 4,515.53 hectares [IC]. DevForum documents have used "about 4,800 hectares" [MS]. The Surveyor-General's records give 4,498.09 hectares [IC], and this site now uses that figure. The survey of 1857, at 5,644 morgen and 289 square roods [MS], is roughly 4,830 hectares at about 0.857 hectares to the morgen (this page's own conversion).
+- The size of Farm 39 depends on which record is used. The consultants' 2010 report gives 4,772.97 hectares for the original farm, and 4,641.45 hectares in the title deeds [IC]. The Department's 2010 guide to the Act gives 4,641.3832 hectares [IC]. A 2019 court judgment gives 4,515.53 hectares [IC]. DevForum documents have used "about 4,800 hectares" [MS]. The Surveyor-General's records give 4,498.09 hectares [IC], and this site now uses that figure. The survey of 1857, at 5,644 morgen and 289 square roods [MS], is roughly 4,830 hectares at about 0.857 hectares to the morgen (this page's own conversion).
 - The four township areas cover about 342 hectares, on 20 approved general plans, of which township registers had been opened for 8 by 2010 [IC]. The rest, about 4,430 hectares, is the Remainder [IC].
 - The consultants identified two properties as subject to the process: the Remainder of Farm 39 (G19/1952, 4,614.56 hectares) and Erf 387 (T75345/95, 26.89 hectares) [MS].
 - A 2005 survey confirmed the fence between Genadendal and Greyton as the boundary [IC].
@@ -145,7 +145,7 @@ The Act sets the steps in law [IC]:
 | Mar to May 2017 | The Ward 2 Forum publishes "Farm 39 Transformation: The Lost 18 Years" [IC] |
 | 2019 | Protests over services at Madiba Park, on Farm 39 land [IC] |
 | 10 May 2019 | The High Court lets two Genadendal residents defend municipal claims on the basis that their land falls under TRANCRAA [IC] |
-| May 2021 | The Deputy Minister says all remaining TRANCRAA transfers will be done by 2022/23 [IC] |
+| May 2021 | The Deputy Minister says 11 TRANCRAA areas will be finalised in 2021/22 [IC] |
 | Oct 2024 | The Department tells Parliament that 603,000 of about 1.4 million hectares across the 23 areas have been transferred [IC] |
 | Aug 2025 | The municipality's Financial Recovery Plan reports that Genadendal accounts for about 20% of its outstanding debt [IC] |
 | 2025 | The Committee aligns with AfriForum and the Kaapse Forum; a CPA is being set up to receive the land [MS] |
@@ -203,43 +203,43 @@ Each point below gives the positions in the words of the parties' own documents.
 
 ## How the TRANCRAA process proceeded elsewhere
 
-TRANCRAA covers 23 areas: 12 in the Western Cape, 8 in the Northern Cape, 1 in the Eastern Cape, and 2 in the Free State [IC]. The record shows long delays across the country:
+TRANCRAA covers 23 areas: 12 in the Western Cape, 8 in the Northern Cape, 1 in the Eastern Cape, and 2 in the Free State [IC]. Each area's record is set out on [[civic/residents-association/trancraa-national-record|TRANCRAA: The National Record]]. The record shows long delays across the country:
 
 - In April 2018, twenty years after the Act, none of the six Namaqualand areas had been transferred. Together they cover about 1 million hectares [IC].
-- In May 2021 the Deputy Minister said Haarlem, Mamre, and most of Ebenhaeser were transferred in 2020/21, and that all remaining transfers would be finished by 2022/23 [IC].
-- That target was missed. In October 2024 the Department told Parliament that 603,000 hectares of about 1.4 million had been transferred, and named staff shortages, a lack of municipal co-operation, and community disputes as the main obstacles [IC].
-- Where dates are known, every transfer found for this page came more than twenty years after the Act [IC].
+- In May 2021 the Deputy Minister said Haarlem, Mamre, and most of Ebenhaeser were transferred in 2020/21, and that 11 areas would be finalised in 2021/22 [IC]. The speech's own words on a 2022/23 target have not been found [TBV].
+- That target was missed. The Department's annual report for 2021/22 records that no TRANCRAA area was transferred that year [IC]. In October 2024 the Department told Parliament that 603,000 hectares of about 1.4 million had been transferred, and named staff shortages, a lack of municipal co-operation, and community disputes as the main obstacles [IC].
+- Every transfer with a date in an official record came more than twenty years after the Act [IC]. The Mamre Residents Association dates Mamre's deed handover to 2013, fifteen years after the Act [MS].
 - Receiving land is only part of the task. In October 2024, 82% of South Africa's 1,742 registered CPAs were not complying with the law that governs them [IC]. The Minister listed "conflicts and infighting, failure to comply to founding legislation, inadequate governance" among their problems [MS].
 
 The Department's figures do not agree with each other: it reported 473,938 hectares transferred in July 2024, 599,000 in August 2024, and 603,000 in October 2024 [IC].
 
-| Area                 | Province      | What the official record shows                                                                                        |
-| -------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Genadendal (Farm 39) | Western Cape  | Transitional period began 2009 and ended 2011; not transferred [IC]                                                   |
-| Mamre                | Western Cape  | Transferred to a CPA in 2020/21 [IC]                                                                                  |
-| Haarlem              | Western Cape  | Transferred in 2020/21 [IC]                                                                                           |
-| Ebenhaeser           | Western Cape  | Largest portion transferred in 2020/21 [IC]                                                                           |
-| Kranshoek            | Western Cape  | Transfer documents in progress in 2021/22 [IC]; outcome not found                                                     |
-| Zoar                 | Western Cape  | Transfer documents in progress in 2021/22 [IC]; title deed handover announced in 2024 [TBV]                           |
-| Slangrivier          | Western Cape  | Transitional period began 2016 [IC]; documents in progress in 2021/22 [IC]                                            |
-| Pniel                | Western Cape  | Transitional period began 2016 [IC]; outcome not found                                                                |
-| Saron                | Western Cape  | Transitional period began 2016 [IC]; outcome not found                                                                |
-| Suurbraak            | Western Cape  | Transitional period began 2016 [IC]; outcome not found                                                                |
-| Friemersheim         | Western Cape  | Status not found                                                                                                      |
-| Rietpoort            | Western Cape  | Status not found                                                                                                      |
-| Leliefontein         | Northern Cape | Chose the municipality; not transferred in 2018 [IC]; CPA title deed handover announced August 2025 [IC]              |
-| Pella                | Northern Cape | CPA not yet set up in 2018 [IC]; title deed handover announced August 2025 [IC]                                       |
-| Concordia            | Northern Cape | CPA not yet set up in 2018 [IC]; title deed handover announced August 2025 [IC]                                       |
-| Steinkopf            | Northern Cape | CPA not yet set up in 2018 [IC]; title deed handover announced August 2025 [IC]                                       |
-| Komaggas             | Northern Cape | No entity chosen in 2018; community refused the service provider [IC]; title deed handover announced August 2025 [IC] |
-| Richtersveld         | Northern Cape | "CPA conflict hindering transfer process" in 2018 [IC]; outcome not found                                             |
-| Eksteenskuil         | Northern Cape | Title deeds for farmers announced August 2025 [IC]                                                                    |
-| Mier                 | Northern Cape | Status not found                                                                                                      |
-| Enon/Bersheba        | Eastern Cape  | Transferred to the Witrivier CPA (8,314 hectares) [IC]                                                                |
-| Oppermansgronde      | Free State    | Handled by the Land Claims Commission [IC]                                                                            |
-| Thaba Phatsoa        | Free State    | Land rights enquiry in progress in 2010 [IC]; outcome not found                                                       |
+| Area | Province | What the record shows |
+| --- | --- | --- |
+| Genadendal (Farm 39) | Western Cape | Transitional period began 8 July 2009 and ended January 2011; not transferred [IC] |
+| Mamre | Western Cape | Transferred to a CPA in 2020/21, according to the Deputy Minister [IC]; the Mamre Residents Association dates the deed handover to October 2013 [MS] |
+| Haarlem | Western Cape | Deed handed over to the Haarlem CPA on 15 February 2020 [IC]; the Deputy Minister counted it in 2020/21 [IC] |
+| Ebenhaeser | Western Cape | Largest portion transferred in 2020/21 [IC] |
+| Kranshoek | Western Cape | Transfer documents in progress in 2021/22 [IC]; still among the areas left to transfer in 2022/23 [TBV] |
+| Zoar | Western Cape | Transfer documents in progress in 2021/22 [IC]; a Department notice is reported to record 5,664.8776 hectares going to the Zoar CPA in 2023/24, with a handover set for April 2024 [TBV] |
+| Slangrivier | Western Cape | Transitional period began 12 October 2016 [IC]; documents in progress in 2021/22 [IC]; no transfer found |
+| Pniel | Western Cape | Transitional period began 12 October 2016 [IC]; no transfer found |
+| Saron | Western Cape | Transitional period began 12 October 2016 [IC]; township housing deeds handed over in October 2024 [IC]; no transfer of the Remainder found |
+| Suurbraak | Western Cape | Transitional period began 12 October 2016 [IC]; land in Swellendam Municipality's name, and a CPA registered in September 2025 [MS] |
+| Friemersheim | Western Cape | No record of a transitional period or a transfer found |
+| Rietpoort | Western Cape | No record of a transitional period or a transfer found |
+| Leliefontein | Northern Cape | Chose the municipality; not transferred in 2018 [IC]; deeds for the Leliefontein CPA listed for handover in August 2025, extent not published [IC] |
+| Pella | Northern Cape | CPA not yet set up in 2018 [IC]; deeds listed for handover in August 2025, extent not published [IC] |
+| Concordia | Northern Cape | CPA not yet set up in 2018 [IC]; deeds listed for handover in August 2025, extent not published [IC]; a 2023 deed reported, source not traced [TBV] |
+| Steinkopf | Northern Cape | CPA not yet set up in 2018 [IC]; deeds listed for handover in August 2025, extent not published [IC]; residents disputed what the deed covers in 2026 [MS] |
+| Komaggas | Northern Cape | No entity chosen in 2018; community refused the service provider [IC]; listed for deed handover in August 2025, extent not published [IC] |
+| Richtersveld | Northern Cape | "CPA conflict hindering transfer process" in 2018 [IC]; the CPA was reported to have received title deeds on 28 August 2025 [TBV] |
+| Eksteenskuil | Northern Cape | Deeds for Eksteenskuil Farmers listed for handover in August 2025 [IC] |
+| Mier | Northern Cape | No record of a transitional period or a transfer found |
+| Enon/Bersheba | Eastern Cape | 8,314.2843 hectares transferred to the Witrivier CPA; about 2,000 hectares vested in the Eastern Cape Provincial Government [IC] |
+| Oppermansgronde | Free State | Handled by the Land Claims Commission [IC] |
+| Thaba Phatsoa | Free State | In July 2010, service providers still to be appointed for a land rights enquiry [IC]; outcome not found |
 
-Research in Namaqualand in 2004 found that tenure reform on its own left residents' new rights "vulnerable if isolated from training, finance and integrated development initiatives" [TBV].
+Research in Namaqualand in 2004 found that strengthened tenure rights "appear vulnerable if isolated from training, finance and integrated development initiatives" [IC].
 
 ## Where things stand in 2026
 
@@ -279,6 +279,7 @@ If you are a Farm 39 resident, or represent a body named here, and want to add o
 ## Related
 
 - [[villages/farm-39|Farm 39]]
+- [[civic/residents-association/trancraa-national-record|TRANCRAA: The National Record]]
 - [[civic/governance/genadendal-transformasie-komitee|Genadendal Transformasie Komitee]]
 - [[madiba-park-land-and-services|Madiba Park: Land Status and Basic Services]]
 - [[villages/genadendal|Genadendal]]
@@ -308,29 +309,34 @@ If you are a Farm 39 resident, or represent a body named here, and want to add o
 
 ### Court records:
 
-- Order of the High Court of South Africa (Cape of Good Hope Provincial Division), case 926/07, 22 October 2008, with the Agreement of Settlement signed 17 October 2008, and Annexure GT1, the Deeds Office search report on Farm 39 as at 25 April 2007 (Deed of Grant G19/1952, deductions, registered and unregistered areas). Held by the DevForum; published on the Ward 2 Forum's [legal reference documents page (archived 2017)](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/).
+- Order of the High Court of South Africa (Cape of Good Hope Provincial Division), case 926/07, 22 October 2008, with the [Agreement of Settlement](https://web.archive.org/web/20230803051536/http://ward2forum.org/wp-content/uploads/2017/05/How-Hoek-Agreement.pdf) signed 17 October 2008, and Annexure GT1, the Deeds Office search report on Farm 39 as at 25 April 2007 (Deed of Grant G19/1952, deductions, registered and unregistered areas). Held by the DevForum; published on the Ward 2 Forum's [legal reference documents page (archived 2017)](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/).
 - [Genadedal Transformation Committee and Others v Theewaterskloof Municipality and Others (LCC64/2014) [2014] ZALCC 14 (10 October 2014)](https://www.saflii.org/za/cases/ZALCC/2014/14.html). Land Claims Court. Finds TRANCRAA is land reform law and strikes the application from the roll.
 - [Adendorff and Another v Theewaterskloof Municipality (A220/2018) [2019] ZAWCHC 95 (10 May 2019)](https://www.saflii.org/za/cases/ZAWCHC/2019/95.html). Western Cape High Court. Sets out the 2008 settlement terms and the size of Farm 39.
 
 ### Process documents 
 (held by the DevForum, and listed on the [archived legal reference documents page](https://web.archive.org/web/20170727031518/http://ward2forum.org/transformation-legal-reference-documents/)):
 
-- Urban Dynamics Western Cape, *Genadendal Transformation: Executive Summary and Recommendations* (October 2010). The consultants' chronology and final recommendation, the general plans, title deeds, the Glebe Land area, diagram B180/128, garden plots, leases and the residents list.
-- Theewaterskloof Municipality, *Way Forward in Dealing with the Genadendal Transformation Process: Position of the Theewaterskloof Municipality* (27 September 2016).
+- Urban Dynamics Western Cape, [*Genadendal Transformation: Executive Summary and Recommendations*](https://web.archive.org/web/20230803031808/https://ward2forum.org/wp-content/uploads/2017/05/SUMMARY-AND-RECOMMENDATIONS-of-Farm-39-Transformation.1-3.pdf) (October 2010). The consultants' chronology and final recommendation, the general plans, title deeds, the Glebe Land area, diagram B180/128, garden plots, leases and the residents list. Register entry: [[research/urban-dynamics-genadendal-transformation|Genadendal Transformation: Summary and Recommendations]].
+- Theewaterskloof Municipality, [*Way Forward in Dealing with the Genadendal Transformation Process: Position of the Theewaterskloof Municipality*](https://web.archive.org/web/20230803022901/https://ward2forum.org/wp-content/uploads/2017/05/Position-Document-TWKM.pdf) (27 September 2016).
 - Theewaterskloof Municipality, letter to the Transformation Committee on unlawful occupiers in Bereaville (18 May 2015).
 - Genadendal Transformation Committee, Constitution and Code of Conduct.
 
 ### Government and Parliament:
 
-- [Department of Rural Development and Land Reform, *A to Z of the Transformation of Certain Rural Areas Act* (revised July 2010)](http://www.ruraldevelopment.gov.za/phocadownload/Land-Reform/Land-Reform-Administration/trancraaazrevisedjuly2010.pdf). The official guide, with the list of 23 areas and the five phases.
+- [Department of Rural Development and Land Reform, *A to Z of the Transformation of Certain Rural Areas Act* (revised July 2010)](http://www.ruraldevelopment.gov.za/phocadownload/Land-Reform/Land-Reform-Administration/trancraaazrevisedjuly2010.pdf). The official guide, with the list of 23 areas and the five phases. The register's copy: [[trancraa-a-to-z-guide-2010.pdf|A to Z guide (PDF)]].
 - [Parliament: Committee Receives Briefing on Progress and Challenges Facing TRANCRAA Communities (31 October 2024)](https://www.parliament.gov.za/news/committee-receives-briefing-progress-and-challenges-facing-trancraa-communities). National figures and obstacles.
 - [PMG: Communal Property Associations Annual Report; Briefing on TRANCRAA (October 2024)](https://pmg.org.za/committee-meeting/39779/). CPA compliance figures and the TRANCRAA briefing.
 - [PMG: Question NW520 to the Minister (6 April 2018)](https://pmg.org.za/committee-question/8475/). Status of the six Namaqualand areas.
 - [PMG: Question NW3147 to the Minister (26 October 2023)](https://pmg.org.za/committee-question/23840/). Transfer of Enon/Bersheba to the Witrivier CPA.
 - [PMG: Question NW5 to the Minister (1 August 2024)](https://pmg.org.za/committee-question/25633/). Reports 599,000 hectares transferred under TRANCRAA.
-- [Deputy Minister Mcebisi Skwatsha: Budget Vote 2021/22 (13 May 2021)](https://www.gov.za/news/speeches/deputy-minister-mcebisi-skwatsha-agriculture-land-reform-and-rural-development-dept). Transfers of Haarlem, Mamre, and Ebenhaeser, and the 2022/23 target.
+- [Deputy Minister Mcebisi Skwatsha: Budget Vote 2021/22 (13 May 2021)](https://www.gov.za/news/speeches/deputy-minister-mcebisi-skwatsha-agriculture-land-reform-and-rural-development-dept). Transfers of Haarlem, Mamre, and Ebenhaeser, and the target of 11 areas for 2021/22.
+- [Department of Agriculture, Land Reform and Rural Development: Annual Report 2021/22](https://www.gov.za/sites/default/files/gcis_document/202210/dalrrd-annual-report-2021-2022.pdf). Indicator 5.5.1: 11 areas targeted and none transferred.
 - [Minister Mzwanele Nyhontso: Budget Vote 2024/25 (16 July 2024)](https://www.politicsweb.co.za/documents/access-to-land-with-secure-tenure-rights-limited-t). Reports 473,938 hectares transferred, and CPA problems.
 - [Minister Nyhontso hands over title deeds in Namakwa, 28 to 29 August 2025](https://www.gov.za/news/media-advisories/government-activities/minister-mzwanele-nyhontso-hands-over-title-deeds-land). Northern Cape TRANCRAA areas receiving title deeds.
+- [Deputy Minister Mcebisi Skwatsha hands over title deed to Haarlem (February 2020)](https://www.gov.za/news/media-advisories/government-activities/deputy-minister-mcebisi-skwatsha-hands-over-title-deed). The Haarlem CPA deed.
+- [Department of Agriculture, Land Reform and Rural Development: Deputy Minister to hand over title deed to Zoar community (21 April 2024)](https://www.nda.gov.za/images/Newsroom/Media%20Invites/2024/media-invite-deputy-minister-skwatsha-to-hand-over-title-deed-to-zoar-community.pdf). The Zoar transfer, as reported; not opened by the register.
+- [Department of Agriculture, Land Reform and Rural Development: tender for the remaining TRANCRAA areas (2022/23)](https://www.dlrrd.gov.za/images/tenders/advertised-bids/advertised-bids2022-23/5-2-2-1-dalrrd-0040-2022-2023.pdf). Kranshoek among the areas left to transfer; not opened by the register.
+- [Western Cape Government: Minister Simmers hands over title deeds in Saron (October 2024)](https://www.westerncape.gov.za/infrastructure/article/minister-simmers-hands-over-title-deeds-saron). The Saron housing deeds.
 - [Mamre Ministerial Community Meeting (12 June 2013)](https://www.gov.za/news/media-advisories/government-activities/mamre-ministerial-community-meeting-12-jun-2013). Earlier progress on the Mamre transfer.
 - [Western Cape Provincial Treasury: Theewaterskloof Financial Recovery Plan (August 2025)](https://www.westerncape.gov.za/treasury/files/wcg-blob-files?file=2025-08/final-draft-theewaterskloof-financial-recovery-plan-final_20250813-published.pdf&type=file). Genadendal's share of municipal debt and residents' view of the land.
 
@@ -349,6 +355,13 @@ If you are a Farm 39 resident, or represent a body named here, and want to add o
 
 - Balie, I. (2023). [Genadendal, The Valley of Grace: A Long Walk Through the History of the First Mission Station in South Africa](https://www.amazon.com/dp/B0CCJ3S45K/). AuthorHouse. First published 2020. The survey of 1857, the grant of 1858, residents' objections, and the court cases of the late 1800s and 1924. Page numbers are on [[history/genadendal-a-long-walk|Genadendal: A Long Walk]].
 
-- [Wisborg and Rohde, *Contested land tenure reform in South Africa: the Namaqualand experience* (UWC, 2004)](https://uwcscholar.uwc.ac.za:8443/server/api/core/bitstreams/f9d3ad85-654e-4448-a151-2493768449ab/content). Referendums and outcomes in the six Namaqualand areas.
-- [Wisborg and Rohde, *TRANCRAA and communal land rights: Lessons from Namaqualand* (PLAAS policy brief, 2003)](https://uwcscholar.uwc.ac.za/items/4f2239f2-1319-455b-a53c-5cec6451b7c4).
+- [Wisborg and Rohde, *Contested land tenure reform in South Africa: the Namaqualand experience* (UWC, 2004)](https://uwcscholar.uwc.ac.za:8443/server/api/core/bitstreams/f9d3ad85-654e-4448-a151-2493768449ab/content). Referendums and outcomes in the six Namaqualand areas. Register entry: [[research/wisborg-rohde-contested-land-tenure-reform|Contested Land Tenure Reform in South Africa]].
+- [Wisborg and Rohde, *TRANCRAA and communal land rights: Lessons from Namaqualand* (PLAAS policy brief, 2003)](https://uwcscholar.uwc.ac.za/items/4f2239f2-1319-455b-a53c-5cec6451b7c4). Register entry: [[research/wisborg-rohde-trancraa-and-communal-land-rights|TRANCRAA and Communal Land Rights]].
 - [Knowledge Base Land: Act 9 rural areas (2018)](https://knowledgebase.land/act-9-rural-areas/). Background on the 23 areas and the slow pace of transfers.
+
+### Other sources:
+
+- Mamre Residents Association. [Mamre CPA](http://www.mamrera.org.za/mcpa.html). The 2013 deed handover, as the association records it.
+- Phuhlisani NPC. [Our work](https://www.phuhlisani.org/our-work.html) (2025). Suurbraak's land and CPA.
+- African Farming. [Richtersveld CPA receives title deeds](https://www.africanfarming.com/2025/08/31/richtersveld-cpa-receives-title-deeds/) (31 August 2025). The Richtersveld deeds.
+- Cape Coast News. [Steinkopf verdeel oor beoogde oordrag](https://ccnews.co.za/2026/07/10/steinkopf-verdeel-oor-beoogde-oordrag/) (10 July 2026). The Steinkopf deed dispute.

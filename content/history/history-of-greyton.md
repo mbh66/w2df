@@ -259,4 +259,4 @@ The mountain and commonage:
 Not yet read for this page:
 
 - Kemp, J.T. ["Greyton: A Unique Overberg Village"](https://journals.co.za/doi/pdf/10.10520/AJA10113053_740). A journal article that may settle several open questions. Register entry: [[research/kemp-greyton-a-unique-overberg-village|Greyton: A Unique Overberg Village]].
-- ["Making a Tourism Gentrified Town: The Case of Greyton, South Africa"](https://www.researchgate.net/publication/267448285_Making_a_Tourism_Gentrified_Town_The_Case_of_Greyton_South_Africa). A study of how tourism changed Greyton. Author and journal to be confirmed. Register entry: [[research/making-a-tourism-gentrified-town-greyton|Making a Tourism Gentrified Town: Greyton]].
+- ["Making a Tourism Gentrified Town: The Case of Greyton, South Africa"](https://www.researchgate.net/publication/267448285_Making_a_Tourism_Gentrified_Town_The_Case_of_Greyton_South_Africa). A study of how tourism changed Greyton, by R. Donaldson in *Geography* (2009). Register entry: [[research/making-a-tourism-gentrified-town-greyton|Making a Tourism Gentrified Town: Greyton]].

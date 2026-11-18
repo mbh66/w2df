@@ -26,7 +26,7 @@ needs: []
 links:
   - https://www.saflii.org/za/cases/ZALCC/2014/14.html
   - https://www.saflii.org/za/cases/ZAWCHC/2019/95.html
-updated: 2026-11-04
+updated: 2026-11-18
 ---
 
 The Genadendal Transformasie Komitee is the committee elected by residents of Farm 39 to take part in the transfer of their land under the Transformation of Certain Rural Areas Act of 1998 ([[trancraa-process-farm-39|TRANCRAA]]) [IC]. [[farm-39|Farm 39]] is the land on which [[villages/genadendal|Genadendal]], [[villages/bereaville|Bereaville]], [[villages/voorstekraal|Voorstekraal]], and [[villages/boschmanskloof|Boschmanskloof]] stand [IC]. The Komitee was elected on 9 November 2004 [IC]. Court papers call it the Genadendal Transformation Committee [IC]. It takes part in the [[civic/governance/ward-2-development-forum|Ward 2 Development Forum (W2DF)]] as a stakeholder, and has an eight-sector plan for the valley [MS].
@@ -190,7 +190,7 @@ The Komitee's documents (held by the DevForum, and listed on the Ward 2 Forum's 
 
 - *Grondwet vir die Genadendal Transformasie Komitee* (April 2005). The Komitee's constitution, in Afrikaans.
 - *Gedragskode vir Genadendal Transformasie Komitee* (received by the municipality 15 March 2005). The Komitee's code of conduct.
-- Agreement of Settlement between the Komitee, the Minister of Land Affairs, and Theewaterskloof Municipality (17 October 2008), made an order of the High Court, case 926/07 (22 October 2008).
+- [Agreement of Settlement](https://web.archive.org/web/20230803051536/http://ward2forum.org/wp-content/uploads/2017/05/How-Hoek-Agreement.pdf) between the Komitee, the Minister of Land Affairs, and Theewaterskloof Municipality (17 October 2008), made an order of the High Court, case 926/07 (22 October 2008).
 
 ### Court records:
 
@@ -199,8 +199,8 @@ The Komitee's documents (held by the DevForum, and listed on the Ward 2 Forum's 
 
 ### Other parties' documents:
 
-- Urban Dynamics Western Cape, *Genadendal Transformation: Executive Summary and Recommendations* (October 2010). Chronology of the Komitee's formation and the dispute, and the advice of the provincial Department on its powers.
-- Theewaterskloof Municipality, *Way Forward in Dealing with the Genadendal Transformation Process: Position of the Theewaterskloof Municipality* (27 September 2016).
+- Urban Dynamics Western Cape, [*Genadendal Transformation: Executive Summary and Recommendations*](https://web.archive.org/web/20230803031808/https://ward2forum.org/wp-content/uploads/2017/05/SUMMARY-AND-RECOMMENDATIONS-of-Farm-39-Transformation.1-3.pdf) (October 2010). Chronology of the Komitee's formation and the dispute, and the advice of the provincial Department on its powers. Register entry: [[research/urban-dynamics-genadendal-transformation|Genadendal Transformation: Summary and Recommendations]].
+- Theewaterskloof Municipality, [*Way Forward in Dealing with the Genadendal Transformation Process: Position of the Theewaterskloof Municipality*](https://web.archive.org/web/20230803022901/https://ward2forum.org/wp-content/uploads/2017/05/Position-Document-TWKM.pdf) (27 September 2016).
 - [Transformation of Certain Rural Areas Act 94 of 1998](https://www.saflii.org/za/legis/num_act/tocraa1998376/). Definition of an "elected committee" and its role.
 
 ### Ward 2 Forum series: 

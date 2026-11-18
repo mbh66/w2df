@@ -7,7 +7,7 @@ draft: false
 komitee_review: pending
 links:
   - https://earth.google.com/earth/d/1PejJJkRHA_WrwYwdKrSeea92u3q3vp9y?usp=sharing
-updated: 2026-11-01
+updated: 2026-11-18
 ---
 
 > [!warning] For the Genadendal Transformasie Komitee to review
@@ -21,9 +21,11 @@ Farm 39 is the name used in law for the land on which [[villages/genadendal|Gena
 
 ## Why the name matters
 
-Farm 39 is part of a process under the Transformation of Certain Rural Areas Act of 1998, known as TRANCRAA [MS]. The process involves the proposed transfer of the land to a Communal Property Association, and it has not been completed [MS]. The Surveyor-General's records give Farm 39 an area of 4,498.09 hectares [IC]. Older documents give other figures, including about 4,800 hectares. See [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]]. The Transformasie Komitee is the community's mandated body for these matters [MS].
+Farm 39 is part of a process under the Transformation of Certain Rural Areas Act of 1998, known as TRANCRAA [MS]. The process involves the proposed transfer of the land to a Communal Property Association, and it has not been completed [MS]. The Surveyor-General's records give Farm 39 an area of 4,498.09 hectares [IC]. Older documents give other figures, including about 4,800 hectares. A Deeds Office search of 12 April 2012, quoted by the High Court in 2019, gave 4,515.5279 hectares, with the owner recorded as the "Gemeenskap Van Genadendal" [IC]. See [[civic/residents-association/trancraa-process-farm-39|TRANCRAA and Farm 39: The Land Transfer Process]]. The Transformasie Komitee is the community's mandated body for these matters [MS].
 
 The status of the land also affects services. The municipality does not provide basic services in Madiba Park [MS].
+
+Census 2011 counts Boschmanskloof (spelt Bosmanskloof, 909 people) inside the Greyton main place [IC]. Census figures for "Greyton" therefore include a settlement on Farm 39.
 
 ## The land on record
 
@@ -41,6 +43,8 @@ The status of the land also affects services. The municipality does not provide 
 | Not included | The Glebe Land, now [[villages/farm-827-glebe-land\|Farm 827]] [IC] |
 
 *Inference:* the current Surveyor-General parcel is smaller than the original farm because surveyed township land and other erven have been taken off it. On the DevForum's map, the points for Bereaville and Boschmanskloof fall outside the current parcel [MS].
+
+The Deeds Office search report attached to the 2008 court order (Annexure GT1) gives the registered remainder on 25 April 2007 as 4,566.72 hectares in the register's reading [IC]. The High Court's 2019 ruling quotes the same item as 4,566.77 hectares, and the unregistered remainder as 4,431.7307 hectares [IC].
 
 ## History of the land
 
@@ -75,3 +79,8 @@ The full story, with each party's position in its own words, is on [[civic/resid
 - [[organisations/minister-of-land-reform-and-rural-development|Minister of Land Reform and Rural Development]]
 - [[2026-09-16-inaugural-meeting|Inaugural Meeting, 16 September 2026]]
 - [[villages/index|All villages]]
+
+## References
+
+- Western Cape High Court. [Adendorff and Another v Theewaterskloof Municipality [2019] ZAWCHC 95](https://www.saflii.org/za/cases/ZAWCHC/2019/95.html) (10 May 2019). The 2012 Deeds search (paragraph 9) and the Annexure GT1 figures (paragraph 13).
+- Adrian Frith, from Statistics South Africa. [Census 2011: Greyton main place](https://census2011.adrianfrith.com/place/171006). Bosmanskloof as a sub place of Greyton.

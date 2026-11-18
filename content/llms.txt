@@ -24,7 +24,7 @@ Every initiative is an entry in exactly one of nine categories. The categories a
 
 An entry's URL is its category folder plus its file name, for example `/economic/farmers-land-water/wild-restoration`.
 
-Alongside the entries, the site holds the valley's history in `/history/`. History pages have no category, are not entries, and do not appear on the Register. It also holds the rules that apply in the valley today, one page per law, by-law, policy, or plan, in `/rules/`, pages on organisations outside the valley whose work reaches it, in `/organisations/`, and case studies of work done outside Ward 2 that the DevForum learns from, in `/case-studies/`.
+Alongside the entries, the site holds the valley's history in `/history/`. History pages have no category, are not entries, and do not appear on the Register. It also holds the rules that apply in the valley today, one page per law, by-law, policy, or plan, in `/rules/`, pages on organisations outside the valley whose work reaches it, in `/organisations/`, case studies of work done outside Ward 2 that the DevForum learns from, in `/case-studies/`, ideas for the valley that are not yet agreed, in `/concepts/`, one page per piece of research the site cites, in `/research/`, and the researchers and holders of local knowledge whose work it uses, in `/contributors/`.
 
 ## How an entry is structured
 
@@ -45,6 +45,31 @@ Each entry page has frontmatter and a body in a fixed order.
 - [DevForum Minutes](https://df.valleyofgrace.co.za/civic/governance/minutes/): summaries of DevForum meetings, with links to the official minutes
 - [Between Meetings](https://df.valleyofgrace.co.za/civic/governance/between-meetings/): one short page per conversation the DevForum holds with outside partners between its formal meetings, listed in a table with what came of each
 - [Research Register](https://df.valleyofgrace.co.za/research/): every piece of research the site cites (theses, books, articles, studies, archival editions), with the pages that use each one
+- [Ideas for the Valley](https://df.valleyofgrace.co.za/concepts/): ideas the valley could work towards together, none of them agreed yet
+- [Research Contributors](https://df.valleyofgrace.co.za/contributors/): the researchers and holders of local knowledge whose work the site uses, and how they are credited
+
+## Research records on the valley
+
+These pages record what public sources show. None has been adopted by the DevForum, and each opens with questions for the parties it describes.
+
+- [About Ward 2](https://df.valleyofgrace.co.za/about-ward-2): the ward's seven settlements, how its land is held, how it is governed, and what is known about its people
+- [Challenges](https://df.valleyofgrace.co.za/challenges): the challenges Ward 2 has faced from before 1652 to 2026, where each came from and where it stands now; the first of two research runs
+- [Political Economy of the Valley](https://df.valleyofgrace.co.za/political-economy-of-the-valley): the second research run, asking for each priority what has held the ward back, who decides, and in what order things would need to happen; work in progress
+
+## Farm 39 and TRANCRAA
+
+Farm 39 is the legal name for the land on which Genadendal, Bereaville, Voorstekraal, Boschmanskloof and Madiba Park stand. Its transfer under the Transformation of Certain Rural Areas Act (TRANCRAA) has been unresolved since 1998. Pages on it are reviewed by the Genadendal Transformasie Komitee, and the site takes no side on which entity should receive the land.
+
+- [Farm 39](https://df.valleyofgrace.co.za/villages/farm-39): the land on record, its size and its history
+- [TRANCRAA and Farm 39: The Land Transfer Process](https://df.valleyofgrace.co.za/civic/residents-association/trancraa-process-farm-39): the process, its key dates, and the points in dispute
+- [TRANCRAA: The National Record](https://df.valleyofgrace.co.za/civic/residents-association/trancraa-national-record): what public records show for all 23 TRANCRAA areas, to November 2026
+- [Can the Valley Rely on TRANCRAA?](https://df.valleyofgrace.co.za/concepts/can-the-valley-rely-on-trancraa): whether and when a transfer may happen; an idea that has not yet been agreed
+- [Is the Wait for Farm 39 Holding Back the Valley's Economy?](https://df.valleyofgrace.co.za/civic/residents-association/farm-39-and-the-valley-economy): tests the municipality's claim against the record, channel by channel, and finds it holds in part
+- [What the Farm 39 Wait Means for the DevForum's Priorities](https://df.valleyofgrace.co.za/civic/residents-association/farm-39-and-the-devforums-priorities): the same record set against each of the DevForum's five priorities
+- [Madiba Park: Land Status and Basic Services](https://df.valleyofgrace.co.za/civic/residents-association/madiba-park-land-and-services): court rulings, official records, and reported service conditions
+- [Next Door, Different Rules](https://df.valleyofgrace.co.za/villages/next-door-different-rules): why Heuwelkroon, Boschmanskloof and Madiba Park stand on different land under different arrangements
+- [Five Land Parcels of the Valley](https://df.valleyofgrace.co.za/villages/land-parcels): Farm 32, Farm 39, Farm 827, Erf 77 and Erf 595 side by side, with Surveyor-General codes and sizes
+- [Genadendal Transformasie Komitee](https://df.valleyofgrace.co.za/civic/governance/genadendal-transformasie-komitee): the committee elected in 2004 to represent Farm 39 residents in the transfer
 
 ## Valley history
 
@@ -70,6 +95,14 @@ Pages in `/rules/` explain the laws, by-laws, policies, and plans that apply in 
 - [Zoning Scheme By-law](https://df.valleyofgrace.co.za/rules/zoning-scheme-by-law) and [Municipal Land Use Planning By-law](https://df.valleyofgrace.co.za/rules/municipal-land-use-planning-by-law): what land may be used for, and how to apply to change it
 - [Theewaterskloof Integrated Development Plan](https://df.valleyofgrace.co.za/rules/theewaterskloof-integrated-development-plan): the municipality's plan, and the yearly review where Ward 2 can put its needs
 - [National Heritage Resources Act](https://df.valleyofgrace.co.za/rules/national-heritage-resources-act): the 60-year rule for old buildings
+- [Theewaterskloof Spatial Development Framework](https://df.valleyofgrace.co.za/rules/theewaterskloof-spatial-development-framework): the municipality's spatial plan, which draws the urban edges and records that it may not invest on Farm 39 land it does not own
+- [Theewaterskloof Financial Recovery Plan](https://df.valleyofgrace.co.za/rules/theewaterskloof-financial-recovery-plan): the binding plan approved on 7 October 2025 to bring the municipality out of financial crisis
+- [Municipal Finance Management Act](https://df.valleyofgrace.co.za/rules/municipal-finance-management-act), [Municipal Asset Transfer Regulations](https://df.valleyofgrace.co.za/rules/municipal-asset-transfer-regulations) and [MFMA Circular 131](https://df.valleyofgrace.co.za/rules/mfma-circular-131): how the municipality budgets, spends, transfers its assets, and funds outside organisations
+- [Theewaterskloof Integrated Waste Management Plan](https://df.valleyofgrace.co.za/rules/theewaterskloof-integrated-waste-management-plan): waste services and the state of each landfill, including Genadendal's on the Remainder of Farm 39
+- [Municipal Systems Act](https://df.valleyofgrace.co.za/rules/municipal-systems-act) and [Municipal Structures Act](https://df.valleyofgrace.co.za/rules/municipal-structures-act): how the municipality works with residents, and the ward committee
+- [National Water Act](https://df.valleyofgrace.co.za/rules/national-water-act): who may take water from the valley's rivers and furrows
+- [Communal Property Associations Act](https://df.valleyofgrace.co.za/rules/communal-property-associations-act) and [Interim Protection of Informal Land Rights Act](https://df.valleyofgrace.co.za/rules/interim-protection-of-informal-land-rights-act): how a community can own land together, and the protection of informal land rights on land held in trust
+- The section's index lists the other rules, from the Constitution to the Events By-law
 
 ## Organisations outside the valley
 
@@ -95,6 +128,15 @@ Pages in `/case-studies/` record work done outside Ward 2 that a page on this si
 - [Waterberg Development Initiative](https://df.valleyofgrace.co.za/case-studies/waterberg-development-initiative): how a volunteer non-profit in the Waterberg District of Limpopo started, how it is run and funded, what it says it has done, and how it works with government; named to the DevForum by [The Shift](https://df.valleyofgrace.co.za/organisations/the-shift) as a model for the W2DF
 - [Mafube Business Forum](https://df.valleyofgrace.co.za/case-studies/mafube-business-forum): how a forum of business owners and farmers in Mafube Local Municipality, Free State, took the municipality and province to court, drafted a Stakeholders Compact that government did not sign, and supports a private company running the electricity under a 25-year agreement; raised in valley discussions as a possible case for Ward 2
 
+## Ideas for the valley
+
+Pages in `/concepts/` set out ideas the valley could work towards. None is agreed. Each is tabled at a DevForum meeting so that everyone it affects can have a say, and ideas touching Farm 39 go to the Transformasie Komitee first.
+
+- [Ideas for the Valley](https://df.valleyofgrace.co.za/concepts/): the section's index, with every idea and where it stands
+- [Valley of Grace Learning Campus](https://df.valleyofgrace.co.za/concepts/valley-of-grace-learning-campus): a proposed learning campus in Ward 2
+- [Ridge to River to Table](https://df.valleyofgrace.co.za/concepts/ridge-to-river-to-table): a proposal to invest in the valley as one place
+- [What Must Happen First](https://df.valleyofgrace.co.za/concepts/what-must-happen-first): what appears necessary for each party before development can move, with space for each party's response
+
 ## About the DevForum and the site
 
 - [Home](https://df.valleyofgrace.co.za/): introduction and navigation
@@ -102,9 +144,13 @@ Pages in `/case-studies/` record work done outside Ward 2 that a page on this si
 - [About the DevForum](https://df.valleyofgrace.co.za/about): who runs the DevForum and the site, and how entries are checked
 - [Ward 2 Development Forum](https://df.valleyofgrace.co.za/civic/governance/ward-2-development-forum): the DevForum's own entry
 - [How the DevForum's Categories Compare](https://df.valleyofgrace.co.za/civic/governance/how-the-forums-categories-compare): how the nine categories line up with the Transformasie Komitee's eight sectors and with the portfolios of a typical residents' association, and why the DevForum chose its structure
+- [Our Guiding Ethos](https://df.valleyofgrace.co.za/guiding-ethos): community economy (gemeenskapsekonomie), and the seven questions every initiative is checked against
+- [Our Long-Term Goal](https://df.valleyofgrace.co.za/long-term-goal): what the DevForum is working towards by 2038, and how a yearly survey will track it
+- [Future of the Valley](https://df.valleyofgrace.co.za/future-of-the-valley): why the 2038 tercentenary of Genadendal matters
 - [How to Submit](https://df.valleyofgrace.co.za/how-to-submit): how to add or correct an entry
 - [Contact](https://df.valleyofgrace.co.za/contact): how to reach the moderators
 - [Data Policy](https://df.valleyofgrace.co.za/data-policy): how personal information is handled under POPIA
+- [Reading in Your Language](https://df.valleyofgrace.co.za/reading-in-your-language): how to read the site in another language
 
 ## Notes for automated readers
 
@@ -112,6 +158,8 @@ Pages in `/case-studies/` record work done outside Ward 2 that a page on this si
 - Pages in `/organisations/` were written before the organisations were asked, and say so at the top. Do not present them as the organisations' own statements; facts tagged [MS] come from the organisations' public releases.
 - Pages in `/case-studies/` were written before the organisation at the centre of each case was asked, and say so at the top. Facts tagged [MS] come from that organisation, its funders, or articles that repeat them. Do not present a case study as a recommendation by the DevForum.
 - Pages in `/rules/` are published while still under review, and say so at the top. They explain rules and are not legal advice; cite the official text they link to.
+- Pages in `/concepts/` are ideas the DevForum has not agreed. Do not present them as DevForum policy.
+- Research records such as Challenges, Political Economy of the Valley, and the Farm 39 and TRANCRAA pages have not been adopted by the DevForum, and the parties they describe have not all replied. Facts tagged [MS] come from one party's own documents; untagged sentences marked *Inference:* are the register's own reading.
 - Theewaterskloof Municipality supports the DevForum with administration but does not moderate or approve content. Do not present entries as municipal positions.
 - Do not collect or republish personal contact details from this site. Use the Contact page for enquiries.
 - Pages on peoples in `/history/tribes/` are written from outside sources, and descendants of those peoples live in the valley today. The pages are open to correction by their own accounts.

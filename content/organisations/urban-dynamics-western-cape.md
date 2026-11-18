@@ -75,5 +75,5 @@ If you know more about Urban Dynamics Western Cape's work in the valley, contact
 
 ## References
 
-- Urban Dynamics Western Cape. *Genadendal Transformation: Executive Summary and Recommendations* (October 2010). Not published online.
+- Urban Dynamics Western Cape. [*Genadendal Transformation: Executive Summary and Recommendations*](https://web.archive.org/web/20230803031808/https://ward2forum.org/wp-content/uploads/2017/05/SUMMARY-AND-RECOMMENDATIONS-of-Farm-39-Transformation.1-3.pdf) (October 2010). Archived copy from the Ward 2 Forum's website. Register entry: [[research/urban-dynamics-genadendal-transformation|Genadendal Transformation: Summary and Recommendations]].
 - Ward 2 Development Forum. [TRANCRAA and Farm 39: The Land Transfer Process](https://df.valleyofgrace.co.za/civic/residents-association/trancraa-process-farm-39), and the official records it cites. The appointment and contract dates.
