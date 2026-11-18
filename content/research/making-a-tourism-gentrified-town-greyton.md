@@ -1,12 +1,12 @@
 ---
 title: "Making a Tourism Gentrified Town: Greyton"
-description: "A journal article by R. Donaldson (2009) in Geography on tourism and gentrification in Greyton. Cited on 4 pages of the register."
+description: A journal article by R. Donaldson (2009) in Geography on tourism and gentrification in Greyton. Cited on 4 pages of the register.
 type: source
 source_kind: Journal article
-author: "R. Donaldson"
+author: R. Donaldson
 year: 2009
 field: Society and governance
-read: "yes"
+read: yes
 tags:
   - lang/en
 date: 2026-11-04
@@ -17,8 +17,8 @@ links:
 cited_on:
   - "[[civic/residents-association/farm-39-and-the-devforums-priorities|What the Farm 39 Wait Means for the DevForum's Priorities]]"
   - "[[civic/residents-association/farm-39-and-the-valley-economy|Is the Wait for Farm 39 Holding Back the Valley's Economy?]]"
-  - "[[guiding-ethos|Our Guiding Ethos]]"
   - "[[history/history-of-greyton|History of Greyton]]"
+  - "[[priorities/how-ethos-shapes-priority|How the Ethos Shapes Each Priority]]"
 updated: 2026-11-18
 ---
 
@@ -35,8 +35,8 @@ updated: 2026-11-18
 
 - [[civic/residents-association/farm-39-and-the-devforums-priorities|What the Farm 39 Wait Means for the DevForum's Priorities]]
 - [[civic/residents-association/farm-39-and-the-valley-economy|Is the Wait for Farm 39 Holding Back the Valley's Economy?]]
-- [[guiding-ethos|Our Guiding Ethos]]
 - [[history/history-of-greyton|History of Greyton]]
+- [[priorities/how-ethos-shapes-priority|How the Ethos Shapes Each Priority]]
 
 ## Related
 

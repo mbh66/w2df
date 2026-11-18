@@ -144,7 +144,8 @@ Pages in `/concepts/` set out ideas the valley could work towards. None is agree
 - [About the DevForum](https://df.valleyofgrace.co.za/about): who runs the DevForum and the site, and how entries are checked
 - [Ward 2 Development Forum](https://df.valleyofgrace.co.za/civic/governance/ward-2-development-forum): the DevForum's own entry
 - [How the DevForum's Categories Compare](https://df.valleyofgrace.co.za/civic/governance/how-the-forums-categories-compare): how the nine categories line up with the Transformasie Komitee's eight sectors and with the portfolios of a typical residents' association, and why the DevForum chose its structure
-- [Our Guiding Ethos](https://df.valleyofgrace.co.za/guiding-ethos): community economy (gemeenskapsekonomie), and the seven questions every initiative is checked against
+- [Our Guiding Ethos](https://df.valleyofgrace.co.za/guiding-ethos): community economy (gemeenskapsekonomie), the valley as a place where visitors can see it working and take part, and the eight questions every initiative is checked against
+- [How the Ethos Shapes Each Priority](https://df.valleyofgrace.co.za/priorities/how-ethos-shapes-priority): each of the five priorities paired with one idea from the ethos, what a visitor could find, and the tests its champion uses
 - [Our Long-Term Goal](https://df.valleyofgrace.co.za/long-term-goal): what the DevForum is working towards by 2038, and how a yearly survey will track it
 - [Future of the Valley](https://df.valleyofgrace.co.za/future-of-the-valley): why the 2038 tercentenary of Genadendal matters
 - [How to Submit](https://df.valleyofgrace.co.za/how-to-submit): how to add or correct an entry

@@ -7,6 +7,8 @@ date: 2026-09-22
 
 The DevForum agreed five priorities at its [[2026-09-16-inaugural-meeting|first meeting]]. Each will have a champion, to be named at the November 2026 meeting, when the order of the priorities will also be confirmed. Work on a priority can sit in more than one category. Each priority has its own page, which lists the initiatives working on it.
 
+Each priority is also paired with one idea from [[guiding-ethos|Our Guiding Ethos]], with tests of its own and a note on what a visitor could find. [[priorities/how-ethos-shapes-priority|How the Ethos Shapes Each Priority]] sets them out.
+
 ## [[priorities/tourism-development|Tourism Development]]
 Found in [[economic/tourism/index|Tourism]], [[cultural/sport-heritage-arts-culture/index|Sport, Heritage, Arts & Culture]], and [[economic/farmers-land-water/index|Farmers, Land & Water]].
 

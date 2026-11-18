@@ -1,12 +1,12 @@
 ---
-title: "Invasive Alien Plants and Water Flows in South Africa"
-description: "A journal article by D.C. Le Maitre and others (2016) on how invasive plants reduce water flows. Cited on 2 pages of the register."
+title: Invasive Alien Plants and Water Flows in South Africa
+description: A journal article by D.C. Le Maitre and others (2016) on how invasive plants reduce water flows. Cited on 3 pages of the register.
 type: source
 source_kind: Journal article
-author: "D.C. Le Maitre and others"
+author: D.C. Le Maitre and others
 year: 2016
 field: Water and environment
-read: "yes"
+read: yes
 tags:
   - theme/water
   - theme/environment
@@ -18,7 +18,8 @@ links:
 cited_on:
   - "[[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]]"
   - "[[concepts/provincial-pipeline|Provincial Pipeline]]"
-updated: 2026-11-04
+  - "[[priorities/how-ethos-shapes-priority|How the Ethos Shapes Each Priority]]"
+updated: 2026-11-18
 ---
 
 *Invasive Alien Plants and Water Flows in South Africa* is a journal article by D.C. Le Maitre and others (2016), on how invasive plants reduce water flows. This page records how the register cites it and which pages use it. It is part of the [[research/index|Research Register]].
@@ -31,6 +32,7 @@ updated: 2026-11-04
 
 - [[concepts/from-water-access-to-water-agency|From Water Access to Water Agency]]
 - [[concepts/provincial-pipeline|Provincial Pipeline]]
+- [[priorities/how-ethos-shapes-priority|How the Ethos Shapes Each Priority]]
 
 ## Related
 
